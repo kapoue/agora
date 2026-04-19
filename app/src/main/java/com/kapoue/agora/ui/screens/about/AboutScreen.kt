@@ -23,6 +23,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.kapoue.agora.ui.theme.AgoraBackground
 import com.kapoue.agora.ui.theme.AgoraGold
+import com.kapoue.agora.ui.theme.AgoraGoldLight
 import com.kapoue.agora.ui.theme.AgoraStone
 import com.kapoue.agora.ui.theme.CinzelFamily
 import com.kapoue.agora.ui.theme.LatoFamily
@@ -82,16 +83,45 @@ fun AboutScreen(
             Text(
                 text = "Version 1.0.0",
                 fontFamily = LatoFamily,
-                fontWeight = FontWeight.Normal,
+                fontWeight = FontWeight.Bold,
                 fontSize = 14.sp,
                 color = AgoraStone,
                 textAlign = TextAlign.Center
             )
 
-            Spacer(modifier = Modifier.height(12.dp))
+            Spacer(modifier = Modifier.height(24.dp))
 
             Text(
-                text = "Questions : Open Trivia Database",
+                text = "Code source",
+                fontFamily = LatoFamily,
+                fontWeight = FontWeight.Bold,
+                fontSize = 12.sp,
+                color = AgoraStone,
+                textAlign = TextAlign.Center
+            )
+
+            Spacer(modifier = Modifier.height(4.dp))
+
+            Text(
+                text = "github.com/kapoue/agora",
+                fontFamily = LatoFamily,
+                fontWeight = FontWeight.Normal,
+                fontSize = 12.sp,
+                color = AgoraGoldLight,
+                textAlign = TextAlign.Center,
+                style = androidx.compose.ui.text.TextStyle(
+                    fontFamily = LatoFamily,
+                    fontSize = 12.sp,
+                    color = AgoraGoldLight,
+                    textAlign = TextAlign.Center,
+                    textDecoration = androidx.compose.ui.text.style.TextDecoration.Underline
+                )
+            )
+
+            Spacer(modifier = Modifier.height(24.dp))
+
+            Text(
+                text = "Questions : Gemini AI (Google)",
                 fontFamily = LatoFamily,
                 fontWeight = FontWeight.Normal,
                 fontSize = 12.sp,
@@ -102,7 +132,7 @@ fun AboutScreen(
             Spacer(modifier = Modifier.height(4.dp))
 
             Text(
-                text = "Photos : Unsplash",
+                text = "Photos : Unsplash · Pexels · Pixabay",
                 fontFamily = LatoFamily,
                 fontWeight = FontWeight.Normal,
                 fontSize = 12.sp,
