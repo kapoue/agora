@@ -1,7 +1,7 @@
 package com.kapoue.agora.ui.screens.home
 
 import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
@@ -43,7 +43,7 @@ fun HomeScreen(
 ) {
     val themeImages by viewModel.themeImages.collectAsState()
 
-    Box(
+    Column(
         modifier = Modifier
             .fillMaxSize()
             .background(AgoraBackground)
@@ -79,7 +79,7 @@ fun HomeScreen(
             contentPadding = PaddingValues(
                 start = 16.dp,
                 end = 16.dp,
-                top = 64.dp,
+                top = 4.dp,
                 bottom = 16.dp
             ),
             verticalArrangement = Arrangement.spacedBy(12.dp),
