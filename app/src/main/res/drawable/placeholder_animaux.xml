@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Empreinte de patte -->
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M50,45 m-15,0 a15,18 0 1,0 30,0 a15,18 0 1,0 -30,0 Z" />
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M28,30 m-8,0 a8,9 0 1,0 16,0 a8,9 0 1,0 -16,0 Z" />
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M40,20 m-7,0 a7,8 0 1,0 14,0 a7,8 0 1,0 -14,0 Z" />
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M60,20 m-7,0 a7,8 0 1,0 14,0 a7,8 0 1,0 -14,0 Z" />
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M72,30 m-8,0 a8,9 0 1,0 16,0 a8,9 0 1,0 -16,0 Z" />
+</vector>

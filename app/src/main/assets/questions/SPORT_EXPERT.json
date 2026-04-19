@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quelle était la récompense pour le vainqueur d'une épreuve aux Jeux Olympiques antiques ?",
+    "correct_answer": "Une couronne d'olivier",
+    "incorrect_answers": [
+      "Une statue en or",
+      "Des terres arables",
+      "Une somme d'argent conséquente"
+    ]
+  },
+  {
+    "question": "Quel athlète a détenu le record du monde du 400 mètres haies masculin pendant près de 29 ans, établi en 1992 ?",
+    "correct_answer": "Kevin Young",
+    "incorrect_answers": [
+      "Edwin Moses",
+      "Harald Schmid",
+      "Andre Phillips"
+    ]
+  },
+  {
+    "question": "Quelle est la seule course cycliste 'Monument' à avoir lieu entièrement en France ?",
+    "correct_answer": "Paris-Roubaix",
+    "incorrect_answers": [
+      "Liège-Bastogne-Liège",
+      "Tour des Flandres",
+      "Milan-San Remo"
+    ]
+  },
+  {
+    "question": "Au biathlon, quelle est la durée d'un tour de pénalité supplémentaire sur l'anneau pour chaque cible manquée en poursuite ?",
+    "correct_answer": "150 mètres",
+    "incorrect_answers": [
+      "50 mètres",
+      "100 mètres",
+      "200 mètres"
+    ]
+  },
+  {
+    "question": "Quelle gymnaste est la seule à avoir remporté la médaille d'or aux JO dans les quatre épreuves individuelles lors d'une même édition ?",
+    "correct_answer": "Larisa Latynina",
+    "incorrect_answers": [
+      "Nadia Comăneci",
+      "Věra Čáslavská",
+      "Olga Korbut"
+    ]
+  },
+  {
+    "question": "Quel boxeur est le seul à avoir été champion du monde dans huit catégories de poids différentes ?",
+    "correct_answer": "Manny Pacquiao",
+    "incorrect_answers": [
+      "Floyd Mayweather Jr.",
+      "Oscar De La Hoya",
+      "Canelo Álvarez"
+    ]
+  },
+  {
+    "question": "Au basketball FIBA, quelle est la durée maximale pour faire passer le ballon de la zone arrière à la zone avant ?",
+    "correct_answer": "8 secondes",
+    "incorrect_answers": [
+      "5 secondes",
+      "10 secondes",
+      "12 secondes"
+    ]
+  },
+  {
+    "question": "Quelle ville est la seule à avoir accueilli les Jeux Olympiques d'été à trois reprises ?",
+    "correct_answer": "Londres",
+    "incorrect_answers": [
+      "Paris",
+      "Los Angeles",
+      "Athènes"
+    ]
+  },
+  {
+    "question": "Quel pilote détient le record du plus grand nombre de championnats du monde de F1 remportés consécutivement ?",
+    "correct_answer": "Michael Schumacher (5 titres)",
+    "incorrect_answers": [
+      "Lewis Hamilton (4 titres)",
+      "Juan Manuel Fangio (4 titres)",
+      "Sebastian Vettel (4 titres)"
+    ]
+  },
+  {
+    "question": "Quel nageur a été le premier à franchir la barre des 47 secondes sur 100 mètres nage libre ?",
+    "correct_answer": "César Cielo Filho",
+    "incorrect_answers": [
+      "Alain Bernard",
+      "Eamon Sullivan",
+      "Frederick Bousquet"
+    ]
+  },
+  {
+    "question": "Au rugby à XV, dans quelles circonstances un 'drop-goal' peut-il être tenté ?",
+    "correct_answer": "À tout moment pendant le jeu ouvert",
+    "incorrect_answers": [
+      "Uniquement après une mêlée",
+      "Seulement après une pénalité",
+      "Seulement lors d'un renvoi aux 22 mètres"
+    ]
+  },
+  {
+    "question": "Quel joueur de tennis masculin est le seul à avoir remporté au moins deux titres du Grand Chelem sur chaque surface (terre battue, herbe, dur) ?",
+    "correct_answer": "Rafael Nadal",
+    "incorrect_answers": [
+      "Roger Federer",
+      "Novak Djokovic",
+      "Rod Laver"
+    ]
+  },
+  {
+    "question": "Quelle est l'arme d'escrime introduite en dernier aux Jeux Olympiques ?",
+    "correct_answer": "Le sabre féminin",
+    "incorrect_answers": [
+      "L'épée masculine",
+      "Le fleuret féminin",
+      "Le sabre masculin"
+    ]
+  },
+  {
+    "question": "En football, quelle est la sanction pour un joueur retirant son maillot après avoir marqué un but ?",
+    "correct_answer": "Avertissement (carton jaune)",
+    "incorrect_answers": [
+      "Coup franc indirect",
+      "Expulsion (carton rouge)",
+      "Pénalty"
+    ]
+  },
+  {
+    "question": "Quelle année a marqué la première participation d'un athlète avec un handicap aux Jeux Olympiques (hors Paralympiques) ?",
+    "correct_answer": "1904",
+    "incorrect_answers": [
+      "1948",
+      "1960",
+      "1984"
+    ]
+  },
+  {
+    "question": "Quel skieur alpin est le seul homme à avoir remporté des médailles d'or olympiques dans toutes les disciplines (descente, super-G, géant, slalom, combiné) ?",
+    "correct_answer": "Personne n'a réussi cet exploit",
+    "incorrect_answers": [
+      "Kjetil André Aamodt",
+      "Hermann Maier",
+      "Bode Miller"
+    ]
+  },
+  {
+    "question": "Au curling, comment s'appelle la règle empêchant de frapper les pierres adverses dans la zone de garde avant un certain nombre de pierres jouées ?",
+    "correct_answer": "La règle du \"free guard zone\"",
+    "incorrect_answers": [
+      "La règle du \"no touch zone\"",
+      "La règle de la \"safe zone\"",
+      "La règle du \"protected zone\""
+    ]
+  },
+  {
+    "question": "Qui a été le premier grimpeur à réussir l'ascension de tous les quatorze 8000 mètres sans oxygène supplémentaire ?",
+    "correct_answer": "Reinhold Messner",
+    "incorrect_answers": [
+      "Jerzy Kukuczka",
+      "Gerlinde Kaltenbrunner",
+      "Simone Moro"
+    ]
+  },
+  {
+    "question": "Quelle équipe a remporté la première Série mondiale de l'ère moderne en 1903 ?",
+    "correct_answer": "Boston Americans",
+    "incorrect_answers": [
+      "New York Giants",
+      "Pittsburgh Pirates",
+      "St. Louis Cardinals"
+    ]
+  },
+  {
+    "question": "Quel cycliste détient le record du plus grand nombre de titres mondiaux en cyclisme sur piste masculin ?",
+    "correct_answer": "Harrie Lavreysen",
+    "incorrect_answers": [
+      "Chris Hoy",
+      "Arnaud Tournant",
+      "François Pervis"
+    ]
+  },
+  {
+    "question": "Quelle nation a dominé le tableau des médailles en aviron lors des Jeux Olympiques d'Athènes en 2004 ?",
+    "correct_answer": "Roumanie",
+    "incorrect_answers": [
+      "Allemagne",
+      "Grande-Bretagne",
+      "États-Unis"
+    ]
+  },
+  {
+    "question": "En lutte gréco-romaine, quelle technique consiste à faire décoller le corps de l'adversaire du tapis pour le projeter ?",
+    "correct_answer": "Le \"suplex\"",
+    "incorrect_answers": [
+      "La \"prise de l'ours\"",
+      "Le \"nelson\"",
+      "Le \"pont\""
+    ]
+  },
+  {
+    "question": "Quel plongeur est le seul à avoir remporté 4 médailles d'or olympiques en plongeon individuel ?",
+    "correct_answer": "Greg Louganis",
+    "incorrect_answers": [
+      "Guo Jingjing",
+      "Fu Mingxia",
+      "Tian Liang"
+    ]
+  },
+  {
+    "question": "Quel était le nom du stade où se déroulaient les épreuves de course aux Jeux Olympiques antiques à Olympie ?",
+    "correct_answer": "Le Stade d'Olympie",
+    "incorrect_answers": [
+      "Le Panathénaïque",
+      "Le Drome",
+      "Le Pnyx"
+    ]
+  },
+  {
+    "question": "Quelle équipe détient le record du plus grand nombre de victoires au Super Bowl ?",
+    "correct_answer": "New England Patriots et Pittsburgh Steelers",
+    "incorrect_answers": [
+      "Dallas Cowboys",
+      "San Francisco 49ers",
+      "Green Bay Packers"
+    ]
+  },
+  {
+    "question": "Quel athlète détient le record du monde du triple saut masculin depuis 1995 ?",
+    "correct_answer": "Jonathan Edwards",
+    "incorrect_answers": [
+      "Christian Taylor",
+      "Kenny Harrison",
+      "Pedro Pichardo"
+    ]
+  },
+  {
+    "question": "Quelle nation a remporté la première médaille d'or olympique de handball (à 7 joueurs) masculin en 1972 ?",
+    "correct_answer": "Yougoslavie",
+    "incorrect_answers": [
+      "Union Soviétique",
+      "Roumanie",
+      "Allemagne de l'Est"
+    ]
+  },
+  {
+    "question": "Quelle est la limite numérique stricte de tentatives de sauts quadruples dans un programme libre masculin de patinage artistique ?",
+    "correct_answer": "Il n'y a pas de limite numérique stricte.",
+    "incorrect_answers": [
+      "Deux",
+      "Trois",
+      "Quatre"
+    ]
+  },
+  {
+    "question": "Quelle est la seule discipline équestre olympique où les deux sexes s'affrontent sans distinction dans les mêmes épreuves ?",
+    "correct_answer": "Toutes les disciplines équestres olympiques",
+    "incorrect_answers": [
+      "Le saut d'obstacles",
+      "Le dressage",
+      "Le concours complet"
+    ]
+  },
+  {
+    "question": "Quel pays est considéré comme le berceau du water-polo moderne ?",
+    "correct_answer": "Écosse",
+    "incorrect_answers": [
+      "Angleterre",
+      "Hongrie",
+      "États-Unis"
+    ]
+  }
+]

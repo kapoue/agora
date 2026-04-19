@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel mouvement artistique est principalement associé à la déconstruction des formes et à la représentation d'objets sous de multiples angles simultanément ?",
+    "correct_answer": "Le Cubisme",
+    "incorrect_answers": [
+      "Le Futurisme",
+      "Le Fauvisme",
+      "Le Surréalisme"
+    ]
+  },
+  {
+    "question": "Quel artiste de la Renaissance hollandaise est célèbre pour ses autoportraits profonds et son utilisation magistrale du clair-obscur ?",
+    "correct_answer": "Rembrandt van Rijn",
+    "incorrect_answers": [
+      "Johannes Vermeer",
+      "Pieter Bruegel l'Ancien",
+      "Jan van Eyck"
+    ]
+  },
+  {
+    "question": "La Joconde (ou Monna Lisa), chef-d'œuvre de Léonard de Vinci, est un portrait emblématique exposé dans quel célèbre musée ?",
+    "correct_answer": "Le musée du Louvre",
+    "incorrect_answers": [
+      "Le musée d'Orsay",
+      "Les Offices",
+      "Le Metropolitan Museum of Art"
+    ]
+  },
+  {
+    "question": "Quel architecte catalan est mondialement reconnu pour ses œuvres modernistes et inachevées, dont la Sagrada Familia à Barcelone ?",
+    "correct_answer": "Antoni Gaudí",
+    "incorrect_answers": [
+      "Santiago Calatrava",
+      "Ricardo Bofill",
+      "Frank Gehry"
+    ]
+  },
+  {
+    "question": "Quel mouvement artistique du début du 20e siècle s'est inspiré des théories psychanalytiques pour explorer l'inconscient et les rêves ?",
+    "correct_answer": "Le Surréalisme",
+    "incorrect_answers": [
+      "L'Expressionnisme",
+      "Le Dadaïsme",
+      "Le Constructivisme"
+    ]
+  },
+  {
+    "question": "Quelle est l'œuvre sculpturale majeure de Michel-Ange représentant le héros biblique avant son affrontement avec le géant Goliath ?",
+    "correct_answer": "David",
+    "incorrect_answers": [
+      "La Piéta",
+      "Moïse",
+      "Le Bacchus"
+    ]
+  },
+  {
+    "question": "Dans quelle ville se trouve la Galerie des Offices, l'un des plus anciens et célèbres musées d'art du monde, avec une collection Renaissance ?",
+    "correct_answer": "Florence",
+    "incorrect_answers": [
+      "Rome",
+      "Venise",
+      "Milan"
+    ]
+  },
+  {
+    "question": "Quel peintre impressionniste français est mondialement connu pour ses séries de tableaux représentant des nénuphars et des paysages aquatiques ?",
+    "correct_answer": "Claude Monet",
+    "incorrect_answers": [
+      "Pierre-Auguste Renoir",
+      "Edgar Degas",
+      "Alfred Sisley"
+    ]
+  },
+  {
+    "question": "Quelle technique de peinture murale consiste à appliquer des pigments sur un enduit de plâtre encore frais, assurant une grande durabilité ?",
+    "correct_answer": "La fresque",
+    "incorrect_answers": [
+      "Le Sfumato",
+      "Le Tenebrisme",
+      "Le Chiaroscuro"
+    ]
+  },
+  {
+    "question": "Le Panthéon de Rome, avec son immense coupole ouverte en son centre, est un exemple emblématique de l'architecture de quelle période ?",
+    "correct_answer": "La Rome antique",
+    "incorrect_answers": [
+      "La Renaissance",
+      "Le Baroque",
+      "Le Néoclassicisme"
+    ]
+  },
+  {
+    "question": "Quelle artiste mexicaine est célèbre pour ses autoportraits intenses, souvent marqués par la douleur et les symboles de sa culture ?",
+    "correct_answer": "Frida Kahlo",
+    "incorrect_answers": [
+      "María Izquierdo",
+      "Leonora Carrington",
+      "Remedios Varo"
+    ]
+  },
+  {
+    "question": "Quel mouvement artistique américain des années 1960 s'est inspiré de la culture populaire, de la publicité et des objets du quotidien ?",
+    "correct_answer": "Le Pop Art",
+    "incorrect_answers": [
+      "L'Art informel",
+      "Le Minimalisme",
+      "L'Op Art"
+    ]
+  },
+  {
+    "question": "Quel sculpteur français est l'auteur de l'œuvre emblématique 'Le Penseur', une figure masculine en pleine méditation ?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": [
+      "Camille Claudel",
+      "Antoine Bourdelle",
+      "Aristide Maillol"
+    ]
+  },
+  {
+    "question": "Quel musée, situé à New York, est une référence mondiale pour l'art moderne et contemporain, abritant des œuvres comme 'La Nuit étoilée' ?",
+    "correct_answer": "MoMA",
+    "incorrect_answers": [
+      "Le Guggenheim Museum",
+      "Le Whitney Museum",
+      "Le Metropolitan Museum of Art"
+    ]
+  },
+  {
+    "question": "Quel peintre flamand est considéré comme l'un des inventeurs de la peinture à l'huile et est célèbre pour 'Le Portrait des Arnolfini' ?",
+    "correct_answer": "Jan van Eyck",
+    "incorrect_answers": [
+      "Rogier van der Weyden",
+      "Hans Memling",
+      "Hugo van der Goes"
+    ]
+  },
+  {
+    "question": "Dans quelle ville européenne se trouve le Rijksmuseum, célèbre pour sa collection de maîtres hollandais, dont 'La Ronde de nuit' de Rembrandt ?",
+    "correct_answer": "Amsterdam",
+    "incorrect_answers": [
+      "Bruxelles",
+      "La Haye",
+      "Rotterdam"
+    ]
+  },
+  {
+    "question": "Quel style architectural et décoratif du XVIIIe siècle est caractérisé par une profusion d'ornements asymétriques, de courbes et de couleurs pastel ?",
+    "correct_answer": "Le Rococo",
+    "incorrect_answers": [
+      "Le Baroque",
+      "Le Néoclassicisme",
+      "L'Art Nouveau"
+    ]
+  },
+  {
+    "question": "L'artiste britannique Banksy est principalement connu pour ses œuvres anonymes et engagées réalisées sous quelle forme artistique ?",
+    "correct_answer": "Le street art",
+    "incorrect_answers": [
+      "Le land art",
+      "L'art conceptuel",
+      "La performance"
+    ]
+  },
+  {
+    "question": "Quel peintre italien de la Première Renaissance est l'auteur de 'La Naissance de Vénus' et 'Le Printemps', deux icônes de la mythologie ?",
+    "correct_answer": "Sandro Botticelli",
+    "incorrect_answers": [
+      "Masaccio",
+      "Fra Angelico",
+      "Piero della Francesca"
+    ]
+  },
+  {
+    "question": "L'architecte Le Corbusier est une figure majeure de quel courant architectural qui a révolutionné la conception des bâtiments au 20e siècle ?",
+    "correct_answer": "Le Modernisme",
+    "incorrect_answers": [
+      "L'Art Déco",
+      "Le Brutalisme",
+      "Le Postmodernisme"
+    ]
+  },
+  {
+    "question": "L'œuvre 'Le Cri', avec sa figure angoissée et ses couleurs tourbillonnantes, est l'emblème de quel peintre expressionniste ?",
+    "correct_answer": "Edvard Munch",
+    "incorrect_answers": [
+      "Egon Schiele",
+      "Ernst Ludwig Kirchner",
+      "Franz Marc"
+    ]
+  },
+  {
+    "question": "Quel musée parisien, installé dans une ancienne gare, est dédié à l'art du XIXe siècle, notamment l'Impressionnisme et le Post-impressionnisme ?",
+    "correct_answer": "Le musée d'Orsay",
+    "incorrect_answers": [
+      "Le Centre Pompidou",
+      "Le Grand Palais",
+      "Le musée Marmottan Monet"
+    ]
+  },
+  {
+    "question": "Le procédé du 'sfumato', cette technique picturale créant des contours estompés et un doux passage des couleurs, est associé à quel maître ?",
+    "correct_answer": "Léonard de Vinci",
+    "incorrect_answers": [
+      "Raphaël",
+      "Titien",
+      "Giorgione"
+    ]
+  },
+  {
+    "question": "Quelle œuvre architecturale de Frank Lloyd Wright est célèbre pour son intégration harmonieuse dans la nature, au-dessus d'une cascade ?",
+    "correct_answer": "Fallingwater (Maison sur la cascade)",
+    "incorrect_answers": [
+      "Le Guggenheim Museum (New York)",
+      "La Robie House",
+      "Le Johnson Wax Headquarters"
+    ]
+  },
+  {
+    "question": "Quel peintre hollandais est célèbre pour ses scènes intimes de la vie quotidienne et sa maîtrise exceptionnelle de la lumière, comme dans 'La Laitière' ?",
+    "correct_answer": "Johannes Vermeer",
+    "incorrect_answers": [
+      "Frans Hals",
+      "Jacob van Ruisdael",
+      "Jan Steen"
+    ]
+  },
+  {
+    "question": "Quel mouvement artistique des années 1960-70 cherchait à réduire l'art à ses éléments essentiels, souvent par l'utilisation de formes géométriques simples ?",
+    "correct_answer": "Le Minimalisme",
+    "incorrect_answers": [
+      "L'Art conceptuel",
+      "Le Pop Art",
+      "L'Op Art"
+    ]
+  },
+  {
+    "question": "Le 'Jardin des délices', un triptyque complexe et énigmatique dépeignant l'humanité, est l'œuvre emblématique de quel peintre flamand ?",
+    "correct_answer": "Jérôme Bosch",
+    "incorrect_answers": [
+      "Pieter Bruegel l'Ancien",
+      "Hans Holbein le Jeune",
+      "Albrecht Dürer"
+    ]
+  },
+  {
+    "question": "Quel bâtiment iconique, avec ses toits en forme de voiles ou de coquillages, est l'emblème de Sydney et de l'architecture moderniste ?",
+    "correct_answer": "L'Opéra de Sydney",
+    "incorrect_answers": [
+      "Le Harbour Bridge",
+      "La Tour de Sydney",
+      "Le Queen Victoria Building"
+    ]
+  },
+  {
+    "question": "Quelle peintre baroque italienne est reconnue pour ses toiles puissantes et dramatiques, souvent des scènes bibliques ou mythologiques de femmes fortes ?",
+    "correct_answer": "Artemisia Gentileschi",
+    "incorrect_answers": [
+      "Elisabetta Sirani",
+      "Clara Peeters",
+      "Judith Leyster"
+    ]
+  },
+  {
+    "question": "Le mouvement artistique 'De Stijl', caractérisé par l'abstraction pure et l'utilisation de couleurs primaires, est lié à quel artiste néerlandais ?",
+    "correct_answer": "Piet Mondrian",
+    "incorrect_answers": [
+      "Theo van Doesburg",
+      "Gerrit Rietveld",
+      "Kazimir Malevitch"
+    ]
+  }
+]

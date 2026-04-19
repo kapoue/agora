@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Qui est surnommé le « Roi de la Pop » ?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Elvis Presley",
+      "Prince",
+      "Freddie Mercury"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'instrument à clavier le plus courant, souvent utilisé pour apprendre la musique ?",
+    "correct_answer": "Le piano",
+    "incorrect_answers": [
+      "La guitare",
+      "La batterie",
+      "Le violon"
+    ]
+  },
+  {
+    "question": "De quel genre musical Bob Marley est-il une figure emblématique ?",
+    "correct_answer": "Le reggae",
+    "incorrect_answers": [
+      "Le rock",
+      "Le jazz",
+      "La salsa"
+    ]
+  },
+  {
+    "question": "Quel groupe britannique a sorti l'album « Abbey Road » avec sa célèbre pochette sur un passage piéton ?",
+    "correct_answer": "The Beatles",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "Queen",
+      "Led Zeppelin"
+    ]
+  },
+  {
+    "question": "Quelle chanteuse est connue pour son tube planétaire « Hello » ?",
+    "correct_answer": "Adele",
+    "incorrect_answers": [
+      "Rihanna",
+      "Beyoncé",
+      "Taylor Swift"
+    ]
+  },
+  {
+    "question": "Quel compositeur autrichien a écrit des œuvres célèbres comme « La Flûte enchantée » ou « Une petite musique de nuit » ?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "incorrect_answers": [
+      "Ludwig van Beethoven",
+      "Jean-Sébastien Bach",
+      "Frédéric Chopin"
+    ]
+  },
+  {
+    "question": "Parmi ces instruments, lequel appartient à la famille des cordes frottées ?",
+    "correct_answer": "Le violon",
+    "incorrect_answers": [
+      "La guitare",
+      "La harpe",
+      "Le piano"
+    ]
+  },
+  {
+    "question": "Quel est le titre de l'album de Michael Jackson le plus vendu de tous les temps ?",
+    "correct_answer": "Thriller",
+    "incorrect_answers": [
+      "Bad",
+      "Dangerous",
+      "Off the Wall"
+    ]
+  },
+  {
+    "question": "Quel genre musical est né à la Nouvelle-Orléans et se caractérise par l'improvisation ?",
+    "correct_answer": "Le jazz",
+    "incorrect_answers": [
+      "Le blues",
+      "Le gospel",
+      "Le folk"
+    ]
+  },
+  {
+    "question": "Qui était le chanteur emblématique du groupe Queen ?",
+    "correct_answer": "Freddie Mercury",
+    "incorrect_answers": [
+      "Mick Jagger",
+      "Robert Plant",
+      "John Lennon"
+    ]
+  },
+  {
+    "question": "Quel instrument de musique est composé de fûts, de cymbales et se joue avec des baguettes ?",
+    "correct_answer": "La batterie",
+    "incorrect_answers": [
+      "Le xylophone",
+      "Le tambourin",
+      "Le djembé"
+    ]
+  },
+  {
+    "question": "La « Symphonie n°5 » et la « Lettre à Élise » sont des œuvres célèbres de quel compositeur ?",
+    "correct_answer": "Ludwig van Beethoven",
+    "incorrect_answers": [
+      "Johann Sebastian Bach",
+      "Joseph Haydn",
+      "Franz Schubert"
+    ]
+  },
+  {
+    "question": "Quel groupe de rock britannique est célèbre pour des titres comme « (I Can't Get No) Satisfaction » ?",
+    "correct_answer": "The Rolling Stones",
+    "incorrect_answers": [
+      "The Kinks",
+      "The Who",
+      "Led Zeppelin"
+    ]
+  },
+  {
+    "question": "Quel est l'instrument à vent en cuivre le plus grave, reconnaissable à sa forme en S ?",
+    "correct_answer": "Le tuba",
+    "incorrect_answers": [
+      "La trompette",
+      "Le trombone",
+      "Le cor d'harmonie"
+    ]
+  },
+  {
+    "question": "Quel est le nom du célèbre festival de musique qui s'est déroulé en 1969 aux États-Unis ?",
+    "correct_answer": "Woodstock",
+    "incorrect_answers": [
+      "Glastonbury",
+      "Coachella",
+      "Rock in Rio"
+    ]
+  },
+  {
+    "question": "Qui est la chanteuse américaine surnommée la « Reine de la Pop » ?",
+    "correct_answer": "Madonna",
+    "incorrect_answers": [
+      "Janet Jackson",
+      "Mariah Carey",
+      "Whitney Houston"
+    ]
+  },
+  {
+    "question": "Quel instrument à vent est souvent associé au jazz et est disponible en différentes tailles (alto, ténor) ?",
+    "correct_answer": "Le saxophone",
+    "incorrect_answers": [
+      "La clarinette",
+      "La flûte",
+      "Le hautbois"
+    ]
+  },
+  {
+    "question": "Quel genre musical est caractérisé par des paroles rappées et des rythmes syncopés ?",
+    "correct_answer": "Le hip-hop",
+    "incorrect_answers": [
+      "Le R&B",
+      "La soul",
+      "Le funk"
+    ]
+  },
+  {
+    "question": "Quel est le titre de l'album de Pink Floyd dont la pochette représente un prisme décomposant la lumière ?",
+    "correct_answer": "The Dark Side of the Moon",
+    "incorrect_answers": [
+      "Wish You Were Here",
+      "The Wall",
+      "Animals"
+    ]
+  },
+  {
+    "question": "Quel compositeur italien est célèbre pour ses « Quatre Saisons » ?",
+    "correct_answer": "Antonio Vivaldi",
+    "incorrect_answers": [
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Gioachino Rossini"
+    ]
+  },
+  {
+    "question": "Quelle est la particularité principale de la guitare électrique par rapport à la guitare acoustique ?",
+    "correct_answer": "Elle nécessite un amplificateur pour le son",
+    "incorrect_answers": [
+      "Elle n'a pas de cordes",
+      "Elle est toujours plus petite",
+      "Elle se joue uniquement au doigt"
+    ]
+  },
+  {
+    "question": "Quel artiste français est connu pour ses chansons comme « Papaoutai » et « Alors on danse » ?",
+    "correct_answer": "Stromae",
+    "incorrect_answers": [
+      "M. Pokora",
+      "Vianney",
+      "Maître Gims"
+    ]
+  },
+  {
+    "question": "Le genre musical « classique » est principalement né sur quel continent ?",
+    "correct_answer": "L'Europe",
+    "incorrect_answers": [
+      "L'Afrique",
+      "L'Asie",
+      "L'Amérique du Nord"
+    ]
+  },
+  {
+    "question": "Quel chanteur américain est une icône du rock'n'roll, connu pour son déhanché ?",
+    "correct_answer": "Elvis Presley",
+    "incorrect_answers": [
+      "Chuck Berry",
+      "Little Richard",
+      "Jerry Lee Lewis"
+    ]
+  },
+  {
+    "question": "Quel instrument à clavier est souvent associé à la musique d'église ?",
+    "correct_answer": "L'orgue",
+    "incorrect_answers": [
+      "Le clavecin",
+      "L'accordéon",
+      "Le synthétiseur"
+    ]
+  },
+  {
+    "question": "De quel pays est originaire le genre musical du Tango ?",
+    "correct_answer": "L'Argentine",
+    "incorrect_answers": [
+      "L'Espagne",
+      "Le Brésil",
+      "Le Mexique"
+    ]
+  },
+  {
+    "question": "Quel compositeur allemand est célèbre pour ses œuvres baroques comme les « Concertos brandebourgeois » ?",
+    "correct_answer": "Jean-Sébastien Bach",
+    "incorrect_answers": [
+      "Georg Friedrich Haendel",
+      "Franz Liszt",
+      "Richard Wagner"
+    ]
+  },
+  {
+    "question": "Quel est le nom du petit instrument à vent que l'on joue en soufflant dedans et qui est souvent utilisé pour le blues ?",
+    "correct_answer": "L'harmonica",
+    "incorrect_answers": [
+      "Le sifflet",
+      "La flûte à bec",
+      "Le kazoo"
+    ]
+  },
+  {
+    "question": "Quel est le nom du groupe français connu pour ses casques et ses tubes comme « Get Lucky » ou « Around the World » ?",
+    "correct_answer": "Daft Punk",
+    "incorrect_answers": [
+      "Justice",
+      "Phoenix",
+      "Air"
+    ]
+  },
+  {
+    "question": "Quelle période de l'histoire de la musique classique est caractérisée par la virtuosité et l'expression des émotions, avec Chopin ou Liszt ?",
+    "correct_answer": "Le Romantisme",
+    "incorrect_answers": [
+      "La période Baroque",
+      "La période Classique",
+      "La période Contemporaine"
+    ]
+  }
+]

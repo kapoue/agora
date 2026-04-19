@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Combien de côtés possède un triangle ?",
+    "correct_answer": "Trois",
+    "incorrect_answers": [
+      "Deux",
+      "Quatre",
+      "Cinq"
+    ]
+  },
+  {
+    "question": "Quel est le nom d'un angle de 90 degrés ?",
+    "correct_answer": "Angle droit",
+    "incorrect_answers": [
+      "Angle aigu",
+      "Angle obtus",
+      "Angle plat"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on un nombre divisible par 2 sans reste ?",
+    "correct_answer": "Nombre pair",
+    "incorrect_answers": [
+      "Nombre impair",
+      "Nombre premier",
+      "Nombre rationnel"
+    ]
+  },
+  {
+    "question": "Quelle est l'opération inverse de l'addition ?",
+    "correct_answer": "La soustraction",
+    "incorrect_answers": [
+      "La multiplication",
+      "La division",
+      "L'exponentiation"
+    ]
+  },
+  {
+    "question": "Le théorème de Pythagore s'applique-t-il à quel type de triangle ?",
+    "correct_answer": "Triangle rectangle",
+    "incorrect_answers": [
+      "Triangle isocèle",
+      "Triangle équilatéral",
+      "Triangle quelconque"
+    ]
+  },
+  {
+    "question": "Quel est le nom de la distance entre le centre d'un cercle et n'importe quel point de sa circonférence ?",
+    "correct_answer": "Le rayon",
+    "incorrect_answers": [
+      "Le diamètre",
+      "La corde",
+      "L'arc"
+    ]
+  },
+  {
+    "question": "Quel célèbre mathématicien grec est connu pour son théorème sur les triangles semblables ?",
+    "correct_answer": "Thalès",
+    "incorrect_answers": [
+      "Euclide",
+      "Archimède",
+      "Platon"
+    ]
+  },
+  {
+    "question": "Comment calcule-t-on la moyenne d'une série de nombres ?",
+    "correct_answer": "En additionnant les nombres puis en divisant par leur quantité",
+    "incorrect_answers": [
+      "En prenant le nombre du milieu",
+      "En choisissant le nombre le plus fréquent",
+      "En multipliant tous les nombres entre eux"
+    ]
+  },
+  {
+    "question": "Quel est le plus petit nombre premier ?",
+    "correct_answer": "Deux",
+    "incorrect_answers": [
+      "Zéro",
+      "Un",
+      "Trois"
+    ]
+  },
+  {
+    "question": "Quelle est la formule pour calculer l'aire d'un carré de côté 'c' ?",
+    "correct_answer": "c multiplié par c (c²)",
+    "incorrect_answers": [
+      "4 multiplié par c",
+      "c divisé par 2",
+      "2 multiplié par c"
+    ]
+  },
+  {
+    "question": "Quelle est la valeur approximative de Pi (π) ?",
+    "correct_answer": "3,14",
+    "incorrect_answers": [
+      "2,71",
+      "1,61",
+      "4,20"
+    ]
+  },
+  {
+    "question": "Dans l'équation x + 5 = 10, que représente la lettre 'x' ?",
+    "correct_answer": "Une inconnue",
+    "incorrect_answers": [
+      "Un coefficient",
+      "Une constante",
+      "Une variable dépendante"
+    ]
+  },
+  {
+    "question": "Une figure à quatre côtés égaux et quatre angles droits est un...",
+    "correct_answer": "Carré",
+    "incorrect_answers": [
+      "Rectangle",
+      "Losange",
+      "Trapèze"
+    ]
+  },
+  {
+    "question": "En statistiques, quelle est la valeur qui apparaît le plus souvent dans une série ?",
+    "correct_answer": "Le mode",
+    "incorrect_answers": [
+      "La médiane",
+      "L'étendue",
+      "Le quartile"
+    ]
+  },
+  {
+    "question": "Quel mathématicien de l'Antiquité est considéré comme le père de la géométrie ?",
+    "correct_answer": "Euclide",
+    "incorrect_answers": [
+      "Ptolémée",
+      "Socrate",
+      "Aristote"
+    ]
+  },
+  {
+    "question": "Un nombre inférieur à zéro est appelé...",
+    "correct_answer": "Nombre négatif",
+    "incorrect_answers": [
+      "Nombre positif",
+      "Nombre entier",
+      "Nombre décimal"
+    ]
+  },
+  {
+    "question": "Quelle est la somme des mesures des angles d'un triangle ?",
+    "correct_answer": "180 degrés",
+    "incorrect_answers": [
+      "90 degrés",
+      "270 degrés",
+      "360 degrés"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on le résultat d'une multiplication ?",
+    "correct_answer": "Le produit",
+    "incorrect_answers": [
+      "La somme",
+      "La différence",
+      "Le quotient"
+    ]
+  },
+  {
+    "question": "Quelle formule donne le périmètre d'un cercle de rayon 'r' ?",
+    "correct_answer": "2 multiplié par Pi multiplié par r",
+    "incorrect_answers": [
+      "Pi multiplié par r au carré",
+      "r multiplié par r",
+      "2 multiplié par r"
+    ]
+  },
+  {
+    "question": "Quel chiffre représente l'absence de quantité ou le point de départ ?",
+    "correct_answer": "Zéro",
+    "incorrect_answers": [
+      "Un",
+      "Dix",
+      "L'infini"
+    ]
+  },
+  {
+    "question": "Une figure géométrique plane ayant cinq côtés et cinq angles est un...",
+    "correct_answer": "Pentagone",
+    "incorrect_answers": [
+      "Hexagone",
+      "Octogone",
+      "Heptagone"
+    ]
+  },
+  {
+    "question": "Quel type de graphique est le plus approprié pour montrer la proportion de chaque catégorie dans un tout ?",
+    "correct_answer": "Diagramme circulaire (camembert)",
+    "incorrect_answers": [
+      "Diagramme en bâtons",
+      "Histogramme",
+      "Graphique en ligne"
+    ]
+  },
+  {
+    "question": "Quel mathématicien français a introduit les coordonnées cartésiennes ?",
+    "correct_answer": "René Descartes",
+    "incorrect_answers": [
+      "Blaise Pascal",
+      "Pierre de Fermat",
+      "Isaac Newton"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on une écriture de la forme a/b, où b est différent de zéro ?",
+    "correct_answer": "Une fraction",
+    "incorrect_answers": [
+      "Un pourcentage",
+      "Un exposant",
+      "Une racine carrée"
+    ]
+  },
+  {
+    "question": "Quelle est la formule pour calculer le volume d'un cube de côté 'a' ?",
+    "correct_answer": "a multiplié par a multiplié par a (a³)",
+    "incorrect_answers": [
+      "6 multiplié par a",
+      "3 multiplié par a",
+      "a multiplié par 2"
+    ]
+  },
+  {
+    "question": "Le théorème de Thalès concerne principalement les propriétés de quelles figures ?",
+    "correct_answer": "Triangles et droites parallèles",
+    "incorrect_answers": [
+      "Cercles et tangentes",
+      "Carrés et leurs diagonales",
+      "Polygones réguliers"
+    ]
+  },
+  {
+    "question": "Le concept mathématique qui représente une quantité sans fin est appelé...",
+    "correct_answer": "L'infini",
+    "incorrect_answers": [
+      "Le zéro",
+      "L'unité",
+      "Le total"
+    ]
+  },
+  {
+    "question": "Quel célèbre savant de l'Antiquité est associé à la découverte de la poussée hydrostatique et au calcul de Pi ?",
+    "correct_answer": "Archimède",
+    "incorrect_answers": [
+      "Héraclite",
+      "Démocrite",
+      "Ératosthène"
+    ]
+  },
+  {
+    "question": "Un angle dont la mesure est inférieure à 90 degrés est un...",
+    "correct_answer": "Angle aigu",
+    "incorrect_answers": [
+      "Angle obtus",
+      "Angle droit",
+      "Angle réflexe"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'une donnée statistique ?",
+    "correct_answer": "Une information mesurable ou observable collectée",
+    "incorrect_answers": [
+      "Un avis personnel",
+      "Une hypothèse non vérifiée",
+      "Un résultat de calcul unique"
+    ]
+  }
+]

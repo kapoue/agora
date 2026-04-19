@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel organe pompe le sang dans tout le corps humain ?",
+    "correct_answer": "Le cœur",
+    "incorrect_answers": [
+      "Le cerveau",
+      "Les poumons",
+      "L'estomac"
+    ]
+  },
+  {
+    "question": "Quelle est la planète la plus proche du Soleil ?",
+    "correct_answer": "Mercure",
+    "incorrect_answers": [
+      "Vénus",
+      "Mars",
+      "La Terre"
+    ]
+  },
+  {
+    "question": "Sous quelle forme l'eau se transforme-t-elle lorsqu'elle bout à 100°C ?",
+    "correct_answer": "En vapeur",
+    "incorrect_answers": [
+      "En glace",
+      "En brouillard",
+      "En gelée"
+    ]
+  },
+  {
+    "question": "Quelle force nous maintient au sol et fait tomber les objets ?",
+    "correct_answer": "La gravité",
+    "incorrect_answers": [
+      "La flottaison",
+      "La friction",
+      "L'attraction magnétique"
+    ]
+  },
+  {
+    "question": "Quelle source d'énergie est produite par le vent ?",
+    "correct_answer": "L'énergie éolienne",
+    "incorrect_answers": [
+      "L'énergie solaire",
+      "L'énergie hydraulique",
+      "L'énergie fossile"
+    ]
+  },
+  {
+    "question": "Quelle partie d'une plante absorbe la lumière du soleil pour la photosynthèse ?",
+    "correct_answer": "Les feuilles",
+    "incorrect_answers": [
+      "Les racines",
+      "Les fleurs",
+      "La tige"
+    ]
+  },
+  {
+    "question": "Quel inventeur est célèbre pour avoir développé la première ampoule électrique pratique ?",
+    "correct_answer": "Thomas Edison",
+    "incorrect_answers": [
+      "Alexander Graham Bell",
+      "Isaac Newton",
+      "Marie Curie"
+    ]
+  },
+  {
+    "question": "Quel est le rôle principal des globules rouges dans le sang ?",
+    "correct_answer": "Transporter l'oxygène",
+    "incorrect_answers": [
+      "Combattre les infections",
+      "Coaguler le sang",
+      "Réguler la température"
+    ]
+  },
+  {
+    "question": "Quel est le symbole chimique de l'eau ?",
+    "correct_answer": "H₂O",
+    "incorrect_answers": [
+      "CO₂",
+      "O₂",
+      "N₂"
+    ]
+  },
+  {
+    "question": "Combien de temps faut-il à la Terre pour faire un tour complet sur elle-même (une rotation) ?",
+    "correct_answer": "Environ 24 heures",
+    "incorrect_answers": [
+      "Environ 365 jours",
+      "Environ 1 mois",
+      "Environ 1 heure"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on le fait qu'un son se propage dans l'air ou l'eau ?",
+    "correct_answer": "Une onde sonore",
+    "incorrect_answers": [
+      "Une onde lumineuse",
+      "Une vibration statique",
+      "Un champ magnétique"
+    ]
+  },
+  {
+    "question": "Quel animal est connu pour hiberner pendant l'hiver ?",
+    "correct_answer": "L'ours",
+    "incorrect_answers": [
+      "Le lion",
+      "La girafe",
+      "Le kangourou"
+    ]
+  },
+  {
+    "question": "Quel gaz est principalement responsable de l'effet de serre et du réchauffement climatique ?",
+    "correct_answer": "Le dioxyde de carbone",
+    "incorrect_answers": [
+      "L'oxygène",
+      "L'azote",
+      "L'hélium"
+    ]
+  },
+  {
+    "question": "Qui a inventé la première automobile fonctionnelle ?",
+    "correct_answer": "Karl Benz",
+    "incorrect_answers": [
+      "Henry Ford",
+      "Les frères Wright",
+      "Léonard de Vinci"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'organe responsable de l'ouïe ?",
+    "correct_answer": "L'oreille",
+    "incorrect_answers": [
+      "L'œil",
+      "Le nez",
+      "La langue"
+    ]
+  },
+  {
+    "question": "Quel est l'ingrédient principal du sel de table ?",
+    "correct_answer": "Le chlorure de sodium",
+    "incorrect_answers": [
+      "Le carbonate de calcium",
+      "Le sucre",
+      "Le bicarbonate de soude"
+    ]
+  },
+  {
+    "question": "Pourquoi voit-on toujours la même face de la Lune depuis la Terre ?",
+    "correct_answer": "Sa rotation est synchronisée avec son orbite",
+    "incorrect_answers": [
+      "La Lune ne tourne pas sur elle-même",
+      "L'autre face est invisible",
+      "C'est une illusion d'optique"
+    ]
+  },
+  {
+    "question": "Quelle couleur de lumière est absorbée par les plantes pour la photosynthèse ?",
+    "correct_answer": "Le bleu et le rouge",
+    "incorrect_answers": [
+      "Le vert",
+      "Le jaune",
+      "L'infrarouge"
+    ]
+  },
+  {
+    "question": "Quel terme désigne un animal qui mange d'autres animaux ?",
+    "correct_answer": "Un carnivore",
+    "incorrect_answers": [
+      "Un herbivore",
+      "Un omnivore",
+      "Un décomposeur"
+    ]
+  },
+  {
+    "question": "Comment s'appelle le processus par lequel l'eau des océans s'élève dans l'atmosphère ?",
+    "correct_answer": "L'évaporation",
+    "incorrect_answers": [
+      "La condensation",
+      "La précipitation",
+      "L'infiltration"
+    ]
+  },
+  {
+    "question": "Quel appareil mécanique a été l'un des premiers outils de calcul ?",
+    "correct_answer": "L'abaque",
+    "incorrect_answers": [
+      "Le télescope",
+      "La boussole",
+      "La machine à vapeur"
+    ]
+  },
+  {
+    "question": "Quel est l'os le plus long du corps humain ?",
+    "correct_answer": "Le fémur",
+    "incorrect_answers": [
+      "Le tibia",
+      "Le crâne",
+      "La colonne vertébrale"
+    ]
+  },
+  {
+    "question": "Sur l'échelle de pH, quelle valeur indique une substance neutre ?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "0",
+      "14",
+      "5"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'étoile la plus proche de la Terre ?",
+    "correct_answer": "Le Soleil",
+    "incorrect_answers": [
+      "Alpha du Centaure",
+      "Sirius",
+      "Polaris"
+    ]
+  },
+  {
+    "question": "Quel composant permet de contrôler le flux d'électricité dans un circuit ?",
+    "correct_answer": "Un interrupteur",
+    "incorrect_answers": [
+      "Une batterie",
+      "Un fil",
+      "Une ampoule"
+    ]
+  },
+  {
+    "question": "Quel est l'organe féminin qui produit les ovules ?",
+    "correct_answer": "L'ovaire",
+    "incorrect_answers": [
+      "L'utérus",
+      "Le vagin",
+      "Les trompes de Fallope"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on un tremblement de terre sous-marin qui provoque une grande vague ?",
+    "correct_answer": "Un tsunami",
+    "incorrect_answers": [
+      "Un ouragan",
+      "Une tornade",
+      "Un cyclone"
+    ]
+  },
+  {
+    "question": "Qui est généralement crédité de l'invention de l'imprimerie à caractères mobiles en Europe ?",
+    "correct_answer": "Johannes Gutenberg",
+    "incorrect_answers": [
+      "Léonard de Vinci",
+      "Christophe Colomb",
+      "Galilée"
+    ]
+  },
+  {
+    "question": "Quel scientifique est connu pour avoir développé le premier vaccin contre la rage ?",
+    "correct_answer": "Louis Pasteur",
+    "incorrect_answers": [
+      "Edward Jenner",
+      "Alexander Fleming",
+      "Robert Koch"
+    ]
+  },
+  {
+    "question": "Quel gaz est essentiel pour qu'un feu puisse brûler ?",
+    "correct_answer": "L'oxygène",
+    "incorrect_answers": [
+      "L'azote",
+      "Le dioxyde de carbone",
+      "L'hydrogène"
+    ]
+  }
+]

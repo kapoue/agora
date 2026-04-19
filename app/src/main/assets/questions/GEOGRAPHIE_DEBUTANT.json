@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Combien y a-t-il de continents sur Terre, généralement reconnus ?",
+    "correct_answer": "Sept",
+    "incorrect_answers": [
+      "Cinq",
+      "Six",
+      "Huit"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "Lyon",
+      "Marseille",
+      "Bordeaux"
+    ]
+  },
+  {
+    "question": "Quel est le plus long fleuve du monde ?",
+    "correct_answer": "Le Nil",
+    "incorrect_answers": [
+      "L'Amazone",
+      "Le Mississippi",
+      "Le Yangtsé"
+    ]
+  },
+  {
+    "question": "Quel est le plus haut sommet du monde ?",
+    "correct_answer": "Le Mont Everest",
+    "incorrect_answers": [
+      "Le K2",
+      "Le Mont Blanc",
+      "Le Kilimandjaro"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "correct_answer": "L'océan Pacifique",
+    "incorrect_answers": [
+      "L'océan Atlantique",
+      "L'océan Indien",
+      "L'océan Arctique"
+    ]
+  },
+  {
+    "question": "Quel pays est connu pour sa forme de botte ?",
+    "correct_answer": "L'Italie",
+    "incorrect_answers": [
+      "L'Espagne",
+      "La Grèce",
+      "Le Portugal"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale du Royaume-Uni ?",
+    "correct_answer": "Londres",
+    "incorrect_answers": [
+      "Dublin",
+      "Édimbourg",
+      "Manchester"
+    ]
+  },
+  {
+    "question": "Quel continent est aussi un pays ?",
+    "correct_answer": "L'Australie",
+    "incorrect_answers": [
+      "L'Afrique",
+      "L'Europe",
+      "L'Asie"
+    ]
+  },
+  {
+    "question": "Quel fleuve traverse Paris ?",
+    "correct_answer": "La Seine",
+    "incorrect_answers": [
+      "La Loire",
+      "Le Rhône",
+      "La Garonne"
+    ]
+  },
+  {
+    "question": "Quelle mer sépare l'Europe de l'Afrique ?",
+    "correct_answer": "La mer Méditerranée",
+    "incorrect_answers": [
+      "La mer Noire",
+      "La mer Baltique",
+      "La mer Rouge"
+    ]
+  },
+  {
+    "question": "Dans quelle chaîne de montagnes se trouve le Mont Blanc ?",
+    "correct_answer": "Les Alpes",
+    "incorrect_answers": [
+      "Les Pyrénées",
+      "Les Andes",
+      "Les Rocheuses"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand pays du monde par sa superficie ?",
+    "correct_answer": "La Russie",
+    "incorrect_answers": [
+      "Le Canada",
+      "Les États-Unis",
+      "La Chine"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de l'Allemagne ?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": [
+      "Munich",
+      "Hambourg",
+      "Francfort"
+    ]
+  },
+  {
+    "question": "Quel est le continent le plus peuplé du monde ?",
+    "correct_answer": "L'Asie",
+    "incorrect_answers": [
+      "L'Afrique",
+      "L'Europe",
+      "L'Amérique du Nord"
+    ]
+  },
+  {
+    "question": "Quel fleuve est étroitement associé à l'Égypte antique ?",
+    "correct_answer": "Le Nil",
+    "incorrect_answers": [
+      "L'Euphrate",
+      "Le Tigre",
+      "Le Jourdain"
+    ]
+  },
+  {
+    "question": "Quel pays est célèbre pour sa Grande Muraille ?",
+    "correct_answer": "La Chine",
+    "incorrect_answers": [
+      "L'Inde",
+      "Le Japon",
+      "La Corée du Sud"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de l'Espagne ?",
+    "correct_answer": "Madrid",
+    "incorrect_answers": [
+      "Barcelone",
+      "Séville",
+      "Valence"
+    ]
+  },
+  {
+    "question": "Quel océan borde la côte est des États-Unis ?",
+    "correct_answer": "L'océan Atlantique",
+    "incorrect_answers": [
+      "L'océan Pacifique",
+      "L'océan Indien",
+      "L'océan Arctique"
+    ]
+  },
+  {
+    "question": "Quelle est la plus haute montagne d'Afrique ?",
+    "correct_answer": "Le Kilimandjaro",
+    "incorrect_answers": [
+      "Le Mont Kenya",
+      "Le Mont Elbrouz",
+      "Le Mont Toubkal"
+    ]
+  },
+  {
+    "question": "Quel pays est un archipel situé à l'est de la Chine ?",
+    "correct_answer": "Le Japon",
+    "incorrect_answers": [
+      "La Corée du Sud",
+      "Les Philippines",
+      "L'Indonésie"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de l'Italie ?",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Milan",
+      "Florence",
+      "Venise"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand désert chaud du monde ?",
+    "correct_answer": "Le désert du Sahara",
+    "incorrect_answers": [
+      "Le désert d'Arabie",
+      "Le désert de Gobi",
+      "Le désert d'Atacama"
+    ]
+  },
+  {
+    "question": "Quel fleuve traverse Londres ?",
+    "correct_answer": "La Tamise",
+    "incorrect_answers": [
+      "La Severn",
+      "Le Tyne",
+      "La Clyde"
+    ]
+  },
+  {
+    "question": "Quel est le continent le plus froid de la Terre ?",
+    "correct_answer": "L'Antarctique",
+    "incorrect_answers": [
+      "L'Arctique",
+      "L'Asie",
+      "L'Amérique du Nord"
+    ]
+  },
+  {
+    "question": "Quel pays a pour drapeau une feuille d'érable ?",
+    "correct_answer": "Le Canada",
+    "incorrect_answers": [
+      "Les États-Unis",
+      "L'Australie",
+      "La Nouvelle-Zélande"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de la Belgique ?",
+    "correct_answer": "Bruxelles",
+    "incorrect_answers": [
+      "Anvers",
+      "Gand",
+      "Liège"
+    ]
+  },
+  {
+    "question": "Dans quelle chaîne de montagnes se trouve le Mont Everest ?",
+    "correct_answer": "L'Himalaya",
+    "incorrect_answers": [
+      "Les Andes",
+      "Les Rocheuses",
+      "Les Apalaches"
+    ]
+  },
+  {
+    "question": "Quelle mer est presque entièrement entourée de terres en Europe du Nord ?",
+    "correct_answer": "La mer Baltique",
+    "incorrect_answers": [
+      "La mer du Nord",
+      "La mer Celtique",
+      "La mer de Norvège"
+    ]
+  },
+  {
+    "question": "Quel grand fleuve traverse le Brésil et une grande partie de l'Amérique du Sud ?",
+    "correct_answer": "L'Amazone",
+    "incorrect_answers": [
+      "Le Mississippi",
+      "Le Paraná",
+      "L'Orénoque"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale des États-Unis ?",
+    "correct_answer": "Washington D.C.",
+    "incorrect_answers": [
+      "New York",
+      "Los Angeles",
+      "Chicago"
+    ]
+  }
+]

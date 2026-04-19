@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel événement est traditionnellement considéré comme la date de la chute de l'Empire romain d'Occident ?",
+    "correct_answer": "476 après J.-C.",
+    "incorrect_answers": [
+      "330 après J.-C.",
+      "1453 après J.-C.",
+      "753 avant J.-C."
+    ]
+  },
+  {
+    "question": "Qui fut le précepteur d'Alexandre le Grand, figure emblématique de la philosophie grecque antique ?",
+    "correct_answer": "Aristote",
+    "incorrect_answers": [
+      "Platon",
+      "Socrate",
+      "Héraclite"
+    ]
+  },
+  {
+    "question": "Quelle bataille majeure de 1066 marqua la conquête normande de l'Angleterre par Guillaume le Conquérant ?",
+    "correct_answer": "La bataille de Hastings",
+    "incorrect_answers": [
+      "La bataille d'Austerlitz",
+      "La bataille de Bouvines",
+      "La bataille d'Alésia"
+    ]
+  },
+  {
+    "question": "Quel empereur romain a fait du christianisme la religion d'État de l'Empire romain à la fin du IVe siècle ?",
+    "correct_answer": "Théodose Ier",
+    "incorrect_answers": [
+      "Constantin Ier",
+      "Dioclétien",
+      "Julien"
+    ]
+  },
+  {
+    "question": "Quelle reine d'Égypte est célèbre pour ses relations avec Jules César et Marc Antoine ?",
+    "correct_answer": "Cléopâtre VII",
+    "incorrect_answers": [
+      "Néfertiti",
+      "Hatchepsout",
+      "Bérénice IV"
+    ]
+  },
+  {
+    "question": "Quel est le nom du célèbre code de lois babylonien, l'un des plus anciens déchiffrés à ce jour ?",
+    "correct_answer": "Code d'Hammurabi",
+    "incorrect_answers": [
+      "Code de Gortyne",
+      "Lois des Douze Tables",
+      "Code de Justinien"
+    ]
+  },
+  {
+    "question": "En quelle année Christophe Colomb a-t-il atteint les Amériques pour la première fois ?",
+    "correct_answer": "1492",
+    "incorrect_answers": [
+      "1453",
+      "1517",
+      "1488"
+    ]
+  },
+  {
+    "question": "Quel mouvement a été initié par Martin Luther au XVIe siècle, contestant les doctrines de l'Église catholique ?",
+    "correct_answer": "La Réforme protestante",
+    "incorrect_answers": [
+      "La Contre-Réforme",
+      "L'Inquisition espagnole",
+      "Le Grand Schisme d'Occident"
+    ]
+  },
+  {
+    "question": "Qui fut le premier empereur de Chine à unifier le pays et à lancer la construction de la Grande Muraille ?",
+    "correct_answer": "Qin Shi Huang",
+    "incorrect_answers": [
+      "Empereur Wu de Han",
+      "Kubilai Khan",
+      "Puyi"
+    ]
+  },
+  {
+    "question": "Quel roi de France est surnommé le 'Roi-Soleil' et a régné pendant la majeure partie du XVIIe siècle ?",
+    "correct_answer": "Louis XIV",
+    "incorrect_answers": [
+      "Henri IV",
+      "Louis XIII",
+      "Louis XVI"
+    ]
+  },
+  {
+    "question": "Quelle est la date symbolique de la prise de la Bastille, marquant le début de la Révolution française ?",
+    "correct_answer": "14 juillet 1789",
+    "incorrect_answers": [
+      "4 août 1789",
+      "21 janvier 1793",
+      "20 juin 1789"
+    ]
+  },
+  {
+    "question": "Quel général français s'est auto-proclamé Empereur des Français en 1804 ?",
+    "correct_answer": "Napoléon Bonaparte",
+    "incorrect_answers": [
+      "Louis XVIII",
+      "Maximilien Robespierre",
+      "Charles de Gaulle"
+    ]
+  },
+  {
+    "question": "Où Napoléon Bonaparte a-t-il subi sa défaite finale en 1815, mettant fin à son règne ?",
+    "correct_answer": "Waterloo",
+    "incorrect_answers": [
+      "Austerlitz",
+      "Trafalgar",
+      "Leipzig"
+    ]
+  },
+  {
+    "question": "Quel événement majeur a eu lieu en 1917 et a conduit à la création de l'Union Soviétique ?",
+    "correct_answer": "La Révolution russe",
+    "incorrect_answers": [
+      "La Révolution française",
+      "La Guerre civile espagnole",
+      "La Révolution industrielle"
+    ]
+  },
+  {
+    "question": "Quel traité, signé en 1919, a officiellement mis fin à la Première Guerre mondiale et imposé des conditions à l'Allemagne ?",
+    "correct_answer": "Le Traité de Versailles",
+    "incorrect_answers": [
+      "Le Traité de Trianon",
+      "L'Armistice de Rethondes",
+      "Le Traité de Paris"
+    ]
+  },
+  {
+    "question": "En quelle année a eu lieu le débarquement de Normandie, événement clé de la Seconde Guerre mondiale ?",
+    "correct_answer": "1944",
+    "incorrect_answers": [
+      "1942",
+      "1943",
+      "1945"
+    ]
+  },
+  {
+    "question": "Quelle ville japonaise fut la cible de la première bombe atomique de l'histoire, le 6 août 1945 ?",
+    "correct_answer": "Hiroshima",
+    "incorrect_answers": [
+      "Nagasaki",
+      "Tokyo",
+      "Kyoto"
+    ]
+  },
+  {
+    "question": "Quel leader indien a mené son pays à l'indépendance par des méthodes de non-violence et de désobéissance civile ?",
+    "correct_answer": "Mahatma Gandhi",
+    "incorrect_answers": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Sardar Patel"
+    ]
+  },
+  {
+    "question": "En quelle année le mur de Berlin est-il tombé, symbolisant la fin de la Guerre Froide ?",
+    "correct_answer": "1989",
+    "incorrect_answers": [
+      "1991",
+      "1985",
+      "1961"
+    ]
+  },
+  {
+    "question": "Quel empire fut dirigé par Gengis Khan au XIIIe siècle, couvrant une grande partie de l'Asie et de l'Europe ?",
+    "correct_answer": "L'Empire mongol",
+    "incorrect_answers": [
+      "L'Empire ottoman",
+      "L'Empire achéménide",
+      "L'Empire byzantin"
+    ]
+  },
+  {
+    "question": "Quel navigateur portugais est le premier à avoir atteint l'Inde par la voie maritime en contournant l'Afrique ?",
+    "correct_answer": "Vasco de Gama",
+    "incorrect_answers": [
+      "Fernand de Magellan",
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral"
+    ]
+  },
+  {
+    "question": "Quel événement déclencha officiellement la Première Guerre mondiale en juillet 1914 ?",
+    "correct_answer": "L'assassinat de l'Archiduc François-Ferdinand",
+    "incorrect_answers": [
+      "L'invasion de la Pologne",
+      "Le naufrage du Lusitania",
+      "La crise d'Agadir"
+    ]
+  },
+  {
+    "question": "Quel philosophe des Lumières a rédigé l'Encyclopédie avec Diderot, œuvre majeure du XVIIIe siècle ?",
+    "correct_answer": "Jean le Rond d'Alembert",
+    "incorrect_answers": [
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Montesquieu"
+    ]
+  },
+  {
+    "question": "Quel traité mit fin à la Guerre de Trente Ans en 1648, redessinant la carte politique de l'Europe ?",
+    "correct_answer": "Traités de Westphalie",
+    "incorrect_answers": [
+      "Traité de Cateau-Cambrésis",
+      "Paix des Pyrénées",
+      "Édit de Nantes"
+    ]
+  },
+  {
+    "question": "Quel pays fut le premier à abolir officiellement l'esclavage colonial en 1794, avant de le rétablir en 1802 ?",
+    "correct_answer": "La France",
+    "incorrect_answers": [
+      "Le Royaume-Uni",
+      "Les États-Unis",
+      "L'Espagne"
+    ]
+  },
+  {
+    "question": "Quelle femme fut une figure emblématique de la Guerre de Cent Ans, menant les troupes françaises au XVe siècle ?",
+    "correct_answer": "Jeanne d'Arc",
+    "incorrect_answers": [
+      "Aliénor d'Aquitaine",
+      "Catherine de Médicis",
+      "Blanche de Castille"
+    ]
+  },
+  {
+    "question": "En quelle année a débuté la construction de la pyramide de Khéops, l'une des sept merveilles du monde antique ?",
+    "correct_answer": "Environ 2580 av. J.-C.",
+    "incorrect_answers": [
+      "Environ 3100 av. J.-C.",
+      "Environ 1550 av. J.-C.",
+      "Environ 600 av. J.-C."
+    ]
+  },
+  {
+    "question": "Quel événement en 1962 a failli déclencher une guerre nucléaire entre les États-Unis et l'URSS ?",
+    "correct_answer": "La crise des missiles de Cuba",
+    "incorrect_answers": [
+      "La guerre de Corée",
+      "La guerre du Vietnam",
+      "Le blocus de Berlin"
+    ]
+  },
+  {
+    "question": "Quelle figure est associée à l'unification de l'Italie au XIXe siècle, notamment par l'expédition des Mille ?",
+    "correct_answer": "Giuseppe Garibaldi",
+    "incorrect_answers": [
+      "Camillo Cavour",
+      "Victor-Emmanuel II",
+      "Otto von Bismarck"
+    ]
+  },
+  {
+    "question": "Quel événement marqua la fin de la ségrégation raciale institutionnelle en Afrique du Sud (Apartheid) ?",
+    "correct_answer": "Les premières élections multiraciales de 1994",
+    "incorrect_answers": [
+      "La libération de Nelson Mandela en 1990",
+      "L'abolition des lois de l'Apartheid en 1991",
+      "La fondation de l'ANC"
+    ]
+  }
+]

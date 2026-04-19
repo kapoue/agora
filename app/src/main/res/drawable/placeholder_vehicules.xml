@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Voiture stylisée -->
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M15,55 L15,70 L85,70 L85,55 L70,40 L30,40 Z" />
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M32,40 L40,25 L60,25 L68,40 Z" />
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M25,70 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 Z" />
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M75,70 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 Z" />
+    <path
+        android:fillColor="#4A4040"
+        android:pathData="M25,70 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0 Z" />
+    <path
+        android:fillColor="#4A4040"
+        android:pathData="M75,70 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0 Z" />
+</vector>

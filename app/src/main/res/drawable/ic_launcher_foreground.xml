@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Lettre A stylisée en or sur fond sombre -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,20 L75,80 L68,80 L62,62 L46,62 L40,80 L33,80 Z M54,32 L48,56 L60,56 Z" />
+    <!-- Colonne grecque sous l'A -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M30,84 L78,84 L78,88 L30,88 Z" />
+</vector>

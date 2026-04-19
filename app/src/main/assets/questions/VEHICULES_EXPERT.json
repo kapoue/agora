@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel constructeur automobile a introduit le premier système d'injection directe d'essence sur une voiture de série en 1954 ?",
+    "correct_answer": "Mercedes-Benz sur la 300 SL",
+    "incorrect_answers": [
+      "Bosch sur la Goliath GP700",
+      "Chevrolet sur la Corvette C1",
+      "Alfa Romeo sur la Giulietta Sprint"
+    ]
+  },
+  {
+    "question": "Quel aéronef, conçu par Kelly Johnson, fut le premier avion de reconnaissance à voler de manière soutenue à Mach 3 ?",
+    "correct_answer": "Lockheed SR-71 Blackbird",
+    "incorrect_answers": [
+      "Lockheed U-2 Dragon Lady",
+      "North American X-15",
+      "Mikoyan-Gurevich MiG-25 Foxbat"
+    ]
+  },
+  {
+    "question": "Quel navire fut le premier à franchir l'Atlantique propulsé uniquement par une turbine à vapeur ?",
+    "correct_answer": "RMS Mauretania",
+    "incorrect_answers": [
+      "SS Great Eastern",
+      "Turbinia",
+      "USS Delaware"
+    ]
+  },
+  {
+    "question": "Quelle locomotive à vapeur détient le record mondial de vitesse absolu pour un engin à vapeur, établi en 1938 ?",
+    "correct_answer": "LNER Classe A4 'Mallard'",
+    "incorrect_answers": [
+      "DRG Classe 05",
+      "Pennsylvania Railroad S1",
+      "New York Central J3a Hudson"
+    ]
+  },
+  {
+    "question": "Quel designer est principalement associé à la création des lignes emblématiques de la Ferrari Testarossa et de la Lamborghini Countach ?",
+    "correct_answer": "Leonardo Fioravanti et Marcello Gandini",
+    "incorrect_answers": [
+      "Giorgetto Giugiaro et Nuccio Bertone",
+      "Pininfarina et Ghia",
+      "Tom Tjaarda et Giorgetto Giugiaro"
+    ]
+  },
+  {
+    "question": "Quelle fut la première compagnie aérienne à exploiter commercialement le Boeing 747, le 'Jumbo Jet' ?",
+    "correct_answer": "Pan American World Airways (Pan Am)",
+    "incorrect_answers": [
+      "Trans World Airlines (TWA)",
+      "United Airlines",
+      "Lufthansa"
+    ]
+  },
+  {
+    "question": "Quel est le terme technique désignant la forme de la proue d'un navire conçue pour réduire la résistance à l'eau en brisant les vagues différemment ?",
+    "correct_answer": "Proue inversée ou inversée",
+    "incorrect_answers": [
+      "Proue à bulbe",
+      "Proue à clin",
+      "Proue de coupe-vague"
+    ]
+  },
+  {
+    "question": "Quel pays a mis en service le premier système de train à sustentation magnétique (Maglev) commercial au monde ?",
+    "correct_answer": "Allemagne (Transrapid Emsland)",
+    "incorrect_answers": [
+      "Japon (MLU001)",
+      "Chine (Shanghai Maglev)",
+      "États-Unis (Aerotrain)"
+    ]
+  },
+  {
+    "question": "Quel inventeur est crédité de la première démonstration publique réussie d'un pneu gonflable pour bicyclette, jetant les bases du pneu automobile ?",
+    "correct_answer": "John Boyd Dunlop",
+    "incorrect_answers": [
+      "Robert William Thomson",
+      "Édouard Michelin",
+      "Charles Goodyear"
+    ]
+  },
+  {
+    "question": "Quel véhicule détenait le record de vitesse terrestre pour un engin à moteur à piston avant l'ère des réacteurs ?",
+    "correct_answer": "Blue Bird V (Malcolm Campbell)",
+    "incorrect_answers": [
+      "Golden Arrow (Henry Segrave)",
+      "Spirit of America (Craig Breedlove)",
+      "Railton Special (John Cobb)"
+    ]
+  },
+  {
+    "question": "Quelle innovation majeure fut introduite par André Citroën dans l'industrie automobile européenne avec la Citroën Traction Avant en 1934 ?",
+    "correct_answer": "La traction avant et la carrosserie monocoque",
+    "incorrect_answers": [
+      "La suspension hydropneumatique",
+      "Le moteur rotatif Wankel",
+      "La boîte de vitesses automatique à convertisseur"
+    ]
+  },
+  {
+    "question": "Quel fut le premier avion de ligne à fuselage large doté d'ailes à géométrie variable, bien que jamais produit en série ?",
+    "correct_answer": "Boeing 2707 SST",
+    "incorrect_answers": [
+      "Concorde",
+      "Tupolev Tu-144",
+      "Lockheed L-2000 SST"
+    ]
+  },
+  {
+    "question": "Quel sous-marin fut le premier à effectuer une circumnavigation sous-marine complète sans refaire surface ?",
+    "correct_answer": "USS Triton (SSRN-586)",
+    "incorrect_answers": [
+      "USS Nautilus (SSN-571)",
+      "HMS Conqueror",
+      "K-19 'Hiroshima'"
+    ]
+  },
+  {
+    "question": "Quel a été le premier train à grande vitesse européen à utiliser la technologie pendulaire pour négocier les courbes à vitesse élevée ?",
+    "correct_answer": "Fiat Pendolino (ETR 401)",
+    "incorrect_answers": [
+      "TGV Sud-Est",
+      "ICE 1",
+      "Shinkansen série 0"
+    ]
+  },
+  {
+    "question": "Quelle est la principale caractéristique technique distinguant le moteur VTEC de Honda de ses contemporains ?",
+    "correct_answer": "La distribution variable des soupapes et de leur levée",
+    "incorrect_answers": [
+      "Le calage variable de l'arbre à cames",
+      "L'injection directe haute pression",
+      "La suralimentation à double étage"
+    ]
+  },
+  {
+    "question": "Quel pilote a battu le record de vitesse terrestre en 1997 à bord du ThrustSSC, devenant le premier à franchir le mur du son au sol ?",
+    "correct_answer": "Andy Green",
+    "incorrect_answers": [
+      "Richard Noble",
+      "Gary Gabelich",
+      "Don Vesco"
+    ]
+  },
+  {
+    "question": "Quel avion de transport stratégique est célèbre pour sa capacité à atterrir et décoller sur des pistes très courtes et non préparées ?",
+    "correct_answer": "Lockheed C-130 Hercules",
+    "incorrect_answers": [
+      "Boeing C-17 Globemaster III",
+      "Antonov An-124 Ruslan",
+      "Airbus A400M Atlas"
+    ]
+  },
+  {
+    "question": "Quel type de navire de guerre fut le premier à être blindé sur toute sa longueur et équipé de tourelles rotatives centralisées ?",
+    "correct_answer": "Cuirassé de classe Dreadnought",
+    "incorrect_answers": [
+      "Frégate cuirassée",
+      "Croiseur cuirassé",
+      "Monitor"
+    ]
+  },
+  {
+    "question": "Quelle est la particularité du moteur à deux temps qui le distingue du moteur à quatre temps ?",
+    "correct_answer": "Il réalise un cycle thermodynamique complet en une révolution de vilebrequin",
+    "incorrect_answers": [
+      "Il n'utilise pas de soupapes",
+      "Il a une consommation de carburant inférieure",
+      "Il ne nécessite pas de système de lubrification séparé"
+    ]
+  },
+  {
+    "question": "Quel ingénieur français est l'inventeur de la première voiture à moteur à combustion interne à essence, le 'Fardier de Cugnot' en 1769 ?",
+    "correct_answer": "Non, Cugnot a inventé un moteur à vapeur",
+    "incorrect_answers": [
+      "Nicolas-Joseph Cugnot",
+      "Étienne Lenoir",
+      "Amédée Bollée"
+    ]
+  },
+  {
+    "question": "Quelle a été la première voiture de série équipée d'un moteur rotatif Wankel, commercialisée en 1964 ?",
+    "correct_answer": "NSU Spider",
+    "incorrect_answers": [
+      "Mazda Cosmo Sport",
+      "Citroën M35",
+      "Mercedes-Benz C111"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'hydravion expérimental géant, surnommé 'Spruce Goose', piloté une seule fois par Howard Hughes ?",
+    "correct_answer": "Hughes H-4 Hercules",
+    "incorrect_answers": [
+      "Savoia-Marchetti S.55X",
+      "Kawanishi H8K Emily",
+      "Dornier Do X"
+    ]
+  },
+  {
+    "question": "Quelle est la désignation des superpétroliers si grands qu'ils ne peuvent pas emprunter le Canal de Suez à pleine charge ?",
+    "correct_answer": "ULCC (Ultra Large Crude Carrier)",
+    "incorrect_answers": [
+      "VLCC (Very Large Crude Carrier)",
+      "Aframax",
+      "Suezmax"
+    ]
+  },
+  {
+    "question": "Quel système de signalisation ferroviaire, inventé en 1872, permettait à un train d'arrêter automatiquement un autre train en cas de danger ?",
+    "correct_answer": "Block System ou cantonnement automatique",
+    "incorrect_answers": [
+      "Système télégraphique",
+      "Système de feux de voie",
+      "Verrouillage mécanique"
+    ]
+  },
+  {
+    "question": "Quelle ville fut la première à inaugurer un système de métro souterrain, en 1863 ?",
+    "correct_answer": "Londres",
+    "incorrect_answers": [
+      "Paris",
+      "New York",
+      "Boston"
+    ]
+  },
+  {
+    "question": "Quel est le principe de fonctionnement de la suspension hydropneumatique, rendue célèbre par Citroën ?",
+    "correct_answer": "Combinaison d'un fluide hydraulique et d'un gaz sous pression",
+    "incorrect_answers": [
+      "Ressorts à lames couplés à des amortisseurs à gaz",
+      "Amortisseurs magnétiques",
+      "Barres de torsion et amortisseurs pneumatiques"
+    ]
+  },
+  {
+    "question": "Quel avion fut le premier à réaliser un vol entièrement autonome, sans intervention humaine, en 1947 ?",
+    "correct_answer": "Douglas C-54 Skymaster (vol transatlantique)",
+    "incorrect_answers": [
+      "Northrop B-2 Spirit",
+      "General Atomics MQ-1 Predator",
+      "Lockheed U-2 Dragon Lady"
+    ]
+  },
+  {
+    "question": "Quel navire fut le premier à utiliser un moteur diesel pour sa propulsion transatlantique en 1912 ?",
+    "correct_answer": "MS Selandia",
+    "incorrect_answers": [
+      "SS Great Eastern",
+      "RMS Titanic",
+      "SS Savannah"
+    ]
+  },
+  {
+    "question": "Quelle compagnie ferroviaire américaine est célèbre pour avoir introduit les premières locomotives diesel-électriques de grande puissance dans les années 1930 ?",
+    "correct_answer": "Electro-Motive Diesel (EMD)",
+    "incorrect_answers": [
+      "Baldwin Locomotive Works",
+      "American Locomotive Company (ALCO)",
+      "General Electric"
+    ]
+  },
+  {
+    "question": "Quel est le nom de la jauge ferroviaire étroite (600 mm) popularisée par Paul Decauville pour les chemins de fer industriels et militaires ?",
+    "correct_answer": "Voie Decauville",
+    "incorrect_answers": [
+      "Voie métrique",
+      "Voie étroite britannique",
+      "Voie minière"
+    ]
+  }
+]

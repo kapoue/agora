@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel est le nom du célèbre tableau de Léonard de Vinci représentant une femme au sourire énigmatique ?",
+    "correct_answer": "La Joconde",
+    "incorrect_answers": [
+      "La Nuit étoilée",
+      "La Cène",
+      "Les Ménines"
+    ]
+  },
+  {
+    "question": "Quel artiste a peint 'La Nuit étoilée' avec des tourbillons bleus et jaunes ?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": [
+      "Claude Monet",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ]
+  },
+  {
+    "question": "Quel célèbre musée parisien abrite 'La Joconde' ?",
+    "correct_answer": "Le musée du Louvre",
+    "incorrect_answers": [
+      "Le musée d'Orsay",
+      "Le Centre Pompidou",
+      "Le British Museum"
+    ]
+  },
+  {
+    "question": "Quel mouvement artistique est caractérisé par des touches de couleur vives et des scènes de la vie quotidienne en plein air ?",
+    "correct_answer": "L'Impressionnisme",
+    "incorrect_answers": [
+      "Le Cubisme",
+      "Le Surréalisme",
+      "Le Baroque"
+    ]
+  },
+  {
+    "question": "Quel sculpteur français est célèbre pour son œuvre 'Le Penseur' ?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": [
+      "Michel-Ange",
+      "Donatello",
+      "Constantin Brâncuși"
+    ]
+  },
+  {
+    "question": "Quelle structure architecturale parisienne a été construite pour l'Exposition Universelle de 1889 ?",
+    "correct_answer": "La Tour Eiffel",
+    "incorrect_answers": [
+      "L'Arc de Triomphe",
+      "Notre-Dame de Paris",
+      "Le Sacré-Cœur"
+    ]
+  },
+  {
+    "question": "Quel peintre est le co-fondateur du mouvement artistique appelé le Cubisme ?",
+    "correct_answer": "Pablo Picasso",
+    "incorrect_answers": [
+      "Andy Warhol",
+      "Gustav Klimt",
+      "Jackson Pollock"
+    ]
+  },
+  {
+    "question": "Quel artiste de la Renaissance est connu pour avoir peint le plafond de la Chapelle Sixtine ?",
+    "correct_answer": "Michel-Ange",
+    "incorrect_answers": [
+      "Raphaël",
+      "Titien",
+      "Sandro Botticelli"
+    ]
+  },
+  {
+    "question": "Quel tableau d'Eugène Delacroix symbolise la Révolution de Juillet 1830 en France ?",
+    "correct_answer": "La Liberté guidant le peuple",
+    "incorrect_answers": [
+      "Le Radeau de la Méduse",
+      "La Dentellière",
+      "Les Moissonneurs"
+    ]
+  },
+  {
+    "question": "Quel amphithéâtre antique, situé à Rome, était le lieu de combats de gladiateurs ?",
+    "correct_answer": "Le Colisée",
+    "incorrect_answers": [
+      "Le Parthénon",
+      "L'Acropole",
+      "Le Panthéon"
+    ]
+  },
+  {
+    "question": "Quel mouvement artistique des années 1950-60 utilise des images de la culture populaire et de la publicité ?",
+    "correct_answer": "Le Pop Art",
+    "incorrect_answers": [
+      "L'Expressionnisme",
+      "Le Futurisme",
+      "Le Dadaïsme"
+    ]
+  },
+  {
+    "question": "Qui a peint le célèbre tableau 'La Jeune Fille à la perle', parfois appelé la 'Joconde du Nord' ?",
+    "correct_answer": "Johannes Vermeer",
+    "incorrect_answers": [
+      "Rembrandt",
+      "Frans Hals",
+      "Jan van Eyck"
+    ]
+  },
+  {
+    "question": "Quelle artiste mexicaine est célèbre pour ses autoportraits colorés et son style unique ?",
+    "correct_answer": "Frida Kahlo",
+    "incorrect_answers": [
+      "Georgia O'Keeffe",
+      "Yayoi Kusama",
+      "Tamara de Lempicka"
+    ]
+  },
+  {
+    "question": "Quel style architectural est caractérisé par des arcs brisés, des voûtes d'ogives et des vitraux colorés, comme Notre-Dame de Paris ?",
+    "correct_answer": "Le style gothique",
+    "incorrect_answers": [
+      "Le style roman",
+      "Le style baroque",
+      "Le style classique"
+    ]
+  },
+  {
+    "question": "Quel peintre espagnol est connu pour ses montres molles et son implication dans le mouvement surréaliste ?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": [
+      "Joan Miró",
+      "René Magritte",
+      "Max Ernst"
+    ]
+  },
+  {
+    "question": "'Le Penseur' est une sculpture emblématique de quel artiste ?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": [
+      "Donatello",
+      "Constantin Brâncuși",
+      "Henry Moore"
+    ]
+  },
+  {
+    "question": "Quel peintre norvégien est l'auteur du célèbre tableau expressionniste 'Le Cri' ?",
+    "correct_answer": "Edvard Munch",
+    "incorrect_answers": [
+      "Gustav Klimt",
+      "Egon Schiele",
+      "Franz Marc"
+    ]
+  },
+  {
+    "question": "Quel musée de New York est célèbre pour sa collection d'art moderne et contemporain ?",
+    "correct_answer": "Le MoMA (Museum of Modern Art)",
+    "incorrect_answers": [
+      "Le Metropolitan Museum of Art",
+      "Le Guggenheim Museum",
+      "Le Whitney Museum"
+    ]
+  },
+  {
+    "question": "Quel chef-d'œuvre de Léonard de Vinci représente le dernier repas de Jésus avec ses disciples ?",
+    "correct_answer": "La Cène",
+    "incorrect_answers": [
+      "La Joconde",
+      "La Naissance de Vénus",
+      "Le Jardin des délices"
+    ]
+  },
+  {
+    "question": "Quelle célèbre sculpture antique sans bras est exposée au musée du Louvre ?",
+    "correct_answer": "La Vénus de Milo",
+    "incorrect_answers": [
+      "La Victoire de Samothrace",
+      "Le David de Michel-Ange",
+      "Le Discobole"
+    ]
+  },
+  {
+    "question": "Quel est le nom du mouvement artistique où les images sont créées à partir de petits points de couleur juxtaposés ?",
+    "correct_answer": "Le Pointillisme",
+    "incorrect_answers": [
+      "Le Fauvisme",
+      "Le Symbolisme",
+      "Le Réalisme"
+    ]
+  },
+  {
+    "question": "Quel peintre impressionniste français est célèbre pour ses scènes de danse et ses portraits féminins, comme 'Le Déjeuner des canotiers' ?",
+    "correct_answer": "Auguste Renoir",
+    "incorrect_answers": [
+      "Edgar Degas",
+      "Camille Pissarro",
+      "Alfred Sisley"
+    ]
+  },
+  {
+    "question": "Quel mausolée indien de marbre blanc est considéré comme l'un des plus beaux exemples de l'architecture moghole ?",
+    "correct_answer": "Le Taj Mahal",
+    "incorrect_answers": [
+      "Le Palais du Potala",
+      "Le Temple d'Or",
+      "La Grande Muraille"
+    ]
+  },
+  {
+    "question": "Quel type d'art ne représente pas des objets ou des figures de la réalité observable ?",
+    "correct_answer": "L'art abstrait",
+    "incorrect_answers": [
+      "L'art figuratif",
+      "L'art réaliste",
+      "L'art hyperréaliste"
+    ]
+  },
+  {
+    "question": "Qui est l'artiste derrière la célèbre peinture de la Renaissance 'La Naissance de Vénus' ?",
+    "correct_answer": "Sandro Botticelli",
+    "incorrect_answers": [
+      "Andrea Mantegna",
+      "Paolo Uccello",
+      "Giovanni Bellini"
+    ]
+  },
+  {
+    "question": "Quel musée à Bilbao est célèbre pour son architecture futuriste en titane, conçue par Frank Gehry ?",
+    "correct_answer": "Le musée Guggenheim de Bilbao",
+    "incorrect_answers": [
+      "Le musée du Prado",
+      "Le musée Reina Sofía",
+      "Le Palais de la Musique Catalane"
+    ]
+  },
+  {
+    "question": "Quelle statue colossale en marbre de Michel-Ange représente le héros biblique David ?",
+    "correct_answer": "David",
+    "incorrect_answers": [
+      "Moïse",
+      "La Pietà",
+      "Persée"
+    ]
+  },
+  {
+    "question": "Quel terme désigne l'art créé dans des espaces publics, souvent de manière illégale, comme les graffitis et les fresques murales ?",
+    "correct_answer": "Le Street Art",
+    "incorrect_answers": [
+      "L'art conceptuel",
+      "L'art cinétique",
+      "L'art numérique"
+    ]
+  },
+  {
+    "question": "Quel tableau monumental de Picasso dénonce les horreurs de la guerre civile espagnole ?",
+    "correct_answer": "Guernica",
+    "incorrect_answers": [
+      "Les Demoiselles d'Avignon",
+      "La Vie",
+      "Le Rêve"
+    ]
+  },
+  {
+    "question": "Quelles structures monumentales de l'Égypte antique servaient de tombeaux aux pharaons ?",
+    "correct_answer": "Les pyramides de Gizeh",
+    "incorrect_answers": [
+      "Les temples d'Abou Simbel",
+      "Les mastabas",
+      "Les obélisques de Louxor"
+    ]
+  }
+]

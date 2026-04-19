@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel pays a pour capitale Wellington ?",
+    "correct_answer": "La Nouvelle-Zélande",
+    "incorrect_answers": [
+      "L'Australie",
+      "L'Irlande",
+      "Le Chili"
+    ]
+  },
+  {
+    "question": "Quel est le plus long fleuve d'Amérique du Sud ?",
+    "correct_answer": "L'Amazone",
+    "incorrect_answers": [
+      "Le Paraná",
+      "L'Orénoque",
+      "Le Magdalena"
+    ]
+  },
+  {
+    "question": "Dans quelle chaîne de montagnes se situe le Mont Blanc ?",
+    "correct_answer": "Les Alpes",
+    "incorrect_answers": [
+      "Les Pyrénées",
+      "Les Carpates",
+      "Les Appalaches"
+    ]
+  },
+  {
+    "question": "Quelle mer sépare l'Europe de l'Afrique et baigne l'Italie ?",
+    "correct_answer": "La mer Méditerranée",
+    "incorrect_answers": [
+      "La mer Noire",
+      "La mer Rouge",
+      "La mer du Nord"
+    ]
+  },
+  {
+    "question": "Quel continent est le plus sec et abrite le désert d'Atacama ?",
+    "correct_answer": "L'Amérique du Sud",
+    "incorrect_answers": [
+      "L'Afrique",
+      "L'Australie",
+      "L'Asie"
+    ]
+  },
+  {
+    "question": "Quel est le lac le plus profond du monde ?",
+    "correct_answer": "Le lac Baïkal",
+    "incorrect_answers": [
+      "Le lac Supérieur",
+      "La mer Caspienne",
+      "Le lac Tanganyika"
+    ]
+  },
+  {
+    "question": "Quel pays partage la plus longue frontière terrestre avec la Chine ?",
+    "correct_answer": "La Mongolie",
+    "incorrect_answers": [
+      "L'Inde",
+      "La Russie",
+      "Le Kazakhstan"
+    ]
+  },
+  {
+    "question": "Sur quel fleuve est située la capitale britannique, Londres ?",
+    "correct_answer": "La Tamise",
+    "incorrect_answers": [
+      "La Seine",
+      "Le Rhin",
+      "Le Danube"
+    ]
+  },
+  {
+    "question": "À quel pays appartient l'île de la Tasmanie ?",
+    "correct_answer": "L'Australie",
+    "incorrect_answers": [
+      "La Nouvelle-Zélande",
+      "L'Indonésie",
+      "Le Royaume-Uni"
+    ]
+  },
+  {
+    "question": "Quel est le plus haut sommet d'Afrique ?",
+    "correct_answer": "Le Kilimandjaro",
+    "incorrect_answers": [
+      "Le Mont Kenya",
+      "Le Mont Toubkal",
+      "Le Ras Dashen"
+    ]
+  },
+  {
+    "question": "Dans quel continent se trouve le désert du Sahara ?",
+    "correct_answer": "L'Afrique",
+    "incorrect_answers": [
+      "L'Asie",
+      "L'Australie",
+      "L'Amérique du Sud"
+    ]
+  },
+  {
+    "question": "Quel détroit relie l'océan Atlantique à la mer Méditerranée ?",
+    "correct_answer": "Le détroit de Gibraltar",
+    "incorrect_answers": [
+      "Le détroit de Béring",
+      "Le détroit de Magellan",
+      "Le détroit de Malacca"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de l'Argentine ?",
+    "correct_answer": "Buenos Aires",
+    "incorrect_answers": [
+      "Santiago",
+      "Rio de Janeiro",
+      "Lima"
+    ]
+  },
+  {
+    "question": "Dans quel continent coule le fleuve Yangtsé ?",
+    "correct_answer": "L'Asie",
+    "incorrect_answers": [
+      "L'Europe",
+      "L'Amérique du Nord",
+      "L'Afrique"
+    ]
+  },
+  {
+    "question": "Quelle est la plus grande étendue d'eau intérieure du monde ?",
+    "correct_answer": "La mer Caspienne",
+    "incorrect_answers": [
+      "Le lac Supérieur",
+      "Le lac Victoria",
+      "Le Grand Lac Salé"
+    ]
+  },
+  {
+    "question": "Dans quel pays se trouve le volcan Fuji-san ?",
+    "correct_answer": "Le Japon",
+    "incorrect_answers": [
+      "L'Indonésie",
+      "Les Philippines",
+      "La Nouvelle-Zélande"
+    ]
+  },
+  {
+    "question": "Quel continent abrite le mont Everest ?",
+    "correct_answer": "L'Asie",
+    "incorrect_answers": [
+      "L'Europe",
+      "L'Amérique du Sud",
+      "L'Afrique"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand pays enclavé du monde ?",
+    "correct_answer": "Le Kazakhstan",
+    "incorrect_answers": [
+      "La Mongolie",
+      "L'Éthiopie",
+      "Le Tchad"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale du Pérou ?",
+    "correct_answer": "Lima",
+    "incorrect_answers": [
+      "Bogota",
+      "Quito",
+      "La Paz"
+    ]
+  },
+  {
+    "question": "Dans quelle mer le fleuve Danube se jette-t-il ?",
+    "correct_answer": "La mer Noire",
+    "incorrect_answers": [
+      "La mer Baltique",
+      "La mer Adriatique",
+      "La mer Égée"
+    ]
+  },
+  {
+    "question": "Quel est le plus petit océan du monde ?",
+    "correct_answer": "L'océan Arctique",
+    "incorrect_answers": [
+      "L'océan Indien",
+      "L'océan Atlantique",
+      "L'océan Pacifique"
+    ]
+  },
+  {
+    "question": "Dans quel continent se situent les montagnes Rocheuses ?",
+    "correct_answer": "L'Amérique du Nord",
+    "incorrect_answers": [
+      "L'Amérique du Sud",
+      "L'Europe",
+      "L'Asie"
+    ]
+  },
+  {
+    "question": "Quel pays est composé de plus de 17 000 îles ?",
+    "correct_answer": "L'Indonésie",
+    "incorrect_answers": [
+      "Les Philippines",
+      "Le Japon",
+      "La Malaisie"
+    ]
+  },
+  {
+    "question": "Quelle est la fosse océanique la plus profonde du monde ?",
+    "correct_answer": "La fosse des Mariannes",
+    "incorrect_answers": [
+      "La fosse de Porto Rico",
+      "La fosse des Tonga",
+      "La fosse de Kermadec"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de la République Tchèque ?",
+    "correct_answer": "Prague",
+    "incorrect_answers": [
+      "Budapest",
+      "Varsovie",
+      "Bratislava"
+    ]
+  },
+  {
+    "question": "Quel fleuve traverse l'Égypte et est essentiel à son histoire ?",
+    "correct_answer": "Le Nil",
+    "incorrect_answers": [
+      "L'Euphrate",
+      "Le Tigre",
+      "Le Jourdain"
+    ]
+  },
+  {
+    "question": "Quel est le plus petit continent en termes de superficie terrestre ?",
+    "correct_answer": "L'Australie",
+    "incorrect_answers": [
+      "L'Antarctique",
+      "L'Europe",
+      "L'Amérique du Sud"
+    ]
+  },
+  {
+    "question": "Où se situe le Grand Canyon ?",
+    "correct_answer": "Aux États-Unis",
+    "incorrect_answers": [
+      "Au Canada",
+      "Au Mexique",
+      "En Australie"
+    ]
+  },
+  {
+    "question": "Quelle mer est bordée par l'Arabie Saoudite, l'Égypte et le Soudan ?",
+    "correct_answer": "La mer Rouge",
+    "incorrect_answers": [
+      "Le golfe Persique",
+      "La mer d'Oman",
+      "La mer Méditerranée"
+    ]
+  },
+  {
+    "question": "Sur quel fleuve est construite la ville de Rome ?",
+    "correct_answer": "Le Tibre",
+    "incorrect_answers": [
+      "L'Arno",
+      "Le Pô",
+      "L'Èbre"
+    ]
+  }
+]

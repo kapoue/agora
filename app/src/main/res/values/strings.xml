@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Agora</string>
+    <string name="app_tagline">Dans la Grèce antique, l\'agora était le lieu de rassemblement, d\'échange et de savoir.</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="source_questions">Questions : Open Trivia Database</string>
+    <string name="source_photos">Photos : Unsplash</string>
+    <string name="difficulty_beginner">Débutant</string>
+    <string name="difficulty_medium">Moyen</string>
+    <string name="difficulty_expert">Expert</string>
+    <string name="next_question">Suivant</string>
+    <string name="correct_answer_was">La bonne réponse était : </string>
+    <string name="level">Niveau %1$d</string>
+    <string name="loading">Chargement…</string>
+    <string name="back">Retour</string>
+    <string name="home">Accueil</string>
+    <string name="about">À propos</string>
+</resources>

@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quelle est la principale fonction des mitochondries dans une cellule eucaryote ?",
+    "correct_answer": "Production d'énergie sous forme d'ATP",
+    "incorrect_answers": [
+      "Synthèse des protéines",
+      "Stockage de l'information génétique",
+      "Détoxification cellulaire"
+    ]
+  },
+  {
+    "question": "Quelle est la planète la plus chaude de notre système solaire ?",
+    "correct_answer": "Vénus",
+    "incorrect_answers": [
+      "Mercure",
+      "Mars",
+      "Jupiter"
+    ]
+  },
+  {
+    "question": "Quel phénomène optique est responsable de la séparation de la lumière blanche en un spectre de couleurs lorsqu'elle traverse un prisme ?",
+    "correct_answer": "La dispersion",
+    "incorrect_answers": [
+      "La diffraction",
+      "La réflexion",
+      "La réfraction"
+    ]
+  },
+  {
+    "question": "Quel est le symbole chimique de l'élément le plus abondant dans l'atmosphère terrestre ?",
+    "correct_answer": "N₂",
+    "incorrect_answers": [
+      "O₂",
+      "CO₂",
+      "Ar"
+    ]
+  },
+  {
+    "question": "Qui est l'auteur de l'ouvrage 'L'Origine des espèces' exposant la théorie de la sélection naturelle ?",
+    "correct_answer": "Charles Darwin",
+    "incorrect_answers": [
+      "Gregor Mendel",
+      "Jean-Baptiste Lamarck",
+      "Alfred Russel Wallace"
+    ]
+  },
+  {
+    "question": "Quel vaccin a été découvert par Edward Jenner, marquant une étape majeure en immunologie ?",
+    "correct_answer": "Le vaccin contre la variole",
+    "incorrect_answers": [
+      "Le vaccin contre la rage",
+      "Le vaccin contre la poliomyélite",
+      "Le vaccin contre la grippe"
+    ]
+  },
+  {
+    "question": "Quel gaz à effet de serre est principalement produit par les activités humaines et contribue le plus au réchauffement climatique ?",
+    "correct_answer": "Dioxyde de carbone (CO₂)",
+    "incorrect_answers": [
+      "Méthane (CH₄)",
+      "Protoxyde d'azote (N₂O)",
+      "Vapeur d'eau (H₂O)"
+    ]
+  },
+  {
+    "question": "Quelle unité mesure la résistance électrique ?",
+    "correct_answer": "L'Ohm",
+    "incorrect_answers": [
+      "Le Volt",
+      "L'Ampère",
+      "Le Watt"
+    ]
+  },
+  {
+    "question": "Quel processus permet aux plantes de convertir l'énergie lumineuse en énergie chimique ?",
+    "correct_answer": "La photosynthèse",
+    "incorrect_answers": [
+      "La respiration cellulaire",
+      "La transpiration",
+      "L'osmose"
+    ]
+  },
+  {
+    "question": "Quel est le terme désignant l'explosion d'une étoile massive en fin de vie, qui libère une quantité immense d'énergie ?",
+    "correct_answer": "Supernova",
+    "incorrect_answers": [
+      "Nova",
+      "Naine blanche",
+      "Trou noir"
+    ]
+  },
+  {
+    "question": "Sur l'échelle de pH, quelle valeur indique une solution neutre à 25°C ?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "0",
+      "14",
+      "3"
+    ]
+  },
+  {
+    "question": "Quel scientifique a formulé la loi de la relativité restreinte et générale ?",
+    "correct_answer": "Albert Einstein",
+    "incorrect_answers": [
+      "Isaac Newton",
+      "Max Planck",
+      "Niels Bohr"
+    ]
+  },
+  {
+    "question": "Quelle structure cellulaire contient l'ADN et est le centre de contrôle de la cellule ?",
+    "correct_answer": "Le noyau",
+    "incorrect_answers": [
+      "Le cytoplasme",
+      "La mitochondrie",
+      "Le réticulum endoplasmique"
+    ]
+  },
+  {
+    "question": "Quelle est la principale cause de l'appauvrissement de la couche d'ozone ?",
+    "correct_answer": "Les chlorofluorocarbones (CFC)",
+    "incorrect_answers": [
+      "Le dioxyde de carbone",
+      "Les oxydes d'azote",
+      "Le méthane"
+    ]
+  },
+  {
+    "question": "Dans quel milieu le son se propage-t-il le plus rapidement ?",
+    "correct_answer": "Solides",
+    "incorrect_answers": [
+      "Liquides",
+      "Gaz",
+      "Vide"
+    ]
+  },
+  {
+    "question": "Quel est le composé organique le plus simple contenant uniquement du carbone et de l'hydrogène ?",
+    "correct_answer": "Le méthane",
+    "incorrect_answers": [
+      "L'éthanol",
+      "Le glucose",
+      "Le benzène"
+    ]
+  },
+  {
+    "question": "Quel est le nom du télescope spatial qui a révolutionné notre compréhension de l'univers avec ses images détaillées ?",
+    "correct_answer": "Hubble",
+    "incorrect_answers": [
+      "James Webb",
+      "Kepler",
+      "Chandra"
+    ]
+  },
+  {
+    "question": "Quel est l'organe du corps humain responsable de la production d'insuline ?",
+    "correct_answer": "Le pancréas",
+    "incorrect_answers": [
+      "Le foie",
+      "Les reins",
+      "La thyroïde"
+    ]
+  },
+  {
+    "question": "Dans la classification scientifique des êtres vivants, quelle est la catégorie la plus spécifique juste au-dessus de l'espèce ?",
+    "correct_answer": "Le genre",
+    "incorrect_answers": [
+      "La famille",
+      "L'ordre",
+      "Le règne"
+    ]
+  },
+  {
+    "question": "Quel principe stipule que l'énergie ne peut être ni créée ni détruite, seulement transformée ?",
+    "correct_answer": "Le principe de conservation de l'énergie",
+    "incorrect_answers": [
+      "Le principe d'incertitude",
+      "La loi de gravitation universelle",
+      "Le principe de Pascal"
+    ]
+  },
+  {
+    "question": "Quel est le processus par lequel un solide passe directement à l'état gazeux sans passer par l'état liquide ?",
+    "correct_answer": "La sublimation",
+    "incorrect_answers": [
+      "La fusion",
+      "La vaporisation",
+      "La condensation"
+    ]
+  },
+  {
+    "question": "Qui a découvert la pénicilline, le premier antibiotique largement utilisé ?",
+    "correct_answer": "Alexander Fleming",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Jonas Salk"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand volcan connu du système solaire, situé sur Mars ?",
+    "correct_answer": "Olympus Mons",
+    "incorrect_answers": [
+      "Mont Everest",
+      "Valles Marineris",
+      "Caloris Basin"
+    ]
+  },
+  {
+    "question": "Quelle partie du cerveau est principalement responsable de la coordination des mouvements et de l'équilibre ?",
+    "correct_answer": "Le cervelet",
+    "incorrect_answers": [
+      "Le cerveau antérieur",
+      "Le tronc cérébral",
+      "Le thalamus"
+    ]
+  },
+  {
+    "question": "Quel terme désigne la variété de la vie sur Terre, à tous les niveaux, des gènes aux écosystèmes ?",
+    "correct_answer": "La biodiversité",
+    "incorrect_answers": [
+      "L'écologie",
+      "La biomasse",
+      "L'évolution"
+    ]
+  },
+  {
+    "question": "Quel composant électronique est utilisé pour stocker de l'énergie électrique sous forme de champ électrique ?",
+    "correct_answer": "Le condensateur",
+    "incorrect_answers": [
+      "La résistance",
+      "La bobine",
+      "La diode"
+    ]
+  },
+  {
+    "question": "Quel groupe d'éléments du tableau périodique est caractérisé par sa faible réactivité chimique et son état gazeux à température ambiante ?",
+    "correct_answer": "Les gaz nobles",
+    "incorrect_answers": [
+      "Les métaux alcalins",
+      "Les halogènes",
+      "Les terres rares"
+    ]
+  },
+  {
+    "question": "Quelles cellules rétiniennes sont responsables de la vision en basse lumière (vision nocturne) ?",
+    "correct_answer": "Les bâtonnets",
+    "incorrect_answers": [
+      "Les cônes",
+      "Les cellules ganglionnaires",
+      "Les cellules bipolaires"
+    ]
+  },
+  {
+    "question": "Quel est le nom du modèle cosmologique dominant qui décrit l'origine et l'évolution de l'univers ?",
+    "correct_answer": "Le Big Bang",
+    "incorrect_answers": [
+      "L'état stationnaire",
+      "L'expansion éternelle",
+      "Le Multivers"
+    ]
+  },
+  {
+    "question": "Qui est généralement créditée de l'invention du premier algorithme destiné à être exécuté par une machine ?",
+    "correct_answer": "Ada Lovelace",
+    "incorrect_answers": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann"
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quelle technologie de moteur, bien que moins courante aujourd'hui, est associée à une meilleure répartition du poids grâce à l'absence de vilebrequin ?",
+    "correct_answer": "Moteur rotatif (Wankel)",
+    "incorrect_answers": [
+      "Moteur à plat (Boxer)",
+      "Moteur en V",
+      "Moteur en ligne"
+    ]
+  },
+  {
+    "question": "Qui a réalisé le premier vol transatlantique en solitaire et sans escale en 1927 ?",
+    "correct_answer": "Charles Lindbergh",
+    "incorrect_answers": [
+      "Amelia Earhart",
+      "Louis Blériot",
+      "Howard Hughes"
+    ]
+  },
+  {
+    "question": "Quel est le nom du célèbre navire qui a sombré lors de son voyage inaugural en 1912 après avoir heurté un iceberg ?",
+    "correct_answer": "Titanic",
+    "incorrect_answers": [
+      "Lusitania",
+      "Britannic",
+      "Queen Mary"
+    ]
+  },
+  {
+    "question": "Quel type de train utilise la lévitation magnétique pour se déplacer au-dessus des rails, réduisant ainsi la friction ?",
+    "correct_answer": "Maglev",
+    "incorrect_answers": [
+      "Train à crémaillère",
+      "TGV",
+      "Locomotion Diesel"
+    ]
+  },
+  {
+    "question": "Quel équipement de sécurité automobile est conçu pour empêcher les roues de se bloquer lors d'un freinage d'urgence ?",
+    "correct_answer": "ABS (Système anti-blocage des roues)",
+    "incorrect_answers": [
+      "ESP (Contrôle de stabilité)",
+      "Airbag",
+      "Régulateur de vitesse"
+    ]
+  },
+  {
+    "question": "Quel est le nom donné aux avions dont la sustentation est assurée principalement par un rotor tournant au-dessus du fuselage ?",
+    "correct_answer": "Hélicoptère",
+    "incorrect_answers": [
+      "Avion de chasse",
+      "Hydravion",
+      "Planeur"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'ingénieur allemand souvent considéré comme l'inventeur de la première automobile à moteur à combustion interne en 1886 ?",
+    "correct_answer": "Karl Benz",
+    "incorrect_answers": [
+      "Henry Ford",
+      "Rudolf Diesel",
+      "Gottlieb Daimler"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on un sous-marin propulsé par un réacteur nucléaire, permettant une très longue autonomie en plongée ?",
+    "correct_answer": "Sous-marin nucléaire",
+    "incorrect_answers": [
+      "Bathyscaphe",
+      "Navire porte-conteneurs",
+      "Frégate"
+    ]
+  },
+  {
+    "question": "Quelle nation a été la première à développer un réseau ferroviaire à grande vitesse avec ses trains \"Shinkansen\" ?",
+    "correct_answer": "Japon",
+    "incorrect_answers": [
+      "France",
+      "Allemagne",
+      "États-Unis"
+    ]
+  },
+  {
+    "question": "Quel constructeur automobile est célèbre pour ses modèles 911 et a son siège social à Stuttgart, en Allemagne ?",
+    "correct_answer": "Porsche",
+    "incorrect_answers": [
+      "Ferrari",
+      "Lamborghini",
+      "Aston Martin"
+    ]
+  },
+  {
+    "question": "Quel avion commercial supersonique a été retiré du service en 2003, marquant la fin de l'ère des vols commerciaux ultra-rapides ?",
+    "correct_answer": "Concorde",
+    "incorrect_answers": [
+      "Tupolev Tu-144",
+      "Boeing 747",
+      "Airbus A380"
+    ]
+  },
+  {
+    "question": "Quelle partie d'un navire est spécifiquement conçue pour stabiliser la coque et éviter le roulis excessif ?",
+    "correct_answer": "Quille",
+    "incorrect_answers": [
+      "Mât",
+      "Gouvernail",
+      "Hélice"
+    ]
+  },
+  {
+    "question": "Quel pays détient le record du monde de vitesse sur rail pour un train commercial sur roues, atteint par le TGV ?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "Japon",
+      "Chine",
+      "Allemagne"
+    ]
+  },
+  {
+    "question": "Quel ingénieur allemand est l'inventeur du moteur à allumage par compression qui porte son nom ?",
+    "correct_answer": "Rudolf Diesel",
+    "incorrect_answers": [
+      "Nikolaus Otto",
+      "James Watt",
+      "Ettore Bugatti"
+    ]
+  },
+  {
+    "question": "Quel est le nom du carburant composé principalement de méthane, de plus en plus utilisé comme alternative à l'essence ou au diesel ?",
+    "correct_answer": "Gaz naturel pour véhicules (GNV)",
+    "incorrect_answers": [
+      "GPL (Gaz de pétrole liquéfié)",
+      "Éthanol",
+      "Hydrogène"
+    ]
+  },
+  {
+    "question": "Comment s'appelle la force aérodynamique qui s'oppose à l'avancement d'un avion et qui doit être compensée par la poussée ?",
+    "correct_answer": "Traînée",
+    "incorrect_answers": [
+      "Portance",
+      "Poussée",
+      "Gravité"
+    ]
+  },
+  {
+    "question": "Quel instrument de navigation est utilisé pour mesurer la profondeur de l'eau sous la quille d'un navire ?",
+    "correct_answer": "Sondeur",
+    "incorrect_answers": [
+      "Compas",
+      "Sextant",
+      "Radar"
+    ]
+  },
+  {
+    "question": "Quel était le type de locomotive le plus répandu avant l'avènement des moteurs diesel et électriques ?",
+    "correct_answer": "Locomotive à vapeur",
+    "incorrect_answers": [
+      "Locotracteur",
+      "Rame automotrice",
+      "Tramway"
+    ]
+  },
+  {
+    "question": "Quelle est la course automobile la plus ancienne encore disputée, célèbre pour ses 24 heures d'endurance ?",
+    "correct_answer": "Les 24 Heures du Mans",
+    "incorrect_answers": [
+      "Le Grand Prix de Monaco",
+      "L'Indianapolis 500",
+      "Le Rallye Dakar"
+    ]
+  },
+  {
+    "question": "Quelle partie de l'aile d'un avion est utilisée pour augmenter la portance à basse vitesse, notamment au décollage et à l'atterrissage ?",
+    "correct_answer": "Volet (Flap)",
+    "incorrect_answers": [
+      "Aileron",
+      "Spolier",
+      "Dérive"
+    ]
+  },
+  {
+    "question": "Quel célèbre paquebot britannique fut le premier à traverser l'Atlantique en moins de dix jours en 1838 ?",
+    "correct_answer": "Great Western",
+    "incorrect_answers": [
+      "Queen Mary 2",
+      "USS Enterprise",
+      "SS Savannah"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on le système qui permet de contrôler la circulation des trains et d'assurer leur espacement en toute sécurité ?",
+    "correct_answer": "Signalisation ferroviaire",
+    "incorrect_answers": [
+      "Caténaire",
+      "Ballast",
+      "Rail unique"
+    ]
+  },
+  {
+    "question": "Quel constructeur automobile est généralement crédité d'avoir lancé la première voiture de série hybride essence-électrique à grande échelle ?",
+    "correct_answer": "Toyota (avec la Prius)",
+    "incorrect_answers": [
+      "Honda",
+      "Ford",
+      "Tesla"
+    ]
+  },
+  {
+    "question": "Quel est l'avion le plus rapide du monde jamais construit, capable d'atteindre Mach 3+ ?",
+    "correct_answer": "SR-71 Blackbird",
+    "incorrect_answers": [
+      "F-22 Raptor",
+      "Mig-25 Foxbat",
+      "X-15"
+    ]
+  },
+  {
+    "question": "Quelle est la célèbre régate internationale où s'affrontent des voiliers monocoques ou multicoques, souvent pour la plus ancienne coupe sportive ?",
+    "correct_answer": "Coupe de l'America",
+    "incorrect_answers": [
+      "Vendée Globe",
+      "Route du Rhum",
+      "Fastnet Race"
+    ]
+  },
+  {
+    "question": "Quel pays est le berceau du TGV (Train à Grande Vitesse), dont la première ligne commerciale fut ouverte en 1981 ?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "Allemagne",
+      "Italie",
+      "Royaume-Uni"
+    ]
+  },
+  {
+    "question": "Quelle pièce d'un moteur transmet le mouvement de rotation des pistons au vilebrequin ?",
+    "correct_answer": "Bielle",
+    "incorrect_answers": [
+      "Arbre à cames",
+      "Soupape",
+      "Bougie d'allumage"
+    ]
+  },
+  {
+    "question": "Quel principe physique explique comment l'air circule plus vite au-dessus de l'aile qu'en dessous, créant ainsi une force de portance ?",
+    "correct_answer": "Principe de Bernoulli",
+    "incorrect_answers": [
+      "Loi de Newton",
+      "Loi d'Archimède",
+      "Effet Venturi"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on la partie avant d'un navire, qui fend l'eau ?",
+    "correct_answer": "Proue",
+    "incorrect_answers": [
+      "Poupe",
+      "Tribord",
+      "Bâbord"
+    ]
+  },
+  {
+    "question": "Quelle est l'invention majeure de Nikolaus Otto qui a révolutionné les transports et les industries au 19ème siècle ?",
+    "correct_answer": "Le moteur à explosion à quatre temps",
+    "incorrect_answers": [
+      "La locomotive à vapeur",
+      "Le moteur électrique",
+      "La turbine à gaz"
+    ]
+  }
+]

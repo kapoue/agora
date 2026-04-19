@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel animal est connu pour son pelage blanc et sa capacité à vivre dans les régions polaires ?",
+    "correct_answer": "L'ours polaire",
+    "incorrect_answers": [
+      "L'ours brun",
+      "Le panda géant",
+      "Le koala"
+    ]
+  },
+  {
+    "question": "Quel mammifère est capable de voler grâce à des membranes tendues entre ses doigts et son corps ?",
+    "correct_answer": "La chauve-souris",
+    "incorrect_answers": [
+      "L'écureuil volant",
+      "La souris",
+      "L'oiseau"
+    ]
+  },
+  {
+    "question": "Les serpents et les lézards appartiennent à quelle catégorie d'animaux ?",
+    "correct_answer": "Les reptiles",
+    "incorrect_answers": [
+      "Les amphibiens",
+      "Les poissons",
+      "Les insectes"
+    ]
+  },
+  {
+    "question": "Quel est l'animal terrestre le plus rapide ?",
+    "correct_answer": "Le guépard",
+    "incorrect_answers": [
+      "Le lion",
+      "La gazelle",
+      "L'autruche"
+    ]
+  },
+  {
+    "question": "Quel animal est connu pour manger principalement du bambou ?",
+    "correct_answer": "Le panda géant",
+    "incorrect_answers": [
+      "Le koala",
+      "L'ours brun",
+      "Le kangourou"
+    ]
+  },
+  {
+    "question": "Quel animal a une carapace rigide et se déplace très lentement ?",
+    "correct_answer": "La tortue",
+    "incorrect_answers": [
+      "Le serpent",
+      "Le lézard",
+      "Le crocodile"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on un groupe de lions ?",
+    "correct_answer": "Une fierté",
+    "incorrect_answers": [
+      "Un troupeau",
+      "Une meute",
+      "Un banc"
+    ]
+  },
+  {
+    "question": "Quel animal est célèbre pour son rugissement puissant et est surnommé le 'roi de la jungle' ?",
+    "correct_answer": "Le lion",
+    "incorrect_answers": [
+      "Le tigre",
+      "Le loup",
+      "L'ours"
+    ]
+  },
+  {
+    "question": "Dans quel type d'environnement vit le poisson clown, célèbre pour son association avec les anémones ?",
+    "correct_answer": "Les récifs coralliens",
+    "incorrect_answers": [
+      "Les rivières",
+      "Les lacs d'eau douce",
+      "L'océan Arctique"
+    ]
+  },
+  {
+    "question": "Quel animal marin effectue de très longues migrations entre les eaux froides et chaudes pour se reproduire ?",
+    "correct_answer": "La baleine",
+    "incorrect_answers": [
+      "Le dauphin",
+      "Le requin",
+      "Le thon"
+    ]
+  },
+  {
+    "question": "Quel animal possède une longue trompe qu'il utilise pour respirer, boire et attraper des objets ?",
+    "correct_answer": "L'éléphant",
+    "incorrect_answers": [
+      "La girafe",
+      "Le rhinocéros",
+      "L'hippopotame"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand mammifère terrestre ?",
+    "correct_answer": "L'éléphant d'Afrique",
+    "incorrect_answers": [
+      "La girafe",
+      "L'ours polaire",
+      "Le rhinocéros blanc"
+    ]
+  },
+  {
+    "question": "Les grenouilles et les crapauds sont des exemples de quelle classe d'animaux ?",
+    "correct_answer": "Les amphibiens",
+    "incorrect_answers": [
+      "Les reptiles",
+      "Les poissons",
+      "Les insectes"
+    ]
+  },
+  {
+    "question": "Quel oiseau est connu pour sa capacité à imiter la parole humaine ?",
+    "correct_answer": "Le perroquet",
+    "incorrect_answers": [
+      "Le corbeau",
+      "Le moineau",
+      "Le pic-vert"
+    ]
+  },
+  {
+    "question": "Quel est l'animal le plus grand du monde, vivant dans l'océan ?",
+    "correct_answer": "La baleine bleue",
+    "incorrect_answers": [
+      "Le requin-baleine",
+      "Le calmar géant",
+      "Le cachalot"
+    ]
+  },
+  {
+    "question": "Quel animal est herbivore et se nourrit principalement d'eucalyptus en Australie ?",
+    "correct_answer": "Le koala",
+    "incorrect_answers": [
+      "Le kangourou",
+      "Le panda géant",
+      "Le wombat"
+    ]
+  },
+  {
+    "question": "Quel insecte produit du miel ?",
+    "correct_answer": "L'abeille",
+    "incorrect_answers": [
+      "La fourmi",
+      "La guêpe",
+      "Le moustique"
+    ]
+  },
+  {
+    "question": "Quel animal possède une poche ventrale pour transporter ses petits ?",
+    "correct_answer": "Le kangourou",
+    "incorrect_answers": [
+      "Le renard",
+      "Le singe",
+      "Le lapin"
+    ]
+  },
+  {
+    "question": "Quel oiseau ne peut pas voler mais est connu pour sa rapidité à la course ?",
+    "correct_answer": "L'autruche",
+    "incorrect_answers": [
+      "Le manchot",
+      "Le cygne",
+      "Le dodo"
+    ]
+  },
+  {
+    "question": "Dans quel continent vivent naturellement les tigres ?",
+    "correct_answer": "L'Asie",
+    "incorrect_answers": [
+      "L'Afrique",
+      "L'Amérique du Sud",
+      "L'Australie"
+    ]
+  },
+  {
+    "question": "Quel animal est un mammifère marin, connu pour son intelligence et son sonar naturel ?",
+    "correct_answer": "Le dauphin",
+    "incorrect_answers": [
+      "Le phoque",
+      "Le requin",
+      "Le morse"
+    ]
+  },
+  {
+    "question": "Quel animal dort suspendu la tête en bas ?",
+    "correct_answer": "La chauve-souris",
+    "incorrect_answers": [
+      "Le paresseux",
+      "Le singe",
+      "L'écureuil"
+    ]
+  },
+  {
+    "question": "Quel est le seul oiseau capable de voler en arrière ?",
+    "correct_answer": "Le colibri",
+    "incorrect_answers": [
+      "Le moineau",
+      "Le faucon",
+      "L'hirondelle"
+    ]
+  },
+  {
+    "question": "Les escargots et les limaces appartiennent à quel groupe d'animaux ?",
+    "correct_answer": "Les mollusques",
+    "incorrect_answers": [
+      "Les insectes",
+      "Les vers",
+      "Les crustacés"
+    ]
+  },
+  {
+    "question": "Quel animal est un grand félin avec des rayures noires sur un pelage orange ?",
+    "correct_answer": "Le tigre",
+    "incorrect_answers": [
+      "Le lion",
+      "Le léopard",
+      "Le guépard"
+    ]
+  },
+  {
+    "question": "Quel animal est connu pour sa capacité à changer de couleur pour se camoufler ?",
+    "correct_answer": "Le caméléon",
+    "incorrect_answers": [
+      "Le serpent",
+      "Le lézard",
+      "La grenouille"
+    ]
+  },
+  {
+    "question": "Quel est l'habitat naturel des ours polaires ?",
+    "correct_answer": "La banquise et l'Arctique",
+    "incorrect_answers": [
+      "Les déserts",
+      "Les forêts tropicales",
+      "Les savanes"
+    ]
+  },
+  {
+    "question": "Quel animal est un carnivore qui vit en meute et est célèbre pour ses hurlements ?",
+    "correct_answer": "Le loup",
+    "incorrect_answers": [
+      "Le renard",
+      "L'ours",
+      "Le coyote"
+    ]
+  },
+  {
+    "question": "Quel animal a un long cou et est le plus grand animal terrestre ?",
+    "correct_answer": "La girafe",
+    "incorrect_answers": [
+      "L'éléphant",
+      "Le rhinocéros",
+      "L'autruche"
+    ]
+  },
+  {
+    "question": "Quel mammifère marin, souvent surnommé 'vache de mer', est herbivore et vit dans les eaux chaudes ?",
+    "correct_answer": "Le lamantin",
+    "incorrect_answers": [
+      "Le dauphin",
+      "Le phoque",
+      "La loutre de mer"
+    ]
+  }
+]

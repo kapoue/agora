@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel est le nom de la nymphe chassée par Pan, qui se transforma en roseau, dont les tiges servirent à fabriquer un instrument de musique ?",
+    "correct_answer": "Syrinx",
+    "incorrect_answers": [
+      "Daphné",
+      "Écho",
+      "Salmacis"
+    ]
+  },
+  {
+    "question": "Quel était le nom du chien à deux têtes qui gardait le troupeau de Géryon, défié par Héraclès lors de ses Douze Travaux ?",
+    "correct_answer": "Orthos",
+    "incorrect_answers": [
+      "Cerbère",
+      "Ladon",
+      "Laelaps"
+    ]
+  },
+  {
+    "question": "Qu'était censé être l'égide, le célèbre bouclier ou manteau de Zeus et Athéna, à l'origine selon certaines versions du mythe grec ?",
+    "correct_answer": "La peau de la chèvre Amalthée",
+    "incorrect_answers": [
+      "Un bouclier en bronze poli",
+      "Les écailles d'un dragon marin",
+      "La toison d'un bélier céleste"
+    ]
+  },
+  {
+    "question": "Parmi les Muses grecques, laquelle patronnait spécifiquement l'astronomie et la poésie didactique, souvent représentée avec un globe ?",
+    "correct_answer": "Uranie",
+    "incorrect_answers": [
+      "Calliope",
+      "Euterpe",
+      "Melpomène"
+    ]
+  },
+  {
+    "question": "Quel héros grec, célèbre pour avoir chevauché Pégase et terrassé la Chimère, n'était pas un demi-dieu mais un simple mortel ?",
+    "correct_answer": "Bellérophon",
+    "incorrect_answers": [
+      "Persée",
+      "Thésée",
+      "Jason"
+    ]
+  },
+  {
+    "question": "Quelle princesse ou nymphe, enlevée par Héraclès et perdue aux Enfers, fut la seule dont le héros s'éprit véritablement selon certaines versions ?",
+    "correct_answer": "Iole",
+    "incorrect_answers": [
+      "Déjanire",
+      "Mégara",
+      "Omphale"
+    ]
+  },
+  {
+    "question": "Quel était le nom du dragon à cent têtes qui gardait les pommes d'or dans le jardin des Hespérides, avant d'être vaincu par Héraclès ?",
+    "correct_answer": "Ladon",
+    "incorrect_answers": [
+      "Némée",
+      "Typhon",
+      "Python"
+    ]
+  },
+  {
+    "question": "Quel dieu romain était spécifiquement associé aux limites, aux bornes et à la propriété foncière, sans équivalent direct chez les Grecs ?",
+    "correct_answer": "Terminus",
+    "incorrect_answers": [
+      "Janus",
+      "Vertumne",
+      "Quirinus"
+    ]
+  },
+  {
+    "question": "Quel ancien dieu romain de la fertilité et des vergers se transforma en vieille femme pour séduire la nymphe Pomone, qu'il aimait ?",
+    "correct_answer": "Vertumne",
+    "incorrect_answers": [
+      "Priape",
+      "Faunus",
+      "Sylvanus"
+    ]
+  },
+  {
+    "question": "Quelle déesse romaine était la personnification de la bonne foi, de l'honnêteté et de la confiance publique, souvent représentée avec une colombe ?",
+    "correct_answer": "Fides",
+    "incorrect_answers": [
+      "Concordia",
+      "Honos",
+      "Virtus"
+    ]
+  },
+  {
+    "question": "Quel est le nom du navire, entièrement fabriqué avec les ongles des morts, qui prendra la mer au Ragnarök selon la mythologie nordique ?",
+    "correct_answer": "Naglfar",
+    "incorrect_answers": [
+      "Skidbladnir",
+      "Hringhorni",
+      "Draken"
+    ]
+  },
+  {
+    "question": "Quel est le nom du royaume où résidaient les géants de glace (Jötnar) avant la création du monde, au-delà des mers orientales ?",
+    "correct_answer": "Jötunheimr",
+    "incorrect_answers": [
+      "Muspellheim",
+      "Svartálfaheimr",
+      "Niflheimr"
+    ]
+  },
+  {
+    "question": "Qui sont les trois Nornes principales qui tissent le destin des hommes et des dieux près du puits d'Urd, au pied d'Yggdrasil ?",
+    "correct_answer": "Urd, Verdandi, Skuld",
+    "incorrect_answers": [
+      "Skadi, Idunn, Gefjon",
+      "Eir, Fulla, Sjöfn",
+      "Saga, Rán, Syn"
+    ]
+  },
+  {
+    "question": "Quel dieu Vanir fut envoyé comme otage aux Ases à la suite de la guerre entre les deux groupes divins, et devint un dieu marin ?",
+    "correct_answer": "Njörd",
+    "incorrect_answers": [
+      "Freyr",
+      "Heimdall",
+      "Kvasir"
+    ]
+  },
+  {
+    "question": "Quelle déesse égyptienne était la patronne des scribes, des bibliothèques et des annales, souvent représentée avec une étoile à sept branches ?",
+    "correct_answer": "Seshat",
+    "incorrect_answers": [
+      "Maât",
+      "Isis",
+      "Hathor"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'instrument de musique sacré, un hochet métallique, utilisé par la déesse Hathor dans ses rituels apotropaïques ?",
+    "correct_answer": "Sistre",
+    "incorrect_answers": [
+      "Ménat",
+      "Harpe",
+      "Luth"
+    ]
+  },
+  {
+    "question": "Quel est le nom du démon à tête de crocodile, corps de lion et arrière-train d'hippopotame qui dévorait les cœurs impurs des défunts en Égypte ?",
+    "correct_answer": "Ammit",
+    "incorrect_answers": [
+      "Apophis",
+      "Seth",
+      "Sobek"
+    ]
+  },
+  {
+    "question": "Quel dieu égyptien, souvent représenté avec une tête de faucon surmontée d'un disque solaire, était vénéré comme dieu de la guerre et des forges à Thèbes ?",
+    "correct_answer": "Montou",
+    "incorrect_answers": [
+      "Horus",
+      "Râ",
+      "Thot"
+    ]
+  },
+  {
+    "question": "Quelle partie du corps de Dionysos fut la seule à être sauvée par Athéna après qu'il fut démembré et dévoré par les Titans, permettant sa renaissance ?",
+    "correct_answer": "Son cœur",
+    "incorrect_answers": [
+      "Son cerveau",
+      "Ses mains",
+      "Ses yeux"
+    ]
+  },
+  {
+    "question": "Dans l'épopée de Gilgamesh, quel est le nom du sauvage, créé par les dieux pour défier le roi d'Uruk, qui devint son meilleur ami ?",
+    "correct_answer": "Enkidu",
+    "incorrect_answers": [
+      "Utnapishtim",
+      "Humbaba",
+      "Lugalbanda"
+    ]
+  },
+  {
+    "question": "Quel nom fut donné à la race de géants dotés de cent bras et cinquante têtes, nés d'Ouranos et Gaïa, et alliés de Zeus ?",
+    "correct_answer": "Les Hécatonchires",
+    "incorrect_answers": [
+      "Les Cyclopes",
+      "Les Titans",
+      "Les Géants"
+    ]
+  },
+  {
+    "question": "Dans la mythologie inca, quel est le nom du dieu créateur du monde et de la civilisation, souvent représenté comme un vieil homme barbu ?",
+    "correct_answer": "Viracocha",
+    "incorrect_answers": [
+      "Inti",
+      "Pachacamac",
+      "Manco Cápac"
+    ]
+  },
+  {
+    "question": "Quelle est la déesse sumérienne des Enfers, souveraine du Kur, et sœur aînée d'Inanna, souvent en conflit avec elle ?",
+    "correct_answer": "Ereshkigal",
+    "incorrect_answers": [
+      "Nammu",
+      "Tiamat",
+      "Ninkasi"
+    ]
+  },
+  {
+    "question": "Parmi les Sirènes, quelle est celle qui, selon certaines légendes, se jeta à la mer et fut transformée en rocher près de Naples après l'échec d'Ulysse ?",
+    "correct_answer": "Parthénope",
+    "incorrect_answers": [
+      "Leucosie",
+      "Ligée",
+      "Thélxiope"
+    ]
+  },
+  {
+    "question": "Quel est le nom du dieu hittite de la tempête, figure centrale du panthéon, souvent représenté sur un char tiré par des taureaux ?",
+    "correct_answer": "Teshub",
+    "incorrect_answers": [
+      "Kumarbi",
+      "Hattušaš",
+      "Telepinu"
+    ]
+  },
+  {
+    "question": "Quelle créature mythologique était dotée de trois têtes distinctes (lion, chèvre, serpent) et d'un corps principalement léonin, terrorisant la Lycie ?",
+    "correct_answer": "La Chimère",
+    "incorrect_answers": [
+      "L'Hydre de Lerne",
+      "Le Cerbère",
+      "Le Sphinx"
+    ]
+  },
+  {
+    "question": "Quelle créature mythologique grecque, présente aux portes de Thèbes, possédait un corps de lion, des ailes d'oiseau et un visage de femme ?",
+    "correct_answer": "Le Sphinx",
+    "incorrect_answers": [
+      "La Chimère",
+      "La Harpie",
+      "La Gorgone"
+    ]
+  },
+  {
+    "question": "Quel était le nom par lequel les Grecs désignaient souvent Hadès, signifiant 'le Riche', en rapport avec les richesses souterraines ?",
+    "correct_answer": "Plouton",
+    "incorrect_answers": [
+      "Érèbe",
+      "Thanatos",
+      "Tartaros"
+    ]
+  },
+  {
+    "question": "Quel dieu égyptien, avec la tête d'un ibis ou d'un babouin, était le scribe divin qui notait le résultat de la pesée des cœurs lors du jugement des morts ?",
+    "correct_answer": "Thot",
+    "incorrect_answers": [
+      "Anubis",
+      "Osiris",
+      "Shou"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'un des deux loups fidèles qui accompagnent toujours Odin, souvent mentionnés ensemble avec Geri ?",
+    "correct_answer": "Freki",
+    "incorrect_answers": [
+      "Garm",
+      "Hati",
+      "Sköll"
+    ]
+  }
+]

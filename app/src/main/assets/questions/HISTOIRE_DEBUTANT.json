@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quelle civilisation antique est célèbre pour la construction des pyramides de Gizeh ?",
+    "correct_answer": "Les Égyptiens",
+    "incorrect_answers": [
+      "Les Romains",
+      "Les Grecs",
+      "Les Mésopotamiens"
+    ]
+  },
+  {
+    "question": "Quel empereur romain est connu pour avoir été assassiné aux Ides de Mars ?",
+    "correct_answer": "Jules César",
+    "incorrect_answers": [
+      "Auguste",
+      "Néron",
+      "Caligula"
+    ]
+  },
+  {
+    "question": "En quelle année a débuté la Révolution française, marquant la prise de la Bastille ?",
+    "correct_answer": "1789",
+    "incorrect_answers": [
+      "1792",
+      "1776",
+      "1815"
+    ]
+  },
+  {
+    "question": "Quelle période correspond principalement à la Première Guerre mondiale ?",
+    "correct_answer": "1914-1918",
+    "incorrect_answers": [
+      "1939-1945",
+      "1870-1871",
+      "1950-1953"
+    ]
+  },
+  {
+    "question": "Quel explorateur est généralement crédité de la découverte de l'Amérique en 1492 ?",
+    "correct_answer": "Christophe Colomb",
+    "incorrect_answers": [
+      "Vasco de Gama",
+      "Fernand de Magellan",
+      "Marco Polo"
+    ]
+  },
+  {
+    "question": "En quelle année le Mur de Berlin est-il tombé, symbolisant la fin de la Guerre Froide ?",
+    "correct_answer": "1989",
+    "incorrect_answers": [
+      "1961",
+      "1975",
+      "1991"
+    ]
+  },
+  {
+    "question": "Quel navigateur a dirigé la première circumnavigation du globe, bien qu'il soit mort en chemin ?",
+    "correct_answer": "Fernand de Magellan",
+    "incorrect_answers": [
+      "Jacques Cartier",
+      "James Cook",
+      "Amerigo Vespucci"
+    ]
+  },
+  {
+    "question": "Quelle figure emblématique de l'histoire de France a mené les troupes françaises contre les Anglais durant la Guerre de Cent Ans ?",
+    "correct_answer": "Jeanne d'Arc",
+    "incorrect_answers": [
+      "Catherine de Médicis",
+      "Marie Antoinette",
+      "Madame de Pompadour"
+    ]
+  },
+  {
+    "question": "Quel mouvement culturel et artistique, signifiant 'renaissance', s'est épanoui en Europe à partir du XIVe siècle ?",
+    "correct_answer": "La Renaissance",
+    "incorrect_answers": [
+      "Le Baroque",
+      "Le Romantisme",
+      "Le Gothique"
+    ]
+  },
+  {
+    "question": "Dans quel pays la Révolution industrielle a-t-elle principalement débuté au XVIIIe siècle ?",
+    "correct_answer": "L'Angleterre",
+    "incorrect_answers": [
+      "La France",
+      "L'Allemagne",
+      "Les États-Unis"
+    ]
+  },
+  {
+    "question": "Quel général français est devenu empereur et a conquis une grande partie de l'Europe au début du XIXe siècle ?",
+    "correct_answer": "Napoléon Bonaparte",
+    "incorrect_answers": [
+      "Louis XIV",
+      "Charlemagne",
+      "Charles de Gaulle"
+    ]
+  },
+  {
+    "question": "Qui fut la dernière reine d'Égypte antique, célèbre pour ses liens avec Jules César et Marc Antoine ?",
+    "correct_answer": "Cléopâtre VII",
+    "incorrect_answers": [
+      "Néfertiti",
+      "Hatchepsout",
+      "Toutânkhamon"
+    ]
+  },
+  {
+    "question": "Quel était le principal objectif de la Grande Muraille de Chine ?",
+    "correct_answer": "Protéger des invasions",
+    "incorrect_answers": [
+      "Marquer une frontière",
+      "Servir de route commerciale",
+      "Abriter des moines"
+    ]
+  },
+  {
+    "question": "Quelle forme de gouvernement, où les citoyens élisent leurs représentants, est née dans la Grèce antique ?",
+    "correct_answer": "La Démocratie",
+    "incorrect_answers": [
+      "La Monarchie",
+      "L'Oligarchie",
+      "La Théocratie"
+    ]
+  },
+  {
+    "question": "Quelle ville était le cœur et la capitale de l'Empire romain ?",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Athènes",
+      "Alexandrie",
+      "Carthage"
+    ]
+  },
+  {
+    "question": "Quel célèbre gladiateur a mené une révolte d'esclaves contre la République romaine au 1er siècle av. J.-C. ?",
+    "correct_answer": "Spartacus",
+    "incorrect_answers": [
+      "Hercule",
+      "Achille",
+      "Ulysse"
+    ]
+  },
+  {
+    "question": "Qui est l'inventeur de l'imprimerie et de la presse à caractères mobiles au XVe siècle ?",
+    "correct_answer": "Johannes Gutenberg",
+    "incorrect_answers": [
+      "Léonard de Vinci",
+      "Galilée",
+      "Christophe Colomb"
+    ]
+  },
+  {
+    "question": "En quelle année les États-Unis ont-ils déclaré leur indépendance vis-à-vis de la Grande-Bretagne ?",
+    "correct_answer": "1776",
+    "incorrect_answers": [
+      "1787",
+      "1865",
+      "1754"
+    ]
+  },
+  {
+    "question": "Quel explorateur portugais fut le premier Européen à atteindre l'Inde par voie maritime en contournant l'Afrique ?",
+    "correct_answer": "Vasco de Gama",
+    "incorrect_answers": [
+      "Bartolomé Dias",
+      "Pedro Álvares Cabral",
+      "Henri le Navigateur"
+    ]
+  },
+  {
+    "question": "Quel chef militaire est connu pour avoir unifié les tribus mongoles et fondé l'Empire mongol au XIIIe siècle ?",
+    "correct_answer": "Gengis Khan",
+    "incorrect_answers": [
+      "Attila",
+      "Tamerlan",
+      "Kubilai Khan"
+    ]
+  },
+  {
+    "question": "Quelle ancienne capitale de l'Empire byzantin a été prise par les Ottomans en 1453 ?",
+    "correct_answer": "Constantinople",
+    "incorrect_answers": [
+      "Athènes",
+      "Antioche",
+      "Rome"
+    ]
+  },
+  {
+    "question": "Quelle pandémie dévastatrice a ravagé l'Europe au milieu du XIVe siècle, tuant des millions de personnes ?",
+    "correct_answer": "La Peste noire",
+    "incorrect_answers": [
+      "La Grippe espagnole",
+      "La Variole",
+      "Le Choléra"
+    ]
+  },
+  {
+    "question": "En quelle année Neil Armstrong fut-il le premier homme à marcher sur la Lune ?",
+    "correct_answer": "1969",
+    "incorrect_answers": [
+      "1957",
+      "1961",
+      "1972"
+    ]
+  },
+  {
+    "question": "Quelle militante des droits civiques a refusé de céder sa place dans un bus en Alabama en 1955 ?",
+    "correct_answer": "Rosa Parks",
+    "incorrect_answers": [
+      "Harriet Tubman",
+      "Sojourner Truth",
+      "Maya Angelou"
+    ]
+  },
+  {
+    "question": "Quel leader indien est célèbre pour sa philosophie de la non-violence et a lutté pour l'indépendance de l'Inde ?",
+    "correct_answer": "Mahatma Gandhi",
+    "incorrect_answers": [
+      "Jawaharlal Nehru",
+      "Nelson Mandela",
+      "Martin Luther King Jr."
+    ]
+  },
+  {
+    "question": "Dans quel pays le système de ségrégation raciale appelé l'Apartheid a-t-il été aboli au début des années 1990 ?",
+    "correct_answer": "L'Afrique du Sud",
+    "incorrect_answers": [
+      "Les États-Unis",
+      "L'Australie",
+      "Le Brésil"
+    ]
+  },
+  {
+    "question": "Quel canal artificiel relie la mer Méditerranée à la mer Rouge ?",
+    "correct_answer": "Le canal de Suez",
+    "incorrect_answers": [
+      "Le canal de Panama",
+      "Le canal de Corinthe",
+      "Le canal du Midi"
+    ]
+  },
+  {
+    "question": "Où se situe la cité inca antique du Machu Picchu ?",
+    "correct_answer": "Au Pérou",
+    "incorrect_answers": [
+      "Au Mexique",
+      "En Colombie",
+      "En Bolivie"
+    ]
+  },
+  {
+    "question": "Quel conflit majeur du XXe siècle a vu les États-Unis intervenir militairement en Asie du Sud-Est entre les années 1950 et 1970 ?",
+    "correct_answer": "La Guerre du Vietnam",
+    "incorrect_answers": [
+      "La Guerre de Corée",
+      "La Guerre Froide",
+      "La Crise des missiles de Cuba"
+    ]
+  },
+  {
+    "question": "En quelle bataille Napoléon Bonaparte a-t-il subi sa défaite finale en 1815 ?",
+    "correct_answer": "La bataille de Waterloo",
+    "incorrect_answers": [
+      "La bataille d'Austerlitz",
+      "La bataille de Trafalgar",
+      "La bataille de Borodino"
+    ]
+  }
+]

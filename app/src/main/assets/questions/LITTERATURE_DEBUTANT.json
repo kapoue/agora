@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Qui est l'auteur du célèbre roman \"Les Misérables\" ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": [
+      "Émile Zola",
+      "Honoré de Balzac",
+      "Gustave Flaubert"
+    ]
+  },
+  {
+    "question": "Quel écrivain est connu pour avoir écrit \"Le Petit Prince\" ?",
+    "correct_answer": "Antoine de Saint-Exupéry",
+    "incorrect_answers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Malraux"
+    ]
+  },
+  {
+    "question": "Quelle pièce de théâtre célèbre a été écrite par Molière ?",
+    "correct_answer": "Le Malade imaginaire",
+    "incorrect_answers": [
+      "Le Cid",
+      "Phèdre",
+      "Cyrano de Bergerac"
+    ]
+  },
+  {
+    "question": "Quel est le plus ancien et le plus prestigieux des prix littéraires français ?",
+    "correct_answer": "Le Prix Goncourt",
+    "incorrect_answers": [
+      "Le Prix Femina",
+      "Le Prix Renaudot",
+      "Le Prix Médicis"
+    ]
+  },
+  {
+    "question": "Qui a écrit le roman philosophique \"Candide ou l'Optimisme\" ?",
+    "correct_answer": "Voltaire",
+    "incorrect_answers": [
+      "Jean-Jacques Rousseau",
+      "Denis Diderot",
+      "Montesquieu"
+    ]
+  },
+  {
+    "question": "Quel auteur français est associé au recueil de poèmes \"Les Fleurs du Mal\" ?",
+    "correct_answer": "Charles Baudelaire",
+    "incorrect_answers": [
+      "Arthur Rimbaud",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
+    ]
+  },
+  {
+    "question": "Quel grand écrivain du XIXe siècle a écrit le roman \"Germinal\" ?",
+    "correct_answer": "Émile Zola",
+    "incorrect_answers": [
+      "Guy de Maupassant",
+      "Alphonse Daudet",
+      "Jules Verne"
+    ]
+  },
+  {
+    "question": "Quel roman raconte les aventures du personnage de \"Don Quichotte\" ?",
+    "correct_answer": "Don Quichotte",
+    "incorrect_answers": [
+      "Le Cid",
+      "L'Odyssée",
+      "La Divine Comédie"
+    ]
+  },
+  {
+    "question": "Qui est l'auteur des tragédies classiques comme \"Phèdre\" ?",
+    "correct_answer": "Jean Racine",
+    "incorrect_answers": [
+      "Pierre Corneille",
+      "Molière",
+      "Victor Hugo"
+    ]
+  },
+  {
+    "question": "Quel roman de Jules Verne emmène ses lecteurs sous la mer ?",
+    "correct_answer": "Vingt mille lieues sous les mers",
+    "incorrect_answers": [
+      "Le Tour du monde en quatre-vingts jours",
+      "De la Terre à la Lune",
+      "Voyage au centre de la Terre"
+    ]
+  },
+  {
+    "question": "Quel personnage est le bossu de Notre-Dame de Paris dans le roman de Victor Hugo ?",
+    "correct_answer": "Quasimodo",
+    "incorrect_answers": [
+      "Esmeralda",
+      "Gavroche",
+      "Jean Valjean"
+    ]
+  },
+  {
+    "question": "Quel roman débute par la phrase \"Longtemps, je me suis couché de bonne heure.\" ?",
+    "correct_answer": "Du côté de chez Swann",
+    "incorrect_answers": [
+      "L'Étranger",
+      "Madame Bovary",
+      "Le Père Goriot"
+    ]
+  },
+  {
+    "question": "Qui est l'auteur du roman \"L'Étranger\", figure majeure de l'existentialisme ?",
+    "correct_answer": "Albert Camus",
+    "incorrect_answers": [
+      "Jean-Paul Sartre",
+      "André Gide",
+      "François Mauriac"
+    ]
+  },
+  {
+    "question": "Quel poète a écrit le recueil \"Une saison en enfer\" et \"Le Bateau ivre\" ?",
+    "correct_answer": "Arthur Rimbaud",
+    "incorrect_answers": [
+      "Charles Baudelaire",
+      "Paul Verlaine",
+      "Guillaume Apollinaire"
+    ]
+  },
+  {
+    "question": "Qui est l'auteur de \"Madame Bovary\", roman réaliste du XIXe siècle ?",
+    "correct_answer": "Gustave Flaubert",
+    "incorrect_answers": [
+      "Honoré de Balzac",
+      "Stendhal",
+      "Guy de Maupassant"
+    ]
+  },
+  {
+    "question": "Quel est l'auteur de \"Le Père Goriot\", roman de la Comédie humaine ?",
+    "correct_answer": "Honoré de Balzac",
+    "incorrect_answers": [
+      "Émile Zola",
+      "Victor Hugo",
+      "Alexandre Dumas"
+    ]
+  },
+  {
+    "question": "Quel genre littéraire est caractérisé par des vers et des strophes ?",
+    "correct_answer": "La poésie",
+    "incorrect_answers": [
+      "Le roman",
+      "Le théâtre",
+      "L'essai"
+    ]
+  },
+  {
+    "question": "Qui a écrit la célèbre pièce de théâtre \"Roméo et Juliette\" ?",
+    "correct_answer": "William Shakespeare",
+    "incorrect_answers": [
+      "Molière",
+      "Jean Racine",
+      "Pierre Corneille"
+    ]
+  },
+  {
+    "question": "Quel roman de Guy de Maupassant met en scène le personnage de Georges Duroy ?",
+    "correct_answer": "Bel-Ami",
+    "incorrect_answers": [
+      "Une vie",
+      "Pierre et Jean",
+      "Boule de suif"
+    ]
+  },
+  {
+    "question": "Quel prix littéraire est attribué chaque année par l'Académie suédoise ?",
+    "correct_answer": "Le Prix Nobel de littérature",
+    "incorrect_answers": [
+      "Le Prix Goncourt",
+      "Le Prix Pulitzer",
+      "Le Booker Prize"
+    ]
+  },
+  {
+    "question": "Qui a écrit \"Les Trois Mousquetaires\" et \"Le Comte de Monte-Cristo\" ?",
+    "correct_answer": "Alexandre Dumas père",
+    "incorrect_answers": [
+      "Victor Hugo",
+      "Jules Verne",
+      "Honoré de Balzac"
+    ]
+  },
+  {
+    "question": "Molière est un dramaturge emblématique de quel siècle et mouvement ?",
+    "correct_answer": "Le XVIIe siècle et le classicisme",
+    "incorrect_answers": [
+      "Le XVIIIe siècle et les Lumières",
+      "Le XIXe siècle et le romantisme",
+      "Le XVIe siècle et la Renaissance"
+    ]
+  },
+  {
+    "question": "Dans quel roman peut-on suivre les aventures de Frodon Sacquet et Gandalf ?",
+    "correct_answer": "Le Seigneur des Anneaux",
+    "incorrect_answers": [
+      "Harry Potter",
+      "Le Monde de Narnia",
+      "Game of Thrones"
+    ]
+  },
+  {
+    "question": "Qui est l'auteur du recueil de fables \"Les Fables de La Fontaine\" ?",
+    "correct_answer": "Jean de La Fontaine",
+    "incorrect_answers": [
+      "Charles Perrault",
+      "Montesquieu",
+      "Voltaire"
+    ]
+  },
+  {
+    "question": "Quel roman de Victor Hugo raconte l'histoire du forçat Jean Valjean ?",
+    "correct_answer": "Les Misérables",
+    "incorrect_answers": [
+      "Notre-Dame de Paris",
+      "Quatrevingt-treize",
+      "Les Travailleurs de la mer"
+    ]
+  },
+  {
+    "question": "Quel écrivain a imaginé le \"Tour du monde en quatre-vingts jours\" ?",
+    "correct_answer": "Jules Verne",
+    "incorrect_answers": [
+      "Alexandre Dumas",
+      "Gustave Flaubert",
+      "Émile Zola"
+    ]
+  },
+  {
+    "question": "Qui est l'auteur de la célèbre pièce de théâtre \"Cyrano de Bergerac\" ?",
+    "correct_answer": "Edmond Rostand",
+    "incorrect_answers": [
+      "Molière",
+      "Jean Racine",
+      "Pierre Corneille"
+    ]
+  },
+  {
+    "question": "Quel écrivain est connu pour ses contes comme \"Le Chat Botté\" et \"Le Petit Poucet\" ?",
+    "correct_answer": "Charles Perrault",
+    "incorrect_answers": [
+      "Jean de La Fontaine",
+      "Hans Christian Andersen",
+      "Les Frères Grimm"
+    ]
+  },
+  {
+    "question": "Quel roman d'Albert Camus met en scène Meursault, un homme indifférent au monde ?",
+    "correct_answer": "L'Étranger",
+    "incorrect_answers": [
+      "La Peste",
+      "La Chute",
+      "Caligula"
+    ]
+  },
+  {
+    "question": "Victor Hugo est une figure majeure de quel mouvement littéraire français ?",
+    "correct_answer": "Le Romantisme",
+    "incorrect_answers": [
+      "Le Réalisme",
+      "Le Naturalisme",
+      "Le Classicisme"
+    ]
+  }
+]

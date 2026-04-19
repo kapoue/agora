@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Soldat : armure partielle, épée courte -->
+    <!-- Tête + casque -->
+    <path
+        android:fillColor="#C0C0C0"
+        android:pathData="M42,14 L58,14 L58,8 L42,8 Z" />
+    <path
+        android:fillColor="#C0C0C0"
+        android:pathData="M50,10 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0 Z" />
+    <!-- Plastron (armure partielle) -->
+    <path
+        android:fillColor="#C0C0C0"
+        android:pathData="M36,29 L64,29 L64,52 L36,52 Z" />
+    <path
+        android:strokeColor="#A0A0A0"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M36,38 L64,38" />
+    <path
+        android:strokeColor="#A0A0A0"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M50,29 L50,52" />
+    <!-- Bras gauche (protection) -->
+    <path
+        android:fillColor="#A0A0A0"
+        android:pathData="M36,30 L26,50 L30,53 L38,33 Z" />
+    <!-- Bras droit avec épée -->
+    <path
+        android:fillColor="#A0A0A0"
+        android:pathData="M64,30 L72,50 L68,53 L62,33 Z" />
+    <!-- Épée courte -->
+    <path
+        android:fillColor="#C0C0C0"
+        android:pathData="M70,46 L76,78 L72,78 L68,48 Z" />
+    <path
+        android:fillColor="#6B5040"
+        android:pathData="M66,46 L78,46 L78,50 L66,50 Z" />
+    <!-- Jupe d'armure -->
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M36,52 L64,52 L68,65 L32,65 Z" />
+    <!-- Jambes -->
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M32,65 L35,82 L44,82 L47,68 L53,68 L56,82 L65,82 L68,65 Z" />
+    <!-- Sandales spartiates -->
+    <path
+        android:fillColor="#6B5040"
+        android:pathData="M31,82 L46,82 L46,86 L31,86 Z" />
+    <path
+        android:fillColor="#6B5040"
+        android:pathData="M54,82 L69,82 L69,86 L54,86 Z" />
+</vector>

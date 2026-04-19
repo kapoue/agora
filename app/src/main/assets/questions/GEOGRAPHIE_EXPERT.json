@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quelle est la capitale administrative du Sri Lanka, officiellement désignée depuis 1982, et qui abrite le Parlement national ?",
+    "correct_answer": "Sri Jayawardenepura Kotte",
+    "incorrect_answers": [
+      "Colombo",
+      "Kandy",
+      "Galle"
+    ]
+  },
+  {
+    "question": "Quel fleuve, le plus long de la péninsule Ibérique, prend sa source en Espagne et se jette dans l'océan Atlantique à Porto, au Portugal, après avoir traversé une région viticole célèbre ?",
+    "correct_answer": "Douro",
+    "incorrect_answers": [
+      "Tage",
+      "Guadalquivir",
+      "Ebre"
+    ]
+  },
+  {
+    "question": "Quelle chaîne de montagnes d'Asie centrale abrite le pic Ismail Samani (anciennement Pic du Communisme), le point culminant du Tadjikistan avec plus de 7 400 mètres d'altitude ?",
+    "correct_answer": "Pamir",
+    "incorrect_answers": [
+      "Tian Shan",
+      "Altaï",
+      "Karakoram"
+    ]
+  },
+  {
+    "question": "Quelle mer est un bassin de l'océan Atlantique, célèbre pour ses remontées d'eau profonde et sa biodiversité marine unique, particulièrement à la frontière entre l'Europe et l'Afrique ?",
+    "correct_answer": "Mer d'Alboran",
+    "incorrect_answers": [
+      "Mer Ionienne",
+      "Mer Adriatique",
+      "Mer Égée"
+    ]
+  },
+  {
+    "question": "Dans quelle sous-région d'Afrique se situe la dépression du Danakil, l'un des endroits les plus chauds et les plus bas de la Terre, connue pour ses paysages volcaniques et ses lacs salés ?",
+    "correct_answer": "Corne de l'Afrique",
+    "incorrect_answers": [
+      "Afrique de l'Ouest",
+      "Afrique Centrale",
+      "Afrique Australe"
+    ]
+  },
+  {
+    "question": "Quel est le désert hyperaride non polaire le plus étendu du monde, caractérisé par des périodes de sécheresse extrêmes et abritant des minéraux uniques comme le salpêtre ?",
+    "correct_answer": "Désert d'Atacama",
+    "incorrect_answers": [
+      "Désert du Gobi",
+      "Désert de Sonora",
+      "Désert du Kalahari"
+    ]
+  },
+  {
+    "question": "Quel pays possède l'exclave de Kaliningrad, un territoire d'environ 15 000 km² bordé par la Pologne et la Lituanie, séparé du reste du pays par la Biélorussie ?",
+    "correct_answer": "Russie",
+    "incorrect_answers": [
+      "Allemagne",
+      "Biélorussie",
+      "Pologne"
+    ]
+  },
+  {
+    "question": "Quelle capitale européenne est célèbre pour son rôle historique de centre politique et culturel du Saint-Empire romain germanique pendant de nombreux siècles, et pour ses palais impériaux ?",
+    "correct_answer": "Vienne",
+    "incorrect_answers": [
+      "Prague",
+      "Budapest",
+      "Munich"
+    ]
+  },
+  {
+    "question": "Quel fleuve d'Europe de l'Est, long de près de 2 300 km, est le principal cours d'eau de l'Ukraine et se jette dans la Mer Noire après avoir traversé la Biélorussie ?",
+    "correct_answer": "Dniepr",
+    "incorrect_answers": [
+      "Don",
+      "Dniestr",
+      "Volga"
+    ]
+  },
+  {
+    "question": "Quelle chaîne de montagnes volcaniques, située sur l'île de Java en Indonésie, abrite des volcans actifs et des paysages spectaculaires comme le Mont Bromo et le Mont Semeru ?",
+    "correct_answer": "Tengger",
+    "incorrect_answers": [
+      "Barisan",
+      "Maoke",
+      "Puncak Jaya"
+    ]
+  },
+  {
+    "question": "Quelle mer intérieure, située entre le Kazakhstan et l'Ouzbékistan, est tristement célèbre pour son rétrécissement dramatique au cours du XXe siècle, causant une catastrophe écologique majeure ?",
+    "correct_answer": "Mer d'Aral",
+    "incorrect_answers": [
+      "Mer Caspienne",
+      "Mer Morte",
+      "Lac Balkhach"
+    ]
+  },
+  {
+    "question": "Dans quel pays africain se situe la dépression d'Assal, un lac hyper-salé et le point le plus bas du continent, à 155 mètres sous le niveau de la mer ?",
+    "correct_answer": "Djibouti",
+    "incorrect_answers": [
+      "Éthiopie",
+      "Érythrée",
+      "Somalie"
+    ]
+  },
+  {
+    "question": "Quelle est la ville la plus haute du monde habitée en permanence, située à plus de 5 100 mètres d'altitude dans les Andes péruviennes, connue pour ses mines d'or ?",
+    "correct_answer": "La Rinconada",
+    "incorrect_answers": [
+      "El Alto",
+      "Potosí",
+      "La Paz"
+    ]
+  },
+  {
+    "question": "Quel pays insulaire d'Océanie, situé près de la ligne de changement de date, est le premier État souverain à entrer dans le nouveau jour ?",
+    "correct_answer": "Kiribati",
+    "incorrect_answers": [
+      "Samoa",
+      "Fidji",
+      "Tonga"
+    ]
+  },
+  {
+    "question": "Quelle capitale d'Asie Centrale, ancienne cité marchande de la Route de la Soie, est aujourd'hui la capitale de l'Ouzbékistan et la plus grande ville de la région ?",
+    "correct_answer": "Tachkent",
+    "incorrect_answers": [
+      "Douchanbé",
+      "Bichkek",
+      "Samarcande"
+    ]
+  },
+  {
+    "question": "Quel fleuve d'Amérique du Sud est le plus long affluent du monde en volume, prenant sa source en Colombie et rejoignant l'Amazone près de Manaus, au Brésil ?",
+    "correct_answer": "Rio Negro",
+    "incorrect_answers": [
+      "Río Purús",
+      "Río Japurá",
+      "Río Madeira"
+    ]
+  },
+  {
+    "question": "Quelle est la plus haute montagne d'Océanie, située sur l'île de Nouvelle-Guinée, dans la partie indonésienne de la Papouasie, et faisant partie des Sept Sommets ?",
+    "correct_answer": "Puncak Jaya",
+    "incorrect_answers": [
+      "Mont Wilhelm",
+      "Mont Cook",
+      "Mauna Kea"
+    ]
+  },
+  {
+    "question": "Quelle mer est la seule au monde à ne pas avoir de côtes, étant délimitée uniquement par des courants océaniques et caractérisée par une grande quantité d'algues sargasses flottantes ?",
+    "correct_answer": "Mer des Sargasses",
+    "incorrect_answers": [
+      "Mer de Barents",
+      "Mer de Laptev",
+      "Mer de Weddell"
+    ]
+  },
+  {
+    "question": "Selon les théories anthropologiques, quel continent fut le point de départ des premières migrations humaines 'hors d'Afrique', il y a environ 60 000 ans, vers le reste du monde ?",
+    "correct_answer": "Asie",
+    "incorrect_answers": [
+      "Europe",
+      "Océanie",
+      "Amérique du Nord"
+    ]
+  },
+  {
+    "question": "Quel est le volcan actif le plus haut d'Eurasie, situé dans la péninsule du Kamtchatka, en Russie, culminant à plus de 4 750 mètres d'altitude ?",
+    "correct_answer": "Klyuchevskaya Sopka",
+    "incorrect_answers": [
+      "Mont Elbrouz",
+      "Mont Ararat",
+      "Etna"
+    ]
+  },
+  {
+    "question": "Quel pays est le seul au monde dont la capitale se trouve dans la partie européenne, mais qui possède une portion significative de son territoire sur un autre continent (Asie) ?",
+    "correct_answer": "Turquie",
+    "incorrect_answers": [
+      "Russie",
+      "Égypte",
+      "Panama"
+    ]
+  },
+  {
+    "question": "Quelle capitale européenne est la plus élevée en altitude parmi les États souverains reconnus, culminant à environ 1 023 mètres d'altitude ?",
+    "correct_answer": "Andorre-la-Vieille",
+    "incorrect_answers": [
+      "Madrid",
+      "Berne",
+      "Oslo"
+    ]
+  },
+  {
+    "question": "Quel fleuve d'Amérique du Sud, important affluent du Paraná, est célèbre pour ses chutes d'eau majestueuses, partagées entre le Brésil et l'Argentine, classées au patrimoine mondial ?",
+    "correct_answer": "Iguazú",
+    "incorrect_answers": [
+      "Uruguay",
+      "Salado",
+      "Pilcomayo"
+    ]
+  },
+  {
+    "question": "Quelle chaîne de montagnes d'Asie du Sud-Ouest, s'étendant principalement en Iran et en Irak, est l'une des plus longues du continent et abrite de riches gisements de pétrole ?",
+    "correct_answer": "Zagros",
+    "incorrect_answers": [
+      "Monts Taurus",
+      "Monts Elbourz",
+      "Monts Pontiques"
+    ]
+  },
+  {
+    "question": "Quelle petite mer intérieure de la Turquie, reliant la Mer Noire à la Mer Égée via le Bosphore et les Dardanelles, est la plus petite du monde en termes de superficie ?",
+    "correct_answer": "Mer de Marmara",
+    "incorrect_answers": [
+      "Mer d'Azov",
+      "Mer de Thrace",
+      "Mer Rouge"
+    ]
+  },
+  {
+    "question": "Quel continent abrite le craton de Yilgarn, une des plus anciennes et stables masses continentales de la Terre, formant le cœur de son bouclier occidental ?",
+    "correct_answer": "Australie",
+    "incorrect_answers": [
+      "Afrique",
+      "Amérique du Nord",
+      "Antarctique"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand glacier alpin en termes de longueur et de masse dans les Alpes, situé en Suisse et classé au patrimoine mondial de l'UNESCO ?",
+    "correct_answer": "Glacier d'Aletsch",
+    "incorrect_answers": [
+      "Glacier des Bossons",
+      "Pasterze",
+      "Glacier du Rhône"
+    ]
+  },
+  {
+    "question": "Quel pays du Caucase fut le premier État au monde à adopter le christianisme comme religion d'État, au début du IVe siècle, influençant profondément son identité culturelle ?",
+    "correct_answer": "Arménie",
+    "incorrect_answers": [
+      "Géorgie",
+      "Grèce",
+      "Éthiopie"
+    ]
+  },
+  {
+    "question": "Quelle capitale sud-américaine est un chef-d'œuvre de l'urbanisme moderniste, conçue dans les années 1950 sous la forme d'un avion ou d'un oiseau, par Lúcio Costa et Oscar Niemeyer ?",
+    "correct_answer": "Brasília",
+    "incorrect_answers": [
+      "Buenos Aires",
+      "Caracas",
+      "Montevideo"
+    ]
+  },
+  {
+    "question": "Quel fleuve d'Asie du Sud-Est, prenant sa source dans les montagnes de l'Himalaya et traversant le Myanmar, est l'habitat d'une espèce rare de dauphin d'eau douce ?",
+    "correct_answer": "Irrawaddy",
+    "incorrect_answers": [
+      "Salouen",
+      "Chao Phraya",
+      "Mékong"
+    ]
+  }
+]

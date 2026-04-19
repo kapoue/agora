@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel sport est connu comme le 'sport roi' et se joue avec un ballon rond ?",
+    "correct_answer": "Le football",
+    "incorrect_answers": [
+      "Le basketball",
+      "Le volleyball",
+      "Le handball"
+    ]
+  },
+  {
+    "question": "Tous les combien d'années ont lieu les Jeux Olympiques d'été ?",
+    "correct_answer": "Quatre ans",
+    "incorrect_answers": [
+      "Deux ans",
+      "Cinq ans",
+      "Dix ans"
+    ]
+  },
+  {
+    "question": "Quel athlète jamaïcain est surnommé 'Lightning Bolt' pour ses records en sprint ?",
+    "correct_answer": "Usain Bolt",
+    "incorrect_answers": [
+      "Carl Lewis",
+      "Jesse Owens",
+      "Mo Farah"
+    ]
+  },
+  {
+    "question": "Quel est le nom du tournoi de tennis le plus célèbre joué sur terre battue à Paris ?",
+    "correct_answer": "Roland-Garros",
+    "incorrect_answers": [
+      "Wimbledon",
+      "US Open",
+      "Open d'Australie"
+    ]
+  },
+  {
+    "question": "Quel nageur américain est le plus médaillé de l'histoire des Jeux Olympiques ?",
+    "correct_answer": "Michael Phelps",
+    "incorrect_answers": [
+      "Ian Thorpe",
+      "Mark Spitz",
+      "Alain Bernard"
+    ]
+  },
+  {
+    "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+    "correct_answer": "Cinq",
+    "incorrect_answers": [
+      "Six",
+      "Sept",
+      "Quatre"
+    ]
+  },
+  {
+    "question": "Quelle est la compétition cycliste la plus célèbre qui se déroule en France chaque été ?",
+    "correct_answer": "Le Tour de France",
+    "incorrect_answers": [
+      "Le Giro d'Italia",
+      "La Vuelta a España",
+      "Le Paris-Roubaix"
+    ]
+  },
+  {
+    "question": "Quel symbole représente les cinq continents unis par l'Olympisme ?",
+    "correct_answer": "Les cinq anneaux",
+    "incorrect_answers": [
+      "La flamme olympique",
+      "La devise 'Citius, Altius, Fortius'",
+      "La couronne de laurier"
+    ]
+  },
+  {
+    "question": "Quel pilote de Formule 1 est souvent considéré comme le plus grand de tous les temps avec sept titres mondiaux ?",
+    "correct_answer": "Michael Schumacher",
+    "incorrect_answers": [
+      "Alain Prost",
+      "Ayrton Senna",
+      "Lewis Hamilton"
+    ]
+  },
+  {
+    "question": "Combien de points rapporte un essai au rugby ?",
+    "correct_answer": "Cinq points",
+    "incorrect_answers": [
+      "Trois points",
+      "Deux points",
+      "Un point"
+    ]
+  },
+  {
+    "question": "Quel agrès féminin en gymnastique artistique est composé de deux barres de hauteurs différentes ?",
+    "correct_answer": "Les barres asymétriques",
+    "incorrect_answers": [
+      "La poutre",
+      "Le sol",
+      "Le saut de cheval"
+    ]
+  },
+  {
+    "question": "Quel golfeur américain est célèbre pour ses nombreux records et son retour spectaculaire ?",
+    "correct_answer": "Tiger Woods",
+    "incorrect_answers": [
+      "Jack Nicklaus",
+      "Arnold Palmer",
+      "Rory McIlroy"
+    ]
+  },
+  {
+    "question": "Quel sport implique de descendre une piste enneigée sur une seule planche ?",
+    "correct_answer": "Le snowboard",
+    "incorrect_answers": [
+      "Le ski alpin",
+      "La luge",
+      "Le bobsleigh"
+    ]
+  },
+  {
+    "question": "Quel boxeur est surnommé 'The Greatest' et est une légende du sport ?",
+    "correct_answer": "Mohamed Ali",
+    "incorrect_answers": [
+      "Mike Tyson",
+      "George Foreman",
+      "Joe Frazier"
+    ]
+  },
+  {
+    "question": "Combien de joueurs d'une équipe de handball sont sur le terrain pendant un match ?",
+    "correct_answer": "Sept",
+    "incorrect_answers": [
+      "Six",
+      "Huit",
+      "Cinq"
+    ]
+  },
+  {
+    "question": "Dans quelle ville les tout premiers Jeux Olympiques modernes ont-ils eu lieu en 1896 ?",
+    "correct_answer": "Athènes",
+    "incorrect_answers": [
+      "Rome",
+      "Paris",
+      "Londres"
+    ]
+  },
+  {
+    "question": "Quel joueur de tennis est surnommé 'le Roi de la Terre Battue' pour ses multiples victoires à Roland-Garros ?",
+    "correct_answer": "Rafael Nadal",
+    "incorrect_answers": [
+      "Novak Djokovic",
+      "Roger Federer",
+      "Pete Sampras"
+    ]
+  },
+  {
+    "question": "Combien de touches de balle sont autorisées pour une équipe de volleyball avant de renvoyer le ballon ?",
+    "correct_answer": "Trois",
+    "incorrect_answers": [
+      "Deux",
+      "Quatre",
+      "Une"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'épreuve olympique d'équitation où le cheval et son cavalier doivent franchir des obstacles ?",
+    "correct_answer": "Le saut d'obstacles",
+    "incorrect_answers": [
+      "Le dressage",
+      "Le complet",
+      "Le polo"
+    ]
+  },
+  {
+    "question": "Quel est le nom de la mascotte des Jeux Olympiques et Paralympiques de Paris 2024 ?",
+    "correct_answer": "Les Phryges",
+    "incorrect_answers": [
+      "Astérix",
+      "Le Coq Gaulois",
+      "Marianne"
+    ]
+  },
+  {
+    "question": "Quel est le nom de la plus grande compétition internationale de football qui a lieu tous les quatre ans ?",
+    "correct_answer": "La Coupe du Monde de la FIFA",
+    "incorrect_answers": [
+      "La Ligue des Champions",
+      "L'Euro de football",
+      "La Copa América"
+    ]
+  },
+  {
+    "question": "Quel joueur de basketball américain est considéré par beaucoup comme le plus grand de tous les temps, ayant notamment joué pour les Chicago Bulls ?",
+    "correct_answer": "Michael Jordan",
+    "incorrect_answers": [
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Magic Johnson"
+    ]
+  },
+  {
+    "question": "Quelle est la distance d'un marathon ?",
+    "correct_answer": "42,195 kilomètres",
+    "incorrect_answers": [
+      "10 kilomètres",
+      "21 kilomètres",
+      "50 kilomètres"
+    ]
+  },
+  {
+    "question": "Au football, quand le ballon sort des limites du terrain sur le côté, comment est-il remis en jeu ?",
+    "correct_answer": "Par une touche",
+    "incorrect_answers": [
+      "Par un coup franc",
+      "Par un corner",
+      "Par un six mètres"
+    ]
+  },
+  {
+    "question": "Quel est l'équipement principal utilisé par les joueurs de hockey sur glace pour déplacer la rondelle ?",
+    "correct_answer": "Une crosse",
+    "incorrect_answers": [
+      "Une raquette",
+      "Une batte",
+      "Un club"
+    ]
+  },
+  {
+    "question": "Quelle civilisation est à l'origine des Jeux Olympiques antiques ?",
+    "correct_answer": "La civilisation grecque",
+    "incorrect_answers": [
+      "La civilisation romaine",
+      "La civilisation égyptienne",
+      "La civilisation chinoise"
+    ]
+  },
+  {
+    "question": "Quel skieur alpin français est une légende avec de multiples titres olympiques et mondiaux, surnommé le 'Boss' ?",
+    "correct_answer": "Jean-Claude Killy",
+    "incorrect_answers": [
+      "Luc Alphand",
+      "Alexis Pinturault",
+      "Marcel Hirscher"
+    ]
+  },
+  {
+    "question": "Quelle est la couleur du drapeau agité pour indiquer la fin d'une course automobile ?",
+    "correct_answer": "Le drapeau à damier",
+    "incorrect_answers": [
+      "Le drapeau rouge",
+      "Le drapeau jaune",
+      "Le drapeau vert"
+    ]
+  },
+  {
+    "question": "Comment s'appellent les Jeux Olympiques dédiés aux athlètes ayant un handicap physique ou mental ?",
+    "correct_answer": "Les Jeux Paralympiques",
+    "incorrect_answers": [
+      "Les Jeux Spéciaux",
+      "Les Jeux Adaptés",
+      "Les Jeux Handisport"
+    ]
+  },
+  {
+    "question": "Quelle est la devise olympique traditionnelle qui signifie 'Plus vite, plus haut, plus fort' ?",
+    "correct_answer": "Citius, Altius, Fortius",
+    "incorrect_answers": [
+      "Mens sana in corpore sano",
+      "Veni, Vidi, Vici",
+      "Carpe Diem"
+    ]
+  }
+]

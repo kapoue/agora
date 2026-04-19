@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Qui est l'acteur principal dans la saga cinématographique 'Pirates des Caraïbes' ?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Tom Cruise"
+    ]
+  },
+  {
+    "question": "Quel réalisateur est célèbre pour des films comme 'E.T. l'extra-terrestre' et 'Jurassic Park' ?",
+    "correct_answer": "Steven Spielberg",
+    "incorrect_answers": [
+      "James Cameron",
+      "George Lucas",
+      "Quentin Tarantino"
+    ]
+  },
+  {
+    "question": "Quelle récompense est considérée comme la plus prestigieuse dans le cinéma américain ?",
+    "correct_answer": "L'Oscar",
+    "incorrect_answers": [
+      "Le César",
+      "La Palme d'or",
+      "Le Lion d'or"
+    ]
+  },
+  {
+    "question": "Quel est le titre du film d'animation des studios Pixar où un petit robot nettoyeur tombe amoureux ?",
+    "correct_answer": "WALL-E",
+    "incorrect_answers": [
+      "Toy Story",
+      "Le Monde de Nemo",
+      "Vice-versa"
+    ]
+  },
+  {
+    "question": "Quel acteur a interprété le personnage de James Bond le plus longtemps ?",
+    "correct_answer": "Roger Moore",
+    "incorrect_answers": [
+      "Sean Connery",
+      "Daniel Craig",
+      "Pierce Brosnan"
+    ]
+  },
+  {
+    "question": "Quel film est connu pour sa réplique culte 'Luke, je suis ton père' ?",
+    "correct_answer": "Star Wars, épisode V - L'Empire contre-attaque",
+    "incorrect_answers": [
+      "Star Wars, épisode IV - Un nouvel espoir",
+      "Le Retour du Jedi",
+      "La Menace fantôme"
+    ]
+  },
+  {
+    "question": "Le réalisateur Alfred Hitchcock est surnommé le 'Maître du...' ?",
+    "correct_answer": "Suspense",
+    "incorrect_answers": [
+      "Western",
+      "Fantastique",
+      "Drame"
+    ]
+  },
+  {
+    "question": "Quel acteur est célèbre pour son rôle de vagabond au chapeau melon dans de nombreux films muets ?",
+    "correct_answer": "Charlie Chaplin",
+    "incorrect_answers": [
+      "Buster Keaton",
+      "Laurel et Hardy",
+      "Louis de Funès"
+    ]
+  },
+  {
+    "question": "Dans quelle ville française se déroule le célèbre Festival International du Film de Cannes ?",
+    "correct_answer": "Cannes",
+    "incorrect_answers": [
+      "Paris",
+      "Venise",
+      "Berlin"
+    ]
+  },
+  {
+    "question": "Quel genre cinématographique est caractérisé par des duels, des chevaux et des paysages de l'Ouest américain ?",
+    "correct_answer": "Le Western",
+    "incorrect_answers": [
+      "Le Film noir",
+      "Le Péplum",
+      "La Comédie musicale"
+    ]
+  },
+  {
+    "question": "Quelle réalisatrice est une figure emblématique de la Nouvelle Vague française, connue pour 'Cléo de 5 à 7' ?",
+    "correct_answer": "Agnès Varda",
+    "incorrect_answers": [
+      "Anne Fontaine",
+      "Valérie Lemercier",
+      "Maïwenn"
+    ]
+  },
+  {
+    "question": "Qui sont les inventeurs du Cinématographe et les pionniers du cinéma en France ?",
+    "correct_answer": "Les frères Lumière",
+    "incorrect_answers": [
+      "Les frères Dardenne",
+      "Georges Méliès",
+      "Thomas Edison"
+    ]
+  },
+  {
+    "question": "Dans quel film culte voit-on une voiture DeLorean voyager dans le temps ?",
+    "correct_answer": "Retour vers le futur",
+    "incorrect_answers": [
+      "E.T. l'extra-terrestre",
+      "L'Armée des douze singes",
+      "Matrix"
+    ]
+  },
+  {
+    "question": "Quel acteur américain est connu pour ses rôles dans 'Fight Club', 'Seven' et 'Inglourious Basterds' ?",
+    "correct_answer": "Brad Pitt",
+    "incorrect_answers": [
+      "Tom Hanks",
+      "Will Smith",
+      "George Clooney"
+    ]
+  },
+  {
+    "question": "Les César sont les principales récompenses cinématographiques de quel pays ?",
+    "correct_answer": "La France",
+    "incorrect_answers": [
+      "Les États-Unis",
+      "L'Italie",
+      "L'Espagne"
+    ]
+  },
+  {
+    "question": "Quel film de Quentin Tarantino est célèbre pour sa structure non linéaire et ses dialogues cultes ?",
+    "correct_answer": "Pulp Fiction",
+    "incorrect_answers": [
+      "Kill Bill",
+      "Reservoir Dogs",
+      "Django Unchained"
+    ]
+  },
+  {
+    "question": "Qui est l'acteur français célèbre pour sa voix grave et ses rôles dans des films comme 'Le Professionnel' et 'Léon' ?",
+    "correct_answer": "Jean Reno",
+    "incorrect_answers": [
+      "Gérard Depardieu",
+      "Alain Delon",
+      "Jean-Paul Belmondo"
+    ]
+  },
+  {
+    "question": "Quel réalisateur japonais est mondialement reconnu pour ses films d'animation comme 'Le Voyage de Chihiro' ?",
+    "correct_answer": "Hayao Miyazaki",
+    "incorrect_answers": [
+      "Akira Kurosawa",
+      "Satoshi Kon",
+      "Isao Takahata"
+    ]
+  },
+  {
+    "question": "Quel animal est le symbole de la récompense principale du Festival International du Film de Venise ?",
+    "correct_answer": "Le Lion",
+    "incorrect_answers": [
+      "L'Ours",
+      "La Palme",
+      "Le Faucon"
+    ]
+  },
+  {
+    "question": "Dans quel film Louis de Funès incarne-t-il le personnage du 'Gendarme de Saint-Tropez' ?",
+    "correct_answer": "Le Gendarme de Saint-Tropez",
+    "incorrect_answers": [
+      "La Grande Vadrouille",
+      "Le Corniaud",
+      "Rabbi Jacob"
+    ]
+  },
+  {
+    "question": "Stanley Kubrick est le réalisateur de '2001, l'Odyssée de l'espace'. Quel est son style caractéristique ?",
+    "correct_answer": "Réalisme froid et perfectionnisme visuel",
+    "incorrect_answers": [
+      "Comédies burlesques",
+      "Westerns épiques",
+      "Films d'horreur à petit budget"
+    ]
+  },
+  {
+    "question": "Les 'films muets' sont des films qui n'utilisent pas de :",
+    "correct_answer": "Dialogue parlé",
+    "incorrect_answers": [
+      "Musique",
+      "Décors",
+      "Acteurs"
+    ]
+  },
+  {
+    "question": "Quelle actrice a joué aux côtés de Leonardo DiCaprio dans le film 'Titanic' ?",
+    "correct_answer": "Kate Winslet",
+    "incorrect_answers": [
+      "Angelina Jolie",
+      "Julia Roberts",
+      "Jennifer Lawrence"
+    ]
+  },
+  {
+    "question": "Dans quel univers cinématographique se déroulent les aventures de Batman, Superman et Wonder Woman ?",
+    "correct_answer": "L'univers DC Comics",
+    "incorrect_answers": [
+      "L'univers Marvel",
+      "La Terre du Milieu",
+      "Le Monde de Narnia"
+    ]
+  },
+  {
+    "question": "Pedro Almodóvar est un réalisateur célèbre pour ses films aux couleurs vives. De quel pays est-il originaire ?",
+    "correct_answer": "L'Espagne",
+    "incorrect_answers": [
+      "Le Portugal",
+      "L'Italie",
+      "Le Mexique"
+    ]
+  },
+  {
+    "question": "Quel film est devenu un classique de science-fiction où des réplicants sont traqués à Los Angeles ?",
+    "correct_answer": "Blade Runner",
+    "incorrect_answers": [
+      "Terminator",
+      "Alien",
+      "Le Cinquième Élément"
+    ]
+  },
+  {
+    "question": "Quel acteur a remporté un Oscar du meilleur acteur pour son rôle dans le film 'Forest Gump' ?",
+    "correct_answer": "Tom Hanks",
+    "incorrect_answers": [
+      "Robert De Niro",
+      "Jack Nicholson",
+      "Denzel Washington"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on le fait de remplacer la voix d'un acteur par une autre, souvent dans une langue différente ?",
+    "correct_answer": "Le doublage",
+    "incorrect_answers": [
+      "Le sous-titrage",
+      "Le mixage",
+      "L'étalonnage"
+    ]
+  },
+  {
+    "question": "Quel film musical emblématique de 1939 est connu pour sa transition visuelle du noir et blanc à la couleur ?",
+    "correct_answer": "Le Magicien d'Oz",
+    "incorrect_answers": [
+      "Chantons sous la pluie",
+      "Mary Poppins",
+      "West Side Story"
+    ]
+  },
+  {
+    "question": "Quel acteur français est célèbre pour son physique athlétique et ses rôles dans des comédies d'action ?",
+    "correct_answer": "Jean-Paul Belmondo",
+    "incorrect_answers": [
+      "Lino Ventura",
+      "Bernard Giraudeau",
+      "Alain Delon"
+    ]
+  }
+]

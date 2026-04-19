@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Colonne grecque -->
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M35,20 L65,20 L65,25 L35,25 Z" />
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M40,25 L60,25 L60,75 L40,75 Z" />
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M35,75 L65,75 L65,80 L35,80 Z" />
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M42,25 L44,25 L44,75 L42,75 Z" />
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M48,25 L50,25 L50,75 L48,75 Z" />
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M56,25 L58,25 L58,75 L56,75 Z" />
+</vector>

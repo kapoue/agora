@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel dieu grec est souvent associé aux océans et aux tremblements de terre, maniant un trident puissant ?",
+    "correct_answer": "Poséidon",
+    "incorrect_answers": [
+      "Hadès",
+      "Zeus",
+      "Arès"
+    ]
+  },
+  {
+    "question": "Quelle déesse romaine est la protectrice du mariage et de la famille, équivalent de la déesse grecque Héra ?",
+    "correct_answer": "Junon",
+    "incorrect_answers": [
+      "Minerve",
+      "Vénus",
+      "Cérès"
+    ]
+  },
+  {
+    "question": "Quel est le nom du pont arc-en-ciel qui relie Asgard, le royaume des dieux, au monde des hommes (Midgard) dans la mythologie nordique ?",
+    "correct_answer": "Bifröst",
+    "incorrect_answers": [
+      "Yggdrasil",
+      "Ginnungagap",
+      "Valhalla"
+    ]
+  },
+  {
+    "question": "Quel dieu égyptien, reconnaissable à sa tête de chacal, est le patron de l'embaumement et guide des âmes dans l'au-delà ?",
+    "correct_answer": "Anubis",
+    "incorrect_answers": [
+      "Thot",
+      "Horus",
+      "Râ"
+    ]
+  },
+  {
+    "question": "Quel héros grec est célèbre pour avoir vaincu le Minotaure dans le Labyrinthe et s'être échappé grâce au fil d'Ariane ?",
+    "correct_answer": "Thésée",
+    "incorrect_answers": [
+      "Héraclès",
+      "Persée",
+      "Ulysse"
+    ]
+  },
+  {
+    "question": "Quelle créature mythologique possède un corps de lion, une tête de chèvre et une queue de serpent, crachant du feu par sa gueule ?",
+    "correct_answer": "La Chimère",
+    "incorrect_answers": [
+      "L'Hydre de Lerne",
+      "Le Sphinx",
+      "Le Cerbère"
+    ]
+  },
+  {
+    "question": "Quel est le nom de la fin du monde prophétisée dans la mythologie nordique, impliquant une bataille finale entre les dieux et les géants ?",
+    "correct_answer": "Ragnarök",
+    "incorrect_answers": [
+      "Walhalla",
+      "Edda",
+      "Ginnungagap"
+    ]
+  },
+  {
+    "question": "Quel fleuve des Enfers grecs doit être traversé par les âmes des morts, souvent avec l'aide du passeur Charon ?",
+    "correct_answer": "Le Styx",
+    "incorrect_answers": [
+      "Le Léthé",
+      "Le Phlégéton",
+      "L'Achéron"
+    ]
+  },
+  {
+    "question": "Quels frères jumeaux sont considérés comme les fondateurs mythiques de la ville de Rome, l'un tuant l'autre ?",
+    "correct_answer": "Romulus et Rémus",
+    "incorrect_answers": [
+      "Castor et Pollux",
+      "Énée et Ascagne",
+      "Cincinnatus et Fabius"
+    ]
+  },
+  {
+    "question": "Dans la mythologie égyptienne, quel est le nom du principe cosmique de vérité, de justice et d'équilibre, souvent personnifié par une déesse ?",
+    "correct_answer": "Maât",
+    "incorrect_answers": [
+      "Ka",
+      "Ba",
+      "Douat"
+    ]
+  },
+  {
+    "question": "Quel dieu olympien, forgeron divin, est boiteux suite à sa chute de l'Olympe et est marié à la déesse Aphrodite ?",
+    "correct_answer": "Héphaïstos",
+    "incorrect_answers": [
+      "Arès",
+      "Hermès",
+      "Apollon"
+    ]
+  },
+  {
+    "question": "Quel célèbre guerrier nordique, fils d'Odin, est destiné à venger son père en tuant le loup Fenrir lors du Ragnarök ?",
+    "correct_answer": "Vidar",
+    "incorrect_answers": [
+      "Thor",
+      "Balder",
+      "Heimdall"
+    ]
+  },
+  {
+    "question": "Quel est l'objet mythologique qui, selon la légende grecque, fut donné par Gaïa à Héra lors de son mariage avec Zeus, et qui produisait des pommes d'or ?",
+    "correct_answer": "L'arbre des Hespérides",
+    "incorrect_answers": [
+      "Le bouclier d'Achille",
+      "La Toison d'or",
+      "Le Palladium"
+    ]
+  },
+  {
+    "question": "Quel pharaon est le père d'Horus et le mari d'Isis, assassiné par son frère Seth et ramené à la vie pour régner sur l'Outre-monde égyptien ?",
+    "correct_answer": "Osiris",
+    "incorrect_answers": [
+      "Amon",
+      "Râ",
+      "Anubis"
+    ]
+  },
+  {
+    "question": "Quelle est la punition éternelle de Sisyphe dans les Enfers grecs, le condamnant à rouler sans cesse un rocher en haut d'une colline ?",
+    "correct_answer": "Une tâche répétitive et vaine",
+    "incorrect_answers": [
+      "Être dévoré par un aigle",
+      "Une soif et faim éternelles",
+      "La torture par des furies"
+    ]
+  },
+  {
+    "question": "Quel dieu romain, représenté avec deux visages, est le dieu des commencements et des fins, des portes et des transitions ?",
+    "correct_answer": "Janus",
+    "incorrect_answers": [
+      "Mars",
+      "Mercure",
+      "Vulcain"
+    ]
+  },
+  {
+    "question": "Quel serpent géant encercle Midgard et est l'ennemi juré du dieu Thor dans la mythologie nordique ?",
+    "correct_answer": "Jörmungandr",
+    "incorrect_answers": [
+      "Fenrir",
+      "Níðhöggr",
+      "Garm"
+    ]
+  },
+  {
+    "question": "Quel héros grec fut contraint d'accomplir douze travaux redoutables pour racheter le meurtre de sa famille et atteindre l'immortalité ?",
+    "correct_answer": "Héraclès",
+    "incorrect_answers": [
+      "Persée",
+      "Jason",
+      "Bellérophon"
+    ]
+  },
+  {
+    "question": "Quel est le nom de la déesse égyptienne à tête de lionne, associée à la guerre, à la guérison et à la protection, souvent sanguinaire ?",
+    "correct_answer": "Sekhmet",
+    "incorrect_answers": [
+      "Bastet",
+      "Hathor",
+      "Nephtys"
+    ]
+  },
+  {
+    "question": "Quelle guerre mythologique grecque a opposé les dieux olympiens aux puissants Titans pour la suprématie de l'univers ?",
+    "correct_answer": "La Titanomachie",
+    "incorrect_answers": [
+      "La Gigantomachie",
+      "La Guerre de Troie",
+      "Les Dactyletomies"
+    ]
+  },
+  {
+    "question": "Quel est le nom du marteau légendaire de Thor, capable de revenir à son propriétaire après avoir été lancé, dans la mythologie nordique ?",
+    "correct_answer": "Mjöllnir",
+    "incorrect_answers": [
+      "Gungnir",
+      "Draupnir",
+      "Hofuð"
+    ]
+  },
+  {
+    "question": "Quelle déesse grecque est née de l'écume de la mer, déesse de l'amour, de la beauté et du désir charnel ?",
+    "correct_answer": "Aphrodite",
+    "incorrect_answers": [
+      "Athéna",
+      "Artémis",
+      "Déméter"
+    ]
+  },
+  {
+    "question": "Dans la mythologie romaine, quel est l'équivalent de la déesse grecque Artémis, chasseresse vierge et protectrice de la nature sauvage ?",
+    "correct_answer": "Diane",
+    "incorrect_answers": [
+      "Vénus",
+      "Minerve",
+      "Cérès"
+    ]
+  },
+  {
+    "question": "Quel dieu égyptien à tête de faucon est le protecteur des pharaons et le dieu du ciel et de la royauté ?",
+    "correct_answer": "Horus",
+    "incorrect_answers": [
+      "Thot",
+      "Seth",
+      "Râ"
+    ]
+  },
+  {
+    "question": "Dans la mythologie grecque, quel champ de l'Outre-monde est réservé aux âmes des héros et des hommes vertueux après leur mort ?",
+    "correct_answer": "Les Champs Élysées",
+    "incorrect_answers": [
+      "Le Tartare",
+      "Les Champs de l'Asphodèle",
+      "L'Érèbe"
+    ]
+  },
+  {
+    "question": "Quelle est la cité céleste où résident les dieux Ases, le panthéon principal de la mythologie nordique ?",
+    "correct_answer": "Asgard",
+    "incorrect_answers": [
+      "Midgard",
+      "Jötunheimr",
+      "Niflheimr"
+    ]
+  },
+  {
+    "question": "Quelle créature féminine de la mythologie grecque, dotée d'ailes et de serres acérées, attire les marins vers la mort par son chant ?",
+    "correct_answer": "La Sirène",
+    "incorrect_answers": [
+      "La Gorgone",
+      "La Harpyie",
+      "La Furie"
+    ]
+  },
+  {
+    "question": "Selon le mythe égyptien, quel dieu est le créateur du monde, souvent représenté par un scarabée roulant le soleil levant ?",
+    "correct_answer": "Khépri",
+    "incorrect_answers": [
+      "Amon-Râ",
+      "Ptah",
+      "Atoum"
+    ]
+  },
+  {
+    "question": "Quel est le nom du célèbre oracle grec, situé au pied du Mont Parnasse, où la Pythie rendait ses prédictions divines ?",
+    "correct_answer": "Delphes",
+    "incorrect_answers": [
+      "Olympie",
+      "Mycènes",
+      "Cnossos"
+    ]
+  },
+  {
+    "question": "Dans la mythologie nordique, de quel élément primordial est fait le corps du géant Ymir, dont les dieux utilisèrent le corps pour créer le monde ?",
+    "correct_answer": "La glace et le feu",
+    "incorrect_answers": [
+      "L'eau et la terre",
+      "La lumière et l'obscurité",
+      "L'air et le vide"
+    ]
+  }
+]

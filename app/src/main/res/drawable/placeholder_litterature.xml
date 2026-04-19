@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Livre ouvert -->
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M50,25 Q35,22 15,25 L15,75 Q35,72 50,75 Q65,72 85,75 L85,25 Q65,22 50,25 Z" />
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M50,25 L50,75" />
+    <path
+        android:strokeColor="#F5F0E8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M20,35 L45,35" />
+    <path
+        android:strokeColor="#F5F0E8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M20,42 L45,42" />
+    <path
+        android:strokeColor="#F5F0E8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M20,49 L45,49" />
+    <path
+        android:strokeColor="#F5F0E8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M55,35 L80,35" />
+    <path
+        android:strokeColor="#F5F0E8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M55,42 L80,42" />
+    <path
+        android:strokeColor="#F5F0E8"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M55,49 L80,49" />
+</vector>

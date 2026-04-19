@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Sous quel empereur romain la tétrarchie fut-elle instituée pour stabiliser l'Empire ?",
+    "correct_answer": "Dioclétien",
+    "incorrect_answers": [
+      "Constantin Ier",
+      "Auguste",
+      "Théodose Ier"
+    ]
+  },
+  {
+    "question": "Quel fut le véritable nom du fondateur de la dynastie mongole des Yuan en Chine ?",
+    "correct_answer": "Kubilai Khan",
+    "incorrect_answers": [
+      "Gengis Khan",
+      "Ögödei Khan",
+      "Tamerlan"
+    ]
+  },
+  {
+    "question": "Quel événement déclencha la Guerre de Succession d'Autriche en 1740, remettant en cause la Pragmatique Sanction ?",
+    "correct_answer": "La mort de Charles VI",
+    "incorrect_answers": [
+      "L'invasion de la Silésie par Frédéric II",
+      "L'accession de Marie-Thérèse au trône",
+      "Le congrès d'Aix-la-Chapelle"
+    ]
+  },
+  {
+    "question": "Dans quel empire perse antique le zoroastrisme fut-il la religion d'État prédominante ?",
+    "correct_answer": "L'Empire sassanide",
+    "incorrect_answers": [
+      "L'Empire achéménide",
+      "L'Empire parthe",
+      "L'Empire moghol"
+    ]
+  },
+  {
+    "question": "Quel philosophe empiriste écossais est l'auteur du monumental 'Traité de la nature humaine' (1739-1740) ?",
+    "correct_answer": "David Hume",
+    "incorrect_answers": [
+      "Adam Smith",
+      "John Locke",
+      "George Berkeley"
+    ]
+  },
+  {
+    "question": "Quel shogun, premier des Trois Grands Unificateurs, initia l'unification du Japon à la fin du XVIe siècle ?",
+    "correct_answer": "Oda Nobunaga",
+    "incorrect_answers": [
+      "Tokugawa Ieyasu",
+      "Toyotomi Hideyoshi",
+      "Minamoto Yoritomo"
+    ]
+  },
+  {
+    "question": "Quel événement marqua un tournant majeur pour la puissance navale athénienne durant la Guerre du Péloponnèse ?",
+    "correct_answer": "La destruction de leur flotte lors de l'expédition de Sicile",
+    "incorrect_answers": [
+      "La victoire à la bataille des Arginuses",
+      "La défaite à la bataille de Notium",
+      "La prise de Sphactérie"
+    ]
+  },
+  {
+    "question": "Quel traité, ou ensemble de traités, mit fin à la Guerre de Trente Ans et redessina la carte de l'Europe ?",
+    "correct_answer": "Les Traités de Westphalie",
+    "incorrect_answers": [
+      "La Paix des Pyrénées",
+      "Le Traité d'Utrecht",
+      "La Paix d'Augsbourg"
+    ]
+  },
+  {
+    "question": "Lequel de ces empereurs byzantins est célèbre pour son code de lois, le 'Corpus Juris Civilis' ?",
+    "correct_answer": "Justinien Ier",
+    "incorrect_answers": [
+      "Léon III l'Isaurien",
+      "Basile II",
+      "Héraclius"
+    ]
+  },
+  {
+    "question": "Quelle nation africaine a infligé une défaite écrasante à l'armée coloniale italienne à Adoua en 1896 ?",
+    "correct_answer": "L'Éthiopie",
+    "incorrect_answers": [
+      "Le Maroc",
+      "L'Égypte",
+      "L'Afrique du Sud"
+    ]
+  },
+  {
+    "question": "Quel souverain aztèque accueillit Hernán Cortés, devenant le dernier tlatoani indépendant de Tenochtitlan ?",
+    "correct_answer": "Moctezuma II",
+    "incorrect_answers": [
+      "Cuauhtémoc",
+      "Nezahualcóyotl",
+      "Itzcoatl"
+    ]
+  },
+  {
+    "question": "Lequel de ces événements a directement conduit à la formation 'officielle' du Saint-Empire romain germanique ?",
+    "correct_answer": "Le couronnement d'Otton Ier en 962",
+    "incorrect_answers": [
+      "Le couronnement de Charlemagne en 800",
+      "Le Traité de Verdun en 843",
+      "Le sacre de Pépin le Bref en 754"
+    ]
+  },
+  {
+    "question": "Quelle figure religieuse fut excommuniée par le Pape Léon X en 1521, solidifiant la rupture de la Réforme ?",
+    "correct_answer": "Martin Luther",
+    "incorrect_answers": [
+      "Jean Calvin",
+      "Ulrich Zwingli",
+      "Jan Hus"
+    ]
+  },
+  {
+    "question": "Quelle dynastie chinoise est associée à l'apogée de la poésie classique et à une ère de grande prospérité ?",
+    "correct_answer": "La dynastie Tang",
+    "incorrect_answers": [
+      "La dynastie Han",
+      "La dynastie Song",
+      "La dynastie Ming"
+    ]
+  },
+  {
+    "question": "Quel général carthaginois est célèbre pour avoir traversé les Alpes avec des éléphants de guerre en 218 av. J.-C. ?",
+    "correct_answer": "Hannibal Barca",
+    "incorrect_answers": [
+      "Hamilcar Barca",
+      "Hasdrubal Barca",
+      "Scipion l'Africain"
+    ]
+  },
+  {
+    "question": "Quel mouvement littéraire et artistique du XIXe siècle était caractérisé par l'exaltation de la nature et des émotions ?",
+    "correct_answer": "Le Romantisme",
+    "incorrect_answers": [
+      "Le Classicisme",
+      "Le Réalisme",
+      "Le Naturalisme"
+    ]
+  },
+  {
+    "question": "Quelle bataille de 1805 est souvent citée comme le chef-d'œuvre tactique de Napoléon Bonaparte ?",
+    "correct_answer": "Austerlitz",
+    "incorrect_answers": [
+      "Iéna",
+      "Wagram",
+      "Borodino"
+    ]
+  },
+  {
+    "question": "Quel président des États-Unis a lancé le programme ambitieux de la 'Great Society' dans les années 1960 ?",
+    "correct_answer": "Lyndon B. Johnson",
+    "incorrect_answers": [
+      "John F. Kennedy",
+      "Richard Nixon",
+      "Dwight D. Eisenhower"
+    ]
+  },
+  {
+    "question": "Lequel de ces pays n'a pas été une puissance mandataire de la Société des Nations après la Première Guerre mondiale ?",
+    "correct_answer": "Les États-Unis",
+    "incorrect_answers": [
+      "Le Royaume-Uni",
+      "La France",
+      "Le Japon"
+    ]
+  },
+  {
+    "question": "Quel fut le sort du dernier sultan ottoman, Mehmed VI, après l'abolition du sultanat en 1922 ?",
+    "correct_answer": "Il fut exilé",
+    "incorrect_answers": [
+      "Il fut exécuté",
+      "Il devint un chef religieux",
+      "Il se suicida"
+    ]
+  },
+  {
+    "question": "Quelle conférence de 1884-1885 a formalisé le partage et les règles de colonisation de l'Afrique ?",
+    "correct_answer": "La Conférence de Berlin",
+    "incorrect_answers": [
+      "La Conférence de Brazzaville",
+      "Le Congrès de Vienne",
+      "La Conférence de Yalta"
+    ]
+  },
+  {
+    "question": "Quel dirigeant yougoslave a maintenu une politique de non-alignement durant la Guerre froide ?",
+    "correct_answer": "Josip Broz Tito",
+    "incorrect_answers": [
+      "Slobodan Milošević",
+      "Milan Nedeljković",
+      "Ante Pavelić"
+    ]
+  },
+  {
+    "question": "Laquelle de ces révolutions d'Europe de l'Est de 1989 est surnommée la 'Révolution de Velours' ?",
+    "correct_answer": "La Révolution tchécoslovaque",
+    "incorrect_answers": [
+      "La Révolution hongroise",
+      "La Révolution roumaine",
+      "La Révolution polonaise"
+    ]
+  },
+  {
+    "question": "Quel artiste de la Renaissance a peint 'La Cène' et est également célèbre pour ses esquisses d'inventions ?",
+    "correct_answer": "Léonard de Vinci",
+    "incorrect_answers": [
+      "Michel-Ange",
+      "Raphaël",
+      "Donatello"
+    ]
+  },
+  {
+    "question": "Quel événement précis marqua le début de l'Inquisition espagnole en 1478 ?",
+    "correct_answer": "La bulle papale 'Exigit Sincerae Devotionis Affectus'",
+    "incorrect_answers": [
+      "Le mariage d'Isabelle de Castille et Ferdinand d'Aragon",
+      "La chute de Grenade",
+      "L'expulsion des Juifs d'Espagne"
+    ]
+  },
+  {
+    "question": "Laquelle de ces écoles philosophiques grecques prônait l'ataraxie et l'aponie comme buts de la vie ?",
+    "correct_answer": "L'épicurisme",
+    "incorrect_answers": [
+      "Le stoïcisme",
+      "Le cynisme",
+      "Le scepticisme"
+    ]
+  },
+  {
+    "question": "Quel fut le nom du traité secret de 1916 entre la France et le Royaume-Uni pour se partager le Moyen-Orient ottoman ?",
+    "correct_answer": "Accords Sykes-Picot",
+    "incorrect_answers": [
+      "Déclaration Balfour",
+      "Traité de Sèvres",
+      "Conférence de Lausanne"
+    ]
+  },
+  {
+    "question": "Quel roi de France est associé à la révocation de l'Édit de Nantes en 1685, mettant fin à la tolérance religieuse ?",
+    "correct_answer": "Louis XIV",
+    "incorrect_answers": [
+      "Henri IV",
+      "Louis XIII",
+      "Louis XV"
+    ]
+  },
+  {
+    "question": "Quel amiral de la dynastie Joseon est célèbre pour ses victoires navales contre les Japonais à la fin du XVIe siècle ?",
+    "correct_answer": "Yi Sun-sin",
+    "incorrect_answers": [
+      "Sejong le Grand",
+      "Gwanggaeto le Grand",
+      "Toyotomi Hideyoshi"
+    ]
+  },
+  {
+    "question": "Quel historien grec est considéré comme le 'Père de l'Histoire' pour son œuvre sur les guerres médiques ?",
+    "correct_answer": "Hérodote",
+    "incorrect_answers": [
+      "Thucydide",
+      "Xénophon",
+      "Polybe"
+    ]
+  }
+]

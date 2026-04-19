@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel élément permet de diriger une voiture ?",
+    "correct_answer": "Le volant",
+    "incorrect_answers": [
+      "La pédale",
+      "Le pare-brise",
+      "Le siège"
+    ]
+  },
+  {
+    "question": "Qui est généralement reconnu pour avoir inventé la première automobile ?",
+    "correct_answer": "Karl Benz",
+    "incorrect_answers": [
+      "Henry Ford",
+      "Léonard de Vinci",
+      "Thomas Edison"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qui permet principalement à un avion de voler ?",
+    "correct_answer": "La portance de ses ailes",
+    "incorrect_answers": [
+      "La force de ses réacteurs",
+      "La poussée du vent",
+      "L'apesanteur"
+    ]
+  },
+  {
+    "question": "Quels frères sont célèbres pour le premier vol motorisé et contrôlé ?",
+    "correct_answer": "Les frères Wright",
+    "incorrect_answers": [
+      "Les frères Lumière",
+      "Les frères Montgolfier",
+      "Les frères Boeing"
+    ]
+  },
+  {
+    "question": "Quel élément propulse principalement un voilier ?",
+    "correct_answer": "Le vent",
+    "incorrect_answers": [
+      "Un moteur",
+      "Des rames",
+      "La force des courants"
+    ]
+  },
+  {
+    "question": "Sur quel type d'infrastructure circulent les trains ?",
+    "correct_answer": "Des rails",
+    "incorrect_answers": [
+      "Des routes",
+      "Des pistes",
+      "Des rivières"
+    ]
+  },
+  {
+    "question": "Quel type de train est réputé pour sa très grande vitesse ?",
+    "correct_answer": "Le TGV (Train à Grande Vitesse)",
+    "incorrect_answers": [
+      "Le tramway",
+      "Le métro",
+      "Le train de marchandises"
+    ]
+  },
+  {
+    "question": "Quel était le moyen de transport terrestre le plus courant avant l'invention de l'automobile ?",
+    "correct_answer": "La calèche tirée par des chevaux",
+    "incorrect_answers": [
+      "Le vélo",
+      "La diligence motorisée",
+      "Le chariot à vapeur"
+    ]
+  },
+  {
+    "question": "Quel avion commercial a été le premier à franchir le mur du son ?",
+    "correct_answer": "Le Concorde",
+    "incorrect_answers": [
+      "Le Boeing 747",
+      "L'Airbus A380",
+      "Le Caravelle"
+    ]
+  },
+  {
+    "question": "Quel équipement est obligatoire dans une voiture pour la sécurité des passagers ?",
+    "correct_answer": "La ceinture de sécurité",
+    "incorrect_answers": [
+      "Un casque",
+      "Un gilet jaune",
+      "Une radio"
+    ]
+  },
+  {
+    "question": "Comment s'appelle l'extrémité avant d'un bateau ?",
+    "correct_answer": "La proue",
+    "incorrect_answers": [
+      "La poupe",
+      "Le gouvernail",
+      "La quille"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand avion de ligne au monde en termes de capacité passagers ?",
+    "correct_answer": "L'Airbus A380",
+    "incorrect_answers": [
+      "Le Boeing 747",
+      "Le Super Guppy",
+      "L'Antonov An-225"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on le wagon qui tire tous les autres et contient le moteur d'un train ?",
+    "correct_answer": "La locomotive",
+    "incorrect_answers": [
+      "Le tender",
+      "Le fourgon",
+      "Le wagon-restaurant"
+    ]
+  },
+  {
+    "question": "Quel type de véhicule peut se déplacer aussi bien sur terre que sur l'eau ?",
+    "correct_answer": "Un véhicule amphibie",
+    "incorrect_answers": [
+      "Un hydravion",
+      "Un sous-marin",
+      "Un aéroglisseur"
+    ]
+  },
+  {
+    "question": "Quelle source d'énergie utilise une voiture électrique pour fonctionner ?",
+    "correct_answer": "L'électricité",
+    "incorrect_answers": [
+      "L'essence",
+      "Le gaz",
+      "Le biocarburant"
+    ]
+  },
+  {
+    "question": "Quel fut le premier moyen de transport aérien mis au point par les frères Montgolfier ?",
+    "correct_answer": "La montgolfière",
+    "incorrect_answers": [
+      "Le dirigeable",
+      "L'avion",
+      "L'hélicoptère"
+    ]
+  },
+  {
+    "question": "Quel type de bateau est capable de naviguer sous l'eau ?",
+    "correct_answer": "Un sous-marin",
+    "incorrect_answers": [
+      "Un paquebot",
+      "Une frégate",
+      "Un chalutier"
+    ]
+  },
+  {
+    "question": "Quel composant est essentiel pour rouler pour la plupart des véhicules terrestres ?",
+    "correct_answer": "Les roues",
+    "incorrect_answers": [
+      "Les hélices",
+      "Les ailes",
+      "Les patins"
+    ]
+  },
+  {
+    "question": "Quel type de carburant est le plus couramment utilisé par les voitures dans le monde ?",
+    "correct_answer": "L'essence ou le diesel",
+    "incorrect_answers": [
+      "Le charbon",
+      "Le bois",
+      "Le vent"
+    ]
+  },
+  {
+    "question": "Quelle partie d'un avion est responsable de la propulsion vers l'avant ?",
+    "correct_answer": "Les réacteurs ou hélices",
+    "incorrect_answers": [
+      "Les ailes",
+      "Le fuselage",
+      "Le gouvernail"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on un système de transport ferroviaire souterrain dans les grandes villes ?",
+    "correct_answer": "Le métro",
+    "incorrect_answers": [
+      "Le tramway",
+      "Le funiculaire",
+      "Le monorail"
+    ]
+  },
+  {
+    "question": "À quoi sert une ancre sur un bateau ?",
+    "correct_answer": "À immobiliser le bateau",
+    "incorrect_answers": [
+      "À diriger le bateau",
+      "À mesurer la profondeur",
+      "À pomper l'eau"
+    ]
+  },
+  {
+    "question": "Quel constructeur automobile est célèbre pour avoir popularisé la production de masse ?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Porsche",
+      "Ferrari",
+      "Mercedes-Benz"
+    ]
+  },
+  {
+    "question": "Quel est le rôle principal du fuselage d'un avion ?",
+    "correct_answer": "Transporter les passagers et le fret",
+    "incorrect_answers": [
+      "Produire la poussée",
+      "Assurer la portance",
+      "Diriger l'avion"
+    ]
+  },
+  {
+    "question": "Quel type de véhicule est conçu pour rouler sur des terrains difficiles (boue, rochers) ?",
+    "correct_answer": "Un véhicule tout-terrain (4x4)",
+    "incorrect_answers": [
+      "Une berline",
+      "Un coupé sportif",
+      "Une voiture citadine"
+    ]
+  },
+  {
+    "question": "Quelle est la source d'énergie historique pour les premières locomotives à vapeur ?",
+    "correct_answer": "Le charbon",
+    "incorrect_answers": [
+      "L'électricité",
+      "Le diesel",
+      "L'essence"
+    ]
+  },
+  {
+    "question": "Comment s'appelle le pont principal d'un navire ?",
+    "correct_answer": "Le pont supérieur",
+    "incorrect_answers": [
+      "La cale",
+      "La passerelle",
+      "Le bastingage"
+    ]
+  },
+  {
+    "question": "À quoi servent principalement les pneus d'une voiture ?",
+    "correct_answer": "À adhérer à la route et amortir",
+    "incorrect_answers": [
+      "À diriger le véhicule",
+      "À freiner la voiture",
+      "À stocker le carburant"
+    ]
+  },
+  {
+    "question": "Quel type de véhicule détient le record du monde de vitesse sur terre ?",
+    "correct_answer": "Une voiture fusée",
+    "incorrect_answers": [
+      "Une Formule 1",
+      "Une moto de course",
+      "Un train Maglev"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on un voyage en voiture sur une longue distance ?",
+    "correct_answer": "Un road trip",
+    "incorrect_answers": [
+      "Un parcours santé",
+      "Une randonnée",
+      "Un safari"
+    ]
+  }
+]

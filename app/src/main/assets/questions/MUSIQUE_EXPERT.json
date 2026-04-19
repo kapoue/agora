@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quelle cantate de Johann Sebastian Bach, BWV 208, est célèbre pour son aria \"Schafe können sicher weiden\" (Les brebis peuvent paître en toute sécurité) ?",
+    "correct_answer": "Was mir behagt, ist nur die muntre Jagd",
+    "incorrect_answers": [
+      "Herz und Mund und Tat und Leben",
+      "Wachet auf, ruft uns die Stimme",
+      "Ein feste Burg ist unser Gott"
+    ]
+  },
+  {
+    "question": "Quel saxophoniste est crédité d'avoir exploré et popularisé l'utilisation des harmoniques supérieures et des \"multiphonics\" dans le jazz modal et avant-gardiste ?",
+    "correct_answer": "John Coltrane",
+    "incorrect_answers": [
+      "Lester Young",
+      "Stan Getz",
+      "Dexter Gordon"
+    ]
+  },
+  {
+    "question": "Quel compositeur est le pionnier de la \"musique concrète\", utilisant des sons enregistrés manipulés comme matière première musicale ?",
+    "correct_answer": "Pierre Schaeffer",
+    "incorrect_answers": [
+      "Karlheinz Stockhausen",
+      "Iannis Xenakis",
+      "John Cage"
+    ]
+  },
+  {
+    "question": "Qui est le principal architecte et producteur de l'album \"Pet Sounds\" des Beach Boys, souvent cité pour son innovation orchestrale et harmonique ?",
+    "correct_answer": "Brian Wilson",
+    "incorrect_answers": [
+      "George Martin",
+      "Phil Spector",
+      "Rick Rubin"
+    ]
+  },
+  {
+    "question": "Quel instrument à cordes frottées de la famille des violes possède six ou sept cordes, des frettes et une sonorité douce et mélancolique, populaire à la Renaissance et au Baroque ?",
+    "correct_answer": "Viole de gambe",
+    "incorrect_answers": [
+      "Luth",
+      "Rebec",
+      "Viola d'amore"
+    ]
+  },
+  {
+    "question": "En harmonie tonale, quelle est la fonction du \"sixième degré napolitain\" ou accord de Naples ?",
+    "correct_answer": "Un accord majeur sur le second degré abaissé",
+    "incorrect_answers": [
+      "Un accord de septième diminuée sur le sixième degré",
+      "Un accord de sixte majeure sur le premier degré",
+      "Une substitution tritonique du cinquième degré"
+    ]
+  },
+  {
+    "question": "Quel opéra de Richard Wagner est célèbre pour son accord non résolu, l'un des piliers de l'atonalité naissante, apparaissant dès les premières mesures ?",
+    "correct_answer": "Tristan und Isolde",
+    "incorrect_answers": [
+      "Lohengrin",
+      "Parsifal",
+      "Tannhäuser"
+    ]
+  },
+  {
+    "question": "Quel instrument de musique africain est une lyre-harpe à 21 cordes, souvent associée aux griots mandingues, et est un symbole de l'Afrique de l'Ouest ?",
+    "correct_answer": "Kora",
+    "incorrect_answers": [
+      "Balafon",
+      "Djembé",
+      "Ngoni"
+    ]
+  },
+  {
+    "question": "Quel compositeur a développé le concept de \"micropolyphonie\", une technique où de nombreuses voix canoniques se chevauchent pour créer des textures sonores denses ?",
+    "correct_answer": "György Ligeti",
+    "incorrect_answers": [
+      "Krzysztof Penderecki",
+      "Luigi Nono",
+      "Philip Glass"
+    ]
+  },
+  {
+    "question": "Quel est l'album de hip-hop de 1989 par les Beastie Boys, produit par The Dust Brothers, qui est reconnu pour sa complexité de sampling et son éclectisme musical ?",
+    "correct_answer": "Paul's Boutique",
+    "incorrect_answers": [
+      "Licensed to Ill",
+      "Fear of a Black Planet",
+      "3 Feet High and Rising"
+    ]
+  },
+  {
+    "question": "Quel compositeur est reconnu comme le pionnier du \"leitmotiv\" au cinéma, adaptant la technique wagnérienne pour des films comme \"King Kong\" ou \"Autant en emporte le vent\" ?",
+    "correct_answer": "Max Steiner",
+    "incorrect_answers": [
+      "Ennio Morricone",
+      "Bernard Herrmann",
+      "John Williams"
+    ]
+  },
+  {
+    "question": "Quelle forme musicale de la Renaissance est une pièce vocale polyphonique a cappella, souvent en italien, pour plusieurs voix, et dont les textes sont majoritairement profanes ?",
+    "correct_answer": "Madrigal",
+    "incorrect_answers": [
+      "Motet",
+      "Messe",
+      "Chanson"
+    ]
+  },
+  {
+    "question": "Quel guitariste de blues est crédité d'avoir développé le style de jeu \"boogie-woogie\" à la guitare, caractérisé par des lignes de basse ostinato ?",
+    "correct_answer": "John Lee Hooker",
+    "incorrect_answers": [
+      "B.B. King",
+      "Muddy Waters",
+      "Lightnin' Hopkins"
+    ]
+  },
+  {
+    "question": "Quelle œuvre de Steve Reich est un exemple emblématique de \"phase shifting\" pour deux pianos, créée en 1967, où les interprètes se déphasent progressivement ?",
+    "correct_answer": "Piano Phase",
+    "incorrect_answers": [
+      "Music for 18 Musicians",
+      "Different Trains",
+      "Clapping Music"
+    ]
+  },
+  {
+    "question": "Quel sous-genre de la musique électronique est caractérisé par un tempo lent, des rythmes lourds et un son sombre, et tire ses origines du sud de Londres à la fin des années 1990 ?",
+    "correct_answer": "Dubstep",
+    "incorrect_answers": [
+      "Trance",
+      "Techno",
+      "House"
+    ]
+  },
+  {
+    "question": "Quel compositeur a introduit pour la première fois un rôle concertant majeur et distinctif pour l'alto dans ce qui est souvent considéré comme une symphonie concertante ou un concerto ?",
+    "correct_answer": "Hector Berlioz (avec Harold en Italie)",
+    "incorrect_answers": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johannes Brahms"
+    ]
+  },
+  {
+    "question": "Quel label indépendant a publié le single \"Anarchy in the U.K.\" des Sex Pistols, après leur rupture avec EMI et avant A&M ?",
+    "correct_answer": "Virgin Records",
+    "incorrect_answers": [
+      "Sire Records",
+      "Rough Trade",
+      "Stiff Records"
+    ]
+  },
+  {
+    "question": "Quel terme musicologique désigne la pratique de l'ajout d'une voix à une mélodie existante, souvent improvisée dans la musique médiévale, et est l'ancêtre du contrepoint ?",
+    "correct_answer": "Organum",
+    "incorrect_answers": [
+      "Contrepoint",
+      "Canon",
+      "Faux-bourdon"
+    ]
+  },
+  {
+    "question": "Quel groupe de rock progressif est l'auteur de l'album concept \"The Lamb Lies Down on Broadway\", racontant l'histoire de Rael dans la ville de New York ?",
+    "correct_answer": "Genesis",
+    "incorrect_answers": [
+      "Yes",
+      "King Crimson",
+      "Pink Floyd"
+    ]
+  },
+  {
+    "question": "Quel compositeur de la Renaissance est célèbre pour ses compositions mélancoliques pour luth, notamment la \"Lachrimae\" (sept pavanes) et de nombreuses fantaisies ?",
+    "correct_answer": "John Dowland",
+    "incorrect_answers": [
+      "Josquin des Prez",
+      "Guillaume Dufay",
+      "Orlando di Lasso"
+    ]
+  },
+  {
+    "question": "Dans quel studio d'enregistrement légendaire a été enregistré l'album \"Kind of Blue\" de Miles Davis en 1959, célèbre pour son acoustique unique ?",
+    "correct_answer": "Columbia 30th Street Studio",
+    "incorrect_answers": [
+      "Van Gelder Studio",
+      "Capitol Studios",
+      "Abbey Road Studios"
+    ]
+  },
+  {
+    "question": "Quelle forme musicale de l'ère classique alterne entre un refrain (couplet) et des épisodes contrastants, souvent trouvée dans le dernier mouvement d'un concerto ou d'une sonate ?",
+    "correct_answer": "Rondo",
+    "incorrect_answers": [
+      "Sonate",
+      "Fugue",
+      "Thème et variations"
+    ]
+  },
+  {
+    "question": "Quel sous-genre du reggae est caractérisé par un rythme ralenti, une ligne de basse profonde et des effets sonores éthérés, souvent associé aux innovations de King Tubby et Lee \"Scratch\" Perry ?",
+    "correct_answer": "Dub",
+    "incorrect_answers": [
+      "Ska",
+      "Rocksteady",
+      "Dancehall"
+    ]
+  },
+  {
+    "question": "Quel compositeur a développé le \"spectralisme\", une technique basée sur l'analyse acoustique du son (partiels et harmoniques) pour générer des harmonies et des mélodies ?",
+    "correct_answer": "Gérard Grisey",
+    "incorrect_answers": [
+      "Pierre Boulez",
+      "Karlheinz Stockhausen",
+      "Luciano Berio"
+    ]
+  },
+  {
+    "question": "Quelle est la signification du nom de scène \"Lead Belly\", le célèbre bluesman et artiste folk, surnom qui lui a été donné en prison ?",
+    "correct_answer": "Il était connu pour sa résistance physique",
+    "incorrect_answers": [
+      "Il jouait d'un instrument à vent",
+      "Il avait un ventre proéminent",
+      "C'était un surnom d'enfance"
+    ]
+  },
+  {
+    "question": "Quel sous-genre de la musique country se caractérise par une batterie proéminente, des guitares électriques et des thèmes sombres, émergeant dans les années 1970 en opposition au son de Nashville ?",
+    "correct_answer": "Outlaw Country",
+    "incorrect_answers": [
+      "Bluegrass",
+      "Honky Tonk",
+      "Western Swing"
+    ]
+  },
+  {
+    "question": "Quel compositeur était surnommé le \"Père de la symphonie\" et le \"Père du quatuor à cordes\" pour ses contributions fondamentales à l'établissement de ces genres ?",
+    "correct_answer": "Joseph Haydn",
+    "incorrect_answers": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach"
+    ]
+  },
+  {
+    "question": "Quel sous-genre du jazz, né dans les années 1970, combine l'improvisation jazz avec des éléments de funk, de soul et de R&B, intégrant souvent des instruments électriques ?",
+    "correct_answer": "Jazz Fusion",
+    "incorrect_answers": [
+      "Bebop",
+      "Cool Jazz",
+      "Swing"
+    ]
+  },
+  {
+    "question": "Quel système d'enregistrement multipiste a été inventé par Les Paul à la fin des années 1940, en superposant des pistes sur une bande magnétique unique ?",
+    "correct_answer": "L'enregistrement \"sound-on-sound\"",
+    "incorrect_answers": [
+      "Le disque vinyle stéréophonique",
+      "Le synthétiseur analogique",
+      "Le compact disc"
+    ]
+  },
+  {
+    "question": "Quelle œuvre de John Cage est célèbre pour sa durée de 4 minutes et 33 secondes de silence, invitant à écouter les sons ambiants de l'environnement comme musique ?",
+    "correct_answer": "4'33\"",
+    "incorrect_answers": [
+      "Sonatas and Interludes",
+      "Imaginary Landscape No. 4",
+      "Atlas Eclipticalis"
+    ]
+  }
+]

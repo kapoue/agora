@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quelle ville a accueilli les premiers Jeux Olympiques de l'ère moderne en 1896 ?",
+    "correct_answer": "Athènes",
+    "incorrect_answers": [
+      "Paris",
+      "Londres",
+      "Rome"
+    ]
+  },
+  {
+    "question": "Quel pays détient le record du plus grand nombre de victoires en Coupe du Monde de football masculin ?",
+    "correct_answer": "Brésil",
+    "incorrect_answers": [
+      "Allemagne",
+      "Italie",
+      "Argentine"
+    ]
+  },
+  {
+    "question": "Quel athlète est le détenteur actuel du record du monde du 100 mètres masculin ?",
+    "correct_answer": "Usain Bolt",
+    "incorrect_answers": [
+      "Carl Lewis",
+      "Tyson Gay",
+      "Justin Gatlin"
+    ]
+  },
+  {
+    "question": "Dans quelle épreuve cycliste le coureur porte-t-il le maillot rose ?",
+    "correct_answer": "Giro d'Italia",
+    "incorrect_answers": [
+      "Tour de France",
+      "Vuelta a España",
+      "Liège-Bastogne-Liège"
+    ]
+  },
+  {
+    "question": "Qui est le joueur de tennis masculin ayant remporté le plus de titres du Grand Chelem en simple ?",
+    "correct_answer": "Novak Djokovic",
+    "incorrect_answers": [
+      "Rafael Nadal",
+      "Roger Federer",
+      "Pete Sampras"
+    ]
+  },
+  {
+    "question": "Combien de points rapporte un essai transformé au rugby à XV ?",
+    "correct_answer": "7 points",
+    "incorrect_answers": [
+      "5 points",
+      "6 points",
+      "8 points"
+    ]
+  },
+  {
+    "question": "Quel nageur est le sportif le plus médaillé de l'histoire des Jeux Olympiques ?",
+    "correct_answer": "Michael Phelps",
+    "incorrect_answers": [
+      "Larisa Latynina",
+      "Paavo Nurmi",
+      "Mark Spitz"
+    ]
+  },
+  {
+    "question": "Quelle ligue est considérée comme la plus prestigieuse au monde pour le basketball professionnel ?",
+    "correct_answer": "NBA",
+    "incorrect_answers": [
+      "EuroLeague",
+      "CBA",
+      "LNB"
+    ]
+  },
+  {
+    "question": "Quel pilote de Formule 1 détient le record du plus grand nombre de championnats du monde ?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": [
+      "Michael Schumacher",
+      "Juan Manuel Fangio",
+      "Ayrton Senna"
+    ]
+  },
+  {
+    "question": "Combien d'anneaux entrelacés composent le drapeau olympique ?",
+    "correct_answer": "Cinq",
+    "incorrect_answers": [
+      "Quatre",
+      "Six",
+      "Sept"
+    ]
+  },
+  {
+    "question": "Quel boxeur est surnommé 'The Greatest' et a allumé la flamme olympique en 1996 ?",
+    "correct_answer": "Muhammad Ali",
+    "incorrect_answers": [
+      "Mike Tyson",
+      "George Foreman",
+      "Joe Frazier"
+    ]
+  },
+  {
+    "question": "Quel événement majeur du ski alpin est surnommé 'la Streif' et est réputé pour sa difficulté ?",
+    "correct_answer": "La descente de Kitzbühel",
+    "incorrect_answers": [
+      "Le Super-G de Val Gardena",
+      "Le slalom de Wengen",
+      "La descente de Bormio"
+    ]
+  },
+  {
+    "question": "Combien de joueurs une équipe de handball a-t-elle sur le terrain pendant un match ?",
+    "correct_answer": "Sept",
+    "incorrect_answers": [
+      "Six",
+      "Huit",
+      "Dix"
+    ]
+  },
+  {
+    "question": "Quel est le nom de la discipline combinée féminine en athlétisme, disputée sur sept épreuves ?",
+    "correct_answer": "L'Heptathlon",
+    "incorrect_answers": [
+      "Le Décathlon",
+      "Le Pentathlon",
+      "Le Triathlon"
+    ]
+  },
+  {
+    "question": "Quelle est la seule partie du corps que l'on n'a pas le droit d'utiliser pour frapper la balle au tennis de table ?",
+    "correct_answer": "La main libre",
+    "incorrect_answers": [
+      "Le bras",
+      "La raquette",
+      "La jambe"
+    ]
+  },
+  {
+    "question": "Combien de points vaut un touchdown au football américain avant la transformation ?",
+    "correct_answer": "6 points",
+    "incorrect_answers": [
+      "3 points",
+      "7 points",
+      "9 points"
+    ]
+  },
+  {
+    "question": "En quelle année ont eu lieu les premiers Jeux Olympiques d'hiver ?",
+    "correct_answer": "1924",
+    "incorrect_answers": [
+      "1908",
+      "1936",
+      "1948"
+    ]
+  },
+  {
+    "question": "Comment s'appelle le score qui consiste à terminer un trou en deux coups sous le Par au golf ?",
+    "correct_answer": "Un Eagle",
+    "incorrect_answers": [
+      "Un Birdie",
+      "Un Bogey",
+      "Un Albatros"
+    ]
+  },
+  {
+    "question": "Quel est le seul sport olympique où hommes et femmes concourent indifféremment dans la même catégorie ?",
+    "correct_answer": "L'Équitation",
+    "incorrect_answers": [
+      "La Voile",
+      "Le Tir",
+      "Le Badminton"
+    ]
+  },
+  {
+    "question": "Qui est considéré comme le rénovateur des Jeux Olympiques modernes ?",
+    "correct_answer": "Pierre de Coubertin",
+    "incorrect_answers": [
+      "Spiridon Louis",
+      "Dimitrios Vikelas",
+      "James Connolly"
+    ]
+  },
+  {
+    "question": "Quel art martial, originaire du Japon, est célèbre pour ses ceintures de couleurs ?",
+    "correct_answer": "Le Judo",
+    "incorrect_answers": [
+      "Le Karaté",
+      "Le Taekwondo",
+      "L'Aïkido"
+    ]
+  },
+  {
+    "question": "Quelle distance officielle est courue lors d'un marathon ?",
+    "correct_answer": "42,195 km",
+    "incorrect_answers": [
+      "26,2 miles",
+      "40 km",
+      "21,1 km"
+    ]
+  },
+  {
+    "question": "Quelle course automobile est réputée pour être une épreuve d'endurance de 24 heures ?",
+    "correct_answer": "Les 24 Heures du Mans",
+    "incorrect_answers": [
+      "Le Grand Prix de Monaco",
+      "Le Rallye Dakar",
+      "L'Indy 500"
+    ]
+  },
+  {
+    "question": "Quelle est la nage la plus rapide en natation sportive ?",
+    "correct_answer": "Le crawl",
+    "incorrect_answers": [
+      "La brasse",
+      "Le papillon",
+      "Le dos"
+    ]
+  },
+  {
+    "question": "Combien de joueurs de champ une équipe de hockey sur glace a-t-elle sur la patinoire simultanément ?",
+    "correct_answer": "Cinq",
+    "incorrect_answers": [
+      "Quatre",
+      "Six",
+      "Sept"
+    ]
+  },
+  {
+    "question": "Quelle mascotte des Jeux Olympiques, un teckel, fut la première mascotte officielle des JO d'été ?",
+    "correct_answer": "Waldi (Munich 1972)",
+    "incorrect_answers": [
+      "Misha (Moscou 1980)",
+      "Hodori (Séoul 1988)",
+      "Wenlock (Londres 2012)"
+    ]
+  },
+  {
+    "question": "Dans quel sport le système de 'Hawk-Eye' (Oeil de faucon) est-il couramment utilisé pour l'arbitrage ?",
+    "correct_answer": "Le tennis",
+    "incorrect_answers": [
+      "Le volleyball",
+      "Le basketball",
+      "Le football"
+    ]
+  },
+  {
+    "question": "Quel terme désigne un point d'assurage pour un grimpeur lors d'une ascension, permettant de s'arrêter ?",
+    "correct_answer": "Un relai",
+    "incorrect_answers": [
+      "Une dégaine",
+      "Un coinceur",
+      "Une lunule"
+    ]
+  },
+  {
+    "question": "Quel est le seul pays d'Afrique à avoir remporté une médaille d'or olympique en natation ?",
+    "correct_answer": "Afrique du Sud",
+    "incorrect_answers": [
+      "Égypte",
+      "Algérie",
+      "Tunisie"
+    ]
+  },
+  {
+    "question": "Quel sport, controversé aujourd'hui, fut une épreuve unique aux JO de Paris 1900 ?",
+    "correct_answer": "Le tir aux pigeons vivants",
+    "incorrect_answers": [
+      "La course de chars",
+      "La joute nautique",
+      "Le duel au pistolet"
+    ]
+  }
+]

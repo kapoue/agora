@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel est le nom du roi des dieux grecs, maître du ciel et de la foudre ?",
+    "correct_answer": "Zeus",
+    "incorrect_answers": [
+      "Poséidon",
+      "Hadès",
+      "Apollon"
+    ]
+  },
+  {
+    "question": "Quel dieu romain est l'équivalent du dieu grec Zeus ?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": [
+      "Neptune",
+      "Pluton",
+      "Mars"
+    ]
+  },
+  {
+    "question": "Quel est le nom du dieu nordique maniant un marteau légendaire nommé Mjöllnir ?",
+    "correct_answer": "Thor",
+    "incorrect_answers": [
+      "Odin",
+      "Loki",
+      "Tyr"
+    ]
+  },
+  {
+    "question": "Quelle déesse grecque est associée à l'amour, la beauté et le plaisir ?",
+    "correct_answer": "Aphrodite",
+    "incorrect_answers": [
+      "Athéna",
+      "Artémis",
+      "Héra"
+    ]
+  },
+  {
+    "question": "Quel héros grec est célèbre pour avoir réalisé douze travaux surhumains ?",
+    "correct_answer": "Héraclès (Hercule)",
+    "incorrect_answers": [
+      "Ulysse",
+      "Thésée",
+      "Persée"
+    ]
+  },
+  {
+    "question": "Quelle créature mythologique est un cheval ailé pur et blanc, souvent associé aux Muses ?",
+    "correct_answer": "Pégase",
+    "incorrect_answers": [
+      "Hippogriffe",
+      "Centore",
+      "Griffin"
+    ]
+  },
+  {
+    "question": "Dans la mythologie égyptienne, quel dieu est représenté avec une tête de chacal et guide les âmes des morts ?",
+    "correct_answer": "Anubis",
+    "incorrect_answers": [
+      "Râ",
+      "Osiris",
+      "Horus"
+    ]
+  },
+  {
+    "question": "Quel est le nom du mont où résident les dieux grecs de l'Olympe ?",
+    "correct_answer": "Mont Olympe",
+    "incorrect_answers": [
+      "Mont Parnasse",
+      "Mont Ida",
+      "Mont Athos"
+    ]
+  },
+  {
+    "question": "Qui est le dieu grec de la mer, armé d'un trident ?",
+    "correct_answer": "Poséidon",
+    "incorrect_answers": [
+      "Hadès",
+      "Héphaïstos",
+      "Dionysos"
+    ]
+  },
+  {
+    "question": "Quel est le nom de la créature mi-homme mi-taureau enfermée dans le Labyrinthe ?",
+    "correct_answer": "Minotaure",
+    "incorrect_answers": [
+      "Cyclope",
+      "Harpie",
+      "Sirène"
+    ]
+  },
+  {
+    "question": "Quel héros a décapité la Gorgone Méduse, dont le regard transformait en pierre ?",
+    "correct_answer": "Persée",
+    "incorrect_answers": [
+      "Jason",
+      "Achille",
+      "Bellérophon"
+    ]
+  },
+  {
+    "question": "Quelle déesse grecque est la déesse de la sagesse, de la stratégie et de la guerre juste, née de la tête de Zeus ?",
+    "correct_answer": "Athéna",
+    "incorrect_answers": [
+      "Artémis",
+      "Héra",
+      "Déméter"
+    ]
+  },
+  {
+    "question": "Quel est le dieu nordique borgne, chef des Ases, associé à la sagesse, la guerre et la poésie ?",
+    "correct_answer": "Odin",
+    "incorrect_answers": [
+      "Loki",
+      "Heimdall",
+      "Balder"
+    ]
+  },
+  {
+    "question": "Quelle déesse romaine est la protectrice du mariage et reine des dieux, équivalente à Héra ?",
+    "correct_answer": "Junon",
+    "incorrect_answers": [
+      "Minerve",
+      "Vénus",
+      "Cérès"
+    ]
+  },
+  {
+    "question": "Quel est le nom du gardien à trois têtes des Enfers dans la mythologie grecque ?",
+    "correct_answer": "Cerbère",
+    "incorrect_answers": [
+      "Hydre",
+      "Chimère",
+      "Typhon"
+    ]
+  },
+  {
+    "question": "Quel dieu égyptien est le dieu du soleil, souvent représenté avec une tête de faucon ?",
+    "correct_answer": "Râ",
+    "incorrect_answers": [
+      "Seth",
+      "Thot",
+      "Sobek"
+    ]
+  },
+  {
+    "question": "Quel héros grec est célèbre pour son long voyage de retour après la guerre de Troie et son ingéniosité ?",
+    "correct_answer": "Ulysse",
+    "incorrect_answers": [
+      "Achille",
+      "Agamemnon",
+      "Héraclès"
+    ]
+  },
+  {
+    "question": "Dans la mythologie grecque, qui est le dieu des Enfers et maître des morts ?",
+    "correct_answer": "Hadès",
+    "incorrect_answers": [
+      "Arès",
+      "Cronos",
+      "Hermès"
+    ]
+  },
+  {
+    "question": "Quelle est la déesse grecque de la chasse, des forêts et de la Lune, sœur jumelle d'Apollon ?",
+    "correct_answer": "Artémis",
+    "incorrect_answers": [
+      "Hécate",
+      "Perséphone",
+      "Déméter"
+    ]
+  },
+  {
+    "question": "Quelle créature mythologique a un corps de lion, une tête d'homme et pose des énigmes ?",
+    "correct_answer": "Le Sphinx",
+    "incorrect_answers": [
+      "La Chimère",
+      "Le Gryffon",
+      "Le Centaure"
+    ]
+  },
+  {
+    "question": "Quel dieu romain est le dieu de la guerre ?",
+    "correct_answer": "Mars",
+    "incorrect_answers": [
+      "Mercure",
+      "Vulcain",
+      "Bacchus"
+    ]
+  },
+  {
+    "question": "Quel lieu de repos éternel est réservé aux guerriers morts au combat dans la mythologie nordique ?",
+    "correct_answer": "Valhalla",
+    "incorrect_answers": [
+      "Niflheim",
+      "Helheim",
+      "Asgard"
+    ]
+  },
+  {
+    "question": "Qui est la déesse grecque de l'agriculture, des moissons et de la fertilité, mère de Perséphone ?",
+    "correct_answer": "Déméter",
+    "incorrect_answers": [
+      "Hestia",
+      "Héra",
+      "Rhée"
+    ]
+  },
+  {
+    "question": "Quel dieu grec est le messager des dieux et le protecteur des voyageurs et des voleurs ?",
+    "correct_answer": "Hermès",
+    "incorrect_answers": [
+      "Apollon",
+      "Arès",
+      "Dionysos"
+    ]
+  },
+  {
+    "question": "Quel dieu égyptien, époux d'Isis, fut tué par son frère Seth puis ressuscité pour devenir le souverain des morts ?",
+    "correct_answer": "Osiris",
+    "incorrect_answers": [
+      "Horus",
+      "Anubis",
+      "Thot"
+    ]
+  },
+  {
+    "question": "Dans la mythologie grecque, quelle est la déesse des enfers, fille de Déméter, enlevée par Hadès ?",
+    "correct_answer": "Perséphone",
+    "incorrect_answers": [
+      "Hécate",
+      "Érinyes",
+      "Médée"
+    ]
+  },
+  {
+    "question": "Quel dieu grec est le dieu du vin, de la fête, de la folie et du théâtre ?",
+    "correct_answer": "Dionysos",
+    "incorrect_answers": [
+      "Pan",
+      "Apollon",
+      "Héphaïstos"
+    ]
+  },
+  {
+    "question": "Quel fleuve délimite le monde des vivants et celui des morts dans la mythologie grecque ?",
+    "correct_answer": "Le Styx",
+    "incorrect_answers": [
+      "L'Achéron",
+      "Le Léthé",
+      "Le Cocyte"
+    ]
+  },
+  {
+    "question": "Quel est le nom du dieu grec boiteux, forgeron des dieux, maître du feu et des volcans ?",
+    "correct_answer": "Héphaïstos",
+    "incorrect_answers": [
+      "Arès",
+      "Poséidon",
+      "Hermès"
+    ]
+  },
+  {
+    "question": "Dans la mythologie romaine, quelle déesse est l'équivalente d'Artémis, déesse de la chasse ?",
+    "correct_answer": "Diane",
+    "incorrect_answers": [
+      "Vénus",
+      "Minerve",
+      "Cérès"
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel groupe d'animaux marins, appartenant au phylum des Loricifères, est connu pour vivre exclusivement dans les sédiments anoxiques et ne pas posséder de mitochondries fonctionnelles, dépendant d'organites similaires aux hydrogénosomes?",
+    "correct_answer": "Les Nanaloricidae",
+    "incorrect_answers": [
+      "Les Phoronidiens",
+      "Les Priapulides",
+      "Les Kinorhynques"
+    ]
+  },
+  {
+    "question": "Quel animal marin est capable d'éverser son estomac par sa bouche pour englober et digérer ses proies à l'extérieur de son corps, une stratégie de nourrissage unique parmi les échinodermes?",
+    "correct_answer": "L'étoile de mer (Asteroidea)",
+    "incorrect_answers": [
+      "Le concombre de mer (Holothuroidea)",
+      "L'oursin (Echinoidea)",
+      "Le crinoïde (Crinoidea)"
+    ]
+  },
+  {
+    "question": "Quelle espèce de poisson est connue pour utiliser des jets d'eau puissants pour abattre des insectes posés sur la végétation au-dessus de l'eau, démontrant une forme rudimentaire d'utilisation d'outils?",
+    "correct_answer": "Le poisson-archer",
+    "incorrect_answers": [
+      "Le Gourami embrasseur",
+      "Le Combattant du Siam",
+      "Le Cichlidé-bijou"
+    ]
+  },
+  {
+    "question": "Parmi ces ordres d'insectes, lequel est caractérisé par des mâles parasitoïdes possédant des ailes antérieures réduites en haltères et des femelles endoparasites apodes et larviformes, vivant cachées dans leur hôte?",
+    "correct_answer": "Les Strepsiptères",
+    "incorrect_answers": [
+      "Les Mégaloptères",
+      "Les Phasmides",
+      "Les Coléoptères"
+    ]
+  },
+  {
+    "question": "Quel groupe de vertébrés est caractérisé par la présence de sacs aériens extra-pulmonaires qui s'étendent dans de nombreux os et jouent un rôle crucial dans la respiration à sens unique (unidirectionnelle)?",
+    "correct_answer": "Les oiseaux",
+    "incorrect_answers": [
+      "Les reptiles",
+      "Les amphibiens",
+      "Les mammifères"
+    ]
+  },
+  {
+    "question": "Quelle est l'espèce animale connue pour sa capacité à 'rajeunir' indéfiniment en revenant à un stade polype immature après avoir atteint la maturité sexuelle, lui conférant une immortalité biologique potentielle?",
+    "correct_answer": "Turritopsis dohrnii",
+    "incorrect_answers": [
+      "Hydra vulgaris",
+      "Aurelia aurita",
+      "Cyanea capillata"
+    ]
+  },
+  {
+    "question": "Quelle est la principale adaptation physiologique permettant aux poissons des profondeurs abyssales de survivre aux pressions extrêmes (plus de 1000 atmosphères) sans que leurs protéines ne se dénaturent?",
+    "correct_answer": "L'accumulation d'oxyde de triméthylamine (OTMA)",
+    "incorrect_answers": [
+      "La réduction des os et muscles",
+      "La présence de tissus cartilagineux",
+      "La synthèse de protéines ultra-stables"
+    ]
+  },
+  {
+    "question": "Quel est le mode de reproduction exceptionnel observé chez les requins-nourrices gris (Carcharias taurus) où les embryons les plus développés dévorent les œufs non fécondés et les embryons plus jeunes dans l'utérus maternel?",
+    "correct_answer": "L'oophagie intra-utérine",
+    "incorrect_answers": [
+      "La placentation vitelline",
+      "L'oviparité interne",
+      "La viviparité aplacentaire"
+    ]
+  },
+  {
+    "question": "Quel monotrème est le seul mammifère connu à posséder des éperons venimeux, situés sur les pattes arrière des mâles, produisant un venin capable d'induire une douleur intense chez l'homme?",
+    "correct_answer": "L'Ornithorynque",
+    "incorrect_answers": [
+      "L'Échidné à nez court",
+      "L'Échidné à long nez",
+      "Le Protothérien de Zaglossus"
+    ]
+  },
+  {
+    "question": "Quel est l'enzyme clé impliquée dans la réaction de bioluminescence observée chez la luciole et de nombreux organismes marins, catalysant l'oxydation de la luciférine?",
+    "correct_answer": "La luciférase",
+    "incorrect_answers": [
+      "La chlorophylle",
+      "L'ATP synthase",
+      "La catalase"
+    ]
+  },
+  {
+    "question": "Quel petit phylum d'animaux marins, souvent appelés 'vers entoproctes', est caractérisé par un anus situé à l'intérieur de la couronne de tentacules ciliés qui sert à la filtration alimentaire?",
+    "correct_answer": "Les Entoproctes (ou Kamptozoaires)",
+    "incorrect_answers": [
+      "Les Bryozoaires (ou Ectoproctes)",
+      "Les Brachiopodes",
+      "Les Phoronidiens"
+    ]
+  },
+  {
+    "question": "Quelle méthode de communication est utilisée par les éléphants pour transmettre des messages sur de longues distances, impliquant des sons de très basse fréquence imperceptibles à l'oreille humaine?",
+    "correct_answer": "Les infrasons",
+    "incorrect_answers": [
+      "Les ultrasons",
+      "Les ondes électromagnétiques",
+      "Les phéromones aériennes"
+    ]
+  },
+  {
+    "question": "Comment les poissons cartilagineux (Chondrichthyes) résolvent-ils le problème de l'osmorégulation en milieu marin hypertonique, sans avoir à boire beaucoup d'eau de mer comme les téléostéens?",
+    "correct_answer": "En retenant de l'urée et du TMAO dans leur sang",
+    "incorrect_answers": [
+      "En possédant des reins très efficaces pour filtrer le sel",
+      "En excrétant activement du sel par des glandes à sel",
+      "En ayant une peau imperméable à l'eau et au sel"
+    ]
+  },
+  {
+    "question": "Quel coléoptère est détenteur du record de vitesse corporelle relative (par rapport à sa taille) le plus rapide connu parmi tous les arthropodes, atteignant l'équivalent de 171 longueurs corporelles par seconde?",
+    "correct_answer": "Le Scarabée tigre de Californie (Cicindela ephippialis)",
+    "incorrect_answers": [
+      "La Blatte américaine (Periplaneta americana)",
+      "Le Carabe doré (Carabus auratus)",
+      "La Fourmi de l'argent du Sahara (Cataglyphis bombycina)"
+    ]
+  },
+  {
+    "question": "Quel mammifère africain, unique parmi les mammifères, présente une eusocialité avancée avec une reine reproductrice et des castes non reproductrices, et est remarquablement adapté aux environnements souterrains arides et pauvres en oxygène?",
+    "correct_answer": "Le rat-taupe nu",
+    "incorrect_answers": [
+      "La taupe dorée du Cap",
+      "La musaraigne éléphant",
+      "Le fennec"
+    ]
+  },
+  {
+    "question": "Quelle caractéristique anatomique distingue spécifiquement les serpents des lézards apodes (sans pattes)?",
+    "correct_answer": "La présence de paupières mobiles chez les lézards apodes",
+    "incorrect_answers": [
+      "L'absence de tympan chez les serpents",
+      "La présence d'une carapace dorsale chez les lézards apodes",
+      "La fusion de la mâchoire inférieure chez les serpents"
+    ]
+  },
+  {
+    "question": "Quel est le type de cellule immunitaire présent dans l'hémolymphe des invertébrés, tel que le limule (chevalier de mer), dont l'extrait est utilisé dans le test LAL (Limulus Amebocyte Lysate) pour détecter les endotoxines bactériennes?",
+    "correct_answer": "Les amibocytes",
+    "incorrect_answers": [
+      "Les lymphocytes",
+      "Les érythrocytes",
+      "Les thrombocytes"
+    ]
+  },
+  {
+    "question": "Quelle forme de mimétisme implique qu'une espèce inoffensive imite une espèce dangereuse ou toxique pour dissuader les prédateurs, comme le serpent-roi qui imite le serpent corail?",
+    "correct_answer": "Le mimétisme batésien",
+    "incorrect_answers": [
+      "Le mimétisme müllérien",
+      "Le mimétisme agressif",
+      "Le mimétisme mertensien"
+    ]
+  },
+  {
+    "question": "Quel groupe d'animaux possède les yeux composés les plus complexes et les plus sophistiqués du règne animal, avec jusqu'à 16 types de photorécepteurs différents et une capacité de vision polarisée et hyperspectrale?",
+    "correct_answer": "Les crevettes-mantes (Stomatopodes)",
+    "incorrect_answers": [
+      "Les libellules (Odonates)",
+      "Les papillons (Lépidoptères)",
+      "Les araignées-loups (Lycosidae)"
+    ]
+  },
+  {
+    "question": "Quelle est la principale source d'énergie pour la vie autour des cheminées hydrothermales des fonds marins, supportant des écosystèmes entiers sans lumière solaire?",
+    "correct_answer": "La chimiosynthèse",
+    "incorrect_answers": [
+      "La photosynthèse résiduelle",
+      "La décomposition de matière organique en surface",
+      "L'énergie géothermique directe"
+    ]
+  },
+  {
+    "question": "Quel groupe d'annélides est caractérisé par un corps aplati, la présence de ventouses aux deux extrémités et l'absence de soies ou de parapodes?",
+    "correct_answer": "Les Hirudinées (sangsues)",
+    "incorrect_answers": [
+      "Les Polychètes",
+      "Les Oligochètes",
+      "Les Sipunculiens"
+    ]
+  },
+  {
+    "question": "Parmi ces poissons, lequel est exclusivement connu pour le mâle portant les œufs dans une poche incubatrice entièrement fermée, distincte des poches ouvertes ou des supports externes d'autres Syngnathidae?",
+    "correct_answer": "L'hippocampe (Hippocampus spp.)",
+    "incorrect_answers": [
+      "Le Syngnathe (Syngnathus spp.)",
+      "Le Dragon de mer feuillu",
+      "Le Poisson-pipe"
+    ]
+  },
+  {
+    "question": "Quelle est la capacité exceptionnelle de régénération de la salamandre axolotl (Ambystoma mexicanum) qui la distingue de la plupart des autres vertébrés?",
+    "correct_answer": "La régénération complète des membres, de la mâchoire, du cerveau et d'autres organes",
+    "incorrect_answers": [
+      "La capacité de régénérer sa queue et une partie de sa peau uniquement",
+      "La régénération de ses yeux, mais pas d'autres organes",
+      "La cicatrisation rapide sans formation de blastème"
+    ]
+  },
+  {
+    "question": "Quel oiseau détient le record de la plus longue migration annuelle non-stop au-dessus de l'océan, parcourant des milliers de kilomètres sans atterrissage, notamment entre l'Alaska et la Nouvelle-Zélande?",
+    "correct_answer": "La Barge rousse (Limosa lapponica)",
+    "incorrect_answers": [
+      "Le Sterne arctique (Sterna paradisaea)",
+      "L'Albatros hurleur (Diomedea exulans)",
+      "Le Martinet noir (Apus apus)"
+    ]
+  },
+  {
+    "question": "Quel groupe de crustacés est endémique des grottes et aquifères souterrains, souvent aveugle et dépigmenté, et présente une forme de développement direct sans stade larvaire planctonique?",
+    "correct_answer": "Les Syncarides",
+    "incorrect_answers": [
+      "Les Copépodes",
+      "Les Cirripèdes",
+      "Les Isopodes"
+    ]
+  },
+  {
+    "question": "Quel est le pigment respiratoire, de couleur bleue en état oxygéné, qui remplace l'hémoglobine chez de nombreux mollusques et arthropodes (ex: les limules, certains céphalopodes et crustacés)?",
+    "correct_answer": "L'hémocyanine",
+    "incorrect_answers": [
+      "L'hémérythrine",
+      "La chlorocruorine",
+      "La myoglobine"
+    ]
+  },
+  {
+    "question": "Quelle est l'espèce de méduse, appartenant à la classe Cubozoa, dont le venin est considéré comme l'un des plus puissants et rapidement mortels pour l'homme, provoquant le syndrome d'Irukandji et des arrêts cardiaques?",
+    "correct_answer": "Chironex fleckeri (Méduse-boîte)",
+    "incorrect_answers": [
+      "Pelagia noctiluca",
+      "Physalia physalis (Galère portugaise)",
+      "Aurelia aurita"
+    ]
+  },
+  {
+    "question": "Outre les insectes sociaux, quel autre groupe d'animaux présente une eusocialité stricte caractérisée par un chevauchement des générations, des soins coopératifs et une division du travail reproductive avec une reine unique?",
+    "correct_answer": "Les puces de mer eusociales (ou Synalpheus spp., crevettes-pistolet)",
+    "incorrect_answers": [
+      "Les termites",
+      "Les oiseaux tisserands",
+      "Les dytiques"
+    ]
+  },
+  {
+    "question": "Quel organe digestif, présent chez de nombreux oiseaux granivores et certains reptiles, est une poche musculaire épaisse utilisée pour broyer la nourriture avec l'aide de petits cailloux (gastrolithes)?",
+    "correct_answer": "Le gésier",
+    "incorrect_answers": [
+      "Le jabot",
+      "Le proventricule",
+      "L'œsophage"
+    ]
+  },
+  {
+    "question": "Quel groupe de mollusques gastéropodes marins, souvent appelés 'limaces de mer', est caractérisé par la perte de leur coquille à l'état adulte, l'affichage de couleurs vives (aposématisme) et la capacité d'incorporer les nématocystes des cnidaires qu'ils consomment pour leur propre défense?",
+    "correct_answer": "Les Nudibranches",
+    "incorrect_answers": [
+      "Les Conidae",
+      "Les Aplysiidae",
+      "Les Haliotidae"
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel concept est central au programme de Langlands, reliant la théorie des nombres, la géométrie algébrique et la théorie des représentations ?",
+    "correct_answer": "Les formes automorphes",
+    "incorrect_answers": [
+      "Les nombres p-adiques",
+      "Les schémas d'Hilbert",
+      "La cohomologie étale"
+    ]
+  },
+  {
+    "question": "Le théorème de Stone-Weierstrass concerne l'approximation des fonctions continues. Sur quel type d'espace s'applique-t-il typiquement ?",
+    "correct_answer": "Un espace compact de Hausdorff",
+    "incorrect_answers": [
+      "Un espace de Banach réflexif",
+      "Un espace métrique complet",
+      "Une variété différentielle lisse"
+    ]
+  },
+  {
+    "question": "Quel est le nom du mathématicien pionnier de la théorie des catégories, dont l'œuvre majeure \"Topos Theory\" a eu un impact profond ?",
+    "correct_answer": "Alexander Grothendieck",
+    "incorrect_answers": [
+      "Jean-Pierre Serre",
+      "Henri Cartan",
+      "Nicolas Bourbaki"
+    ]
+  },
+  {
+    "question": "En topologie algébrique, qu'est-ce que le groupe fondamental d'un espace topologique mesure ?",
+    "correct_answer": "Les \"trous\" de dimension 1 de l'espace",
+    "incorrect_answers": [
+      "Le nombre de composantes connexes",
+      "La compacité de l'espace",
+      "La dimension homologue"
+    ]
+  },
+  {
+    "question": "Quel est le principal objectif du test de Kolmogorov-Smirnov en statistiques non-paramétriques ?",
+    "correct_answer": "Comparer une distribution observée à une distribution théorique",
+    "incorrect_answers": [
+      "Tester l'égalité de variances",
+      "Estimer les coefficients de régression",
+      "Vérifier l'indépendance de deux variables"
+    ]
+  },
+  {
+    "question": "Lequel de ces énoncés caractérise le mieux les nombres surréels introduits par John Conway ?",
+    "correct_answer": "Ils généralisent les nombres réels et les nombres ordinaux",
+    "incorrect_answers": [
+      "Ce sont des nombres complexes non commutatifs",
+      "Ils représentent des hyperréels spécifiques",
+      "Ils sont des limites d'approximations p-adiques"
+    ]
+  },
+  {
+    "question": "Dans la classification des variétés de dimension 4, quel invariant topologique est lié au théorème de l'indice d'Atiyah-Singer ?",
+    "correct_answer": "La signature",
+    "incorrect_answers": [
+      "Le genre d'Euler",
+      "Le nombre de Betti",
+      "La torsion de Reidemeister"
+    ]
+  },
+  {
+    "question": "Quel théorème garantit l'existence et l'unicité locale des solutions pour une équation différentielle ordinaire (ODE) si la fonction est de Lipschitz ?",
+    "correct_answer": "Le théorème de Picard-Lindelöf",
+    "incorrect_answers": [
+      "Le théorème de Peano",
+      "Le théorème de Cauchy-Kovalevskaya",
+      "Le théorème de Dini"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'une \"distribution\" au sens de Laurent Schwartz en analyse ?",
+    "correct_answer": "Une forme linéaire continue sur un espace de fonctions tests",
+    "incorrect_answers": [
+      "Une fonction à support compact",
+      "Une mesure de probabilité singulière",
+      "Une solution faible d'une EDP"
+    ]
+  },
+  {
+    "question": "Le théorème des quatre couleurs, démontré avec l'aide d'ordinateurs, s'applique à quelle classe d'objets géométriques ?",
+    "correct_answer": "Les cartes planaires",
+    "incorrect_answers": [
+      "Les graphes complets",
+      "Les polyèdres convexes",
+      "Les variétés compactes"
+    ]
+  },
+  {
+    "question": "Quel concept en théorie des groupes permet de décomposer un groupe en \"blocs\" plus petits et compréhensibles, notamment en relation avec les séries de composition ?",
+    "correct_answer": "Les sous-groupes normaux",
+    "incorrect_answers": [
+      "Les groupes abéliens",
+      "Les groupes cycliques",
+      "Les groupes de torsion"
+    ]
+  },
+  {
+    "question": "En géométrie projective, qu'est-ce qui est invariant sous les transformations projectives ?",
+    "correct_answer": "Le birapport",
+    "incorrect_answers": [
+      "La distance euclidienne",
+      "L'angle entre deux droites",
+      "L'aire d'un triangle"
+    ]
+  },
+  {
+    "question": "Quel mathématicien est célèbre pour avoir prouvé qu'une infinité des zéros non triviaux de la fonction zêta de Riemann se trouvent sur la droite critique Re(s) = 1/2 ?",
+    "correct_answer": "G.H. Hardy",
+    "incorrect_answers": [
+      "Jacques Hadamard",
+      "Bernhard Riemann",
+      "Charles de la Vallée Poussin"
+    ]
+  },
+  {
+    "question": "Quelle branche des mathématiques étudie les propriétés des ensembles ordonnés de façon partielle, notamment les treillis et les algèbres de Boole ?",
+    "correct_answer": "La théorie des ordres",
+    "incorrect_answers": [
+      "La théorie des graphes",
+      "La combinatoire algébrique",
+      "La logique mathématique"
+    ]
+  },
+  {
+    "question": "En théorie de la mesure, qu'est-ce que le théorème de Riesz-Markov-Kakutani établit comme équivalence ?",
+    "correct_answer": "Mesures positives et formes linéaires positives sur C_c(X)",
+    "incorrect_answers": [
+      "Mesures et fonctions de répartition",
+      "Espaces L^p et espaces de Sobolev",
+      "Algèbres de von Neumann et opérateurs bornés"
+    ]
+  },
+  {
+    "question": "Quel concept mesure la \"distance\" entre deux distributions de probabilité et est central en théorie de l'information ?",
+    "correct_answer": "La divergence de Kullback-Leibler",
+    "incorrect_answers": [
+      "La variance mutuelle",
+      "Le coefficient de corrélation",
+      "La distance de Mahalanobis"
+    ]
+  },
+  {
+    "question": "En géométrie différentielle, qu'est-ce que la courbure de Gauss mesure ?",
+    "correct_answer": "Le produit des courbures principales en un point d'une surface",
+    "incorrect_answers": [
+      "La déviation d'un champ de vecteurs",
+      "La torsion d'une courbe",
+      "La divergence d'un tenseur métrique"
+    ]
+  },
+  {
+    "question": "Quel est le nom du théorème fondamental qui relie l'homologie et l'homotopie d'un espace topologique via des groupes d'homotopie supérieurs ?",
+    "correct_answer": "Le théorème de Hurewicz",
+    "incorrect_answers": [
+      "Le théorème de Whitehead",
+      "Le théorème d'Eilenberg-MacLane",
+      "Le théorème de Serre"
+    ]
+  },
+  {
+    "question": "Lequel de ces résultats est une conséquence directe des théorèmes d'incomplétude de Gödel ?",
+    "correct_answer": "L'arithmétique de Peano n'est pas complète ni décidable",
+    "incorrect_answers": [
+      "Tout ensemble infini a une cardinalité spécifique",
+      "L'hypothèse du continu est indécidable dans ZFC",
+      "Il n'existe pas de méthode générale pour résoudre les équations diophantiennes"
+    ]
+  },
+  {
+    "question": "En algèbre abstraite, quel théorème donne des informations cruciales sur la structure des p-sous-groupes de Sylow d'un groupe fini ?",
+    "correct_answer": "Les Théorèmes de Sylow",
+    "incorrect_answers": [
+      "Le théorème de Jordan-Hölder",
+      "Le théorème de Cayley",
+      "Le théorème de Lagrange"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'un \"schéma\" en géométrie algébrique moderne, introduit par Grothendieck ?",
+    "correct_answer": "Un espace localement annelé isomorphe à Spec(R) au voisinage de chaque point",
+    "incorrect_answers": [
+      "Une variété projective sur un corps algébriquement clos",
+      "Un complexe de chaînes de modules",
+      "Une catégorie d'anneaux et de morphismes"
+    ]
+  },
+  {
+    "question": "Quel est le domaine d'application principal du Lemme de Zorn ?",
+    "correct_answer": "Prouver l'existence d'éléments maximaux dans des ensembles partiellement ordonnés",
+    "incorrect_answers": [
+      "Démontrer l'équivalence de deux espaces topologiques",
+      "Construire des intégrales non-mesurables",
+      "Résoudre des problèmes d'optimisation convexe"
+    ]
+  },
+  {
+    "question": "En analyse fonctionnelle, quel théorème stipule qu'un opérateur linéaire continu entre espaces de Banach est borné si son graphe est fermé ?",
+    "correct_answer": "Le théorème du graphe fermé",
+    "incorrect_answers": [
+      "Le théorème de l'application ouverte",
+      "Le théorème de Hahn-Banach",
+      "Le théorème de Banach-Steinhaus"
+    ]
+  },
+  {
+    "question": "Lequel de ces mathématiciens a été le pionnier de la théorie des probabilités moderne avec l'introduction des espaces de probabilité et des axiomes ?",
+    "correct_answer": "Andreï Kolmogorov",
+    "incorrect_answers": [
+      "Pierre-Simon Laplace",
+      "Blaise Pascal",
+      "Richard von Mises"
+    ]
+  },
+  {
+    "question": "En logique mathématique, quel concept formalise l'idée d'un calcul ou d'une procédure algorithmique ?",
+    "correct_answer": "Une machine de Turing",
+    "incorrect_answers": [
+      "Un automate fini",
+      "Un système de types",
+      "Une grammaire formelle"
+    ]
+  },
+  {
+    "question": "Quel est l'un des principaux résultats du théorème de la décomposition de Lebesgue en théorie de la mesure ?",
+    "correct_answer": "Une mesure peut être décomposée en une partie absolument continue et une singulière",
+    "incorrect_answers": [
+      "Toute fonction mesurable est intégrable",
+      "Il existe toujours une mesure produit",
+      "La mesure de Lebesgue est invariante par translation"
+    ]
+  },
+  {
+    "question": "Dans la théorie des nombres, qu'est-ce qu'un \"corps de classes\" ?",
+    "correct_answer": "Une extension de corps abélienne maximale non ramifiée",
+    "incorrect_answers": [
+      "Un corps fini de caractéristique p",
+      "Un corps de fonctions algébriques",
+      "Une extension de Galois d'un corps de nombres"
+    ]
+  },
+  {
+    "question": "Quel concept en analyse harmonique généralise la transformation de Fourier aux groupes topologiques localement compacts non abéliens ?",
+    "correct_answer": "La théorie des représentations unitaires",
+    "incorrect_answers": [
+      "La transformation de Laplace",
+      "Les séries de Fourier généralisées",
+      "L'analyse de Fourier sur les espaces de Banach"
+    ]
+  },
+  {
+    "question": "Le paradoxe de Banach-Tarski implique la décomposition d'une boule en un nombre fini de morceaux, qui peuvent être réassemblés par isométries pour former deux boules identiques à l'originale. Qu'est-ce qui est crucial pour cette démonstration ?",
+    "correct_answer": "L'axiome du choix",
+    "incorrect_answers": [
+      "Le postulat des parallèles",
+      "Le théorème des valeurs intermédiaires",
+      "La complétude des nombres réels"
+    ]
+  },
+  {
+    "question": "Quelle conjecture majeure non résolue stipule que chaque nombre pair supérieur à 2 est la somme de deux nombres premiers ?",
+    "correct_answer": "La conjecture de Goldbach",
+    "incorrect_answers": [
+      "L'hypothèse de Riemann",
+      "La conjecture des nombres premiers jumeaux",
+      "Le dernier théorème de Fermat"
+    ]
+  }
+]

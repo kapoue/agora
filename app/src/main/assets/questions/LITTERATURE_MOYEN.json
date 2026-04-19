@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel prix littéraire français est généralement décerné en même temps que le Goncourt, le même jour ?",
+    "correct_answer": "Le prix Renaudot",
+    "incorrect_answers": [
+      "Le prix Médicis",
+      "Le prix Femina",
+      "Le Grand Prix du roman de l'Académie française"
+    ]
+  },
+  {
+    "question": "De quel auteur français la 'Comédie humaine' est-elle le titre générique d'une vaste œuvre romanesque ?",
+    "correct_answer": "Honoré de Balzac",
+    "incorrect_answers": [
+      "Émile Zola",
+      "Victor Hugo",
+      "Guy de Maupassant"
+    ]
+  },
+  {
+    "question": "Quel célèbre roman d'Albert Camus met en scène le personnage de Meursault et son indifférence au monde ?",
+    "correct_answer": "L'Étranger",
+    "incorrect_answers": [
+      "La Peste",
+      "Le Mythe de Sisyphe",
+      "Caligula"
+    ]
+  },
+  {
+    "question": "Quel recueil de poèmes, publié en 1857, a valu à Charles Baudelaire un procès pour outrage à la morale publique ?",
+    "correct_answer": "Les Fleurs du Mal",
+    "incorrect_answers": [
+      "Alcools",
+      "Les Illuminations",
+      "Cahiers de Douai"
+    ]
+  },
+  {
+    "question": "Quel est l'auteur du roman dystopique '1984' ?",
+    "correct_answer": "George Orwell",
+    "incorrect_answers": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ]
+  },
+  {
+    "question": "Dans quel roman de Victor Hugo peut-on suivre les aventures de Jean Valjean et l'inspecteur Javert ?",
+    "correct_answer": "Les Misérables",
+    "incorrect_answers": [
+      "Notre-Dame de Paris",
+      "Quatrevingt-treize",
+      "Les Travailleurs de la mer"
+    ]
+  },
+  {
+    "question": "Lequel de ces mouvements littéraires est associé à des auteurs comme André Breton et Louis Aragon ?",
+    "correct_answer": "Le Surréalisme",
+    "incorrect_answers": [
+      "Le Dadaïsme",
+      "L'Existentialisme",
+      "Le Nouveau Roman"
+    ]
+  },
+  {
+    "question": "Quel dramaturge est l'auteur de la célèbre comédie 'Le Misanthrope' ?",
+    "correct_answer": "Molière",
+    "incorrect_answers": [
+      "Pierre Corneille",
+      "Jean Racine",
+      "Beaumarchais"
+    ]
+  },
+  {
+    "question": "Quel roman de Fiodor Dostoïevski raconte l'histoire de Raskolnikov et son crime ?",
+    "correct_answer": "Crime et Châtiment",
+    "incorrect_answers": [
+      "Les Frères Karamazov",
+      "L'Idiot",
+      "Démons"
+    ]
+  },
+  {
+    "question": "En quelle année a été attribué le premier Prix Nobel de littérature ?",
+    "correct_answer": "1901",
+    "incorrect_answers": [
+      "1895",
+      "1910",
+      "1920"
+    ]
+  },
+  {
+    "question": "Quel roman de Marcel Proust, en sept tomes, est célèbre pour son exploration de la mémoire involontaire ?",
+    "correct_answer": "À la recherche du temps perdu",
+    "incorrect_answers": [
+      "Les Faux-Monnayeurs",
+      "Le Grand Meaulnes",
+      "Un amour de Swann"
+    ]
+  },
+  {
+    "question": "Dans quel roman de Gustave Flaubert le personnage principal s'appelle-t-il Emma Bovary ?",
+    "correct_answer": "Madame Bovary",
+    "incorrect_answers": [
+      "Salammbô",
+      "L'Éducation sentimentale",
+      "Bouvard et Pécuchet"
+    ]
+  },
+  {
+    "question": "Quel auteur français, lauréat du Prix Nobel en 2014, est connu pour ses romans explorant l'Occupation et la mémoire ?",
+    "correct_answer": "Patrick Modiano",
+    "incorrect_answers": [
+      "J.M.G. Le Clézio",
+      "Annie Ernaux",
+      "Michel Houellebecq"
+    ]
+  },
+  {
+    "question": "Quel dramaturge est l'auteur de la tragédie 'Hamlet' ?",
+    "correct_answer": "William Shakespeare",
+    "incorrect_answers": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Webster"
+    ]
+  },
+  {
+    "question": "Qu'est-ce que l'alexandrin en poésie française ?",
+    "correct_answer": "Un vers de douze syllabes",
+    "incorrect_answers": [
+      "Un poème sans rimes",
+      "Une strophe de six vers",
+      "Un type de prose poétique"
+    ]
+  },
+  {
+    "question": "Quel philosophe des Lumières est l'auteur du conte philosophique 'Candide ou l'Optimisme' ?",
+    "correct_answer": "Voltaire",
+    "incorrect_answers": [
+      "Jean-Jacques Rousseau",
+      "Denis Diderot",
+      "Montesquieu"
+    ]
+  },
+  {
+    "question": "Quel auteur est associé au roman 'Cent ans de solitude' ?",
+    "correct_answer": "Gabriel García Márquez",
+    "incorrect_answers": [
+      "Jorge Luis Borges",
+      "Julio Cortázar",
+      "Mario Vargas Llosa"
+    ]
+  },
+  {
+    "question": "Quel roman d'Émile Zola dépeint la vie misérable des mineurs du Nord de la France ?",
+    "correct_answer": "Germinal",
+    "incorrect_answers": [
+      "L'Assommoir",
+      "Nana",
+      "La Bête humaine"
+    ]
+  },
+  {
+    "question": "Quel roman a valu le Prix Goncourt à André Malraux en 1933 ?",
+    "correct_answer": "La Condition humaine",
+    "incorrect_answers": [
+      "L'Espoir",
+      "Les Conquérants",
+      "Antimémoires"
+    ]
+  },
+  {
+    "question": "Quel auteur britannique a créé le personnage de Sherlock Holmes ?",
+    "correct_answer": "Arthur Conan Doyle",
+    "incorrect_answers": [
+      "Agatha Christie",
+      "Edgar Allan Poe",
+      "Wilkie Collins"
+    ]
+  },
+  {
+    "question": "Quel roman d'Alain Robbe-Grillet est emblématique du Nouveau Roman par son style descriptif et ses scènes ambiguës ?",
+    "correct_answer": "La Jalousie",
+    "incorrect_answers": [
+      "Moderato Cantabile",
+      "Le Voyeur",
+      "Les Gommes"
+    ]
+  },
+  {
+    "question": "Qui est l'auteure du roman 'L'Amant', qui a reçu le Prix Goncourt en 1984 ?",
+    "correct_answer": "Marguerite Duras",
+    "incorrect_answers": [
+      "Françoise Sagan",
+      "Simone de Beauvoir",
+      "Annie Ernaux"
+    ]
+  },
+  {
+    "question": "Quelle pièce de théâtre d'Eugène Ionesco met en scène des personnages qui voient leur ville envahie par des rhinocéros ?",
+    "correct_answer": "Rhinocéros",
+    "incorrect_answers": [
+      "La Cantatrice chauve",
+      "Les Chaises",
+      "En attendant Godot"
+    ]
+  },
+  {
+    "question": "Quel auteur est le principal théoricien de l'existentialisme et a écrit 'L'Être et le Néant' ?",
+    "correct_answer": "Jean-Paul Sartre",
+    "incorrect_answers": [
+      "Albert Camus",
+      "André Malraux",
+      "Michel Foucault"
+    ]
+  },
+  {
+    "question": "Quel poète est l'auteur du célèbre poème 'Le Dormeur du val' ?",
+    "correct_answer": "Arthur Rimbaud",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Stéphane Mallarmé",
+      "Alfred de Vigny"
+    ]
+  },
+  {
+    "question": "Quel roman de Jane Austen raconte l'histoire d'Elizabeth Bennet et Mr Darcy ?",
+    "correct_answer": "Orgueil et Préjugés",
+    "incorrect_answers": [
+      "Raison et Sentiments",
+      "Emma",
+      "Mansfield Park"
+    ]
+  },
+  {
+    "question": "Quel auteur chilien, lauréat du Prix Nobel de littérature, est célèbre pour son recueil 'Vingt poèmes d'amour et une chanson désespérée' ?",
+    "correct_answer": "Pablo Neruda",
+    "incorrect_answers": [
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Octavio Paz"
+    ]
+  },
+  {
+    "question": "Quel roman de Stendhal a pour héros Julien Sorel et dépeint la société de la Restauration ?",
+    "correct_answer": "Le Rouge et le Noir",
+    "incorrect_answers": [
+      "La Chartreuse de Parme",
+      "Lucien Leuwen",
+      "Armance"
+    ]
+  },
+  {
+    "question": "Quel roman philosophique d'Antoine de Saint-Exupéry met en scène un aviateur et un petit prince venu d'une autre planète ?",
+    "correct_answer": "Le Petit Prince",
+    "incorrect_answers": [
+      "Vol de nuit",
+      "Terre des hommes",
+      "Courrier Sud"
+    ]
+  },
+  {
+    "question": "Quel auteur français a obtenu le Prix Nobel de littérature en 2022 ?",
+    "correct_answer": "Annie Ernaux",
+    "incorrect_answers": [
+      "Michel Houellebecq",
+      "Virginie Despentes",
+      "Jean Echenoz"
+    ]
+  }
+]

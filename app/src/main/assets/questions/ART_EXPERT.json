@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel sculpteur italien de la Renaissance est considéré comme le pionnier du « stiacciato », une technique de bas-relief extrêmement plat donnant une illusion de profondeur ?",
+    "correct_answer": "Donatello",
+    "incorrect_answers": [
+      "Michel-Ange",
+      "Verrocchio",
+      "Ghiberti"
+    ]
+  },
+  {
+    "question": "Quel mouvement artistique du début du XXe siècle cherchait à créer une « œuvre d'art totale » (Gesamtkunstwerk) en fusionnant les arts plastiques, l'architecture et le design, influençant le Bauhaus ?",
+    "correct_answer": "De Stijl",
+    "incorrect_answers": [
+      "Futurisme",
+      "Orphisme",
+      "Suprematisme"
+    ]
+  },
+  {
+    "question": "Quelle œuvre de Géricault, présentée au Salon de 1819, est une allégorie de l'échec politique et de la souffrance humaine, et a nécessité des études approfondies de cadavres ?",
+    "correct_answer": "Le Radeau de la Méduse",
+    "incorrect_answers": [
+      "La Mort de Sardanapale",
+      "La Liberté guidant le peuple",
+      "Le Serment des Horaces"
+    ]
+  },
+  {
+    "question": "Quel musée international, situé à Bâle, est célèbre pour sa collection pionnière d'art moderne et contemporain, incluant des œuvres clés du Cubisme et du Surréalisme, avant même le MoMA ?",
+    "correct_answer": "Kunstmuseum Basel",
+    "incorrect_answers": [
+      "Hamburger Bahnhof",
+      "Louisiana Museum of Modern Art",
+      "Guggenheim Bilbao"
+    ]
+  },
+  {
+    "question": "Quel architecte est crédité d'avoir développé le concept de la « fenêtre en bandeau » et du « plan libre », éléments clés de l'architecture moderniste ?",
+    "correct_answer": "Le Corbusier",
+    "incorrect_answers": [
+      "Frank Lloyd Wright",
+      "Ludwig Mies van der Rohe",
+      "Walter Gropius"
+    ]
+  },
+  {
+    "question": "Dans « Les Ménines » de Velázquez, quelle figure est représentée en train de peindre, défiant la tradition du portrait royal en se plaçant aux côtés du spectateur ?",
+    "correct_answer": "Velázquez lui-même",
+    "incorrect_answers": [
+      "Le roi Philippe IV",
+      "L'infante Marguerite-Thérèse",
+      "Un membre de la cour"
+    ]
+  },
+  {
+    "question": "Quel mouvement artistique italien a publié un manifeste en 1909, exaltant la vitesse, la technologie, la violence et la modernité, tout en rejetant le passé ?",
+    "correct_answer": "Futurisme",
+    "incorrect_answers": [
+      "Dadaïsme",
+      "Surréalisme",
+      "Métaphysique"
+    ]
+  },
+  {
+    "question": "Quel peintre des Pays-Bas septentrionaux est célèbre pour sa maîtrise de la lumière et de l'ombre (clair-obscur) et pour ses autoportraits introspectifs, utilisant souvent l'empâtement ?",
+    "correct_answer": "Rembrandt van Rijn",
+    "incorrect_answers": [
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Pieter Bruegel l'Ancien"
+    ]
+  },
+  {
+    "question": "L'œuvre « L'Homme qui marche I » est une sculpture emblématique du XXe siècle, connue pour son étude de la fragilité humaine et de l'existentialisme. De quel artiste est-elle ?",
+    "correct_answer": "Alberto Giacometti",
+    "incorrect_answers": [
+      "Auguste Rodin",
+      "Henry Moore",
+      "Constantin Brancusi"
+    ]
+  },
+  {
+    "question": "Quelle cathédrale gothique est renommée pour son « bleu de Chartres », une couleur distinctive de ses vitraux datant du XIIe siècle, et sa préservation presque intacte ?",
+    "correct_answer": "Cathédrale Notre-Dame de Chartres",
+    "incorrect_answers": [
+      "Cathédrale Notre-Dame de Reims",
+      "Cathédrale Notre-Dame d'Amiens",
+      "Cathédrale Saint-Étienne de Bourges"
+    ]
+  },
+  {
+    "question": "Quel peintre vénitien de la Haute Renaissance est considéré comme un précurseur de l'art baroque pour son dynamisme, ses couleurs intenses et ses compositions dramatiques, notamment dans « L'Enlèvement d'Europe » ?",
+    "correct_answer": "Titien",
+    "incorrect_answers": [
+      "Giorgione",
+      "Tintoret",
+      "Véronèse"
+    ]
+  },
+  {
+    "question": "Le « Ready-made » est un concept artistique majeur du XXe siècle, consistant à utiliser des objets manufacturés trouvés pour en faire des œuvres d'art. Qui en est le principal initiateur ?",
+    "correct_answer": "Marcel Duchamp",
+    "incorrect_answers": [
+      "Man Ray",
+      "Salvador Dalí",
+      "René Magritte"
+    ]
+  },
+  {
+    "question": "Quel musée de New York est spécifiquement dédié à l'art médiéval européen et abrite les célèbres tapisseries « La Chasse à la Licorne » ?",
+    "correct_answer": "The Cloisters",
+    "incorrect_answers": [
+      "The Frick Collection",
+      "MoMA",
+      "Brooklyn Museum"
+    ]
+  },
+  {
+    "question": "Quel peintre suisse-allemand, théoricien de l'art, a développé une « pédagogie du regard » au Bauhaus et exploré la relation entre l'art et la musique, comme dans « Polyphonie » ?",
+    "correct_answer": "Paul Klee",
+    "incorrect_answers": [
+      "Wassily Kandinsky",
+      "Josef Albers",
+      "Lyonel Feininger"
+    ]
+  },
+  {
+    "question": "Quelle structure est considérée comme la première grande construction à utiliser exclusivement le fer comme matériau structurel, inaugurant l'ère de l'architecture métallique ?",
+    "correct_answer": "Le Crystal Palace",
+    "incorrect_answers": [
+      "La Tour Eiffel",
+      "Le Pont de Brooklyn",
+      "Le Grand Palais"
+    ]
+  },
+  {
+    "question": "La Chapelle Sixtine, célèbre pour les fresques de Michel-Ange, était à l'origine destinée à quel usage par le pape Jules II, pour qui les travaux débutèrent ?",
+    "correct_answer": "Sa propre tombe",
+    "incorrect_answers": [
+      "Un lieu de réunion pour les cardinaux",
+      "Un centre d'étude théologique",
+      "Une galerie d'art pontificale"
+    ]
+  },
+  {
+    "question": "Quel mouvement artistique, né à Dresde en 1905, a rompu avec l'académisme en utilisant des couleurs vives et des formes simplifiées, et a été le précurseur de l'expressionnisme allemand ?",
+    "correct_answer": "Die Brücke",
+    "incorrect_answers": [
+      "Der Blaue Reiter",
+      "Bauhaus",
+      "Fauvisme"
+    ]
+  },
+  {
+    "question": "Quel maître flamand est réputé pour avoir popularisé la technique de la peinture à l'huile, permettant une richesse de détails et une profondeur des couleurs sans précédent ?",
+    "correct_answer": "Jan van Eyck",
+    "incorrect_answers": [
+      "Rogier van der Weyden",
+      "Hans Memling",
+      "Pieter Bruegel l'Ancien"
+    ]
+  },
+  {
+    "question": "L'œuvre monumentale « Portes de l'Enfer », inspirée de la Divine Comédie de Dante, est restée inachevée à la mort de son créateur. Qui est cet artiste ?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": [
+      "Antoine Bourdelle",
+      "Aristide Maillol",
+      "Camille Claudel"
+    ]
+  },
+  {
+    "question": "L'architecture romane est caractérisée par des voûtes en berceau et des murs épais. Quel élément architectural est typique des chevets romans, formant un prolongement circulaire du chœur ?",
+    "correct_answer": "Le déambulatoire",
+    "incorrect_answers": [
+      "Le triforium",
+      "La croisée du transept",
+      "Le narthex"
+    ]
+  },
+  {
+    "question": "La « Vierge aux rochers » de Léonard de Vinci existe en deux versions. Quelle était la destination initiale de la première version, commandée par la Confrérie de l'Immaculée Conception ?",
+    "correct_answer": "Un retable pour leur chapelle",
+    "incorrect_answers": [
+      "Une œuvre privée pour un mécène",
+      "Un tableau pour le roi de France",
+      "Une fresque murale"
+    ]
+  },
+  {
+    "question": "Quel mouvement artistique, issu du dadaïsme, se caractérise par l'exploration de l'inconscient, du rêve et de l'automatisme psychique, et dont André Breton fut le principal théoricien ?",
+    "correct_answer": "Surréalisme",
+    "incorrect_answers": [
+      "Futurisme",
+      "Cubisme",
+      "Expressionnisme"
+    ]
+  },
+  {
+    "question": "Quel peintre flamand du XVIIe siècle est célèbre pour ses natures mortes dites « vanités », où des symboles de la fugacité de la vie et de la mort sont omniprésents ?",
+    "correct_answer": "Pieter Claesz",
+    "incorrect_answers": [
+      "Jan Steen",
+      "Jacob van Ruisdael",
+      "Rembrandt"
+    ]
+  },
+  {
+    "question": "Quel directeur du Louvre, sous Napoléon Ier, fut responsable de l'enrichissement colossal des collections du musée, notamment avec les butins de guerre des campagnes napoléoniennes ?",
+    "correct_answer": "Dominique Vivant Denon",
+    "incorrect_answers": [
+      "Henri Loyrette",
+      "Émile Zola",
+      "Jean-Luc Martinez"
+    ]
+  },
+  {
+    "question": "Le concept de « maison sans fin » (Endless House) explorant des formes organiques continues et des espaces fluides, est l'œuvre utopique de quel architecte autrichien ?",
+    "correct_answer": "Frederick Kiesler",
+    "incorrect_answers": [
+      "Buckminster Fuller",
+      "Eero Saarinen",
+      "Oscar Niemeyer"
+    ]
+  },
+  {
+    "question": "Quel peintre espagnol du XVIIe siècle, maître du clair-obscur et du réalisme, a fortement influencé des artistes comme Manet et Picasso par sa modernité et sa palette sombre ?",
+    "correct_answer": "Diego Velázquez",
+    "incorrect_answers": [
+      "El Greco",
+      "Francisco de Zurbarán",
+      "Jusepe de Ribera"
+    ]
+  },
+  {
+    "question": "Quelle artiste française est renommée pour ses sculptures en « araignée » (Spider), souvent monumentales, qui explorent la maternité, le traumatisme et l'anxiété ?",
+    "correct_answer": "Louise Bourgeois",
+    "incorrect_answers": [
+      "Niki de Saint Phalle",
+      "Eva Hesse",
+      "Barbara Hepworth"
+    ]
+  },
+  {
+    "question": "Quel historien de l'art a publié « Principes fondamentaux de l'histoire de l'art » en 1915, proposant cinq paires de concepts pour analyser l'évolution des styles artistiques de la Renaissance au baroque ?",
+    "correct_answer": "Heinrich Wölfflin",
+    "incorrect_answers": [
+      "Erwin Panofsky",
+      "Alois Riegl",
+      "Aby Warburg"
+    ]
+  },
+  {
+    "question": "Le dôme du Duomo de Florence, conçu sans armature visible et avec une double coque, est une prouesse technique de la Renaissance. Qui en fut l'ingénieur et architecte principal ?",
+    "correct_answer": "Filippo Brunelleschi",
+    "incorrect_answers": [
+      "Leon Battista Alberti",
+      "Donatello",
+      "Andrea Palladio"
+    ]
+  },
+  {
+    "question": "Dans « Les Ambassadeurs » de Holbein le Jeune, quelle figure anamorphique est visible au premier plan, n'apparaissant correctement que d'un angle oblique, symbolisant la vanité ?",
+    "correct_answer": "Un crâne humain",
+    "incorrect_answers": [
+      "Un poisson",
+      "Un sablier",
+      "Un luth brisé"
+    ]
+  }
+]

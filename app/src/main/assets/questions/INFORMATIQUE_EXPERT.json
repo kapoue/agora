@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel scientifique est généralement crédité d'avoir formalisé le concept de 'bit' comme unité binaire d'information dans sa théorie mathématique de la communication ?",
+    "correct_answer": "Claude Shannon",
+    "incorrect_answers": [
+      "John von Neumann",
+      "Alan Turing",
+      "Norbert Wiener"
+    ]
+  },
+  {
+    "question": "En Haskell, quel est l'objectif principal d'une 'type class' ?",
+    "correct_answer": "Définir un ensemble d'opérations polymorphiques pour divers types",
+    "incorrect_answers": [
+      "Permettre l'héritage de comportement entre types concrets",
+      "Garantir l'immuabilité des structures de données",
+      "Gérer la concurrence et le parallélisme de manière sûre"
+    ]
+  },
+  {
+    "question": "Quel est le port UDP par défaut utilisé pour les requêtes DNS traditionnelles ?",
+    "correct_answer": "53",
+    "incorrect_answers": [
+      "80",
+      "443",
+      "23"
+    ]
+  },
+  {
+    "question": "Quelle innovation majeure est généralement associée au système informatique Xerox Alto de 1973 ?",
+    "correct_answer": "La première interface utilisateur graphique (GUI) basée sur le bureau",
+    "incorrect_answers": [
+      "L'introduction du premier microprocesseur commercial",
+      "Le développement du premier système d'exploitation multitâche",
+      "La création du premier réseau local Ethernet"
+    ]
+  },
+  {
+    "question": "Qu'est-ce que le 'Continuation-Passing Style' (CPS) en programmation fonctionnelle ?",
+    "correct_answer": "Une technique où chaque fonction prend une continuation pour le reste du calcul",
+    "incorrect_answers": [
+      "Un style de programmation où les boucles sont remplacées par des récursions terminales",
+      "Une méthode pour passer des arguments à travers des fermetures",
+      "Une approche pour sérialiser l'état d'un programme pour la persistance"
+    ]
+  },
+  {
+    "question": "Quelle était la caractéristique la plus notable du Z3 de Konrad Zuse, achevé en 1941 ?",
+    "correct_answer": "C'était la première machine programmable entièrement automatique et fonctionnelle",
+    "incorrect_answers": [
+      "Il utilisait des tubes à vide pour le calcul",
+      "Il implémentait une architecture de von Neumann",
+      "Il était le premier ordinateur à être vendu commercialement"
+    ]
+  },
+  {
+    "question": "Quelle entreprise a développé le premier microprocesseur commercial, l'Intel 4004 ?",
+    "correct_answer": "Intel",
+    "incorrect_answers": [
+      "IBM",
+      "Texas Instruments",
+      "Fairchild Semiconductor"
+    ]
+  },
+  {
+    "question": "En développement web, qu'est-ce qu'un 'polyfill' ?",
+    "correct_answer": "Un code qui fournit des fonctionnalités modernes aux navigateurs plus anciens",
+    "incorrect_answers": [
+      "Une technique d'optimisation pour réduire la taille des images",
+      "Un type de balise HTML pour l'intégration de contenu externe",
+      "Un mécanisme de sécurité pour prévenir les attaques XSS"
+    ]
+  },
+  {
+    "question": "Quel langage de programmation est réputé pour son puissant système de macros et son homoiconicité ?",
+    "correct_answer": "Lisp",
+    "incorrect_answers": [
+      "C++",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "question": "Quel projet majeur de système d'exploitation Multics a-t-il directement influencé ?",
+    "correct_answer": "Unix",
+    "incorrect_answers": [
+      "MS-DOS",
+      "VMS",
+      "CP/M"
+    ]
+  },
+  {
+    "question": "Quel est l'objectif principal de DNSSEC (Domain Name System Security Extensions) ?",
+    "correct_answer": "Fournir une authentification d'origine et d'intégrité aux réponses DNS",
+    "incorrect_answers": [
+      "Chiffrer le trafic DNS entre le client et le serveur",
+      "Accélérer la résolution DNS pour les domaines sécurisés",
+      "Bloquer les requêtes DNS malveillantes"
+    ]
+  },
+  {
+    "question": "En programmation orientée objet, que signifie le 'Liskov Substitution Principle' (LSP) ?",
+    "correct_answer": "Les objets d'un type peuvent être remplacés par des objets de ses sous-types",
+    "incorrect_answers": [
+      "Les classes ne devraient avoir qu'une seule raison de changer",
+      "Les modules de haut niveau ne devraient pas dépendre des modules de bas niveau",
+      "Les interfaces devraient être petites et spécifiques au client"
+    ]
+  },
+  {
+    "question": "Quelle organisation a initialement développé la norme Ethernet ?",
+    "correct_answer": "Xerox PARC",
+    "incorrect_answers": [
+      "Bell Labs",
+      "IBM",
+      "ARPA"
+    ]
+  },
+  {
+    "question": "À quoi sert principalement le concept RAII (Resource Acquisition Is Initialization) en C++ ?",
+    "correct_answer": "Gérer automatiquement les ressources via la durée de vie des objets",
+    "incorrect_answers": [
+      "Optimiser la récursivité terminale",
+      "Assurer l'atomicité des opérations multithreadées",
+      "Implémenter le polymorphisme à l'exécution"
+    ]
+  },
+  {
+    "question": "Qui a proposé le concept du World Wide Web au CERN en mars 1989 ?",
+    "correct_answer": "Tim Berners-Lee",
+    "incorrect_answers": [
+      "Robert Kahn",
+      "Vinton Cerf",
+      "Marc Andreessen"
+    ]
+  },
+  {
+    "question": "Quel algorithme est célèbre pour avoir été le premier à permettre l'échange de clés secrètes sur un canal non sécurisé ?",
+    "correct_answer": "Diffie-Hellman",
+    "incorrect_answers": [
+      "RSA",
+      "AES",
+      "Merkle-Hellman"
+    ]
+  },
+  {
+    "question": "Quelle acquisition majeure de Facebook en 2012 a consolidé sa position dans le partage de photos mobiles ?",
+    "correct_answer": "Instagram",
+    "incorrect_answers": [
+      "WhatsApp",
+      "Oculus VR",
+      "Onavo"
+    ]
+  },
+  {
+    "question": "Dans les propriétés ACID des transactions de base de données, que représente le 'C' ?",
+    "correct_answer": "Consistency (Cohérence)",
+    "incorrect_answers": [
+      "Concurrency (Concurrence)",
+      "Commit (Validation)",
+      "Caching (Mise en cache)"
+    ]
+  },
+  {
+    "question": "Quel était le nom de l'ordinateur IBM qui a battu Garry Kasparov aux échecs en 1997 ?",
+    "correct_answer": "Deep Blue",
+    "incorrect_answers": [
+      "Watson",
+      "AlphaGo",
+      "HAL 9000"
+    ]
+  },
+  {
+    "question": "Quelle est la fonction principale du protocole BGP (Border Gateway Protocol) ?",
+    "correct_answer": "Échanger des informations de routage entre systèmes autonomes sur Internet",
+    "incorrect_answers": [
+      "Gérer l'allocation dynamique d'adresses IP",
+      "Chiffrer le trafic entre routeurs",
+      "Authentifier les utilisateurs sur les réseaux étendus"
+    ]
+  },
+  {
+    "question": "Quelle est la distinction principale entre un mutex et un sémaphore ?",
+    "correct_answer": "Un mutex est pour l'exclusion mutuelle, un sémaphore gère l'accès à plusieurs ressources",
+    "incorrect_answers": [
+      "Un mutex est un verrou de lecture, un sémaphore est un verrou d'écriture",
+      "Les sémaphores sont spécifiques aux threads, les mutex aux processus",
+      "Un mutex est une primitive de synchronisation matérielle, un sémaphore est logicielle"
+    ]
+  },
+  {
+    "question": "Qui est généralement crédité du développement du premier compilateur de langage de programmation (le système A-0) ?",
+    "correct_answer": "Grace Hopper",
+    "incorrect_answers": [
+      "John Backus",
+      "Niklaus Wirth",
+      "Dennis Ritchie"
+    ]
+  },
+  {
+    "question": "Quel géant de la technologie a été co-fondé par Gordon Moore et Robert Noyce ?",
+    "correct_answer": "Intel",
+    "incorrect_answers": [
+      "Microsoft",
+      "Apple",
+      "Hewlett-Packard"
+    ]
+  },
+  {
+    "question": "En programmation fonctionnelle, quel est le rôle d'une 'monade' pour la gestion des effets de bord ?",
+    "correct_answer": "Encapsuler et séquencer des calculs avec des effets de bord gérés",
+    "incorrect_answers": [
+      "Permettre l'accès direct à la mémoire pour des performances optimales",
+      "Forcer la pureté des fonctions en interdisant les effets de bord",
+      "Une structure de données pour la manipulation d'arbres binaires"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'une attaque de type 'man-in-the-browser' cible principalement ?",
+    "correct_answer": "Les transactions bancaires ou les informations d'identification d'une session",
+    "incorrect_answers": [
+      "Le système d'exploitation de l'utilisateur pour le rendre inutilisable",
+      "Les serveurs DNS pour rediriger le trafic web",
+      "Les routeurs pour intercepter tout le trafic réseau local"
+    ]
+  },
+  {
+    "question": "Quelle a été l'innovation majeure de l'IBM 350, introduit en 1956 ?",
+    "correct_answer": "Le premier disque dur commercial",
+    "incorrect_answers": [
+      "Le premier lecteur de bande magnétique pour ordinateur",
+      "La première mémoire à tores magnétiques",
+      "Le premier système de stockage optique"
+    ]
+  },
+  {
+    "question": "À quoi sert principalement WebAssembly (Wasm) ?",
+    "correct_answer": "Exécuter du code compilé à haute performance dans les navigateurs web",
+    "incorrect_answers": [
+      "Développer des interfaces utilisateur réactives en HTML et CSS",
+      "Gérer la base de données côté client dans les applications web",
+      "Un nouveau protocole de communication en temps réel pour le web"
+    ]
+  },
+  {
+    "question": "Quelle organisation est responsable de la spécification des standards du World Wide Web ?",
+    "correct_answer": "Le World Wide Web Consortium (W3C)",
+    "incorrect_answers": [
+      "L'Internet Engineering Task Force (IETF)",
+      "L'Internet Corporation for Assigned Names and Numbers (ICANN)",
+      "L'Institute of Electrical and Electronics Engineers (IEEE)"
+    ]
+  },
+  {
+    "question": "Qu'est-ce que la 'Software Transactional Memory' (STM) ?",
+    "correct_answer": "Un mécanisme de contrôle de la concurrence inspiré des bases de données",
+    "incorrect_answers": [
+      "Une technique pour stocker des objets en mémoire partagée de manière persistante",
+      "Un modèle de programmation pour la gestion automatique de la mémoire",
+      "Une méthode pour optimiser les accès disque dans les systèmes distribués"
+    ]
+  },
+  {
+    "question": "Quel langage de programmation a été initialement nommé 'Oak' avant sa sortie publique ?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "C#",
+      "Ruby",
+      "Python"
+    ]
+  }
+]

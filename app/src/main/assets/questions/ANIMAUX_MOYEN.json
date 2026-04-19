@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel groupe d'animaux est caractérisé par un exosquelette, un corps segmenté et des appendices articulés ?",
+    "correct_answer": "Arthropodes",
+    "incorrect_answers": [
+      "Mollusques",
+      "Vertébrés",
+      "Annélides"
+    ]
+  },
+  {
+    "question": "Quel comportement animal implique un état d'inactivité et un métabolisme ralenti pendant l'hiver ?",
+    "correct_answer": "Hibernation",
+    "incorrect_answers": [
+      "Estivation",
+      "Migration",
+      "Mue"
+    ]
+  },
+  {
+    "question": "Quel est l'animal terrestre le plus rapide sur de courtes distances ?",
+    "correct_answer": "Guépard",
+    "incorrect_answers": [
+      "Lion",
+      "Antilope springbok",
+      "Gazelle de Thomson"
+    ]
+  },
+  {
+    "question": "Dans quel type d'habitat naturel trouve-t-on majoritairement les okapis ?",
+    "correct_answer": "Forêts tropicales denses",
+    "incorrect_answers": [
+      "Savanes africaines",
+      "Déserts arides",
+      "Toundra arctique"
+    ]
+  },
+  {
+    "question": "Quel oiseau est connu pour son vol stationnaire et sa capacité à voler en arrière ?",
+    "correct_answer": "Colibri",
+    "incorrect_answers": [
+      "Faucon crécerelle",
+      "Martin-pêcheur",
+      "Hirondelle"
+    ]
+  },
+  {
+    "question": "À quelle classe de la classification zoologique appartient la pieuvre ?",
+    "correct_answer": "Céphalopodes",
+    "incorrect_answers": [
+      "Gastéropodes",
+      "Bivalves",
+      "Crustacés"
+    ]
+  },
+  {
+    "question": "Pourquoi les manchots empereurs se regroupent-ils en grandes colonies pendant la reproduction en Antarctique ?",
+    "correct_answer": "Pour se protéger du froid extrême",
+    "incorrect_answers": [
+      "Pour chasser collectivement",
+      "Pour migrer plus facilement",
+      "Pour trouver de la nourriture"
+    ]
+  },
+  {
+    "question": "Quel animal marin détient le record de la plus longue migration annuelle ?",
+    "correct_answer": "Baleine grise",
+    "incorrect_answers": [
+      "Thon rouge",
+      "Requin blanc",
+      "Tortue luth"
+    ]
+  },
+  {
+    "question": "Quel animal est endémique de l'Australie et se nourrit exclusivement de feuilles d'eucalyptus ?",
+    "correct_answer": "Koala",
+    "incorrect_answers": [
+      "Panda roux",
+      "Lémurien",
+      "Paresseux"
+    ]
+  },
+  {
+    "question": "Quel animal est capable de régénérer la plupart de ses parties du corps, y compris des organes complexes ?",
+    "correct_answer": "Salamandre",
+    "incorrect_answers": [
+      "Étoile de mer",
+      "Ver de terre",
+      "Lézard"
+    ]
+  },
+  {
+    "question": "Les amphibiens se distinguent des reptiles par quelle caractéristique essentielle de leur peau et cycle de vie ?",
+    "correct_answer": "Peau perméable et cycle de vie aquatique/terrestre",
+    "incorrect_answers": [
+      "Respiration pulmonaire exclusive",
+      "Sang chaud",
+      "Présence d'écailles"
+    ]
+  },
+  {
+    "question": "Quel terme désigne le processus par lequel un serpent abandonne sa vieille peau ?",
+    "correct_answer": "Mue",
+    "incorrect_answers": [
+      "Métamorphose",
+      "Pupation",
+      "Éclosion"
+    ]
+  },
+  {
+    "question": "Quel est l'animal le plus lourd à avoir jamais vécu sur Terre ?",
+    "correct_answer": "Baleine bleue",
+    "incorrect_answers": [
+      "Diplodocus",
+      "Éléphant d'Afrique",
+      "Brachiosaure"
+    ]
+  },
+  {
+    "question": "Dans quel type de milieu vit le narval, souvent surnommé 'licorne des mers' ?",
+    "correct_answer": "Eaux arctiques",
+    "incorrect_answers": [
+      "Récifs coralliens",
+      "Profondeurs abyssales",
+      "Estuaires"
+    ]
+  },
+  {
+    "question": "Quelle est la particularité du venin du serpent Taipan du désert ?",
+    "correct_answer": "C'est le plus toxique de tous les serpents terrestres",
+    "incorrect_answers": [
+      "Il provoque une paralysie immédiate",
+      "Il est principalement hémotoxique",
+      "Il n'a pas d'antidote connu"
+    ]
+  },
+  {
+    "question": "À quel ordre de mammifères appartiennent les chauves-souris ?",
+    "correct_answer": "Chiroptères",
+    "incorrect_answers": [
+      "Rodentia",
+      "Primates",
+      "Cétacés"
+    ]
+  },
+  {
+    "question": "Pourquoi les fourmis champignonnistes, ou fourmis coupe-feuilles, cultivent-elles des champignons ?",
+    "correct_answer": "Pour s'en nourrir et nourrir la colonie",
+    "incorrect_answers": [
+      "Pour construire leurs nids",
+      "Pour fabriquer des antibiotiques",
+      "Pour se camoufler"
+    ]
+  },
+  {
+    "question": "Quel animal possède la durée de vie la plus longue parmi les vertébrés connus ?",
+    "correct_answer": "Requin du Groenland",
+    "incorrect_answers": [
+      "Tortue géante des Galápagos",
+      "Baleine boréale",
+      "Éléphant d'Asie"
+    ]
+  },
+  {
+    "question": "Le Pika d'Amérique, un petit mammifère, vit principalement dans quel environnement ?",
+    "correct_answer": "Montagnes rocheuses",
+    "incorrect_answers": [
+      "Plaines inondables",
+      "Forêts tropicales humides",
+      "Toundra"
+    ]
+  },
+  {
+    "question": "Quel est le régime alimentaire principal de l'oryctérope, un mammifère africain ?",
+    "correct_answer": "Fourmis et termites",
+    "incorrect_answers": [
+      "Fruits et baies",
+      "Petits rongeurs",
+      "Herbes et racines"
+    ]
+  },
+  {
+    "question": "Les oiseaux sont des animaux appartenant à la classe des...",
+    "correct_answer": "Aves",
+    "incorrect_answers": [
+      "Reptilia",
+      "Mammalia",
+      "Amphibia"
+    ]
+  },
+  {
+    "question": "Quel phénomène est illustré par l'attirance des papillons de nuit pour la lumière artificielle ?",
+    "correct_answer": "Phototaxie positive",
+    "incorrect_answers": [
+      "Thermotaxie",
+      "Chimiotaxie",
+      "Thigmotaxie"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand primate du monde en termes de masse corporelle ?",
+    "correct_answer": "Gorille des plaines de l'Est",
+    "incorrect_answers": [
+      "Orang-outan de Bornéo",
+      "Chimpanzé commun",
+      "Gorille des montagnes"
+    ]
+  },
+  {
+    "question": "Où trouve-t-on naturellement les pangolins, ces mammifères écailleux ?",
+    "correct_answer": "Afrique et Asie",
+    "incorrect_answers": [
+      "Australie et Nouvelle-Zélande",
+      "Amérique du Sud",
+      "Europe et Amérique du Nord"
+    ]
+  },
+  {
+    "question": "Quelle est la caractéristique unique des monotrèmes (comme l'ornithorynque et l'échidné) ?",
+    "correct_answer": "Ils pondent des œufs tout en étant des mammifères",
+    "incorrect_answers": [
+      "Ils ont une poche marsupiale",
+      "Ils sont aveugles",
+      "Ils hibernent pendant des mois"
+    ]
+  },
+  {
+    "question": "Quelle est la principale différence anatomique entre un poisson osseux et un poisson cartilagineux ?",
+    "correct_answer": "La composition de leur squelette",
+    "incorrect_answers": [
+      "Leur mode de reproduction",
+      "Leur habitat préféré",
+      "Leur régime alimentaire"
+    ]
+  },
+  {
+    "question": "Les poissons nettoyeurs adoptent quelle stratégie comportementale pour se nourrir ?",
+    "correct_answer": "Ils mangent les parasites sur d'autres poissons",
+    "incorrect_answers": [
+      "Ils filtrent l'eau de mer",
+      "Ils creusent le fond marin",
+      "Ils chassent en groupe"
+    ]
+  },
+  {
+    "question": "Quel est l'animal dont l'œil est proportionnellement le plus grand par rapport à son corps ?",
+    "correct_answer": "Tarsier",
+    "incorrect_answers": [
+      "Chouette",
+      "Calmar géant",
+      "Aigle"
+    ]
+  },
+  {
+    "question": "Le Caméléon de Parson, l'un des plus grands caméléons, est endémique de quelle île ?",
+    "correct_answer": "Madagascar",
+    "incorrect_answers": [
+      "Bornéo",
+      "Ceylan",
+      "Nouvelle-Guinée"
+    ]
+  },
+  {
+    "question": "Quel est le rôle principal de la bosse du dromadaire ?",
+    "correct_answer": "Stockage de graisse",
+    "incorrect_answers": [
+      "Réservoir d'eau",
+      "Organe respiratoire",
+      "Récepteur sensoriel"
+    ]
+  }
+]

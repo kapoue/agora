@@ -1,0 +1,88 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Chevalier : armure complète, cape, épée longue -->
+    <!-- Cape -->
+    <path
+        android:fillColor="#8B1A1A"
+        android:pathData="M38,28 L20,85 L32,85 L50,40 L68,85 L80,85 L62,28 Z" />
+    <!-- Casque complet -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M40,18 L60,18 L60,8 L40,8 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M50,10 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0 Z" />
+    <path
+        android:fillColor="#B8960F"
+        android:pathData="M42,18 L58,18 L58,24 L42,24 Z" />
+    <!-- Visière -->
+    <path
+        android:fillColor="#8B6E00"
+        android:pathData="M44,20 L56,20 L56,22 L44,22 Z" />
+    <!-- Armure complète -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M36,28 L64,28 L64,55 L36,55 Z" />
+    <path
+        android:strokeColor="#B8960F"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M36,38 L64,38" />
+    <path
+        android:strokeColor="#B8960F"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M36,46 L64,46" />
+    <path
+        android:strokeColor="#B8960F"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M50,28 L50,55" />
+    <!-- Épaulières -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M24,26 L38,26 L36,32 L22,32 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M62,26 L76,26 L78,32 L64,32 Z" />
+    <!-- Bras gauche armé -->
+    <path
+        android:fillColor="#C4A020"
+        android:pathData="M36,30 L24,52 L28,55 L38,34 Z" />
+    <!-- Bras droit avec épée longue flamboyante -->
+    <path
+        android:fillColor="#C4A020"
+        android:pathData="M64,30 L74,52 L70,55 L62,34 Z" />
+    <!-- Épée longue flamboyante -->
+    <path
+        android:fillColor="#E8E8E8"
+        android:pathData="M72,50 Q74,55 72,60 Q74,65 72,70 Q74,75 72,80 L76,80 Q78,75 76,70 Q78,65 76,60 Q78,55 76,50 Z" />
+    <!-- Garde de l'épée -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M68,50 L80,50 L80,54 L68,54 Z" />
+    <!-- Poignée -->
+    <path
+        android:fillColor="#6B5040"
+        android:pathData="M73,54 L75,54 L75,62 L73,62 Z" />
+    <!-- Jambières dorées -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M36,55 L64,55 L67,68 L33,68 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M33,68 L42,68 L42,84 L33,84 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M58,68 L67,68 L67,84 L58,84 Z" />
+    <!-- Bottes dorées -->
+    <path
+        android:fillColor="#B8960F"
+        android:pathData="M29,84 L46,84 L46,88 L29,88 Z" />
+    <path
+        android:fillColor="#B8960F"
+        android:pathData="M54,84 L71,84 L71,88 L54,88 Z" />
+</vector>

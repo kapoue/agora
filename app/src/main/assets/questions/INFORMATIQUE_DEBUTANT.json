@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel est le rôle principal d'un clavier dans l'utilisation d'un ordinateur ?",
+    "correct_answer": "Saisir du texte et des commandes",
+    "incorrect_answers": [
+      "Afficher des images",
+      "Écouter de la musique",
+      "Imprimer des documents"
+    ]
+  },
+  {
+    "question": "Quelle entreprise est connue pour avoir créé l'iPhone et le système d'exploitation macOS ?",
+    "correct_answer": "Apple",
+    "incorrect_answers": [
+      "Microsoft",
+      "Google",
+      "Samsung"
+    ]
+  },
+  {
+    "question": "Quel est le nom du moteur de recherche le plus largement utilisé sur Internet ?",
+    "correct_answer": "Google",
+    "incorrect_answers": [
+      "Bing",
+      "Yahoo",
+      "DuckDuckGo"
+    ]
+  },
+  {
+    "question": "Qu'est-ce que l'Internet, en termes simples ?",
+    "correct_answer": "Un réseau mondial d'ordinateurs connectés",
+    "incorrect_answers": [
+      "Un logiciel de traitement de texte",
+      "Un type de jeu vidéo",
+      "Un appareil pour imprimer"
+    ]
+  },
+  {
+    "question": "Quel est le rôle d'un navigateur web (comme Chrome, Firefox ou Safari) ?",
+    "correct_answer": "Afficher les pages et sites Internet",
+    "incorrect_answers": [
+      "Envoyer des e-mails",
+      "Créer des images",
+      "Éditer des vidéos"
+    ]
+  },
+  {
+    "question": "Quel est le système d'exploitation le plus courant sur les ordinateurs personnels (PC) ?",
+    "correct_answer": "Windows",
+    "incorrect_answers": [
+      "macOS",
+      "Linux",
+      "Android"
+    ]
+  },
+  {
+    "question": "Que permet principalement une adresse e-mail ?",
+    "correct_answer": "D'envoyer et de recevoir des messages électroniques",
+    "incorrect_answers": [
+      "De faire des appels vidéo",
+      "De naviguer sur Internet",
+      "De stocker des photos"
+    ]
+  },
+  {
+    "question": "Que signifie l'abréviation URL dans le contexte d'une page web ?",
+    "correct_answer": "L'adresse unique d'une ressource sur Internet",
+    "incorrect_answers": [
+      "Un langage de programmation",
+      "Un type de fichier image",
+      "Un protocole de sécurité"
+    ]
+  },
+  {
+    "question": "Qui est souvent reconnue comme la première personne à avoir écrit un algorithme destiné à être exécuté par une machine ?",
+    "correct_answer": "Ada Lovelace",
+    "incorrect_answers": [
+      "Marie Curie",
+      "Grace Hopper",
+      "Hedy Lamarr"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'un octet (byte), une unité fondamentale en informatique ?",
+    "correct_answer": "Une unité de mesure de données numériques",
+    "incorrect_answers": [
+      "Un type de processeur",
+      "Un composant d'écran",
+      "Un périphérique de stockage"
+    ]
+  },
+  {
+    "question": "Quel est le but principal d'un programme informatique ?",
+    "correct_answer": "Donner des instructions à un ordinateur pour qu'il exécute une tâche",
+    "incorrect_answers": [
+      "Ranger les fichiers sur le disque dur",
+      "Protéger l'ordinateur des virus",
+      "Accélérer la connexion Internet"
+    ]
+  },
+  {
+    "question": "Quel est un exemple de langage de programmation visuel et simple, souvent utilisé pour enseigner la programmation aux enfants ?",
+    "correct_answer": "Scratch",
+    "incorrect_answers": [
+      "C++",
+      "Java",
+      "PHP"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'un smartphone ?",
+    "correct_answer": "Un téléphone mobile avec des fonctionnalités d'ordinateur",
+    "incorrect_answers": [
+      "Un type d'ordinateur de bureau",
+      "Une imprimante sans fil",
+      "Un casque audio intelligent"
+    ]
+  },
+  {
+    "question": "Quel est le nom du système de documents et d'informations interconnectés via Internet, créé par Tim Berners-Lee ?",
+    "correct_answer": "World Wide Web (ou le Web)",
+    "incorrect_answers": [
+      "Deep Web",
+      "Darknet",
+      "Internet Explorer"
+    ]
+  },
+  {
+    "question": "Quelle entreprise est principalement connue pour le système d'exploitation Android, majoritaire sur les téléphones mobiles ?",
+    "correct_answer": "Google",
+    "incorrect_answers": [
+      "Apple",
+      "Microsoft",
+      "Samsung"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on un petit programme malveillant qui se propage et endommage les ordinateurs ?",
+    "correct_answer": "Un virus informatique",
+    "incorrect_answers": [
+      "Un pare-feu",
+      "Un navigateur",
+      "Un moteur de recherche"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'une 'application' (ou 'app') sur un smartphone ou une tablette ?",
+    "correct_answer": "Un logiciel spécifique pour mobile",
+    "incorrect_answers": [
+      "Un composant matériel",
+      "Un type de batterie",
+      "Un réseau social"
+    ]
+  },
+  {
+    "question": "Quel appareil permet généralement de se connecter à Internet sans fil dans une maison ou un bureau ?",
+    "correct_answer": "Un routeur Wi-Fi",
+    "incorrect_answers": [
+      "Une imprimante",
+      "Un scanner",
+      "Un disque dur externe"
+    ]
+  },
+  {
+    "question": "Que signifie l'acronyme Wi-Fi ?",
+    "correct_answer": "Une technologie de connexion Internet sans fil",
+    "incorrect_answers": [
+      "Un type de câble réseau",
+      "Un format d'image",
+      "Un logiciel de messagerie"
+    ]
+  },
+  {
+    "question": "Quelle est la fonction principale d'un algorithme ?",
+    "correct_answer": "Décrire une séquence d'étapes pour résoudre un problème",
+    "incorrect_answers": [
+      "Stocker des informations",
+      "Afficher des graphiques 3D",
+      "Se connecter à un réseau"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on le stockage de fichiers et de données accessible via Internet, sans être stocké localement sur un appareil ?",
+    "correct_answer": "Le cloud computing (ou le nuage)",
+    "incorrect_answers": [
+      "Le disque dur",
+      "La carte mémoire",
+      "La clé USB"
+    ]
+  },
+  {
+    "question": "Quelle entreprise est la créatrice de la console de jeux vidéo Xbox ?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": [
+      "Sony",
+      "Nintendo",
+      "Apple"
+    ]
+  },
+  {
+    "question": "Quelle est la fonction principale d'un pare-feu sur un ordinateur ?",
+    "correct_answer": "Protéger le système des intrusions externes indésirables",
+    "incorrect_answers": [
+      "Accélérer le processeur",
+      "Augmenter la taille de l'écran",
+      "Supprimer les fichiers temporaires"
+    ]
+  },
+  {
+    "question": "Comment appelle-t-on le processus qui consiste à écrire des instructions pour qu'un ordinateur exécute une tâche ?",
+    "correct_answer": "La programmation",
+    "incorrect_answers": [
+      "La navigation",
+      "L'impression",
+      "Le traitement de texte"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'une tablette tactile ?",
+    "correct_answer": "Un ordinateur portable avec un écran tactile, sans clavier physique",
+    "incorrect_answers": [
+      "Un type de clavier",
+      "Un accessoire de smartphone",
+      "Une petite télévision"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'un site web ?",
+    "correct_answer": "Un ensemble de pages web interconnectées, hébergé sur Internet",
+    "incorrect_answers": [
+      "Un programme antivirus",
+      "Un type de processeur",
+      "Un système d'exploitation"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'appareil qui permet de déplacer le curseur et de sélectionner des éléments sur l'écran d'un ordinateur ?",
+    "correct_answer": "La souris",
+    "incorrect_answers": [
+      "Le pavé tactile",
+      "Le joystick",
+      "Le microphone"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'un 'logiciel' en informatique ?",
+    "correct_answer": "Un ensemble d'instructions qui dit à l'ordinateur quoi faire",
+    "incorrect_answers": [
+      "Un composant physique de l'ordinateur",
+      "Un type de connexion Internet",
+      "Une marque de moniteur"
+    ]
+  },
+  {
+    "question": "Quelle est la principale fonction d'un ordinateur ?",
+    "correct_answer": "Traiter et stocker des informations",
+    "incorrect_answers": [
+      "Produire de l'électricité",
+      "Cuisiner des aliments",
+      "Fabriquer des objets physiques"
+    ]
+  },
+  {
+    "question": "Qui a inventé le World Wide Web ?",
+    "correct_answer": "Tim Berners-Lee",
+    "incorrect_answers": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ]
+  }
+]

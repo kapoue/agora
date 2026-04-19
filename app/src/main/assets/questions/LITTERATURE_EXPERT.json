@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Quel écrivain, agissant comme lecteur pour la NRF, rejeta initialement le manuscrit de *Du côté de chez Swann* de Marcel Proust avant de reconnaître son erreur ?",
+    "correct_answer": "André Gide",
+    "incorrect_answers": [
+      "Paul Valéry",
+      "Jean Cocteau",
+      "André Breton"
+    ]
+  },
+  {
+    "question": "Quel est le seul auteur à avoir remporté le Prix Goncourt deux fois, la seconde fois sous un pseudonyme différent pour *La Vie devant soi* ?",
+    "correct_answer": "Romain Gary",
+    "incorrect_answers": [
+      "Louis Aragon",
+      "Jean Giono",
+      "Patrick Modiano"
+    ]
+  },
+  {
+    "question": "Quel recueil de Charles Baudelaire est entièrement composé de poèmes en prose, publiés après *Les Fleurs du Mal* ?",
+    "correct_answer": "Petits Poèmes en prose (Le Spleen de Paris)",
+    "incorrect_answers": [
+      "Les Paradis artificiels",
+      "Histoires extraordinaires",
+      "Curiosités esthétiques"
+    ]
+  },
+  {
+    "question": "Quel essai de 1951 de Camus a provoqué une rupture retentissante avec Jean-Paul Sartre, aboutissant à une célèbre querelle épistolaire ?",
+    "correct_answer": "L'Homme révolté",
+    "incorrect_answers": [
+      "Le Mythe de Sisyphe",
+      "La Peste",
+      "Caligula"
+    ]
+  },
+  {
+    "question": "Quel roman de Marguerite Duras a servi de base au scénario du film éponyme réalisé par Alain Resnais, explorant la mémoire et l'horreur de la guerre ?",
+    "correct_answer": "Hiroshima mon amour",
+    "incorrect_answers": [
+      "Moderato cantabile",
+      "L'Amant",
+      "India Song"
+    ]
+  },
+  {
+    "question": "Quel poète français est l'auteur de l'essai *Eupalinos ou l'Architecte*, une réflexion sur l'art et la beauté à travers la figure d'un bâtisseur mythique ?",
+    "correct_answer": "Paul Valéry",
+    "incorrect_answers": [
+      "René Char",
+      "Saint-John Perse",
+      "Pierre Jean Jouve"
+    ]
+  },
+  {
+    "question": "Quel livre est cité comme une influence majeure et une source d'inspiration pour André Gide lors de la rédaction de ses *Nourritures terrestres* ?",
+    "correct_answer": "Ainsi parlait Zarathoustra de Nietzsche",
+    "incorrect_answers": [
+      "Les Fleurs du Mal de Baudelaire",
+      "À rebours de Huysmans",
+      "Le Discours de la méthode de Descartes"
+    ]
+  },
+  {
+    "question": "Quel théoricien majeur du Nouveau Roman a publié l'essai *Pour un Nouveau Roman* en 1963, exposant les principes de ce mouvement littéraire ?",
+    "correct_answer": "Alain Robbe-Grillet",
+    "incorrect_answers": [
+      "Michel Butor",
+      "Claude Simon",
+      "Nathalie Sarraute"
+    ]
+  },
+  {
+    "question": "De quelle pièce d'Euripide s'inspire directement Jean Racine pour écrire sa tragédie *Phèdre* ?",
+    "correct_answer": "Hippolyte",
+    "incorrect_answers": [
+      "Médée",
+      "Les Troyennes",
+      "Hécube"
+    ]
+  },
+  {
+    "question": "Quel est le titre de l'article publié par Émile Zola en 1898 dans le journal L'Aurore, prenant la défense du capitaine Dreyfus ?",
+    "correct_answer": "J'Accuse... !",
+    "incorrect_answers": [
+      "La Vérité en marche",
+      "Justice ou barbarie",
+      "Le Procès de l'honneur"
+    ]
+  },
+  {
+    "question": "Quel est le prénom du personnage principal du roman *Le Hussard sur le toit* de Jean Giono, un jeune colonel italien fuyant le choléra en Provence ?",
+    "correct_answer": "Angelo",
+    "incorrect_answers": [
+      "Giuseppe",
+      "Fabrizio",
+      "Francesco"
+    ]
+  },
+  {
+    "question": "Quel roman a valu à André Malraux le Prix Goncourt en 1933, décrivant la révolution communiste à Shanghai ?",
+    "correct_answer": "La Condition humaine",
+    "incorrect_answers": [
+      "Les Conquérants",
+      "L'Espoir",
+      "La Tentation de l'Occident"
+    ]
+  },
+  {
+    "question": "Quel vers célèbre de Paul Verlaine exprime sa préférence pour la musicalité en poésie dans son texte *Art poétique* ?",
+    "correct_answer": "De la musique avant toute chose",
+    "incorrect_answers": [
+      "Rien de plus cher que la chanson grise",
+      "L'Art, c'est l'émotion sans bavure",
+      "Le mot juste, la note rare"
+    ]
+  },
+  {
+    "question": "Quel roman de Gustave Flaubert fut l'objet d'un procès pour outrage à la morale publique et religieuse en 1857, dont l'auteur fut finalement acquitté ?",
+    "correct_answer": "Madame Bovary",
+    "incorrect_answers": [
+      "Salammbô",
+      "L'Éducation sentimentale",
+      "Bouvard et Pécuchet"
+    ]
+  },
+  {
+    "question": "Sur quelle île de la Manche Victor Hugo vécut-il une grande partie de son exil, y écrivant notamment *Les Misérables* et *La Légende des siècles* ?",
+    "correct_answer": "Guernesey",
+    "incorrect_answers": [
+      "Jersey",
+      "Île de Ré",
+      "Île d'Yeu"
+    ]
+  },
+  {
+    "question": "Dans quelle langue Samuel Beckett a-t-il initialement écrit sa pièce la plus célèbre, *En attendant Godot* ?",
+    "correct_answer": "Français",
+    "incorrect_answers": [
+      "Anglais",
+      "Allemand",
+      "Irlandais"
+    ]
+  },
+  {
+    "question": "En quelle année fut publié *Voyage au bout de la nuit*, le roman qui a révélé Louis-Ferdinand Céline et lui a valu le Prix Renaudot ?",
+    "correct_answer": "1932",
+    "incorrect_answers": [
+      "1928",
+      "1936",
+      "1940"
+    ]
+  },
+  {
+    "question": "Quel est le pseudonyme collectif utilisé par Jorge Luis Borges et Adolfo Bioy Casares pour leurs nouvelles policières, notamment celles de Don Isidro Parodi ?",
+    "correct_answer": "H. Bustos Domecq",
+    "incorrect_answers": [
+      "Honorio Bustos",
+      "Silas Marner",
+      "Pierre Menard"
+    ]
+  },
+  {
+    "question": "Quel auteur italien, maître du fantastique, a imaginé dans *Les Villes invisibles* un dialogue entre Marco Polo et Kubilaï Khan, décrivant 55 cités imaginaires ?",
+    "correct_answer": "Italo Calvino",
+    "incorrect_answers": [
+      "Umberto Eco",
+      "Alberto Moravia",
+      "Cesare Pavese"
+    ]
+  },
+  {
+    "question": "Quelle est la raison invoquée par l'Académie suédoise pour l'attribution du Prix Nobel de Littérature à J.M.G. Le Clézio en 2008 ?",
+    "correct_answer": "Écrivain de la rupture, de l'aventure poétique et de l'extase sensuelle",
+    "incorrect_answers": [
+      "Pour son œuvre humaniste et son engagement",
+      "Pour sa capacité à sonder l'âme humaine",
+      "Pour son renouveau du roman d'aventure"
+    ]
+  },
+  {
+    "question": "Quel recueil poétique de Guillaume Apollinaire, publié en 1913, est célèbre pour l'absence totale de ponctuation, ouvrant la voie à l'expérimentation formelle ?",
+    "correct_answer": "Alcools",
+    "incorrect_answers": [
+      "Calligrammes",
+      "Le Bestiaire",
+      "Ombre de mon amour"
+    ]
+  },
+  {
+    "question": "Quel critique littéraire du XIXe siècle est célèbre pour sa méthode de 'critique biographique', consistant à étudier l'homme derrière l'œuvre ?",
+    "correct_answer": "Sainte-Beuve",
+    "incorrect_answers": [
+      "Hippolyte Taine",
+      "Charles-Augustin de Pontmartin",
+      "Émile Faguet"
+    ]
+  },
+  {
+    "question": "Quelle contrainte oulipienne majeure est au cœur du roman *La Disparition* de Georges Perec, où une lettre spécifique est entièrement absente ?",
+    "correct_answer": "Le lipogramme",
+    "incorrect_answers": [
+      "Le palindrome",
+      "L'hétérogramme",
+      "Le tautogramme"
+    ]
+  },
+  {
+    "question": "Dans quel roman d'André Gide le personnage de Lafcadio empoisonne-t-il Amédée Fleurissoire dans le train, commettant un 'acte gratuit' ?",
+    "correct_answer": "Les Caves du Vatican",
+    "incorrect_answers": [
+      "La Porte étroite",
+      "Les Faux-monnayeurs",
+      "L'Immoraliste"
+    ]
+  },
+  {
+    "question": "Quel pays imaginaire, synonyme de prospérité et d'harmonie, Candide et Cacambo découvrent-ils dans le conte philosophique de Voltaire ?",
+    "correct_answer": "L'Eldorado",
+    "incorrect_answers": [
+      "L'Utopie",
+      "L'Atlantide",
+      "Le Pays de Cocagne"
+    ]
+  },
+  {
+    "question": "Sous quel pseudonyme René Char a-t-il mené ses activités de résistance pendant la Seconde Guerre mondiale, notamment en tant que chef de section parachutiste ?",
+    "correct_answer": "Capitaine Alexandre",
+    "incorrect_answers": [
+      "Colonel Dubois",
+      "Commandant Louis",
+      "Sergent Paul"
+    ]
+  },
+  {
+    "question": "Quelle écrivaine fut la première femme élue à l'Académie française en 1980, marquant un tournant historique pour l'institution ?",
+    "correct_answer": "Marguerite Yourcenar",
+    "incorrect_answers": [
+      "Françoise Sagan",
+      "Simone de Beauvoir",
+      "Nathalie Sarraute"
+    ]
+  },
+  {
+    "question": "Quel est le titre du cycle romanesque en quatre volumes de Louis Aragon, qui s'étend de la Commune de Paris à la période de l'entre-deux-guerres, incluant *Les Beaux Quartiers* ?",
+    "correct_answer": "Le Monde réel",
+    "incorrect_answers": [
+      "Les Communistes",
+      "La Semaine Sainte",
+      "Le Cycle d'Elsa"
+    ]
+  },
+  {
+    "question": "Quel est le nom de l'astéroïde dont Le Petit Prince est originaire, selon l'œuvre d'Antoine de Saint-Exupéry ?",
+    "correct_answer": "B 612",
+    "incorrect_answers": [
+      "Alpha Centauri",
+      "Kepler-186f",
+      "Vesta"
+    ]
+  },
+  {
+    "question": "Quel journal de la Résistance, dont Albert Camus fut un éditorialiste majeur après la Libération, devint un quotidien influent après 1944 ?",
+    "correct_answer": "Combat",
+    "incorrect_answers": [
+      "Libération",
+      "Franc-Tireur",
+      "Témoignage Chrétien"
+    ]
+  }
+]
