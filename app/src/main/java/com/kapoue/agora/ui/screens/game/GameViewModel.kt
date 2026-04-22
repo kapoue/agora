@@ -5,10 +5,9 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import coil3.ImageLoader
 import coil3.request.ImageRequest
-import com.kapoue.agora.data.local.db.dao.QuestionDao
-import com.kapoue.agora.data.local.db.entity.QuestionEntity
 import com.kapoue.agora.data.repository.ImageRepository
 import com.kapoue.agora.data.repository.QuestionRepository
+import com.kapoue.agora.data.repository.SharedImagePool
 import com.kapoue.agora.domain.model.Difficulty
 import com.kapoue.agora.domain.model.Question
 import com.kapoue.agora.domain.model.Theme
@@ -44,10 +43,10 @@ class GameViewModel @Inject constructor(
     @ApplicationContext private val context: Context,
     private val questionRepository: QuestionRepository,
     private val imageRepository: ImageRepository,
+    private val sharedImagePool: SharedImagePool,
     private val getQuestionsUseCase: GetQuestionsUseCase,
     private val saveProgressUseCase: SaveProgressUseCase,
     private val getProgressUseCase: GetProgressUseCase,
-    private val questionDao: QuestionDao,
     private val imageLoader: ImageLoader
 ) : ViewModel() {
 
@@ -90,8 +89,13 @@ class GameViewModel @Inject constructor(
             }
 
             getQuestionsUseCase(theme, difficulty).first { it.isNotEmpty() }.let { loadedQuestions ->
-                questions = loadedQuestions
-                pendingQueue = ArrayDeque(loadedQuestions.filter { !it.isAnsweredCorrectly })
+                // Assigner les URLs du pool par positionInPool (séquentiel, sans répétition)
+                questions = loadedQuestions.map { q ->
+                    q.copy(imageUrl = sharedImagePool.getUrl(q.positionInPool) ?: q.imageUrl)
+                }
+                pendingQueue = ArrayDeque(
+                    questions.filter { !it.isAnsweredCorrectly }
+                )
 
                 if (pendingQueue.isEmpty()) {
                     _uiState.value = _uiState.value.copy(
@@ -103,9 +107,6 @@ class GameViewModel @Inject constructor(
                 }
 
                 showCurrentQuestion(savedLevel)
-                pendingQueue.first().let { q ->
-                    if (q.imageUrl == null) fetchImageForQuestion(q)
-                }
                 prefetchImages()
             }
         }
@@ -184,10 +185,6 @@ class GameViewModel @Inject constructor(
         }
 
         val question = pendingQueue.first()
-        if (question.imageUrl == null) {
-            viewModelScope.launch { fetchImageForQuestion(question) }
-        }
-
         val shuffled = (question.incorrectAnswers + question.correctAnswer).shuffled()
         _uiState.value = _uiState.value.copy(
             isCompleted = false,
@@ -202,47 +199,8 @@ class GameViewModel @Inject constructor(
         prefetchImages()
     }
 
-    private suspend fun fetchImageForQuestion(question: Question) {
-        val imageUrl = try {
-            imageRepository.getImageUrl(question.unsplashQuery)
-        } catch (e: Exception) {
-            null
-        } ?: return
-
-        // Mettre à jour l'entité en base
-        val updatedEntity = QuestionEntity(
-            id = question.id,
-            theme = question.theme.name,
-            difficulty = question.difficulty.name,
-            questionText = question.questionText,
-            correctAnswer = question.correctAnswer,
-            incorrectAnswers = com.google.gson.Gson().toJson(question.incorrectAnswers),
-            imageUrl = imageUrl,
-            unsplashQuery = question.unsplashQuery,
-            isAnsweredCorrectly = question.isAnsweredCorrectly,
-            positionInPool = question.positionInPool
-        )
-        questionDao.updateQuestion(updatedEntity)
-
-        // Mettre à jour la liste locale et la queue
-        questions = questions.toMutableList().also { list ->
-            val idx = list.indexOfFirst { it.id == question.id }
-            if (idx >= 0) list[idx] = question.copy(imageUrl = imageUrl)
-        }
-        pendingQueue = ArrayDeque(pendingQueue.map {
-            if (it.id == question.id) it.copy(imageUrl = imageUrl) else it
-        })
-
-        // Si c'est la question courante, mettre à jour l'état UI
-        if (pendingQueue.firstOrNull()?.id == question.id) {
-            _uiState.value = _uiState.value.copy(
-                currentQuestion = _uiState.value.currentQuestion?.copy(imageUrl = imageUrl)
-            )
-        }
-    }
-
     private fun prefetchImages() {
-        listOf(1, 2).forEach { offset ->
+        listOf(1, 2, 3).forEach { offset ->
             pendingQueue.getOrNull(offset)?.imageUrl?.let { url ->
                 val request = ImageRequest.Builder(context)
                     .data(url)

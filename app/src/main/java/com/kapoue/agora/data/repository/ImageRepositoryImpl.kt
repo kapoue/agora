@@ -22,20 +22,29 @@ class ImageRepositoryImpl @Inject constructor(
     private val urlListCache = mutableMapOf<String, List<String>>()
 
     override suspend fun getImageUrl(query: String): String? {
-        urlListCache[query]?.let { return it.randomOrNull() }
-
-        return tryUnsplash(query)
-            ?: tryPexels(query)
-            ?: tryPixabay(query)
+        if (urlListCache[query].isNullOrEmpty()) fetchAndCache(query, 30)
+        return urlListCache[query]?.randomOrNull()
     }
 
-    private suspend fun tryUnsplash(query: String): String? = try {
-        val response = unsplashApiService.searchPhotos(query = query, perPage = 10)
+    override suspend fun getImageUrls(query: String, count: Int): List<String> {
+        if (urlListCache[query].isNullOrEmpty()) fetchAndCache(query, count)
+        return urlListCache[query] ?: emptyList()
+    }
+
+    private suspend fun fetchAndCache(query: String, count: Int) {
+        val urls = tryUnsplash(query, count)
+            ?: tryPexels(query, count)
+            ?: tryPixabay(query, count)
+            ?: emptyList()
+        if (urls.isNotEmpty()) urlListCache[query] = urls
+    }
+
+    private suspend fun tryUnsplash(query: String, perPage: Int): List<String>? = try {
+        val response = unsplashApiService.searchPhotos(query = query, perPage = perPage)
         val urls = response.results.map { it.urls.regular }
         if (urls.isNotEmpty()) {
-            urlListCache[query] = urls
             Log.d(TAG, "Unsplash OK: ${urls.size} images pour '$query'")
-            urls.randomOrNull()
+            urls
         } else null
     } catch (e: HttpException) {
         Log.w(TAG, "Unsplash ${e.code()} pour '$query' → fallback Pexels")
@@ -45,13 +54,12 @@ class ImageRepositoryImpl @Inject constructor(
         null
     }
 
-    private suspend fun tryPexels(query: String): String? = try {
-        val response = pexelsApiService.searchPhotos(query = query, perPage = 10)
+    private suspend fun tryPexels(query: String, perPage: Int): List<String>? = try {
+        val response = pexelsApiService.searchPhotos(query = query, perPage = perPage)
         val urls = response.photos.map { it.src.large2x }
         if (urls.isNotEmpty()) {
-            urlListCache[query] = urls
             Log.d(TAG, "Pexels OK: ${urls.size} images pour '$query'")
-            urls.randomOrNull()
+            urls
         } else null
     } catch (e: HttpException) {
         Log.w(TAG, "Pexels ${e.code()} pour '$query' → fallback Pixabay")
@@ -61,17 +69,16 @@ class ImageRepositoryImpl @Inject constructor(
         null
     }
 
-    private suspend fun tryPixabay(query: String): String? = try {
+    private suspend fun tryPixabay(query: String, perPage: Int): List<String>? = try {
         val response = pixabayApiService.searchPhotos(
             key = BuildConfig.PIXABAY_API_KEY,
             query = query,
-            perPage = 10
+            perPage = perPage
         )
         val urls = response.hits.map { it.largeImageURL }
         if (urls.isNotEmpty()) {
-            urlListCache[query] = urls
             Log.d(TAG, "Pixabay OK: ${urls.size} images pour '$query'")
-            urls.randomOrNull()
+            urls
         } else null
     } catch (e: Exception) {
         Log.w(TAG, "Pixabay erreur pour '$query': ${e.message}")
