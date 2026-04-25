@@ -33,4 +33,19 @@ interface QuestionDao {
 
     @Query("UPDATE questions SET unsplashQuery = :query WHERE theme = :theme AND imageUrl IS NULL")
     suspend fun normalizeUnsplashQuery(theme: String, query: String)
+
+    @Query("UPDATE questions SET imageUrl = :imageUrl WHERE theme = :theme AND difficulty = :difficulty AND questionText = :questionText")
+    suspend fun updateImageUrl(theme: String, difficulty: String, questionText: String, imageUrl: String?)
+
+    @Query("UPDATE questions SET attempts = attempts + 1 WHERE id = :id")
+    suspend fun incrementAttempts(id: Long)
+
+    @Query("SELECT COUNT(*) FROM questions WHERE theme = :theme AND difficulty = :difficulty AND isAnsweredCorrectly = 1")
+    suspend fun countAnsweredCorrectly(theme: String, difficulty: String): Int
+
+    @Query("UPDATE questions SET isAnsweredCorrectly = 0, attempts = 0 WHERE theme = :theme")
+    suspend fun resetThemeQuestions(theme: String)
+
+    @Query("SELECT imageUrl FROM questions WHERE theme = :theme AND imageUrl IS NOT NULL LIMIT 1")
+    suspend fun getFirstImageUrl(theme: String): String?
 }

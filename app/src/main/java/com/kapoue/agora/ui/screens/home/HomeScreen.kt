@@ -30,6 +30,7 @@ import com.kapoue.agora.ui.theme.AgoraBackground
 import com.kapoue.agora.ui.theme.AgoraGold
 import com.kapoue.agora.ui.theme.AgoraStone
 import com.kapoue.agora.ui.theme.CinzelFamily
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.safeDrawing
@@ -42,6 +43,11 @@ fun HomeScreen(
     viewModel: HomeViewModel = hiltViewModel()
 ) {
     val themeImages by viewModel.themeImages.collectAsState()
+    val seriesCounts by viewModel.seriesCounts.collectAsState()
+
+    LaunchedEffect(Unit) {
+        viewModel.refresh()
+    }
 
     Column(
         modifier = Modifier
@@ -91,6 +97,7 @@ fun HomeScreen(
                     theme = theme,
                     imageUrl = themeImages[theme],
                     onClick = { onThemeClick(theme) },
+                    seriesCount = seriesCounts[theme] ?: 0,
                     modifier = Modifier.fillMaxWidth()
                 )
             }

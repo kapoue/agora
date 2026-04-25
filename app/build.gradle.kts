@@ -13,9 +13,6 @@ val localProps = Properties().apply {
     rootProject.file("local.properties").takeIf { it.exists() }
         ?.inputStream()?.use { load(it) }
 }
-val unsplashKeyValue: String = localProps.getProperty("UNSPLASH_API_KEY", "")
-val pexelsKeyValue: String = localProps.getProperty("PEXELS_API_KEY", "")
-val pixabayKeyValue: String = localProps.getProperty("PIXABAY_API_KEY", "")
 
 android {
     namespace = "com.kapoue.agora"
@@ -25,15 +22,10 @@ android {
         applicationId = "com.kapoue.agora"
         minSdk = 26
         targetSdk = 35
-        versionCode = 3
-        versionName = "1.2.0"
+        versionCode = 4
+        versionName = "1.3.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
-
-        val unsplashKey = unsplashKeyValue
-        buildConfigField("String", "UNSPLASH_API_KEY", "\"$unsplashKey\"")
-        buildConfigField("String", "PEXELS_API_KEY", "\"$pexelsKeyValue\"")
-        buildConfigField("String", "PIXABAY_API_KEY", "\"$pixabayKeyValue\"")
     }
 
     buildTypes {

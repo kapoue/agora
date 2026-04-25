@@ -63,6 +63,7 @@ fun GameScreen(
     theme: Theme,
     difficulty: Difficulty,
     onHomeClick: () -> Unit,
+    onReplayClick: () -> Unit,
     viewModel: GameViewModel = hiltViewModel()
 ) {
     val uiState by viewModel.uiState.collectAsState()
@@ -152,7 +153,7 @@ fun GameScreen(
                         textAlign = TextAlign.Center
                     )
                     Text(
-                        text = "Vous avez répondu correctement à toutes les questions disponibles.\nDe nouvelles questions seront disponibles à la prochaine mise à jour.",
+                        text = "Toutes les questions répondues correctement.",
                         fontFamily = LatoFamily,
                         fontSize = 15.sp,
                         color = AgoraStone,
@@ -166,16 +167,45 @@ fun GameScreen(
                         color = AgoraWhite,
                         fontStyle = FontStyle.Italic
                     )
+                    if (uiState.totalInSession > 0) {
+                        Text(
+                            text = "Premier essai : ${uiState.firstTryCount} / ${uiState.totalInSession}",
+                            fontFamily = LatoFamily,
+                            fontSize = 14.sp,
+                            color = AgoraStone,
+                            textAlign = TextAlign.Center
+                        )
+                    }
+                    if (uiState.allDifficultiesCompleted) {
+                        Button(
+                            onClick = {
+                                viewModel.onReplay()
+                                onReplayClick()
+                            },
+                            colors = ButtonDefaults.buttonColors(containerColor = AgoraGold),
+                            shape = RoundedCornerShape(8.dp),
+                            modifier = Modifier.fillMaxWidth()
+                        ) {
+                            Text(
+                                text = "Rejouer",
+                                fontFamily = CinzelFamily,
+                                color = Color.Black,
+                                fontSize = 16.sp
+                            )
+                        }
+                    }
                     Button(
                         onClick = onHomeClick,
-                        colors = ButtonDefaults.buttonColors(containerColor = AgoraGold),
+                        colors = ButtonDefaults.buttonColors(
+                            containerColor = if (uiState.allDifficultiesCompleted) AgoraSurface else AgoraGold
+                        ),
                         shape = RoundedCornerShape(8.dp),
                         modifier = Modifier.fillMaxWidth()
                     ) {
                         Text(
                             text = "Accueil",
                             fontFamily = CinzelFamily,
-                            color = Color.Black,
+                            color = if (uiState.allDifficultiesCompleted) AgoraWhite else Color.Black,
                             fontSize = 16.sp
                         )
                     }

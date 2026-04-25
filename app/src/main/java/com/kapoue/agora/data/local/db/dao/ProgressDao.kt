@@ -12,4 +12,7 @@ interface ProgressDao {
 
     @Upsert
     suspend fun upsertProgress(progress: ProgressEntity)
+
+    @Query("DELETE FROM progress WHERE theme = :theme AND difficulty = :difficulty")
+    suspend fun deleteProgress(theme: String, difficulty: String)
 }

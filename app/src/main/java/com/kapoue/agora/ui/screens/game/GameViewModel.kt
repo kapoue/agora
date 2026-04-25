@@ -1,13 +1,11 @@
-package com.kapoue.agora.ui.screens.game
+﻿package com.kapoue.agora.ui.screens.game
 
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import coil3.ImageLoader
 import coil3.request.ImageRequest
-import com.kapoue.agora.data.repository.ImageRepository
 import com.kapoue.agora.data.repository.QuestionRepository
-import com.kapoue.agora.data.repository.SharedImagePool
 import com.kapoue.agora.domain.model.Difficulty
 import com.kapoue.agora.domain.model.Question
 import com.kapoue.agora.domain.model.Theme
@@ -26,6 +24,7 @@ import javax.inject.Inject
 data class GameUiState(
     val isLoading: Boolean = true,
     val isCompleted: Boolean = false,
+    val allDifficultiesCompleted: Boolean = false,
     val currentQuestion: Question? = null,
     val answersWithState: List<Pair<String, AnswerState>> = emptyList(),
     val selectedAnswer: String? = null,
@@ -35,15 +34,15 @@ data class GameUiState(
     val currentLevel: Int = 0,
     val theme: Theme = Theme.HISTOIRE,
     val difficulty: Difficulty = Difficulty.DEBUTANT,
-    val error: String? = null
+    val error: String? = null,
+    val firstTryCount: Int = 0,
+    val totalInSession: Int = 0
 )
 
 @HiltViewModel
 class GameViewModel @Inject constructor(
     @ApplicationContext private val context: Context,
     private val questionRepository: QuestionRepository,
-    private val imageRepository: ImageRepository,
-    private val sharedImagePool: SharedImagePool,
     private val getQuestionsUseCase: GetQuestionsUseCase,
     private val saveProgressUseCase: SaveProgressUseCase,
     private val getProgressUseCase: GetProgressUseCase,
@@ -60,52 +59,53 @@ class GameViewModel @Inject constructor(
     private var lastTheme: Theme = Theme.HISTOIRE
     private var lastDifficulty: Difficulty = Difficulty.DEBUTANT
 
+    private val sessionAttemptsMap: MutableMap<Long, Int> = mutableMapOf()
+    private var sessionFirstTryCount: Int = 0
+
     fun initialize(theme: Theme, difficulty: Difficulty) {
         lastTheme = theme
         lastDifficulty = difficulty
-        _uiState.value = GameUiState(
-            isLoading = true,
-            theme = theme,
-            difficulty = difficulty
-        )
+        sessionAttemptsMap.clear()
+        sessionFirstTryCount = 0
+        _uiState.value = GameUiState(isLoading = true, theme = theme, difficulty = difficulty)
         viewModelScope.launch {
             val progress = getProgressUseCase(theme, difficulty)
             val savedLevel = progress?.currentLevel ?: 0
 
-            // Sync différentielle : insère uniquement les nouvelles questions depuis les assets
             try {
                 questionRepository.syncFromAssets(theme, difficulty)
             } catch (e: Exception) {
-                // On continue — si la DB a déjà des questions, on les utilise
+                // Continue si la DB a deja des questions
             }
 
             val count = questionRepository.getQuestionCount(theme, difficulty)
             if (count == 0) {
                 _uiState.value = _uiState.value.copy(
                     isLoading = false,
-                    error = "Aucune question disponible pour ce thème et ce niveau."
+                    error = "Aucune question disponible pour ce theme et ce niveau."
                 )
                 return@launch
             }
 
             getQuestionsUseCase(theme, difficulty).first { it.isNotEmpty() }.let { loadedQuestions ->
-                // Assigner les URLs du pool par positionInPool (séquentiel, sans répétition)
-                questions = loadedQuestions.map { q ->
-                    q.copy(imageUrl = sharedImagePool.getUrl(q.positionInPool) ?: q.imageUrl)
-                }
-                pendingQueue = ArrayDeque(
-                    questions.filter { !it.isAnsweredCorrectly }
-                )
+                questions = loadedQuestions
+                pendingQueue = ArrayDeque(questions.filter { !it.isAnsweredCorrectly })
+                val totalInSession = pendingQueue.size
 
                 if (pendingQueue.isEmpty()) {
+                    val allDone = questionRepository.isAllDifficultiesCompleted(theme)
                     _uiState.value = _uiState.value.copy(
                         isLoading = false,
                         isCompleted = true,
-                        currentLevel = savedLevel
+                        allDifficultiesCompleted = allDone,
+                        currentLevel = savedLevel,
+                        totalInSession = 0,
+                        firstTryCount = 0
                     )
                     return@let
                 }
 
+                _uiState.value = _uiState.value.copy(totalInSession = totalInSession)
                 showCurrentQuestion(savedLevel)
                 prefetchImages()
             }
@@ -140,6 +140,10 @@ class GameViewModel @Inject constructor(
         val newLevel = if (isCorrect) state.currentLevel + 1 else state.currentLevel
         lastAnswerCorrect = isCorrect
 
+        val tryCount = (sessionAttemptsMap[question.id] ?: 0) + 1
+        sessionAttemptsMap[question.id] = tryCount
+        if (isCorrect && tryCount == 1) sessionFirstTryCount++
+
         _uiState.value = state.copy(
             answersWithState = state.answersWithState.map { (ans, _) ->
                 ans to when {
@@ -155,8 +159,9 @@ class GameViewModel @Inject constructor(
             currentLevel = newLevel
         )
 
-        if (isCorrect) {
-            viewModelScope.launch {
+        viewModelScope.launch {
+            questionRepository.incrementAttempts(question.id)
+            if (isCorrect) {
                 questionRepository.markAnsweredCorrectly(question.id)
                 saveProgressUseCase(
                     theme = state.theme,
@@ -170,17 +175,19 @@ class GameViewModel @Inject constructor(
 
     fun onNextQuestion() {
         val answered = pendingQueue.removeFirst()
-        if (!lastAnswerCorrect) {
-            // Mauvaise réponse : remettre en fin de queue
-            pendingQueue.addLast(answered)
-        }
+        if (!lastAnswerCorrect) pendingQueue.addLast(answered)
 
         if (pendingQueue.isEmpty()) {
-            _uiState.value = _uiState.value.copy(
-                isCompleted = true,
-                currentQuestion = null,
-                showNext = false
-            )
+            viewModelScope.launch {
+                val allDone = questionRepository.isAllDifficultiesCompleted(lastTheme)
+                _uiState.value = _uiState.value.copy(
+                    isCompleted = true,
+                    allDifficultiesCompleted = allDone,
+                    currentQuestion = null,
+                    showNext = false,
+                    firstTryCount = sessionFirstTryCount
+                )
+            }
             return
         }
 
@@ -195,17 +202,20 @@ class GameViewModel @Inject constructor(
             showNext = false,
             correctAnswerText = ""
         )
-
         prefetchImages()
+    }
+
+    fun onReplay() {
+        viewModelScope.launch {
+            questionRepository.resetTheme(lastTheme)
+            questionRepository.incrementSeriesCount(lastTheme)
+        }
     }
 
     private fun prefetchImages() {
         listOf(1, 2, 3).forEach { offset ->
             pendingQueue.getOrNull(offset)?.imageUrl?.let { url ->
-                val request = ImageRequest.Builder(context)
-                    .data(url)
-                    .build()
-                imageLoader.enqueue(request)
+                imageLoader.enqueue(ImageRequest.Builder(context).data(url).build())
             }
         }
     }

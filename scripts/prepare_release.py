@@ -4,22 +4,26 @@ Script de préparation de release Agora.
 Étape 1 : Génère les questions QCM via Gemini (si manquantes ou --force).
 Étape 2 : Récupère 30 URLs d'images par thème×difficulté (Unsplash → Pexels → Pixabay)
           et les injecte dans les fichiers JSON de questions (champ "imageUrl" par question).
+Étape 3 : Monte la version patch (x.y.z → x.y.z+1) dans app/build.gradle.kts,
+          puis fait git add + commit + tag (sauf si --no-git).
 
 Les clés API sont lues depuis local.properties à la racine du projet agora.
 Elles ne transitent jamais dans le code source ni dans l'APK.
 
 Usage :
-    python prepare_release.py                    # Génère les manquants + toutes les images
-    python prepare_release.py --force            # Régénère tout (questions + images)
-    python prepare_release.py --images-only      # Rafraîchit uniquement les images
+    python prepare_release.py                    # Génère les manquants + toutes les images + bump version
+    python prepare_release.py --force            # Régénère tout (questions + images) + bump version
+    python prepare_release.py --images-only      # Rafraîchit uniquement les images + bump version
     python prepare_release.py --theme HISTOIRE   # Un seul thème
     python prepare_release.py --difficulty DEBUTANT  # Une seule difficulté
+    python prepare_release.py --no-git           # Ne fait pas le commit/tag git
 """
 
 import argparse
 import json
 import os
 import re
+import subprocess
 import time
 import random
 
@@ -31,6 +35,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.join(SCRIPT_DIR, "..")
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, "app", "src", "main", "assets", "questions")
 LOCAL_PROPERTIES = os.path.join(PROJECT_ROOT, "local.properties")
+BUILD_GRADLE = os.path.join(PROJECT_ROOT, "app", "build.gradle.kts")
 
 # ─── CLÉS GEMINI ──────────────────────────────────────────────────────────────
 GEMINI_API_KEYS = [
@@ -276,6 +281,64 @@ def inject_images(filepath: str, urls: list) -> None:
         json.dump(questions, f, ensure_ascii=False, indent=2)
 
 
+# ─── MONTÉE DE VERSION PATCH ──────────────────────────────────────────────────
+def bump_patch_version() -> tuple[str, str]:
+    """
+    Lit app/build.gradle.kts, incrémente versionCode et le patch (z) de versionName.
+    Retourne (old_version, new_version).
+    """
+    with open(BUILD_GRADLE, encoding="utf-8") as f:
+        content = f.read()
+
+    # versionCode
+    code_match = re.search(r'versionCode\s*=\s*(\d+)', content)
+    if not code_match:
+        raise RuntimeError("versionCode introuvable dans build.gradle.kts")
+    old_code = int(code_match.group(1))
+    new_code = old_code + 1
+
+    # versionName x.y.z → x.y.(z+1)
+    name_match = re.search(r'versionName\s*=\s*"(\d+)\.(\d+)\.(\d+)"', content)
+    if not name_match:
+        raise RuntimeError("versionName introuvable dans build.gradle.kts")
+    major, minor, patch = name_match.group(1), name_match.group(2), name_match.group(3)
+    old_version = f"{major}.{minor}.{patch}"
+    new_version = f"{major}.{minor}.{int(patch) + 1}"
+
+    content = content.replace(
+        f"versionCode = {old_code}",
+        f"versionCode = {new_code}"
+    )
+    content = content.replace(
+        f'versionName = "{old_version}"',
+        f'versionName = "{new_version}"'
+    )
+
+    with open(BUILD_GRADLE, "w", encoding="utf-8") as f:
+        f.write(content)
+
+    return old_version, new_version
+
+
+def git_commit_and_tag(version: str) -> None:
+    """git add -A → commit → tag vX.Y.Z → push origin main + tag."""
+    cmds = [
+        ["git", "add", "-A"],
+        ["git", "commit", "-m", f"content: inject image URLs + bump version to {version}"],
+        ["git", "tag", f"v{version}"],
+        ["git", "push", "origin", "main"],
+        ["git", "push", "origin", f"v{version}"],
+    ]
+    for cmd in cmds:
+        print(f"    $ {' '.join(cmd)}")
+        result = subprocess.run(cmd, cwd=PROJECT_ROOT, capture_output=True, text=True)
+        if result.returncode != 0:
+            print(f"    ⚠  {result.stderr.strip()}")
+        else:
+            if result.stdout.strip():
+                print(f"    {result.stdout.strip()}")
+
+
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 def main():
     parser = argparse.ArgumentParser(description="Prépare la release Agora (questions + images)")
@@ -283,6 +346,7 @@ def main():
     parser.add_argument("--images-only", action="store_true", help="Rafraîchit uniquement les images")
     parser.add_argument("--theme",       type=str, help="Traite uniquement ce thème (ex: HISTOIRE)")
     parser.add_argument("--difficulty",  type=str, help="Traite uniquement cette difficulté (ex: DEBUTANT)")
+    parser.add_argument("--no-git",      action="store_true", help="Ne fait pas le commit/tag git")
     args = parser.parse_args()
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -359,8 +423,23 @@ def main():
         print(f"  ✗ {len(errors)} erreur(s) :")
         for lbl, err in errors:
             print(f"    - {lbl} : {err}")
+        print(f"  Version non montée (erreurs présentes)")
     else:
         print(f"  ✓ Toutes les combinaisons traitées avec succès")
+        # Montée de version patch
+        try:
+            old_v, new_v = bump_patch_version()
+            print(f"  ✓ Version : {old_v} → {new_v}")
+        except Exception as e:
+            print(f"  ⚠  Impossible de monter la version : {e}")
+            new_v = None
+
+        # Git commit + tag
+        if not args.no_git and new_v:
+            print(f"\n  Git :")
+            git_commit_and_tag(new_v)
+        elif args.no_git:
+            print(f"  (--no-git : commit/tag ignorés)")
     print(f"{'='*60}\n")
 
 

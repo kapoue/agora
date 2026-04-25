@@ -1,10 +1,11 @@
-package com.kapoue.agora.di
+﻿package com.kapoue.agora.di
 
 import android.content.Context
 import androidx.room.Room
 import com.kapoue.agora.data.local.db.AgoraDatabase
 import com.kapoue.agora.data.local.db.dao.ProgressDao
 import com.kapoue.agora.data.local.db.dao.QuestionDao
+import com.kapoue.agora.data.local.db.dao.ThemeProgressDao
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -23,7 +24,9 @@ object DatabaseModule {
             context,
             AgoraDatabase::class.java,
             "agora_database"
-        ).fallbackToDestructiveMigration().build()
+        )
+            .addMigrations(AgoraDatabase.MIGRATION_1_2)
+            .build()
     }
 
     @Provides
@@ -31,4 +34,7 @@ object DatabaseModule {
 
     @Provides
     fun provideProgressDao(database: AgoraDatabase): ProgressDao = database.progressDao()
+
+    @Provides
+    fun provideThemeProgressDao(database: AgoraDatabase): ThemeProgressDao = database.themeProgressDao()
 }

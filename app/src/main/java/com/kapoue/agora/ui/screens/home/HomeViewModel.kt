@@ -2,7 +2,7 @@ package com.kapoue.agora.ui.screens.home
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.kapoue.agora.data.repository.ImageRepository
+import com.kapoue.agora.data.repository.QuestionRepository
 import com.kapoue.agora.domain.model.Theme
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.async
@@ -14,29 +14,34 @@ import javax.inject.Inject
 
 @HiltViewModel
 class HomeViewModel @Inject constructor(
-    private val imageRepository: ImageRepository
+    private val questionRepository: QuestionRepository
 ) : ViewModel() {
 
     private val _themeImages = MutableStateFlow<Map<Theme, String?>>(emptyMap())
     val themeImages: StateFlow<Map<Theme, String?>> = _themeImages
 
+    private val _seriesCounts = MutableStateFlow<Map<Theme, Int>>(emptyMap())
+    val seriesCounts: StateFlow<Map<Theme, Int>> = _seriesCounts
+
     init {
-        loadThemeImages()
+        loadThemeData()
     }
 
-    private fun loadThemeImages() {
+    private fun loadThemeData() {
         viewModelScope.launch {
             val imageMap = Theme.entries.map { theme ->
-                async {
-                    val url = try {
-                        imageRepository.getImageUrl(theme.unsplashQuery)
-                    } catch (e: Exception) {
-                        null
-                    }
-                    theme to url
-                }
+                async { theme to questionRepository.getFirstImageUrl(theme) }
             }.awaitAll().toMap()
             _themeImages.value = imageMap
+
+            val seriesMap = Theme.entries.map { theme ->
+                async { theme to questionRepository.getSeriesCount(theme) }
+            }.awaitAll().toMap()
+            _seriesCounts.value = seriesMap
         }
+    }
+
+    fun refresh() {
+        loadThemeData()
     }
 }

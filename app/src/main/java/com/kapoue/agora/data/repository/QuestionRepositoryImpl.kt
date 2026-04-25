@@ -1,12 +1,14 @@
-package com.kapoue.agora.data.repository
+﻿package com.kapoue.agora.data.repository
 
 import android.os.Build
 import android.text.Html
 import com.kapoue.agora.data.local.AssetQuestionLoader
 import com.kapoue.agora.data.local.db.dao.ProgressDao
 import com.kapoue.agora.data.local.db.dao.QuestionDao
+import com.kapoue.agora.data.local.db.dao.ThemeProgressDao
 import com.kapoue.agora.data.local.db.entity.ProgressEntity
 import com.kapoue.agora.data.local.db.entity.QuestionEntity
+import com.kapoue.agora.data.local.db.entity.ThemeProgressEntity
 import com.kapoue.agora.data.remote.api.OtdApiService
 import com.kapoue.agora.domain.model.Difficulty
 import com.kapoue.agora.domain.model.Progress
@@ -23,6 +25,7 @@ import javax.inject.Singleton
 class QuestionRepositoryImpl @Inject constructor(
     private val questionDao: QuestionDao,
     private val progressDao: ProgressDao,
+    private val themeProgressDao: ThemeProgressDao,
     private val otdApiService: OtdApiService,
     private val assetQuestionLoader: AssetQuestionLoader
 ) : QuestionRepository {
@@ -38,7 +41,6 @@ class QuestionRepositoryImpl @Inject constructor(
         var lastError: Exception = Exception("Erreur inconnue")
 
         repeat(3) { attempt ->
-            // Délai progressif : 0s, 6s, 12s
             if (attempt > 0) delay(6000L * attempt)
 
             for (amount in amounts) {
@@ -50,8 +52,8 @@ class QuestionRepositoryImpl @Inject constructor(
                     )
                     when {
                         response.responseCode == 5 -> {
-                            lastError = Exception("L'API est surchargée (rate limit). Patiente quelques secondes.")
-                            return@repeat // retry l'attempt suivant
+                            lastError = Exception("L''API est surchargee (rate limit).")
+                            return@repeat
                         }
                         response.responseCode == 0 && response.results.isNotEmpty() -> {
                             val entities = response.results.mapIndexed { index, dto ->
@@ -69,9 +71,9 @@ class QuestionRepositoryImpl @Inject constructor(
                                 )
                             }
                             questionDao.insertQuestions(entities)
-                            return // succès
+                            return
                         }
-                        amount == 50 -> continue // essaie avec 20
+                        amount == 50 -> continue
                         else -> {
                             lastError = Exception("Aucune question disponible pour ${theme.displayName} / ${difficulty.displayName}.")
                             return@repeat
@@ -79,8 +81,8 @@ class QuestionRepositoryImpl @Inject constructor(
                     }
                 } catch (e: HttpException) {
                     if (e.code() == 429) {
-                        lastError = Exception("L'API est surchargée (429). Patiente quelques secondes.")
-                        return@repeat // retry
+                        lastError = Exception("L''API est surchargee (429).")
+                        return@repeat
                     }
                     throw e
                 }
@@ -92,22 +94,31 @@ class QuestionRepositoryImpl @Inject constructor(
     override suspend fun syncFromAssets(theme: Theme, difficulty: Difficulty) {
         val newEntities = assetQuestionLoader.loadQuestions(theme, difficulty)
         if (newEntities.isEmpty()) {
-            throw Exception("Aucune question trouvée dans les assets pour ${theme.displayName} / ${difficulty.displayName}.")
+            throw Exception("Aucune question trouvee dans les assets pour ${theme.displayName} / ${difficulty.displayName}.")
         }
         val existingTexts = questionDao.getQuestionTexts(theme.name, difficulty.name).toSet()
         val existingCount = existingTexts.size
+
         val toInsert = newEntities
             .filter { it.questionText !in existingTexts }
             .mapIndexed { index, entity -> entity.copy(positionInPool = existingCount + index) }
         if (toInsert.isNotEmpty()) {
             questionDao.insertQuestions(toInsert)
         }
-        // Normalise les questions existantes sans image vers la query du thème
-        questionDao.normalizeUnsplashQuery(theme.name, theme.unsplashQuery)
+
+        newEntities
+            .filter { it.questionText in existingTexts && it.imageUrl != null }
+            .forEach { entity ->
+                questionDao.updateImageUrl(theme.name, difficulty.name, entity.questionText, entity.imageUrl)
+            }
     }
 
     override suspend fun markAnsweredCorrectly(id: Long) {
         questionDao.markAnsweredCorrectly(id)
+    }
+
+    override suspend fun incrementAttempts(id: Long) {
+        questionDao.incrementAttempts(id)
     }
 
     override suspend fun getQuestionCount(theme: Theme, difficulty: Difficulty): Int {
@@ -136,11 +147,36 @@ class QuestionRepositoryImpl @Inject constructor(
         )
     }
 
-    override suspend fun updateQuestionImageUrl(questionId: Long, imageUrl: String) {
-        val questions = questionDao.getQuestionsList("", "")
-        // Update is done via the entity update
-        val allEntities = mutableListOf<QuestionEntity>()
-        // We need a targeted update - handled in GameViewModel
+    override suspend fun deleteProgress(theme: Theme, difficulty: Difficulty) {
+        progressDao.deleteProgress(theme.name, difficulty.name)
+    }
+
+    override suspend fun isAllDifficultiesCompleted(theme: Theme): Boolean {
+        return Difficulty.entries.all { difficulty ->
+            val total = questionDao.countQuestions(theme.name, difficulty.name)
+            val answered = questionDao.countAnsweredCorrectly(theme.name, difficulty.name)
+            total > 0 && answered >= total
+        }
+    }
+
+    override suspend fun resetTheme(theme: Theme) {
+        questionDao.resetThemeQuestions(theme.name)
+        Difficulty.entries.forEach { difficulty ->
+            progressDao.deleteProgress(theme.name, difficulty.name)
+        }
+    }
+
+    override suspend fun getSeriesCount(theme: Theme): Int {
+        return themeProgressDao.getSeriesCount(theme.name) ?: 0
+    }
+
+    override suspend fun incrementSeriesCount(theme: Theme) {
+        val current = themeProgressDao.getSeriesCount(theme.name) ?: 0
+        themeProgressDao.upsert(ThemeProgressEntity(theme = theme.name, seriesCount = current + 1))
+    }
+
+    override suspend fun getFirstImageUrl(theme: Theme): String? {
+        return questionDao.getFirstImageUrl(theme.name)
     }
 
     private fun decodeHtml(text: String): String {
@@ -154,14 +190,14 @@ class QuestionRepositoryImpl @Inject constructor(
 
     private fun extractKeywords(questionText: String): String {
         val stopWords = setOf(
-            "qui", "quelle", "quel", "quand", "où", "comment", "pourquoi",
+            "qui", "quelle", "quel", "quand", "ou", "comment", "pourquoi",
             "est", "son", "sa", "ses", "les", "des", "une", "un", "le", "la",
             "dans", "en", "de", "du", "au", "aux", "par", "sur", "avec", "pour",
             "what", "which", "when", "where", "how", "who", "the", "a", "an",
             "is", "was", "were", "are", "in", "of", "to", "and", "or"
         )
         val words = questionText.split(" ")
-            .map { it.replace(Regex("[^a-zA-ZÀ-ÿ]"), "").lowercase() }
+            .map { it.replace(Regex("[^a-zA-ZA-z]"), "").lowercase() }
             .filter { it.length > 3 && it !in stopWords }
         return words.take(4).joinToString(" ")
     }

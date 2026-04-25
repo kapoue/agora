@@ -14,7 +14,8 @@ import javax.inject.Singleton
 private data class AssetQuestionDto(
     @SerializedName("question") val question: String,
     @SerializedName("correct_answer") val correctAnswer: String,
-    @SerializedName("incorrect_answers") val incorrectAnswers: List<String>
+    @SerializedName("incorrect_answers") val incorrectAnswers: List<String>,
+    @SerializedName("imageUrl") val imageUrl: String? = null
 )
 
 @Singleton
@@ -36,7 +37,7 @@ class AssetQuestionLoader @Inject constructor(
                     questionText = dto.question,
                     correctAnswer = dto.correctAnswer,
                     incorrectAnswers = gson.toJson(dto.incorrectAnswers),
-                    imageUrl = null,
+                    imageUrl = dto.imageUrl,
                     unsplashQuery = theme.unsplashQuery,
                     positionInPool = index
                 )

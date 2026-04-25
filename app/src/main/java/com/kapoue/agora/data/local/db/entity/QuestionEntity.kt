@@ -18,5 +18,7 @@ data class QuestionEntity(
     val imageUrl: String?,
     val unsplashQuery: String,
     val isAnsweredCorrectly: Boolean = false,
-    val positionInPool: Int = 0
+    val positionInPool: Int = 0,
+    val lot: Int = 1,
+    val attempts: Int = 0
 )
