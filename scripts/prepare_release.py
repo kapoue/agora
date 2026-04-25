@@ -37,16 +37,6 @@ OUTPUT_DIR = os.path.join(PROJECT_ROOT, "app", "src", "main", "assets", "questio
 LOCAL_PROPERTIES = os.path.join(PROJECT_ROOT, "local.properties")
 BUILD_GRADLE = os.path.join(PROJECT_ROOT, "app", "build.gradle.kts")
 
-# ─── CLÉS GEMINI ──────────────────────────────────────────────────────────────
-GEMINI_API_KEYS = [
-    "AIzaSyBEdKCxAGBhyLJLuy1cdcBXPF6nYvBjJkM",
-    "AIzaSyDJgIsefbeDHRMIE_4hA1wYA3KziIo1qOU",
-    "AIzaSyB7LiJXfI4yqFG_w-90dO34OMaJnJBUFMQ",
-    "AIzaSyBFbXVZ62Zj62yQkRV2omtsU9USE7_AKqc",
-    "AIzaSyC_ifMwwk-iLcCJcEHgWjt58RKtLk17K5k",
-    "AIzaSyBwltFRQFXuzSuwEcdfGPnjKS6kHxGEhTI",
-]
-
 # ─── CONFIGURATION QUESTIONS ──────────────────────────────────────────────────
 QUESTIONS_PER_COMBO = 30
 DELAY_BETWEEN_CALLS = 5
@@ -70,12 +60,12 @@ THEMES = {
 
 DIFFICULTIES = {
     "DEBUTANT":      "débutant — questions simples, connues du grand public, niveau fin de collège. Les réponses sont évidentes pour quelqu'un de curieux.",
-    "INTERMEDIAIRE": "intermédiaire — questions de culture générale solide, niveau lycée ou adulte cultivé. Il faut réfléchir.",
+    "MOYEN":         "intermédiaire — questions de culture générale solide, niveau lycée ou adulte cultivé. Il faut réfléchir.",
     "EXPERT":        "expert — questions pointues, nécessitant une vraie expertise ou une culture très approfondie sur le sujet.",
 }
 
 # Pages Unsplash/Pexels par difficulté pour garantir des pools distincts
-DIFFICULTY_PAGE = {"DEBUTANT": 1, "INTERMEDIAIRE": 2, "EXPERT": 3}
+DIFFICULTY_PAGE = {"DEBUTANT": 1, "MOYEN": 2, "EXPERT": 3}
 
 PROMPT_TEMPLATE = """Tu es un expert en création de quiz éducatifs. Génère exactement {n} questions QCM uniques sur le thème suivant :
 
@@ -363,7 +353,13 @@ def main():
     print(f"{'='*60}\n")
 
     # Clients Gemini (inutilisés si --images-only)
-    clients = [] if args.images_only else [genai.Client(api_key=k) for k in GEMINI_API_KEYS]
+    if not args.images_only:
+        gemini_keys = [v for k, v in sorted(api_keys.items()) if k.startswith("GEMINI_API_KEY_")]
+        if not gemini_keys:
+            print("⚠  Aucune clé GEMINI_API_KEY_x trouvée dans local.properties")
+        clients = [genai.Client(api_key=k) for k in gemini_keys]
+    else:
+        clients = []
 
     errors = []
 

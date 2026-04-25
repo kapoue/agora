@@ -19,16 +19,6 @@ import re
 import argparse
 
 # ─── CONFIGURATION ────────────────────────────────────────────────────────────
-# Ajouter plusieurs clés ici pour contourner le quota journalier (20 req/clé/jour)
-# Le script bascule automatiquement sur la clé suivante en cas de quota épuisé
-GEMINI_API_KEYS = [
-    "AIzaSyBEdKCxAGBhyLJLuy1cdcBXPF6nYvBjJkM",  # clé 1 (projet original)
-    "AIzaSyDJgIsefbeDHRMIE_4hA1wYA3KziIo1qOU",  # clé 2 (projet 2)
-    "AIzaSyB7LiJXfI4yqFG_w-90dO34OMaJnJBUFMQ",  # clé 3 (projet 3)
-    "AIzaSyBFbXVZ62Zj62yQkRV2omtsU9USE7_AKqc",  # clé 4 (projet 4)
-    "AIzaSyC_ifMwwk-iLcCJcEHgWjt58RKtLk17K5k",  # clé 5 (projet 5)
-    "AIzaSyBwltFRQFXuzSuwEcdfGPnjKS6kHxGEhTI",  # clé 6 (projet 6)
-]
 QUESTIONS_PER_COMBO = 30
 DELAY_BETWEEN_CALLS = 5  # secondes (limite Gemini free tier : 15 req/min)
 MAX_RETRIES = 3
@@ -36,6 +26,24 @@ MAX_RETRIES = 3
 OUTPUT_DIR = os.path.join(
     os.path.dirname(__file__), "..", "app", "src", "main", "assets", "questions"
 )
+LOCAL_PROPERTIES = os.path.join(os.path.dirname(__file__), "..", "local.properties")
+
+
+def load_gemini_keys() -> list:
+    """Lit les clés GEMINI_API_KEY_x depuis local.properties."""
+    keys = {}
+    if not os.path.exists(LOCAL_PROPERTIES):
+        raise FileNotFoundError(f"local.properties introuvable : {LOCAL_PROPERTIES}")
+    with open(LOCAL_PROPERTIES, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if "=" in line and not line.startswith("#"):
+                k, _, v = line.partition("=")
+                keys[k.strip()] = v.strip()
+    gemini_keys = [v for k, v in sorted(keys.items()) if k.startswith("GEMINI_API_KEY_")]
+    if not gemini_keys:
+        raise ValueError("Aucune clé GEMINI_API_KEY_x trouvée dans local.properties")
+    return gemini_keys
 
 # ─── THÈMES ───────────────────────────────────────────────────────────────────
 THEMES = {
@@ -192,7 +200,8 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     # Configurer Gemini — créer un client par clé
-    clients = [genai.Client(api_key=key) for key in GEMINI_API_KEYS]
+    gemini_keys = load_gemini_keys()
+    clients = [genai.Client(api_key=key) for key in gemini_keys]
     print(f"  {len(clients)} clé(s) API configurée(s)")
 
     # Sélectionner les thèmes/difficultés à générer

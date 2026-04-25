@@ -6,7 +6,8 @@
       "Le théorème de Thalès",
       "Le dernier théorème de Fermat",
       "Le théorème de l'Hôpital"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685845882-288eee8e913e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mathématicien est célèbre pour sa conjecture stipulant que tout nombre pair supérieur à 2 peut être exprimé comme la somme de deux nombres premiers ?",
@@ -15,7 +16,8 @@
       "Pierre de Fermat",
       "Carl Friedrich Gauss",
       "Bernhard Riemann"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848478-b57d7aff2a9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle branche des mathématiques étudie les propriétés des figures qui restent invariantes sous déformation continue, comme un donut et une tasse ?",
@@ -24,7 +26,8 @@
       "La géométrie euclidienne",
       "L'algèbre linéaire",
       "La trigonométrie"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734301-1e6ef045145f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la valeur qui divise un ensemble de données ordonnées en deux parties égales, de sorte que 50% des données sont inférieures et 50% sont supérieures à cette valeur ?",
@@ -33,7 +36,8 @@
       "La moyenne arithmétique",
       "Le mode",
       "L'écart-type"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734622-3e0a002b2f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui est considéré comme le père de la géométrie analytique, reliant l'algèbre et la géométrie grâce à un système de coordonnées ?",
@@ -42,7 +46,8 @@
       "Isaac Newton",
       "Gottfried Leibniz",
       "Euclide"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734242-8dbf726479eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel théorème fondamental des mathématiques affirme que tout système formel cohérent et suffisamment puissant pour l'arithmétique contient des énoncés qui sont indécidables ?",
@@ -51,7 +56,8 @@
       "Le dernier théorème de Fermat",
       "Le théorème des quatre couleurs",
       "Le théorème de la limite centrale"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734483-e11fe75480dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Combien de faces possède un dodécaèdre régulier ?",
@@ -60,7 +66,8 @@
       "Huit faces",
       "Vingt faces",
       "Six faces"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848123-01f7a269bfc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel type de nombre, supérieur à 1, n'admet que deux diviseurs positifs distincts : 1 et lui-même ?",
@@ -69,7 +76,8 @@
       "Un nombre composé",
       "Un nombre parfait",
       "Un nombre rationnel"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848758-74747f4f0727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mathématicien grec antique est principalement connu pour ses 'Éléments', un traité fondamental de géométrie ?",
@@ -78,7 +86,8 @@
       "Archimède",
       "Pythagore",
       "Thalès"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734314-a2633cef4c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle opération mathématique permet de calculer la pente d'une courbe en un point donné et est l'inverse de l'intégration ?",
@@ -87,7 +96,8 @@
       "La factorisation",
       "La sommation",
       "L'interpolation"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848813-a6133f937bfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel théorème établit qu'un polynôme de degré 'n' (avec n ≥ 1) à coefficients complexes possède exactement 'n' racines complexes, en comptant leur multiplicité ?",
@@ -96,7 +106,8 @@
       "Le théorème de Gauss-Lucas",
       "Le théorème de Rolle",
       "Le théorème des valeurs intermédiaires"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848761-a55e08173622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans un contexte statistique, qu'est-ce que l'écart-type mesure-t-il ?",
@@ -105,7 +116,8 @@
       "La valeur la plus fréquente",
       "Le point médian des données",
       "La somme totale des valeurs"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733876-3bb63d3da1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mathématicien allemand du 19e siècle est célèbre pour ses travaux sur la géométrie non euclidienne et les variétés riemanniennes ?",
@@ -114,7 +126,8 @@
       "David Hilbert",
       "Carl Friedrich Gauss",
       "Augustin-Louis Cauchy"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685849011-b3efeb6e1122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le terme désignant un ensemble qui contient tous les éléments possibles du contexte étudié ?",
@@ -123,7 +136,8 @@
       "L'ensemble vide",
       "L'ensemble des parties",
       "L'ensemble dénombrable"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734006-4a3cb9253a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel théorème de probabilité indique qu'à mesure que la taille de l'échantillon augmente, la distribution de la moyenne de l'échantillon tend à être normale ?",
@@ -132,7 +146,8 @@
       "La loi des grands nombres",
       "Le théorème de Bayes",
       "Le théorème de la limite des bornes"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848238-001e0cc182ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans la géométrie hyperbolique, que se passe-t-il avec la somme des angles d'un triangle ?",
@@ -141,7 +156,8 @@
       "Elle est toujours égale à 180 degrés",
       "Elle est toujours supérieure à 180 degrés",
       "Elle varie en fonction de la taille du triangle"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734226-e5a8327bf502?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mathématicien a prouvé en 1994 le dernier théorème de Fermat, résolvant un problème posé depuis plus de 350 ans ?",
@@ -150,7 +166,8 @@
       "John Nash",
       "Grigori Perelman",
       "Alan Turing"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la valeur de l'unité imaginaire 'i' élevée à la puissance 2 (i²) ?",
@@ -159,7 +176,8 @@
       "1",
       "i",
       "0"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1620621983410-962c3124dc83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle transformation géométrique conserve les distances et les angles, mais inverse l'orientation d'une figure ?",
@@ -168,7 +186,8 @@
       "La rotation",
       "La translation",
       "L'homothétie"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734363-9ca32535183d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mathématicien britannique est considéré comme le père de l'informatique théorique et de l'intelligence artificielle pour ses travaux sur la calculabilité ?",
@@ -177,7 +196,8 @@
       "Claude Shannon",
       "John von Neumann",
       "Norbert Wiener"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734423-593b9854a31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans la théorie des groupes, qu'est-ce qu'un groupe ?",
@@ -186,7 +206,8 @@
       "Un ensemble de nombres premiers",
       "Une suite infinie de nombres",
       "Un polygone régulier"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733809-0e53c640d93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel théorème garantit que si une fonction continue sur un intervalle fermé prend des valeurs positives et négatives, elle doit s'annuler au moins une fois ?",
@@ -195,7 +216,8 @@
       "Le théorème de Rolle",
       "Le théorème de la moyenne",
       "Le théorème de Bolzano-Weierstrass"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685845891-64736626610f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel symbole mathématique, introduit par Leonhard Euler, représente la base du logarithme naturel et est approximativement égal à 2,718 ?",
@@ -204,7 +226,8 @@
       "La lettre 'π'",
       "Le symbole '∞'",
       "La lettre 'i'"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734268-003e12ca57bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle figure géométrique auto-similaire, où chaque partie est une reproduction plus petite du tout, est souvent associée à la dimension non entière ?",
@@ -213,7 +236,8 @@
       "Un hypercube",
       "Une sphère",
       "Un tore"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848755-7db48b484385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En statistiques, quel est le terme pour l'hypothèse que l'on cherche à rejeter, souvent exprimée comme l'absence d'effet ou de différence ?",
@@ -222,7 +246,8 @@
       "L'hypothèse alternative",
       "L'hypothèse de travail",
       "L'hypothèse secondaire"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848612-dc8d3c0e9646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mathématicien et physicien du 17e siècle est crédité, avec Leibniz, de la découverte indépendante du calcul infinitésimal ?",
@@ -231,7 +256,8 @@
       "Albert Einstein",
       "Blaise Pascal",
       "Johannes Kepler"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1573871014706-263f4dfec410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du raisonnement mathématique qui consiste à prouver une proposition en montrant que sa négation conduit à une contradiction ?",
@@ -240,7 +266,8 @@
       "La démonstration directe",
       "L'induction mathématique",
       "La contraposition"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1659386510402-e93799ec82a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En géométrie, un polyèdre est dit convexe si le segment joignant deux de ses points est entièrement contenu à l'intérieur. Quelle est l'alternative pour un polyèdre non convexe ?",
@@ -249,7 +276,8 @@
       "Irrégulier",
       "Complexe",
       "Dégénéré"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848352-c527c32b2054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le plus petit nombre entier positif qui est à la fois un carré parfait et un cube parfait (hormis 1) ?",
@@ -258,7 +286,8 @@
       "36",
       "100",
       "144"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848204-a170e78f1507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle mathématicienne allemande du 20e siècle a apporté des contributions fondamentales à l'algèbre abstraite et à la physique théorique, notamment les théorèmes de Noether ?",
@@ -267,6 +296,7 @@
       "Sophie Germain",
       "Hypatie",
       "Ada Lovelace"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848791-87860bb29292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

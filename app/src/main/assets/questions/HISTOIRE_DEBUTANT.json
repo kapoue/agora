@@ -6,7 +6,8 @@
       "Les Romains",
       "Les Grecs",
       "Les Mésopotamiens"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758683683791-c0efafbc4471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxhbmNpZW50JTIwaGlzdG9yeSUyMG1vbnVtZW50fGVufDB8fHx8MTc3NzExMjkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel empereur romain est connu pour avoir été assassiné aux Ides de Mars ?",
@@ -15,7 +16,8 @@
       "Auguste",
       "Néron",
       "Caligula"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1596382110223-917125ff6093?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En quelle année a débuté la Révolution française, marquant la prise de la Bastille ?",
@@ -24,7 +26,8 @@
       "1792",
       "1776",
       "1815"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1771747886712-e5890b1fbe29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxhbmNpZW50JTIwaGlzdG9yeSUyMG1vbnVtZW50fGVufDB8fHx8MTc3NzExMjkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle période correspond principalement à la Première Guerre mondiale ?",
@@ -33,7 +36,8 @@
       "1939-1945",
       "1870-1871",
       "1950-1953"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763261409544-f99b6eb5a10c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel explorateur est généralement crédité de la découverte de l'Amérique en 1492 ?",
@@ -42,7 +46,8 @@
       "Vasco de Gama",
       "Fernand de Magellan",
       "Marco Polo"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1770829330631-139129320407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxhbmNpZW50JTIwaGlzdG9yeSUyMG1vbnVtZW50fGVufDB8fHx8MTc3NzExMjkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En quelle année le Mur de Berlin est-il tombé, symbolisant la fin de la Guerre Froide ?",
@@ -51,7 +56,8 @@
       "1961",
       "1975",
       "1991"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766999708541-e450f6fe0c67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel navigateur a dirigé la première circumnavigation du globe, bien qu'il soit mort en chemin ?",
@@ -60,7 +66,8 @@
       "Jacques Cartier",
       "James Cook",
       "Amerigo Vespucci"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761764321121-c65f1c52a774?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxhbmNpZW50JTIwaGlzdG9yeSUyMG1vbnVtZW50fGVufDB8fHx8MTc3NzExMjkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle figure emblématique de l'histoire de France a mené les troupes françaises contre les Anglais durant la Guerre de Cent Ans ?",
@@ -69,7 +76,8 @@
       "Catherine de Médicis",
       "Marie Antoinette",
       "Madame de Pompadour"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767794704458-8610e27a6a1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxhbmNpZW50JTIwaGlzdG9yeSUyMG1vbnVtZW50fGVufDB8fHx8MTc3NzExMjkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mouvement culturel et artistique, signifiant 'renaissance', s'est épanoui en Europe à partir du XIVe siècle ?",
@@ -78,7 +86,8 @@
       "Le Baroque",
       "Le Romantisme",
       "Le Gothique"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765570018462-da4cfec1e270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans quel pays la Révolution industrielle a-t-elle principalement débuté au XVIIIe siècle ?",
@@ -87,7 +96,8 @@
       "La France",
       "L'Allemagne",
       "Les États-Unis"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767938072282-f2701a577eff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel général français est devenu empereur et a conquis une grande partie de l'Europe au début du XIXe siècle ?",
@@ -96,7 +106,8 @@
       "Louis XIV",
       "Charlemagne",
       "Charles de Gaulle"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1772207111690-57df7280d5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxhbmNpZW50JTIwaGlzdG9yeSUyMG1vbnVtZW50fGVufDB8fHx8MTc3NzExMjkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui fut la dernière reine d'Égypte antique, célèbre pour ses liens avec Jules César et Marc Antoine ?",
@@ -105,7 +116,8 @@
       "Néfertiti",
       "Hatchepsout",
       "Toutânkhamon"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1772207112613-0cbf4198529c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxhbmNpZW50JTIwaGlzdG9yeSUyMG1vbnVtZW50fGVufDB8fHx8MTc3NzExMjkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel était le principal objectif de la Grande Muraille de Chine ?",
@@ -114,7 +126,8 @@
       "Marquer une frontière",
       "Servir de route commerciale",
       "Abriter des moines"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776139053129-6e7b7a707859?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle forme de gouvernement, où les citoyens élisent leurs représentants, est née dans la Grèce antique ?",
@@ -123,7 +136,8 @@
       "La Monarchie",
       "L'Oligarchie",
       "La Théocratie"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766999708483-53228220322a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle ville était le cœur et la capitale de l'Empire romain ?",
@@ -132,7 +146,8 @@
       "Athènes",
       "Alexandrie",
       "Carthage"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776620093157-7a7a770bcb05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel célèbre gladiateur a mené une révolte d'esclaves contre la République romaine au 1er siècle av. J.-C. ?",
@@ -141,7 +156,8 @@
       "Hercule",
       "Achille",
       "Ulysse"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1771787603387-babc5aafac46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxhbmNpZW50JTIwaGlzdG9yeSUyMG1vbnVtZW50fGVufDB8fHx8MTc3NzExMjkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui est l'inventeur de l'imprimerie et de la presse à caractères mobiles au XVe siècle ?",
@@ -150,7 +166,8 @@
       "Léonard de Vinci",
       "Galilée",
       "Christophe Colomb"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768890347865-4d3396f6feaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En quelle année les États-Unis ont-ils déclaré leur indépendance vis-à-vis de la Grande-Bretagne ?",
@@ -159,7 +176,8 @@
       "1787",
       "1865",
       "1754"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764503702782-99676e315a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel explorateur portugais fut le premier Européen à atteindre l'Inde par voie maritime en contournant l'Afrique ?",
@@ -168,7 +186,8 @@
       "Bartolomé Dias",
       "Pedro Álvares Cabral",
       "Henri le Navigateur"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766006160074-23cb151d6f96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel chef militaire est connu pour avoir unifié les tribus mongoles et fondé l'Empire mongol au XIIIe siècle ?",
@@ -177,7 +196,8 @@
       "Attila",
       "Tamerlan",
       "Kubilai Khan"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764069488964-28d1563ed710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle ancienne capitale de l'Empire byzantin a été prise par les Ottomans en 1453 ?",
@@ -186,7 +206,8 @@
       "Athènes",
       "Antioche",
       "Rome"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762086092065-bd2832c35a0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle pandémie dévastatrice a ravagé l'Europe au milieu du XIVe siècle, tuant des millions de personnes ?",
@@ -195,7 +216,8 @@
       "La Grippe espagnole",
       "La Variole",
       "Le Choléra"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764686619135-365852a08dcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En quelle année Neil Armstrong fut-il le premier homme à marcher sur la Lune ?",
@@ -204,7 +226,8 @@
       "1957",
       "1961",
       "1972"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776018645058-628cae0415bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle militante des droits civiques a refusé de céder sa place dans un bus en Alabama en 1955 ?",
@@ -213,7 +236,8 @@
       "Harriet Tubman",
       "Sojourner Truth",
       "Maya Angelou"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1759835715075-542643e9e78e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel leader indien est célèbre pour sa philosophie de la non-violence et a lutté pour l'indépendance de l'Inde ?",
@@ -222,7 +246,8 @@
       "Jawaharlal Nehru",
       "Nelson Mandela",
       "Martin Luther King Jr."
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765570019796-cd7c46af802e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans quel pays le système de ségrégation raciale appelé l'Apartheid a-t-il été aboli au début des années 1990 ?",
@@ -231,7 +256,8 @@
       "Les États-Unis",
       "L'Australie",
       "Le Brésil"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764863455595-bc3d67c3b3ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel canal artificiel relie la mer Méditerranée à la mer Rouge ?",
@@ -240,7 +266,8 @@
       "Le canal de Panama",
       "Le canal de Corinthe",
       "Le canal du Midi"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758915464698-33dc91375ffb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Où se situe la cité inca antique du Machu Picchu ?",
@@ -249,7 +276,8 @@
       "Au Mexique",
       "En Colombie",
       "En Bolivie"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761416947079-c752f19ef77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwaGlzdG9yeSUyMG1vbnVtZW50fGVufDB8fHx8MTc3NzExMjkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel conflit majeur du XXe siècle a vu les États-Unis intervenir militairement en Asie du Sud-Est entre les années 1950 et 1970 ?",
@@ -258,7 +286,8 @@
       "La Guerre de Corée",
       "La Guerre Froide",
       "La Crise des missiles de Cuba"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767907574571-d56ce70981e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En quelle bataille Napoléon Bonaparte a-t-il subi sa défaite finale en 1815 ?",
@@ -267,6 +296,7 @@
       "La bataille d'Austerlitz",
       "La bataille de Trafalgar",
       "La bataille de Borodino"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1729083070929-a3e07ad6cec1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

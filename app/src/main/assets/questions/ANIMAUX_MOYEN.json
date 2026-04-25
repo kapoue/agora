@@ -6,7 +6,8 @@
       "Mollusques",
       "Vertébrés",
       "Annélides"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1701430916185-f80c51edf37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel comportement animal implique un état d'inactivité et un métabolisme ralenti pendant l'hiver ?",
@@ -15,7 +16,8 @@
       "Estivation",
       "Migration",
       "Mue"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1715890434417-40229a310620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est l'animal terrestre le plus rapide sur de courtes distances ?",
@@ -24,7 +26,8 @@
       "Lion",
       "Antilope springbok",
       "Gazelle de Thomson"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1707536484356-86ca44981e49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans quel type d'habitat naturel trouve-t-on majoritairement les okapis ?",
@@ -33,7 +36,8 @@
       "Savanes africaines",
       "Déserts arides",
       "Toundra arctique"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1607268102039-3e470cf6e263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel oiseau est connu pour son vol stationnaire et sa capacité à voler en arrière ?",
@@ -42,7 +46,8 @@
       "Faucon crécerelle",
       "Martin-pêcheur",
       "Hirondelle"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631820018357-7527ff384843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "À quelle classe de la classification zoologique appartient la pieuvre ?",
@@ -51,7 +56,8 @@
       "Gastéropodes",
       "Bivalves",
       "Crustacés"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1611590278089-8dce9a70ed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Pourquoi les manchots empereurs se regroupent-ils en grandes colonies pendant la reproduction en Antarctique ?",
@@ -60,7 +66,8 @@
       "Pour chasser collectivement",
       "Pour migrer plus facilement",
       "Pour trouver de la nourriture"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1701430916184-94724f1ad9b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel animal marin détient le record de la plus longue migration annuelle ?",
@@ -69,7 +76,8 @@
       "Thon rouge",
       "Requin blanc",
       "Tortue luth"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1708522101004-0718712b4547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel animal est endémique de l'Australie et se nourrit exclusivement de feuilles d'eucalyptus ?",
@@ -78,7 +86,8 @@
       "Panda roux",
       "Lémurien",
       "Paresseux"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1674114411719-199c28e587b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel animal est capable de régénérer la plupart de ses parties du corps, y compris des organes complexes ?",
@@ -87,7 +96,8 @@
       "Étoile de mer",
       "Ver de terre",
       "Lézard"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1669406047620-509b197b9125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Les amphibiens se distinguent des reptiles par quelle caractéristique essentielle de leur peau et cycle de vie ?",
@@ -96,7 +106,8 @@
       "Respiration pulmonaire exclusive",
       "Sang chaud",
       "Présence d'écailles"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616308913711-c2c719dc2ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel terme désigne le processus par lequel un serpent abandonne sa vieille peau ?",
@@ -105,7 +116,8 @@
       "Métamorphose",
       "Pupation",
       "Éclosion"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728557349552-c1660fbdff7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est l'animal le plus lourd à avoir jamais vécu sur Terre ?",
@@ -114,7 +126,8 @@
       "Diplodocus",
       "Éléphant d'Afrique",
       "Brachiosaure"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1726335849487-fd5d3b63b87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans quel type de milieu vit le narval, souvent surnommé 'licorne des mers' ?",
@@ -123,7 +136,8 @@
       "Récifs coralliens",
       "Profondeurs abyssales",
       "Estuaires"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1707515637645-7b9ed1e1597f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la particularité du venin du serpent Taipan du désert ?",
@@ -132,7 +146,8 @@
       "Il provoque une paralysie immédiate",
       "Il est principalement hémotoxique",
       "Il n'a pas d'antidote connu"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728025139514-72890f2c69d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "À quel ordre de mammifères appartiennent les chauves-souris ?",
@@ -141,7 +156,8 @@
       "Rodentia",
       "Primates",
       "Cétacés"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610714050385-eec2009e935a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Pourquoi les fourmis champignonnistes, ou fourmis coupe-feuilles, cultivent-elles des champignons ?",
@@ -150,7 +166,8 @@
       "Pour construire leurs nids",
       "Pour fabriquer des antibiotiques",
       "Pour se camoufler"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1712330139932-148053efc401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel animal possède la durée de vie la plus longue parmi les vertébrés connus ?",
@@ -159,7 +176,8 @@
       "Tortue géante des Galápagos",
       "Baleine boréale",
       "Éléphant d'Asie"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1640886907876-33506d50a4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Le Pika d'Amérique, un petit mammifère, vit principalement dans quel environnement ?",
@@ -168,7 +186,8 @@
       "Plaines inondables",
       "Forêts tropicales humides",
       "Toundra"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1668701649406-83c46add1b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le régime alimentaire principal de l'oryctérope, un mammifère africain ?",
@@ -177,7 +196,8 @@
       "Fruits et baies",
       "Petits rongeurs",
       "Herbes et racines"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1658004354495-2877ace1c158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Les oiseaux sont des animaux appartenant à la classe des...",
@@ -186,7 +206,8 @@
       "Reptilia",
       "Mammalia",
       "Amphibia"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1593923428221-c59c39b35581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel phénomène est illustré par l'attirance des papillons de nuit pour la lumière artificielle ?",
@@ -195,7 +216,8 @@
       "Thermotaxie",
       "Chimiotaxie",
       "Thigmotaxie"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1671006185939-27507226c356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le plus grand primate du monde en termes de masse corporelle ?",
@@ -204,7 +226,8 @@
       "Orang-outan de Bornéo",
       "Chimpanzé commun",
       "Gorille des montagnes"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1591089570621-ea86c99a09a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Où trouve-t-on naturellement les pangolins, ces mammifères écailleux ?",
@@ -213,7 +236,8 @@
       "Australie et Nouvelle-Zélande",
       "Amérique du Sud",
       "Europe et Amérique du Nord"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774625010223-16d426362b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la caractéristique unique des monotrèmes (comme l'ornithorynque et l'échidné) ?",
@@ -222,7 +246,8 @@
       "Ils ont une poche marsupiale",
       "Ils sont aveugles",
       "Ils hibernent pendant des mois"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1563644786008-051ff259517c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la principale différence anatomique entre un poisson osseux et un poisson cartilagineux ?",
@@ -231,7 +256,8 @@
       "Leur mode de reproduction",
       "Leur habitat préféré",
       "Leur régime alimentaire"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1598131478675-8d9e4b40be1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Les poissons nettoyeurs adoptent quelle stratégie comportementale pour se nourrir ?",
@@ -240,7 +266,8 @@
       "Ils filtrent l'eau de mer",
       "Ils creusent le fond marin",
       "Ils chassent en groupe"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1679807276408-9f7d7501340f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est l'animal dont l'œil est proportionnellement le plus grand par rapport à son corps ?",
@@ -249,7 +276,8 @@
       "Chouette",
       "Calmar géant",
       "Aigle"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1731994634956-94a42f6b6290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Le Caméléon de Parson, l'un des plus grands caméléons, est endémique de quelle île ?",
@@ -258,7 +286,8 @@
       "Bornéo",
       "Ceylan",
       "Nouvelle-Guinée"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1705889518185-71612a3efa08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le rôle principal de la bosse du dromadaire ?",
@@ -267,6 +296,7 @@
       "Réservoir d'eau",
       "Organe respiratoire",
       "Récepteur sensoriel"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1757858849087-7095a55a0550?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

@@ -6,7 +6,8 @@
       "La Nuit étoilée",
       "La Cène",
       "Les Ménines"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758186130795-48b58cbc44c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel artiste a peint 'La Nuit étoilée' avec des tourbillons bleus et jaunes ?",
@@ -15,7 +16,8 @@
       "Claude Monet",
       "Pablo Picasso",
       "Salvador Dalí"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762766768566-8a709b129fc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel célèbre musée parisien abrite 'La Joconde' ?",
@@ -24,7 +26,8 @@
       "Le musée d'Orsay",
       "Le Centre Pompidou",
       "Le British Museum"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1713183236695-e62346194863?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mouvement artistique est caractérisé par des touches de couleur vives et des scènes de la vie quotidienne en plein air ?",
@@ -33,7 +36,8 @@
       "Le Cubisme",
       "Le Surréalisme",
       "Le Baroque"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758380388480-6f329811c09b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel sculpteur français est célèbre pour son œuvre 'Le Penseur' ?",
@@ -42,7 +46,8 @@
       "Michel-Ange",
       "Donatello",
       "Constantin Brâncuși"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1621094130265-7a8f96ca3fb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3MTEyOTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle structure architecturale parisienne a été construite pour l'Exposition Universelle de 1889 ?",
@@ -51,7 +56,8 @@
       "L'Arc de Triomphe",
       "Notre-Dame de Paris",
       "Le Sacré-Cœur"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775598178913-0ca79bcae616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel peintre est le co-fondateur du mouvement artistique appelé le Cubisme ?",
@@ -60,7 +66,8 @@
       "Andy Warhol",
       "Gustav Klimt",
       "Jackson Pollock"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1677427410535-6175fe615d99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel artiste de la Renaissance est connu pour avoir peint le plafond de la Chapelle Sixtine ?",
@@ -69,7 +76,8 @@
       "Raphaël",
       "Titien",
       "Sandro Botticelli"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1654120547425-ee909f906ea2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel tableau d'Eugène Delacroix symbolise la Révolution de Juillet 1830 en France ?",
@@ -78,7 +86,8 @@
       "Le Radeau de la Méduse",
       "La Dentellière",
       "Les Moissonneurs"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602019768076-56d5095faa2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3MTEyOTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel amphithéâtre antique, situé à Rome, était le lieu de combats de gladiateurs ?",
@@ -87,7 +96,8 @@
       "Le Parthénon",
       "L'Acropole",
       "Le Panthéon"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1636307268087-82fea49c541e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3MTEyOTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mouvement artistique des années 1950-60 utilise des images de la culture populaire et de la publicité ?",
@@ -96,7 +106,8 @@
       "L'Expressionnisme",
       "Le Futurisme",
       "Le Dadaïsme"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768988799464-0a00ab1e89e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui a peint le célèbre tableau 'La Jeune Fille à la perle', parfois appelé la 'Joconde du Nord' ?",
@@ -105,7 +116,8 @@
       "Rembrandt",
       "Frans Hals",
       "Jan van Eyck"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766289496802-6a8b6977ca55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle artiste mexicaine est célèbre pour ses autoportraits colorés et son style unique ?",
@@ -114,7 +126,8 @@
       "Georgia O'Keeffe",
       "Yayoi Kusama",
       "Tamara de Lempicka"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1559841096-8739e2b7dc57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel style architectural est caractérisé par des arcs brisés, des voûtes d'ogives et des vitraux colorés, comme Notre-Dame de Paris ?",
@@ -123,7 +136,8 @@
       "Le style roman",
       "Le style baroque",
       "Le style classique"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1597489420377-e23d4a080346?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3MTEyOTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel peintre espagnol est connu pour ses montres molles et son implication dans le mouvement surréaliste ?",
@@ -132,7 +146,8 @@
       "Joan Miró",
       "René Magritte",
       "Max Ernst"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610589672715-28289f2165d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3MTEyOTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "'Le Penseur' est une sculpture emblématique de quel artiste ?",
@@ -141,7 +156,8 @@
       "Donatello",
       "Constantin Brâncuși",
       "Henry Moore"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1772987020530-4ceac482c95a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3MTEyOTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel peintre norvégien est l'auteur du célèbre tableau expressionniste 'Le Cri' ?",
@@ -150,7 +166,8 @@
       "Gustav Klimt",
       "Egon Schiele",
       "Franz Marc"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1623446488855-cffadd8075ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3MTEyOTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel musée de New York est célèbre pour sa collection d'art moderne et contemporain ?",
@@ -159,7 +176,8 @@
       "Le Metropolitan Museum of Art",
       "Le Guggenheim Museum",
       "Le Whitney Museum"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635172562604-3ba8826afc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel chef-d'œuvre de Léonard de Vinci représente le dernier repas de Jésus avec ses disciples ?",
@@ -168,7 +186,8 @@
       "La Joconde",
       "La Naissance de Vénus",
       "Le Jardin des délices"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1759846779524-6042d32d487d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle célèbre sculpture antique sans bras est exposée au musée du Louvre ?",
@@ -177,7 +196,8 @@
       "La Victoire de Samothrace",
       "Le David de Michel-Ange",
       "Le Discobole"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768982417072-34a75ca5d6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du mouvement artistique où les images sont créées à partir de petits points de couleur juxtaposés ?",
@@ -186,7 +206,8 @@
       "Le Fauvisme",
       "Le Symbolisme",
       "Le Réalisme"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1606819717115-9159c900370b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3MTEyOTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel peintre impressionniste français est célèbre pour ses scènes de danse et ses portraits féminins, comme 'Le Déjeuner des canotiers' ?",
@@ -195,7 +216,8 @@
       "Edgar Degas",
       "Camille Pissarro",
       "Alfred Sisley"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1621760681857-215258afbbee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mausolée indien de marbre blanc est considéré comme l'un des plus beaux exemples de l'architecture moghole ?",
@@ -204,7 +226,8 @@
       "Le Palais du Potala",
       "Le Temple d'Or",
       "La Grande Muraille"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1643105123699-371e51d0d0d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel type d'art ne représente pas des objets ou des figures de la réalité observable ?",
@@ -213,7 +236,8 @@
       "L'art figuratif",
       "L'art réaliste",
       "L'art hyperréaliste"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1639756075000-45ca63e978fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui est l'artiste derrière la célèbre peinture de la Renaissance 'La Naissance de Vénus' ?",
@@ -222,7 +246,8 @@
       "Andrea Mantegna",
       "Paolo Uccello",
       "Giovanni Bellini"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773828044180-961501778fec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel musée à Bilbao est célèbre pour son architecture futuriste en titane, conçue par Frank Gehry ?",
@@ -231,7 +256,8 @@
       "Le musée du Prado",
       "Le musée Reina Sofía",
       "Le Palais de la Musique Catalane"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1573512168318-97f8b3daecc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle statue colossale en marbre de Michel-Ange représente le héros biblique David ?",
@@ -240,7 +266,8 @@
       "Moïse",
       "La Pietà",
       "Persée"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773474352672-452579bdfe40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3MTEyOTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel terme désigne l'art créé dans des espaces publics, souvent de manière illégale, comme les graffitis et les fresques murales ?",
@@ -249,7 +276,8 @@
       "L'art conceptuel",
       "L'art cinétique",
       "L'art numérique"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773474200110-c69c3accf229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel tableau monumental de Picasso dénonce les horreurs de la guerre civile espagnole ?",
@@ -258,7 +286,8 @@
       "Les Demoiselles d'Avignon",
       "La Vie",
       "Le Rêve"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763772426662-bbb5045392d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelles structures monumentales de l'Égypte antique servaient de tombeaux aux pharaons ?",
@@ -267,6 +296,7 @@
       "Les temples d'Abou Simbel",
       "Les mastabas",
       "Les obélisques de Louxor"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1599140427277-7cbcb58180a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

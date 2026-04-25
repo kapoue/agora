@@ -1,17 +1,14 @@
 package com.kapoue.agora.ui.screens.about
 
 import androidx.compose.foundation.background
-import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.ArrowBack
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
+import androidx.compose.foundation.layout.safeDrawing
+import androidx.compose.foundation.layout.windowInsetsPadding
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -21,6 +18,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.kapoue.agora.BuildConfig
 import com.kapoue.agora.ui.theme.AgoraBackground
 import com.kapoue.agora.ui.theme.AgoraGold
 import com.kapoue.agora.ui.theme.AgoraGoldLight
@@ -32,30 +30,15 @@ import com.kapoue.agora.ui.theme.LatoFamily
 fun AboutScreen(
     onBackClick: () -> Unit
 ) {
-    Box(
+    Column(
         modifier = Modifier
             .fillMaxSize()
             .background(AgoraBackground)
+            .windowInsetsPadding(WindowInsets.safeDrawing)
+            .padding(horizontal = 32.dp),
+        horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        // Bouton retour
-        IconButton(
-            onClick = onBackClick,
-            modifier = Modifier.padding(8.dp)
-        ) {
-            Icon(
-                imageVector = Icons.AutoMirrored.Filled.ArrowBack,
-                contentDescription = "Retour",
-                tint = AgoraStone
-            )
-        }
-
-        Column(
-            modifier = Modifier
-                .fillMaxSize()
-                .padding(horizontal = 32.dp),
-            horizontalAlignment = Alignment.CenterHorizontally
-        ) {
-            Spacer(modifier = Modifier.height(80.dp))
+        Spacer(modifier = Modifier.height(80.dp))
 
             Text(
                 text = "AGORA",
@@ -81,7 +64,7 @@ fun AboutScreen(
             Spacer(modifier = Modifier.height(48.dp))
 
             Text(
-                text = "Version 1.0.0",
+                text = "Version ${BuildConfig.VERSION_NAME}",
                 fontFamily = LatoFamily,
                 fontWeight = FontWeight.Bold,
                 fontSize = 14.sp,
@@ -139,6 +122,5 @@ fun AboutScreen(
                 color = AgoraStone,
                 textAlign = TextAlign.Center
             )
-        }
     }
 }

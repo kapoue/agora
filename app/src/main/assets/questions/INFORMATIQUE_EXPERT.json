@@ -6,7 +6,8 @@
       "John von Neumann",
       "Alan Turing",
       "Norbert Wiener"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258343-cdf1306baa2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En Haskell, quel est l'objectif principal d'une 'type class' ?",
@@ -15,7 +16,8 @@
       "Permettre l'héritage de comportement entre types concrets",
       "Garantir l'immuabilité des structures de données",
       "Gérer la concurrence et le parallélisme de manière sûre"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1626362814904-d27009a10da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le port UDP par défaut utilisé pour les requêtes DNS traditionnelles ?",
@@ -24,7 +26,8 @@
       "80",
       "443",
       "23"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle innovation majeure est généralement associée au système informatique Xerox Alto de 1973 ?",
@@ -33,7 +36,8 @@
       "L'introduction du premier microprocesseur commercial",
       "Le développement du premier système d'exploitation multitâche",
       "La création du premier réseau local Ethernet"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258429-b3c7634a764d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce que le 'Continuation-Passing Style' (CPS) en programmation fonctionnelle ?",
@@ -42,7 +46,8 @@
       "Un style de programmation où les boucles sont remplacées par des récursions terminales",
       "Une méthode pour passer des arguments à travers des fermetures",
       "Une approche pour sérialiser l'état d'un programme pour la persistance"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle était la caractéristique la plus notable du Z3 de Konrad Zuse, achevé en 1941 ?",
@@ -51,7 +56,8 @@
       "Il utilisait des tubes à vide pour le calcul",
       "Il implémentait une architecture de von Neumann",
       "Il était le premier ordinateur à être vendu commercialement"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774620396033-18782cda8242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle entreprise a développé le premier microprocesseur commercial, l'Intel 4004 ?",
@@ -60,7 +66,8 @@
       "IBM",
       "Texas Instruments",
       "Fairchild Semiconductor"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258239-d3b5c95019af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En développement web, qu'est-ce qu'un 'polyfill' ?",
@@ -69,7 +76,8 @@
       "Une technique d'optimisation pour réduire la taille des images",
       "Un type de balise HTML pour l'intégration de contenu externe",
       "Un mécanisme de sécurité pour prévenir les attaques XSS"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1581472723648-909f4851d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel langage de programmation est réputé pour son puissant système de macros et son homoiconicité ?",
@@ -78,7 +86,8 @@
       "C++",
       "Python",
       "Java"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258311-8da2b4233921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel projet majeur de système d'exploitation Multics a-t-il directement influencé ?",
@@ -87,7 +96,8 @@
       "MS-DOS",
       "VMS",
       "CP/M"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258557-515962e11f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est l'objectif principal de DNSSEC (Domain Name System Security Extensions) ?",
@@ -96,7 +106,8 @@
       "Chiffrer le trafic DNS entre le client et le serveur",
       "Accélérer la résolution DNS pour les domaines sécurisés",
       "Bloquer les requêtes DNS malveillantes"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En programmation orientée objet, que signifie le 'Liskov Substitution Principle' (LSP) ?",
@@ -105,7 +116,8 @@
       "Les classes ne devraient avoir qu'une seule raison de changer",
       "Les modules de haut niveau ne devraient pas dépendre des modules de bas niveau",
       "Les interfaces devraient être petites et spécifiques au client"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle organisation a initialement développé la norme Ethernet ?",
@@ -114,7 +126,8 @@
       "Bell Labs",
       "IBM",
       "ARPA"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776521796613-564c9f7d02e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "À quoi sert principalement le concept RAII (Resource Acquisition Is Initialization) en C++ ?",
@@ -123,7 +136,8 @@
       "Optimiser la récursivité terminale",
       "Assurer l'atomicité des opérations multithreadées",
       "Implémenter le polymorphisme à l'exécution"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1604591259403-81d6c9cf87d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui a proposé le concept du World Wide Web au CERN en mars 1989 ?",
@@ -132,7 +146,8 @@
       "Robert Kahn",
       "Vinton Cerf",
       "Marc Andreessen"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258449-44718bd82b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel algorithme est célèbre pour avoir été le premier à permettre l'échange de clés secrètes sur un canal non sécurisé ?",
@@ -141,7 +156,8 @@
       "RSA",
       "AES",
       "Merkle-Hellman"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618477371303-b2a56f422d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle acquisition majeure de Facebook en 2012 a consolidé sa position dans le partage de photos mobiles ?",
@@ -150,7 +166,8 @@
       "WhatsApp",
       "Oculus VR",
       "Onavo"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258844-b31a923568b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans les propriétés ACID des transactions de base de données, que représente le 'C' ?",
@@ -159,7 +176,8 @@
       "Concurrency (Concurrence)",
       "Commit (Validation)",
       "Caching (Mise en cache)"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1759661881353-5b9cc55e1cf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel était le nom de l'ordinateur IBM qui a battu Garry Kasparov aux échecs en 1997 ?",
@@ -168,7 +186,8 @@
       "Watson",
       "AlphaGo",
       "HAL 9000"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258492-7c006595375a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la fonction principale du protocole BGP (Border Gateway Protocol) ?",
@@ -177,7 +196,8 @@
       "Gérer l'allocation dynamique d'adresses IP",
       "Chiffrer le trafic entre routeurs",
       "Authentifier les utilisateurs sur les réseaux étendus"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1532522953890-ccc87dfeb0b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la distinction principale entre un mutex et un sémaphore ?",
@@ -186,7 +206,8 @@
       "Un mutex est un verrou de lecture, un sémaphore est un verrou d'écriture",
       "Les sémaphores sont spécifiques aux threads, les mutex aux processus",
       "Un mutex est une primitive de synchronisation matérielle, un sémaphore est logicielle"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258482-c45010ae3528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui est généralement crédité du développement du premier compilateur de langage de programmation (le système A-0) ?",
@@ -195,7 +216,8 @@
       "John Backus",
       "Niklaus Wirth",
       "Dennis Ritchie"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1707927438677-592d30e1262a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel géant de la technologie a été co-fondé par Gordon Moore et Robert Noyce ?",
@@ -204,7 +226,8 @@
       "Microsoft",
       "Apple",
       "Hewlett-Packard"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "En programmation fonctionnelle, quel est le rôle d'une 'monade' pour la gestion des effets de bord ?",
@@ -213,7 +236,8 @@
       "Permettre l'accès direct à la mémoire pour des performances optimales",
       "Forcer la pureté des fonctions en interdisant les effets de bord",
       "Une structure de données pour la manipulation d'arbres binaires"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1584949091708-0a21d38ab8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce qu'une attaque de type 'man-in-the-browser' cible principalement ?",
@@ -222,7 +246,8 @@
       "Le système d'exploitation de l'utilisateur pour le rendre inutilisable",
       "Les serveurs DNS pour rediriger le trafic web",
       "Les routeurs pour intercepter tout le trafic réseau local"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258314-24ef37bb52e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle a été l'innovation majeure de l'IBM 350, introduit en 1956 ?",
@@ -231,7 +256,8 @@
       "Le premier lecteur de bande magnétique pour ordinateur",
       "La première mémoire à tores magnétiques",
       "Le premier système de stockage optique"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258205-3cbcf3ac56c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "À quoi sert principalement WebAssembly (Wasm) ?",
@@ -240,7 +266,8 @@
       "Développer des interfaces utilisateur réactives en HTML et CSS",
       "Gérer la base de données côté client dans les applications web",
       "Un nouveau protocole de communication en temps réel pour le web"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773349807434-374473797148?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle organisation est responsable de la spécification des standards du World Wide Web ?",
@@ -249,7 +276,8 @@
       "L'Internet Engineering Task Force (IETF)",
       "L'Internet Corporation for Assigned Names and Numbers (ICANN)",
       "L'Institute of Electrical and Electronics Engineers (IEEE)"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1524690217307-5214e9eecf56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce que la 'Software Transactional Memory' (STM) ?",
@@ -258,7 +286,8 @@
       "Une technique pour stocker des objets en mémoire partagée de manière persistante",
       "Un modèle de programmation pour la gestion automatique de la mémoire",
       "Une méthode pour optimiser les accès disque dans les systèmes distribués"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580894896813-652ff5aa8146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel langage de programmation a été initialement nommé 'Oak' avant sa sortie publique ?",
@@ -267,6 +296,7 @@
       "C#",
       "Ruby",
       "Python"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258143-904ea924ac53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

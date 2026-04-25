@@ -60,4 +60,20 @@ class AssetQuestionLoader @Inject constructor(
             .filter { it.length > 3 && it !in stopWords }
         return words.take(4).joinToString(" ")
     }
+
+    fun getFirstImageUrl(theme: Theme): String? {
+        for (difficulty in Difficulty.entries) {
+            val filename = "questions/${theme.name}_${difficulty.name}.json"
+            try {
+                val json = context.assets.open(filename).bufferedReader().use { it.readText() }
+                val type = object : TypeToken<List<AssetQuestionDto>>() {}.type
+                val dtos: List<AssetQuestionDto> = gson.fromJson(json, type)
+                val url = dtos.firstOrNull { it.imageUrl != null }?.imageUrl
+                if (url != null) return url
+            } catch (e: Exception) {
+                continue
+            }
+        }
+        return null
+    }
 }

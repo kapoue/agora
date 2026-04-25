@@ -6,7 +6,8 @@
       "Afficher des images",
       "Écouter de la musique",
       "Imprimer des documents"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3NzExMjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle entreprise est connue pour avoir créé l'iPhone et le système d'exploitation macOS ?",
@@ -15,7 +16,8 @@
       "Microsoft",
       "Google",
       "Samsung"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258226-3e3f67a6577e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du moteur de recherche le plus largement utilisé sur Internet ?",
@@ -24,7 +26,8 @@
       "Bing",
       "Yahoo",
       "DuckDuckGo"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1745789888513-e9b4a2e1be6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce que l'Internet, en termes simples ?",
@@ -33,7 +36,8 @@
       "Un logiciel de traitement de texte",
       "Un type de jeu vidéo",
       "Un appareil pour imprimer"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le rôle d'un navigateur web (comme Chrome, Firefox ou Safari) ?",
@@ -42,7 +46,8 @@
       "Envoyer des e-mails",
       "Créer des images",
       "Éditer des vidéos"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610758758876-0680d8c2247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le système d'exploitation le plus courant sur les ordinateurs personnels (PC) ?",
@@ -51,7 +56,8 @@
       "macOS",
       "Linux",
       "Android"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1632251141959-40b21a6c118c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3NzExMjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Que permet principalement une adresse e-mail ?",
@@ -60,7 +66,8 @@
       "De faire des appels vidéo",
       "De naviguer sur Internet",
       "De stocker des photos"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258752-fe55f4ab7267?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Que signifie l'abréviation URL dans le contexte d'une page web ?",
@@ -69,7 +76,8 @@
       "Un langage de programmation",
       "Un type de fichier image",
       "Un protocole de sécurité"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1710306973761-717ec384efd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui est souvent reconnue comme la première personne à avoir écrit un algorithme destiné à être exécuté par une machine ?",
@@ -78,7 +86,8 @@
       "Marie Curie",
       "Grace Hopper",
       "Hedy Lamarr"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258612-0ae7f6eb1422?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce qu'un octet (byte), une unité fondamentale en informatique ?",
@@ -87,7 +96,8 @@
       "Un type de processeur",
       "Un composant d'écran",
       "Un périphérique de stockage"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610758758803-e97eb9837638?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le but principal d'un programme informatique ?",
@@ -96,7 +106,8 @@
       "Ranger les fichiers sur le disque dur",
       "Protéger l'ordinateur des virus",
       "Accélérer la connexion Internet"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1669052700037-db884b37b2d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3NzExMjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est un exemple de langage de programmation visuel et simple, souvent utilisé pour enseigner la programmation aux enfants ?",
@@ -105,7 +116,8 @@
       "C++",
       "Java",
       "PHP"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1651609236271-b7d6f8f52ef6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3NzExMjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce qu'un smartphone ?",
@@ -114,7 +126,8 @@
       "Un type d'ordinateur de bureau",
       "Une imprimante sans fil",
       "Un casque audio intelligent"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1683813479742-4730f91fa3ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du système de documents et d'informations interconnectés via Internet, créé par Tim Berners-Lee ?",
@@ -123,7 +136,8 @@
       "Deep Web",
       "Darknet",
       "Internet Explorer"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1624298696100-a6aae4884881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle entreprise est principalement connue pour le système d'exploitation Android, majoritaire sur les téléphones mobiles ?",
@@ -132,7 +146,8 @@
       "Apple",
       "Microsoft",
       "Samsung"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1638202677704-b74690bb8fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Comment appelle-t-on un petit programme malveillant qui se propage et endommage les ordinateurs ?",
@@ -141,7 +156,8 @@
       "Un pare-feu",
       "Un navigateur",
       "Un moteur de recherche"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258535-fa1066506571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce qu'une 'application' (ou 'app') sur un smartphone ou une tablette ?",
@@ -150,7 +166,8 @@
       "Un composant matériel",
       "Un type de batterie",
       "Un réseau social"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel appareil permet généralement de se connecter à Internet sans fil dans une maison ou un bureau ?",
@@ -159,7 +176,8 @@
       "Une imprimante",
       "Un scanner",
       "Un disque dur externe"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635775017492-1eb935a082a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3NzExMjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Que signifie l'acronyme Wi-Fi ?",
@@ -168,7 +186,8 @@
       "Un type de câble réseau",
       "Un format d'image",
       "Un logiciel de messagerie"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258439-de52f4b4e7f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la fonction principale d'un algorithme ?",
@@ -177,7 +196,8 @@
       "Stocker des informations",
       "Afficher des graphiques 3D",
       "Se connecter à un réseau"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1654375408506-382720d3e05f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3NzExMjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Comment appelle-t-on le stockage de fichiers et de données accessible via Internet, sans être stocké localement sur un appareil ?",
@@ -186,7 +206,8 @@
       "Le disque dur",
       "La carte mémoire",
       "La clé USB"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767817099805-d79e31fb968c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle entreprise est la créatrice de la console de jeux vidéo Xbox ?",
@@ -195,7 +216,8 @@
       "Sony",
       "Nintendo",
       "Apple"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1595623654300-b27329804025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3NzExMjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la fonction principale d'un pare-feu sur un ordinateur ?",
@@ -204,7 +226,8 @@
       "Accélérer le processeur",
       "Augmenter la taille de l'écran",
       "Supprimer les fichiers temporaires"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1715967635831-f5a1f9658880?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Comment appelle-t-on le processus qui consiste à écrire des instructions pour qu'un ordinateur exécute une tâche ?",
@@ -213,7 +236,8 @@
       "La navigation",
       "L'impression",
       "Le traitement de texte"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3NzExMjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce qu'une tablette tactile ?",
@@ -222,7 +246,8 @@
       "Un type de clavier",
       "Un accessoire de smartphone",
       "Une petite télévision"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1544847558-3ccacb31ee7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3NzExMjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce qu'un site web ?",
@@ -231,7 +256,8 @@
       "Un programme antivirus",
       "Un type de processeur",
       "Un système d'exploitation"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1669054626218-f0b57b8ec632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom de l'appareil qui permet de déplacer le curseur et de sélectionner des éléments sur l'écran d'un ordinateur ?",
@@ -240,7 +266,8 @@
       "Le pavé tactile",
       "Le joystick",
       "Le microphone"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761123044903-1671e0edc3f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qu'est-ce qu'un 'logiciel' en informatique ?",
@@ -249,7 +276,8 @@
       "Un composant physique de l'ordinateur",
       "Un type de connexion Internet",
       "Une marque de moniteur"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258445-70fecf4e78af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la principale fonction d'un ordinateur ?",
@@ -258,7 +286,8 @@
       "Produire de l'électricité",
       "Cuisiner des aliments",
       "Fabriquer des objets physiques"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1675495666589-94cdafbcfcc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui a inventé le World Wide Web ?",
@@ -267,6 +296,7 @@
       "Bill Gates",
       "Steve Jobs",
       "Mark Zuckerberg"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580894897591-ff1e18c89183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

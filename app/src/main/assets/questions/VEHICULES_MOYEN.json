@@ -6,7 +6,8 @@
       "Moteur à plat (Boxer)",
       "Moteur en V",
       "Moteur en ligne"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764547167629-2797a6c7a399?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui a réalisé le premier vol transatlantique en solitaire et sans escale en 1927 ?",
@@ -15,7 +16,8 @@
       "Amelia Earhart",
       "Louis Blériot",
       "Howard Hughes"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1721906532944-1aec1f362721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du célèbre navire qui a sombré lors de son voyage inaugural en 1912 après avoir heurté un iceberg ?",
@@ -24,7 +26,8 @@
       "Lusitania",
       "Britannic",
       "Queen Mary"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1683023706435-0b22b35cdf66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel type de train utilise la lévitation magnétique pour se déplacer au-dessus des rails, réduisant ainsi la friction ?",
@@ -33,7 +36,8 @@
       "Train à crémaillère",
       "TGV",
       "Locomotion Diesel"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1770998829229-34387f137605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel équipement de sécurité automobile est conçu pour empêcher les roues de se bloquer lors d'un freinage d'urgence ?",
@@ -42,7 +46,8 @@
       "ESP (Contrôle de stabilité)",
       "Airbag",
       "Régulateur de vitesse"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1663605172031-7c5b8da73fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom donné aux avions dont la sustentation est assurée principalement par un rotor tournant au-dessus du fuselage ?",
@@ -51,7 +56,8 @@
       "Avion de chasse",
       "Hydravion",
       "Planeur"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1729972895978-3c2f16cc2e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom de l'ingénieur allemand souvent considéré comme l'inventeur de la première automobile à moteur à combustion interne en 1886 ?",
@@ -60,7 +66,8 @@
       "Henry Ford",
       "Rudolf Diesel",
       "Gottlieb Daimler"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619413227482-f6f87d3afd56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Comment appelle-t-on un sous-marin propulsé par un réacteur nucléaire, permettant une très longue autonomie en plongée ?",
@@ -69,7 +76,8 @@
       "Bathyscaphe",
       "Navire porte-conteneurs",
       "Frégate"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1537686421314-16f7daf5ff77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle nation a été la première à développer un réseau ferroviaire à grande vitesse avec ses trains \"Shinkansen\" ?",
@@ -78,7 +86,8 @@
       "France",
       "Allemagne",
       "États-Unis"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616454992568-092fe073dd98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel constructeur automobile est célèbre pour ses modèles 911 et a son siège social à Stuttgart, en Allemagne ?",
@@ -87,7 +96,8 @@
       "Ferrari",
       "Lamborghini",
       "Aston Martin"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616868546921-d32b0a935fdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel avion commercial supersonique a été retiré du service en 2003, marquant la fin de l'ère des vols commerciaux ultra-rapides ?",
@@ -96,7 +106,8 @@
       "Tupolev Tu-144",
       "Boeing 747",
       "Airbus A380"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1746326653464-a94fdef01cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle partie d'un navire est spécifiquement conçue pour stabiliser la coque et éviter le roulis excessif ?",
@@ -105,7 +116,8 @@
       "Mât",
       "Gouvernail",
       "Hélice"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1721910253300-b6333ee32e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel pays détient le record du monde de vitesse sur rail pour un train commercial sur roues, atteint par le TGV ?",
@@ -114,7 +126,8 @@
       "Japon",
       "Chine",
       "Allemagne"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1738810477903-87c840fa3205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel ingénieur allemand est l'inventeur du moteur à allumage par compression qui porte son nom ?",
@@ -123,7 +136,8 @@
       "Nikolaus Otto",
       "James Watt",
       "Ettore Bugatti"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616869483385-71f1ad7b2345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du carburant composé principalement de méthane, de plus en plus utilisé comme alternative à l'essence ou au diesel ?",
@@ -132,7 +146,8 @@
       "GPL (Gaz de pétrole liquéfié)",
       "Éthanol",
       "Hydrogène"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616620418290-81a162f05e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Comment s'appelle la force aérodynamique qui s'oppose à l'avancement d'un avion et qui doit être compensée par la poussée ?",
@@ -141,7 +156,8 @@
       "Portance",
       "Poussée",
       "Gravité"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1583328883101-db96b1501154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel instrument de navigation est utilisé pour mesurer la profondeur de l'eau sous la quille d'un navire ?",
@@ -150,7 +166,8 @@
       "Compas",
       "Sextant",
       "Radar"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1771444152231-d06d8356dc15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel était le type de locomotive le plus répandu avant l'avènement des moteurs diesel et électriques ?",
@@ -159,7 +176,8 @@
       "Locotracteur",
       "Rame automotrice",
       "Tramway"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1722026744596-f3864c97dac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la course automobile la plus ancienne encore disputée, célèbre pour ses 24 heures d'endurance ?",
@@ -168,7 +186,8 @@
       "Le Grand Prix de Monaco",
       "L'Indianapolis 500",
       "Le Rallye Dakar"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1679587827468-416f729d33d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle partie de l'aile d'un avion est utilisée pour augmenter la portance à basse vitesse, notamment au décollage et à l'atterrissage ?",
@@ -177,7 +196,8 @@
       "Aileron",
       "Spolier",
       "Dérive"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616454992655-92cbf292f9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel célèbre paquebot britannique fut le premier à traverser l'Atlantique en moins de dix jours en 1838 ?",
@@ -186,7 +206,8 @@
       "Queen Mary 2",
       "USS Enterprise",
       "SS Savannah"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1721497043807-637fc7d8e3a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Comment appelle-t-on le système qui permet de contrôler la circulation des trains et d'assurer leur espacement en toute sécurité ?",
@@ -195,7 +216,8 @@
       "Caténaire",
       "Ballast",
       "Rail unique"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616869483210-e9a9babbd164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel constructeur automobile est généralement crédité d'avoir lancé la première voiture de série hybride essence-électrique à grande échelle ?",
@@ -204,7 +226,8 @@
       "Honda",
       "Ford",
       "Tesla"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616869378926-447501e83b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est l'avion le plus rapide du monde jamais construit, capable d'atteindre Mach 3+ ?",
@@ -213,7 +236,8 @@
       "F-22 Raptor",
       "Mig-25 Foxbat",
       "X-15"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1577947691826-a6e4548d1cc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la célèbre régate internationale où s'affrontent des voiliers monocoques ou multicoques, souvent pour la plus ancienne coupe sportive ?",
@@ -222,7 +246,8 @@
       "Vendée Globe",
       "Route du Rhum",
       "Fastnet Race"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1617564992562-73a8ea602be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel pays est le berceau du TGV (Train à Grande Vitesse), dont la première ligne commerciale fut ouverte en 1981 ?",
@@ -231,7 +256,8 @@
       "Allemagne",
       "Italie",
       "Royaume-Uni"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1739544201128-20d0bcd7a62e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle pièce d'un moteur transmet le mouvement de rotation des pistons au vilebrequin ?",
@@ -240,7 +266,8 @@
       "Arbre à cames",
       "Soupape",
       "Bougie d'allumage"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619672161512-5253ed90b797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel principe physique explique comment l'air circule plus vite au-dessus de l'aile qu'en dessous, créant ainsi une force de portance ?",
@@ -249,7 +276,8 @@
       "Loi de Newton",
       "Loi d'Archimède",
       "Effet Venturi"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616869378946-c713c56f884b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Comment appelle-t-on la partie avant d'un navire, qui fend l'eau ?",
@@ -258,7 +286,8 @@
       "Poupe",
       "Tribord",
       "Bâbord"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1721910261409-829fde958b43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est l'invention majeure de Nikolaus Otto qui a révolutionné les transports et les industries au 19ème siècle ?",
@@ -267,6 +296,7 @@
       "La locomotive à vapeur",
       "Le moteur électrique",
       "La turbine à gaz"
-    ]
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1683273206605-0dcf50b89b6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]
