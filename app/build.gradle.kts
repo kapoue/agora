@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.kapoue.agora"
+        applicationId = "fr.kapoue.agora"
         minSdk = 26
         targetSdk = 35
         versionCode = 5
