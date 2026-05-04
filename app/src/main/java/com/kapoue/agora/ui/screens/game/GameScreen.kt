@@ -168,8 +168,14 @@ fun GameScreen(
                         fontStyle = FontStyle.Italic
                     )
                     if (uiState.totalInSession > 0) {
+                        val errorMessage = when {
+                            uiState.errorCount == 0 -> "Parfait ! Aucune erreur, impressionnant."
+                            uiState.errorCount <= 3 -> "${uiState.errorCount} erreur${if (uiState.errorCount > 1) "s" else ""} seulement, c'est très bien !"
+                            uiState.errorCount <= 6 -> "${uiState.errorCount} erreurs, pas trop mal, dans la moyenne."
+                            else -> "${uiState.errorCount} erreurs, il y a des lacunes à combler, mais c'est pour ça qu'on est là !"
+                        }
                         Text(
-                            text = "Premier essai : ${uiState.firstTryCount} / ${uiState.totalInSession}",
+                            text = errorMessage,
                             fontFamily = LatoFamily,
                             fontSize = 14.sp,
                             color = AgoraStone,

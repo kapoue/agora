@@ -4,11 +4,11 @@ Application Android de quiz culturel en français, développée en Kotlin avec J
 
 ## Fonctionnalités
 
-- **6 thèmes** : Histoire, Géographie, Sciences, Art & Littérature, Sport, Cinéma & Musique
-- **3 niveaux de difficulté** par thème (Facile, Moyen, Difficile)
+- **13 thèmes** : Histoire, Géographie, Sciences, Cinéma, Musique, Sport, Littérature, Informatique, Art, Mathématiques, Mythologie, Animaux, Véhicules
+- **3 niveaux de difficulté** par thème (Débutant, Moyen, Expert)
 - **Progression sauvegardée** : reprend là où on s'est arrêté
 - **Système de lots/séries** : compteur de parties complètes par thème, badge visible dès 3 séries
-- **Statistiques de session** : taux de réponses du premier essai affiché sur l'écran de félicitations
+- **Statistiques de session** : nombre d'erreurs avec message bienveillant affiché sur l'écran de félicitations
 - **Images illustratives** associées à chaque question
 - **Rejouer** : une fois les 3 difficultés complétées, réinitialise le thème pour une nouvelle série
 

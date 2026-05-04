@@ -36,7 +36,8 @@ data class GameUiState(
     val difficulty: Difficulty = Difficulty.DEBUTANT,
     val error: String? = null,
     val firstTryCount: Int = 0,
-    val totalInSession: Int = 0
+    val totalInSession: Int = 0,
+    val errorCount: Int = 0
 )
 
 @HiltViewModel
@@ -61,12 +62,14 @@ class GameViewModel @Inject constructor(
 
     private val sessionAttemptsMap: MutableMap<Long, Int> = mutableMapOf()
     private var sessionFirstTryCount: Int = 0
+    private var sessionErrorCount: Int = 0
 
     fun initialize(theme: Theme, difficulty: Difficulty) {
         lastTheme = theme
         lastDifficulty = difficulty
         sessionAttemptsMap.clear()
         sessionFirstTryCount = 0
+        sessionErrorCount = 0
         _uiState.value = GameUiState(isLoading = true, theme = theme, difficulty = difficulty)
         viewModelScope.launch {
             val progress = getProgressUseCase(theme, difficulty)
@@ -143,6 +146,7 @@ class GameViewModel @Inject constructor(
         val tryCount = (sessionAttemptsMap[question.id] ?: 0) + 1
         sessionAttemptsMap[question.id] = tryCount
         if (isCorrect && tryCount == 1) sessionFirstTryCount++
+        if (!isCorrect) sessionErrorCount++
 
         _uiState.value = state.copy(
             answersWithState = state.answersWithState.map { (ans, _) ->
@@ -185,7 +189,8 @@ class GameViewModel @Inject constructor(
                     allDifficultiesCompleted = allDone,
                     currentQuestion = null,
                     showNext = false,
-                    firstTryCount = sessionFirstTryCount
+                    firstTryCount = sessionFirstTryCount,
+                    errorCount = sessionErrorCount
                 )
             }
             return
