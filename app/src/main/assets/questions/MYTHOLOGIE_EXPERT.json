@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel est le nom de la nymphe chassée par Pan, qui se transforma en roseau, dont les tiges servirent à fabriquer un instrument de musique ?",
-    "correct_answer": "Syrinx",
+    "question": "Quel dieu grec était également vénéré sous l'épithète de 'Smintheus', protecteur contre les souris, notamment dans la région de la Troade ?",
+    "correct_answer": "Apollon",
     "incorrect_answers": [
-      "Daphné",
-      "Écho",
-      "Salmacis"
+      "Zeus",
+      "Hermès",
+      "Poséidon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1586678626209-c4b2ccf7190b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1733812313524-99c8946bdc82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel était le nom du chien à deux têtes qui gardait le troupeau de Géryon, défié par Héraclès lors de ses Douze Travaux ?",
-    "correct_answer": "Orthos",
+    "question": "Quel culte romain antique, célébrant le rôle de Jupiter en tant que protecteur de la ligue latine, fut l'une des plus anciennes fêtes religieuses romaines ?",
+    "correct_answer": "Les Féries latines",
     "incorrect_answers": [
-      "Cerbère",
-      "Ladon",
-      "Laelaps"
+      "Les Saturnales",
+      "Les Lupercales",
+      "Les Floralia"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1704120725155-dfbae9db070c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1771533773906-301d5967451f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qu'était censé être l'égide, le célèbre bouclier ou manteau de Zeus et Athéna, à l'origine selon certaines versions du mythe grec ?",
-    "correct_answer": "La peau de la chèvre Amalthée",
-    "incorrect_answers": [
-      "Un bouclier en bronze poli",
-      "Les écailles d'un dragon marin",
-      "La toison d'un bélier céleste"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602894556839-4abda2537d0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Parmi les Muses grecques, laquelle patronnait spécifiquement l'astronomie et la poésie didactique, souvent représentée avec un globe ?",
-    "correct_answer": "Uranie",
-    "incorrect_answers": [
-      "Calliope",
-      "Euterpe",
-      "Melpomène"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1752865223508-a5a04ea69d83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel héros grec, célèbre pour avoir chevauché Pégase et terrassé la Chimère, n'était pas un demi-dieu mais un simple mortel ?",
-    "correct_answer": "Bellérophon",
-    "incorrect_answers": [
-      "Persée",
-      "Thésée",
-      "Jason"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1662567819554-63b0ca4f0f84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle princesse ou nymphe, enlevée par Héraclès et perdue aux Enfers, fut la seule dont le héros s'éprit véritablement selon certaines versions ?",
-    "correct_answer": "Iole",
-    "incorrect_answers": [
-      "Déjanire",
-      "Mégara",
-      "Omphale"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1680939979260-852e8dc38c50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel était le nom du dragon à cent têtes qui gardait les pommes d'or dans le jardin des Hespérides, avant d'être vaincu par Héraclès ?",
-    "correct_answer": "Ladon",
-    "incorrect_answers": [
-      "Némée",
-      "Typhon",
-      "Python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1747565884212-dc617f3c8506?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dieu romain était spécifiquement associé aux limites, aux bornes et à la propriété foncière, sans équivalent direct chez les Grecs ?",
-    "correct_answer": "Terminus",
-    "incorrect_answers": [
-      "Janus",
-      "Vertumne",
-      "Quirinus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1598011785876-98a2d014abb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel ancien dieu romain de la fertilité et des vergers se transforma en vieille femme pour séduire la nymphe Pomone, qu'il aimait ?",
-    "correct_answer": "Vertumne",
-    "incorrect_answers": [
-      "Priape",
-      "Faunus",
-      "Sylvanus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771533773906-301d5967451f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle déesse romaine était la personnification de la bonne foi, de l'honnêteté et de la confiance publique, souvent représentée avec une colombe ?",
-    "correct_answer": "Fides",
-    "incorrect_answers": [
-      "Concordia",
-      "Honos",
-      "Virtus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759566793528-8ca5af924874?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du navire, entièrement fabriqué avec les ongles des morts, qui prendra la mer au Ragnarök selon la mythologie nordique ?",
+    "question": "Quel est le nom du bateau, entièrement fait avec les ongles des morts, qui transportera les géants et les morts pour le Ragnarök ?",
     "correct_answer": "Naglfar",
     "incorrect_answers": [
-      "Skidbladnir",
-      "Hringhorni",
-      "Draken"
+      "Skíðblaðnir",
+      "Draupnir",
+      "Hringhorni"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1739523914981-23ed78e0204b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1752865223508-a5a04ea69d83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du royaume où résidaient les géants de glace (Jötnar) avant la création du monde, au-delà des mers orientales ?",
-    "correct_answer": "Jötunheimr",
+    "question": "Quel dieu égyptien, représenté avec une tête de chacal, était spécifiquement chargé de garder l'estomac du défunt dans les vases canopes ?",
+    "correct_answer": "Douamoutef",
     "incorrect_answers": [
-      "Muspellheim",
-      "Svartálfaheimr",
-      "Niflheimr"
+      "Hâpi",
+      "Imset",
+      "Kébehsénouf"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1733812313524-99c8946bdc82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1655962835503-0e5ccedfaea5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui sont les trois Nornes principales qui tissent le destin des hommes et des dieux près du puits d'Urd, au pied d'Yggdrasil ?",
-    "correct_answer": "Urd, Verdandi, Skuld",
+    "question": "Quel héros grec, avant de devenir l'un des Argonautes, fut réputé pour avoir tué le sanglier de Calydon et participé aux jeux funèbres de Pélias ?",
+    "correct_answer": "Méléagre",
     "incorrect_answers": [
-      "Skadi, Idunn, Gefjon",
-      "Eir, Fulla, Sjöfn",
-      "Saga, Rán, Syn"
+      "Bellérophon",
+      "Thésée",
+      "Persée"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1720378221466-c05085e7d8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1747565884212-dc617f3c8506?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel dieu Vanir fut envoyé comme otage aux Ases à la suite de la guerre entre les deux groupes divins, et devint un dieu marin ?",
-    "correct_answer": "Njörd",
-    "incorrect_answers": [
-      "Freyr",
-      "Heimdall",
-      "Kvasir"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758915464796-ad16005f368a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle déesse égyptienne était la patronne des scribes, des bibliothèques et des annales, souvent représentée avec une étoile à sept branches ?",
-    "correct_answer": "Seshat",
-    "incorrect_answers": [
-      "Maât",
-      "Isis",
-      "Hathor"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1576582370610-734b9bb5df61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'instrument de musique sacré, un hochet métallique, utilisé par la déesse Hathor dans ses rituels apotropaïques ?",
-    "correct_answer": "Sistre",
-    "incorrect_answers": [
-      "Ménat",
-      "Harpe",
-      "Luth"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1722238470396-5f73502b2675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du démon à tête de crocodile, corps de lion et arrière-train d'hippopotame qui dévorait les cœurs impurs des défunts en Égypte ?",
-    "correct_answer": "Ammit",
-    "incorrect_answers": [
-      "Apophis",
-      "Seth",
-      "Sobek"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1644159406175-3b91e94c7f7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dieu égyptien, souvent représenté avec une tête de faucon surmontée d'un disque solaire, était vénéré comme dieu de la guerre et des forges à Thèbes ?",
-    "correct_answer": "Montou",
-    "incorrect_answers": [
-      "Horus",
-      "Râ",
-      "Thot"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1679681843163-d89518c8d7aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle partie du corps de Dionysos fut la seule à être sauvée par Athéna après qu'il fut démembré et dévoré par les Titans, permettant sa renaissance ?",
-    "correct_answer": "Son cœur",
-    "incorrect_answers": [
-      "Son cerveau",
-      "Ses mains",
-      "Ses yeux"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1709739106510-9974f5018200?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans l'épopée de Gilgamesh, quel est le nom du sauvage, créé par les dieux pour défier le roi d'Uruk, qui devint son meilleur ami ?",
-    "correct_answer": "Enkidu",
-    "incorrect_answers": [
-      "Utnapishtim",
-      "Humbaba",
-      "Lugalbanda"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1717539768313-8f65eb7ae46d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel nom fut donné à la race de géants dotés de cent bras et cinquante têtes, nés d'Ouranos et Gaïa, et alliés de Zeus ?",
-    "correct_answer": "Les Hécatonchires",
-    "incorrect_answers": [
-      "Les Cyclopes",
-      "Les Titans",
-      "Les Géants"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1646763143213-15d178871b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans la mythologie inca, quel est le nom du dieu créateur du monde et de la civilisation, souvent représenté comme un vieil homme barbu ?",
-    "correct_answer": "Viracocha",
-    "incorrect_answers": [
-      "Inti",
-      "Pachacamac",
-      "Manco Cápac"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1704120724109-ac239f4f6d79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la déesse sumérienne des Enfers, souveraine du Kur, et sœur aînée d'Inanna, souvent en conflit avec elle ?",
-    "correct_answer": "Ereshkigal",
-    "incorrect_answers": [
-      "Nammu",
-      "Tiamat",
-      "Ninkasi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1604600680192-07c9537c7771?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Parmi les Sirènes, quelle est celle qui, selon certaines légendes, se jeta à la mer et fut transformée en rocher près de Naples après l'échec d'Ulysse ?",
-    "correct_answer": "Parthénope",
-    "incorrect_answers": [
-      "Leucosie",
-      "Ligée",
-      "Thélxiope"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1566927345266-10011dfa6b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du dieu hittite de la tempête, figure centrale du panthéon, souvent représenté sur un char tiré par des taureaux ?",
-    "correct_answer": "Teshub",
-    "incorrect_answers": [
-      "Kumarbi",
-      "Hattušaš",
-      "Telepinu"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1655962835503-0e5ccedfaea5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle créature mythologique était dotée de trois têtes distinctes (lion, chèvre, serpent) et d'un corps principalement léonin, terrorisant la Lycie ?",
-    "correct_answer": "La Chimère",
+    "question": "Quelle bête mythique, enfant de Typhon et Échidna, dont la peau était invulnérable, fut la première des douze travaux d'Héraclès ?",
+    "correct_answer": "Le lion de Némée",
     "incorrect_answers": [
       "L'Hydre de Lerne",
-      "Le Cerbère",
-      "Le Sphinx"
+      "Le sanglier d'Érymanthe",
+      "Le taureau de Crète"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1708960199214-e23fdab73d60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1646763143213-15d178871b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle créature mythologique grecque, présente aux portes de Thèbes, possédait un corps de lion, des ailes d'oiseau et un visage de femme ?",
-    "correct_answer": "Le Sphinx",
+    "question": "Quel était le nom du cerf, dont les bois brillent, qui broutait les feuilles de l'Yggdrasil dans la mythologie nordique, et dont les larmes formaient des rivières ?",
+    "correct_answer": "Eikþyrnir",
     "incorrect_answers": [
-      "La Chimère",
-      "La Harpie",
-      "La Gorgone"
+      "Dáinn",
+      "Dvalinn",
+      "Durathrór"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1509317616153-af11a170b128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1739523914981-23ed78e0204b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel était le nom par lequel les Grecs désignaient souvent Hadès, signifiant 'le Riche', en rapport avec les richesses souterraines ?",
-    "correct_answer": "Plouton",
+    "question": "Quel souverain de Thrace, célèbre pour sa cruauté, nourrissait ses juments avec de la chair humaine avant d'être lui-même jeté en pâture à ses propres bêtes par Héraclès ?",
+    "correct_answer": "Diomède",
     "incorrect_answers": [
-      "Érèbe",
-      "Thanatos",
-      "Tartaros"
+      "Busiris",
+      "Laomédon",
+      "Érysichthon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1649776044240-6760e07f4c10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1586678626209-c4b2ccf7190b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel dieu égyptien, avec la tête d'un ibis ou d'un babouin, était le scribe divin qui notait le résultat de la pesée des cœurs lors du jugement des morts ?",
-    "correct_answer": "Thot",
+    "question": "Quelle était la signification principale de l'œil d'Oudjat, souvent représenté dans l'art funéraire égyptien et associé au dieu Horus ?",
+    "correct_answer": "Protection, guérison et intégrité",
     "incorrect_answers": [
-      "Anubis",
-      "Osiris",
-      "Shou"
+      "Fertilité et abondance",
+      "Guerre et destruction",
+      "Sagesse et vérité"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758779529498-f60243cc2819?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1604600680192-07c9537c7771?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'un des deux loups fidèles qui accompagnent toujours Odin, souvent mentionnés ensemble avec Geri ?",
-    "correct_answer": "Freki",
+    "question": "Quelle déesse romaine mineure était la personnification du silence et du secret, souvent représentée avec le doigt sur la bouche ?",
+    "correct_answer": "Angerona",
     "incorrect_answers": [
-      "Garm",
-      "Hati",
-      "Sköll"
+      "Voluptas",
+      "Concordia",
+      "Laverna"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721410038277-e60e368b9c04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3MTEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1722238470396-5f73502b2675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu grec était le père de Tyché, la déesse de la fortune et du destin, selon la tradition la plus courante ?",
+    "correct_answer": "Zeus",
+    "incorrect_answers": [
+      "Hermès",
+      "Poséidon",
+      "Apollon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1662567819554-63b0ca4f0f84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel être primordial fut créé à partir de la glace du Ginnungagap et du feu de Muspellheim, et dont le corps forma le monde ?",
+    "correct_answer": "Ymir",
+    "incorrect_answers": [
+      "Búri",
+      "Bestla",
+      "Audhumla"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1720378221466-c05085e7d8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du fleuve des Lamentations et des pleurs intenses dans les Enfers grecs, où les âmes non enterrées attendaient Charon ?",
+    "correct_answer": "Cocyte",
+    "incorrect_answers": [
+      "Achéron",
+      "Styx",
+      "Phlégéton"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1717539768313-8f65eb7ae46d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel était le nom de l'endroit dans l'au-delà égyptien, un champ de roseaux luxuriant, considéré comme le paradis où les âmes des justes pouvaient vivre éternellement ?",
+    "correct_answer": "Le Champ d'Ialou",
+    "incorrect_answers": [
+      "La Douat",
+      "L'Amenti",
+      "Le Champ des Offrandes"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1566927345266-10011dfa6b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel esprit protecteur du foyer et de la famille, vénéré par les Romains, était souvent représenté sous la forme de statuettes dans les lararia ?",
+    "correct_answer": "Les Lares",
+    "incorrect_answers": [
+      "Les Pénates",
+      "Les Mânes",
+      "Les Génies"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1680939979260-852e8dc38c50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle divinité grecque, fille d'Éris, était la personnification de la Faim insatiable et était associée aux fléaux agricoles ?",
+    "correct_answer": "Limos",
+    "incorrect_answers": [
+      "Algos",
+      "Ponos",
+      "Lethos"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1690513676705-3677c6a5811b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel objet magique, propriété de Freyr, pouvait se replier et tenir dans une petite bourse, et était suffisamment grand pour contenir tous les dieux d'Ásgard ?",
+    "correct_answer": "Skíðblaðnir",
+    "incorrect_answers": [
+      "Mjöllnir",
+      "Gungnir",
+      "Draupnir"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1759566793528-8ca5af924874?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pharaon mythique égyptien, l'un des premiers rois divins, était censé avoir régné sur l'Égypte et enseigné l'agriculture avant son assassinat ?",
+    "correct_answer": "Osiris",
+    "incorrect_answers": [
+      "Thot",
+      "Rê",
+      "Geb"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1708960199214-e23fdab73d60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel des fleuves des Enfers grecs était un fleuve de feu, brûlant et impétueux, situé dans les profondeurs du Tartare ?",
+    "correct_answer": "Phlégéton",
+    "incorrect_answers": [
+      "Styx",
+      "Léthé",
+      "Achéron"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1704120724109-ac239f4f6d79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu romain était apaisé lors des Fêtes des Compitalia, célébrées aux carrefours, pour protéger les carrefours et les voyageurs ?",
+    "correct_answer": "Les Lares Compitales",
+    "incorrect_answers": [
+      "Janus",
+      "Terminus",
+      "Vertumne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1649776044240-6760e07f4c10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu nordique, connu pour sa vue perçante et son ouïe fine, est le gardien d'Ásgard et le héraut du Ragnarök ?",
+    "correct_answer": "Heimdall",
+    "incorrect_answers": [
+      "Loki",
+      "Týr",
+      "Bragi"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1721410038277-e60e368b9c04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelles nymphes grecques, filles de Zeus et de Thémis, veillaient sur les saisons et étaient souvent associées à la fertilité et à l'ordre naturel ?",
+    "correct_answer": "Les Heures",
+    "incorrect_answers": [
+      "Les Océanides",
+      "Les Néréides",
+      "Les Dryades"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1509317616153-af11a170b128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel texte funéraire égyptien, connu sous le nom de 'Livre des Morts', est en réalité une collection de formules et d'incantations pour guider le défunt dans l'au-delà ?",
+    "correct_answer": "Le Livre pour Sortir au Jour",
+    "incorrect_answers": [
+      "Les Textes des Pyramides",
+      "Les Textes des Sarcophages",
+      "Le Livre des Portes"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1576582370610-734b9bb5df61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu romain archaïque, souvent confondu ou fusionné avec Mars, était un dieu de la fertilité et de la végétation avant de devenir un dieu de la guerre ?",
+    "correct_answer": "Quirinus",
+    "incorrect_answers": [
+      "Silvanus",
+      "Consus",
+      "Terminus"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758915464796-ad16005f368a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle était l'une des neuf mères de Heimdall, géante des vagues et personnification des mers, dont le nom signifie 'la Brille' ou 'l'Étincelante' ?",
+    "correct_answer": "Eyrgjafa",
+    "incorrect_answers": [
+      "Gríðr",
+      "Angrboða",
+      "Bestla"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1704120725155-dfbae9db070c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel oracle grec, antérieur à Delphes et vénéré pour ses prophéties rendues par les pigeons ou le bruissement des feuilles de chêne, était dédié à Zeus ?",
+    "correct_answer": "L'oracle de Dodone",
+    "incorrect_answers": [
+      "L'oracle de Claros",
+      "L'oracle de Didyme",
+      "L'oracle de Trophonius"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1679681843163-d89518c8d7aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel oiseau mythique égyptien, souvent représenté comme un héron cendré, était associé au soleil levant, à la création et à la régénération dans la mythologie héliopolitaine ?",
+    "correct_answer": "Le Bénou",
+    "incorrect_answers": [
+      "L'Akh",
+      "Le Ba",
+      "Le Ka"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758779529498-f60243cc2819?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle fête romaine antique, célébrée le 17 décembre, était dédiée à Saturne et caractérisée par des inversions sociales, des banquets et des échanges de cadeaux ?",
+    "correct_answer": "Les Saturnales",
+    "incorrect_answers": [
+      "Les Lupercales",
+      "Les Lémuries",
+      "Les Parilia"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1644159406175-3b91e94c7f7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel type de créature souterraine, souvent décrite comme un artisan habile et gardien de trésors, était associé à l'or et aux montagnes dans la mythologie nordique ?",
+    "correct_answer": "Les Nains",
+    "incorrect_answers": [
+      "Les Alfes noirs",
+      "Les Jötnar",
+      "Les Draugar"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1709739106510-9974f5018200?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel objet mythique, fabriqué par Héphaïstos, était un bouclier sur lequel était gravée la tête de la Gorgone Méduse, capable de pétrifier quiconque le regardait ?",
+    "correct_answer": "L'Égide",
+    "incorrect_answers": [
+      "Le Caducée",
+      "La Thyrse",
+      "Le Triskel"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602894556839-4abda2537d0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc3OTUzMTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

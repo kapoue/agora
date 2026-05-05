@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel groupe d'animaux marins, appartenant au phylum des Loricifères, est connu pour vivre exclusivement dans les sédiments anoxiques et ne pas posséder de mitochondries fonctionnelles, dépendant d'organites similaires aux hydrogénosomes?",
-    "correct_answer": "Les Nanaloricidae",
+    "question": "Quel est le taxon qui regroupe les arthropodes et les nématodes en raison de leur caractéristique commune de mue ?",
+    "correct_answer": "Ecdysozoa",
     "incorrect_answers": [
-      "Les Phoronidiens",
-      "Les Priapulides",
-      "Les Kinorhynques"
+      "Lophotrochozoa",
+      "Deuterostomia",
+      "Radiata"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1729172032242-4c18f49b1c43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1679950074993-0d38b4438d19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal marin est capable d'éverser son estomac par sa bouche pour englober et digérer ses proies à l'extérieur de son corps, une stratégie de nourrissage unique parmi les échinodermes?",
-    "correct_answer": "L'étoile de mer (Asteroidea)",
+    "question": "Quelle espèce de poisson est connue pour sa capacité à 'marcher' sur terre et à respirer l'air grâce à un organe labyrinthique ?",
+    "correct_answer": "Le poisson-grimpeur (Anabas testudineus)",
     "incorrect_answers": [
-      "Le concombre de mer (Holothuroidea)",
-      "L'oursin (Echinoidea)",
-      "Le crinoïde (Crinoidea)"
+      "L'anguille européenne",
+      "La lote de rivière",
+      "Le gobiidé des mangroves"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1663762027600-c56c71870790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1696776156652-1bd7a1ac4727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de poisson est connue pour utiliser des jets d'eau puissants pour abattre des insectes posés sur la végétation au-dessus de l'eau, démontrant une forme rudimentaire d'utilisation d'outils?",
-    "correct_answer": "Le poisson-archer",
+    "question": "Quel est le nom du comportement chez les insectes sociaux où certains individus sacrifient leur propre reproduction pour aider la reine ?",
+    "correct_answer": "L'eusocialité",
     "incorrect_answers": [
-      "Le Gourami embrasseur",
-      "Le Combattant du Siam",
-      "Le Cichlidé-bijou"
+      "Le mutualisme",
+      "L'altruisme réciproque",
+      "Le parasitisme social"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1634632660485-971f042238af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1728991531885-2e91d617c777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Parmi ces ordres d'insectes, lequel est caractérisé par des mâles parasitoïdes possédant des ailes antérieures réduites en haltères et des femelles endoparasites apodes et larviformes, vivant cachées dans leur hôte?",
-    "correct_answer": "Les Strepsiptères",
+    "question": "Quel est l'animal qui détient le record de la plus longue migration verticale quotidienne dans l'océan, parcourant des centaines de mètres ?",
+    "correct_answer": "Le krill antarctique",
     "incorrect_answers": [
-      "Les Mégaloptères",
-      "Les Phasmides",
-      "Les Coléoptères"
+      "Le cachalot",
+      "Le thon rouge",
+      "La méduse crinière de lion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1657189542100-cdffd7adebb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1658285175819-f6390bde98de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de vertébrés est caractérisé par la présence de sacs aériens extra-pulmonaires qui s'étendent dans de nombreux os et jouent un rôle crucial dans la respiration à sens unique (unidirectionnelle)?",
-    "correct_answer": "Les oiseaux",
+    "question": "Quelle est la caractéristique unique de la respiration des oiseaux qui leur permet une oxygénation très efficace par un flux d'air continu ?",
+    "correct_answer": "Un flux d'air unidirectionnel à travers les poumons",
     "incorrect_answers": [
-      "Les reptiles",
-      "Les amphibiens",
-      "Les mammifères"
+      "La présence d'un diaphragme très puissant",
+      "Des poumons multicaméraux",
+      "L'absence de sacs aériens"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1603966474815-85d21585ffb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1656769953565-91b35bb2cc7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est l'espèce animale connue pour sa capacité à 'rajeunir' indéfiniment en revenant à un stade polype immature après avoir atteint la maturité sexuelle, lui conférant une immortalité biologique potentielle?",
-    "correct_answer": "Turritopsis dohrnii",
+    "question": "Quel est le plus grand invertébré connu à l'heure actuelle en termes de masse et de taille corporelle ?",
+    "correct_answer": "Le calmar colossal (Mesonychoteuthis hamiltoni)",
     "incorrect_answers": [
-      "Hydra vulgaris",
-      "Aurelia aurita",
-      "Cyanea capillata"
+      "Le calmar géant",
+      "Le syphonophore",
+      "L'araignée de mer géante du Japon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707759408971-3c9358b450c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1603966474815-85d21585ffb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la principale adaptation physiologique permettant aux poissons des profondeurs abyssales de survivre aux pressions extrêmes (plus de 1000 atmosphères) sans que leurs protéines ne se dénaturent?",
-    "correct_answer": "L'accumulation d'oxyde de triméthylamine (OTMA)",
+    "question": "Quelle est la substance anticoagulante puissante produite par les sangsues médicinales (Hirudo medicinalis) pour faciliter leur alimentation ?",
+    "correct_answer": "L'hirudine",
     "incorrect_answers": [
-      "La réduction des os et muscles",
-      "La présence de tissus cartilagineux",
-      "La synthèse de protéines ultra-stables"
+      "L'héparine",
+      "La warfarine",
+      "La fibrinolysine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1653326200806-aa37ffb0d865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1725206076077-1b5cdb82bac3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le mode de reproduction exceptionnel observé chez les requins-nourrices gris (Carcharias taurus) où les embryons les plus développés dévorent les œufs non fécondés et les embryons plus jeunes dans l'utérus maternel?",
-    "correct_answer": "L'oophagie intra-utérine",
+    "question": "Quel type de cellule est unique aux éponges (Porifera) et est responsable de la création du courant d'eau pour la filtration ?",
+    "correct_answer": "Le choanocyte",
     "incorrect_answers": [
-      "La placentation vitelline",
-      "L'oviparité interne",
-      "La viviparité aplacentaire"
+      "L'amibocyte",
+      "Le sclérocyte",
+      "Le pinacocyte"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1663521051474-6c8b75bff0c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1709829421603-ce7c6a8f3154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel monotrème est le seul mammifère connu à posséder des éperons venimeux, situés sur les pattes arrière des mâles, produisant un venin capable d'induire une douleur intense chez l'homme?",
-    "correct_answer": "L'Ornithorynque",
+    "question": "Quel est l'organe sensoriel principal utilisé par les chauves-souris pour produire les ultrasons nécessaires à l'écholocation ?",
+    "correct_answer": "Le larynx",
     "incorrect_answers": [
-      "L'Échidné à nez court",
-      "L'Échidné à long nez",
-      "Le Protothérien de Zaglossus"
+      "Les narines",
+      "Les pavillons auriculaires",
+      "La membrane patagiale"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1683355931765-6c8e573e69af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1625598176870-b1c49127d063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'enzyme clé impliquée dans la réaction de bioluminescence observée chez la luciole et de nombreux organismes marins, catalysant l'oxydation de la luciférine?",
-    "correct_answer": "La luciférase",
+    "question": "Quel est le nom de la relation symbiotique où un petit poisson nettoie les parasites d'un plus grand poisson, les deux bénéficiant ?",
+    "correct_answer": "Le mutualisme de nettoyage",
     "incorrect_answers": [
-      "La chlorophylle",
-      "L'ATP synthase",
-      "La catalase"
+      "Le commensalisme",
+      "Le parasitisme",
+      "L'amensalisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1689797216602-fb2ce418cf7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1689797216602-fb2ce418cf7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel petit phylum d'animaux marins, souvent appelés 'vers entoproctes', est caractérisé par un anus situé à l'intérieur de la couronne de tentacules ciliés qui sert à la filtration alimentaire?",
-    "correct_answer": "Les Entoproctes (ou Kamptozoaires)",
+    "question": "Quel est l'animal connu pour posséder les yeux les plus grands du règne animal proportionnellement à sa taille corporelle ?",
+    "correct_answer": "Le tarsier",
     "incorrect_answers": [
-      "Les Bryozoaires (ou Ectoproctes)",
-      "Les Brachiopodes",
-      "Les Phoronidiens"
+      "Le hibou grand-duc",
+      "Le calmar géant",
+      "La libellule"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1728025131138-e05d5b0e2b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1617660772291-e5d67b4610dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle méthode de communication est utilisée par les éléphants pour transmettre des messages sur de longues distances, impliquant des sons de très basse fréquence imperceptibles à l'oreille humaine?",
-    "correct_answer": "Les infrasons",
+    "question": "Quelle est la particularité des serpents du genre Thelotornis (serpents des arbres à perles) concernant leur dentition et venin ?",
+    "correct_answer": "Ils sont opisthoglyphes et leur venin est hémotoxique",
     "incorrect_answers": [
-      "Les ultrasons",
-      "Les ondes électromagnétiques",
-      "Les phéromones aériennes"
+      "Ils sont proteroglyphes et neurotoxiques",
+      "Ils sont solenoglyphes et cytotoxiques",
+      "Ils sont aglyphes et constricteurs"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1679950074993-0d38b4438d19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1711011998211-98f4fbe5f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Comment les poissons cartilagineux (Chondrichthyes) résolvent-ils le problème de l'osmorégulation en milieu marin hypertonique, sans avoir à boire beaucoup d'eau de mer comme les téléostéens?",
-    "correct_answer": "En retenant de l'urée et du TMAO dans leur sang",
+    "question": "Quel est l'oiseau capable de plonger à des profondeurs records pour chasser, atteignant parfois plus de 500 mètres ?",
+    "correct_answer": "Le manchot empereur",
     "incorrect_answers": [
-      "En possédant des reins très efficaces pour filtrer le sel",
-      "En excrétant activement du sel par des glandes à sel",
-      "En ayant une peau imperméable à l'eau et au sel"
+      "Le fou de Bassan",
+      "L'albatros hurleur",
+      "Le macareux moine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1605933189727-f23157f6442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1663762027600-c56c71870790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel coléoptère est détenteur du record de vitesse corporelle relative (par rapport à sa taille) le plus rapide connu parmi tous les arthropodes, atteignant l'équivalent de 171 longueurs corporelles par seconde?",
-    "correct_answer": "Le Scarabée tigre de Californie (Cicindela ephippialis)",
+    "question": "Quelle est la structure unique chez les étoiles de mer et oursins (échinodermes) qui leur permet de se déplacer et de se nourrir ?",
+    "correct_answer": "Le système ambulacraire",
     "incorrect_answers": [
-      "La Blatte américaine (Periplaneta americana)",
-      "Le Carabe doré (Carabus auratus)",
-      "La Fourmi de l'argent du Sahara (Cataglyphis bombycina)"
+      "Le système circulatoire ouvert",
+      "Le siphon",
+      "Le statocyste"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1491930334092-1bb43e54af1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1634632660485-971f042238af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère africain, unique parmi les mammifères, présente une eusocialité avancée avec une reine reproductrice et des castes non reproductrices, et est remarquablement adapté aux environnements souterrains arides et pauvres en oxygène?",
-    "correct_answer": "Le rat-taupe nu",
+    "question": "Quel est le principal moyen par lequel les grenouilles venimeuses (Dendrobatidae) obtiennent leurs toxines très spécifiques ?",
+    "correct_answer": "Par leur régime alimentaire d'arthropodes toxiques",
     "incorrect_answers": [
-      "La taupe dorée du Cap",
-      "La musaraigne éléphant",
-      "Le fennec"
+      "Elles synthétisent elles-mêmes les toxines",
+      "Elles les absorbent de l'eau",
+      "Elles les héritent génétiquement de leurs parents"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1726335849092-a9870a096165?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1641046741761-d0f286ab6f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle caractéristique anatomique distingue spécifiquement les serpents des lézards apodes (sans pattes)?",
-    "correct_answer": "La présence de paupières mobiles chez les lézards apodes",
+    "question": "Quel est l'ordre des mammifères dont la particularité est de pondre des œufs et d'allaiter sans posséder de mamelons ?",
+    "correct_answer": "Les Monotrèmes",
     "incorrect_answers": [
-      "L'absence de tympan chez les serpents",
-      "La présence d'une carapace dorsale chez les lézards apodes",
-      "La fusion de la mâchoire inférieure chez les serpents"
+      "Les Marsupiaux",
+      "Les Xénarthres",
+      "Les Pholidotes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1622429797416-2bc41e302300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1653326243366-39679dc05642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le type de cellule immunitaire présent dans l'hémolymphe des invertébrés, tel que le limule (chevalier de mer), dont l'extrait est utilisé dans le test LAL (Limulus Amebocyte Lysate) pour détecter les endotoxines bactériennes?",
-    "correct_answer": "Les amibocytes",
+    "question": "Quelle est la pression de morsure enregistrée la plus élevée chez un animal terrestre vivant ?",
+    "correct_answer": "Le crocodile marin",
     "incorrect_answers": [
-      "Les lymphocytes",
-      "Les érythrocytes",
-      "Les thrombocytes"
+      "Le requin blanc",
+      "L'orque",
+      "Le lion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1668701644378-209c3e9f7e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1605933189727-f23157f6442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle forme de mimétisme implique qu'une espèce inoffensive imite une espèce dangereuse ou toxique pour dissuader les prédateurs, comme le serpent-roi qui imite le serpent corail?",
-    "correct_answer": "Le mimétisme batésien",
+    "question": "Quelle est l'adaptation respiratoire permettant aux insectes d'oxygéner directement leurs tissus sans système circulatoire dédié à l'oxygène ?",
+    "correct_answer": "Le système trachéen",
     "incorrect_answers": [
-      "Le mimétisme müllérien",
-      "Le mimétisme agressif",
-      "Le mimétisme mertensien"
+      "Les branchies externes",
+      "Les poumons alvéolaires",
+      "La diffusion cutanée"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1709829421603-ce7c6a8f3154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1556032743-e5c0cda93bf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe d'animaux possède les yeux composés les plus complexes et les plus sophistiqués du règne animal, avec jusqu'à 16 types de photorécepteurs différents et une capacité de vision polarisée et hyperspectrale?",
-    "correct_answer": "Les crevettes-mantes (Stomatopodes)",
+    "question": "Quel est le phénomène par lequel certains animaux changent de sexe au cours de leur vie, souvent en réponse à des signaux environnementaux ou sociaux ?",
+    "correct_answer": "L'hermaphrodisme séquentiel",
     "incorrect_answers": [
-      "Les libellules (Odonates)",
-      "Les papillons (Lépidoptères)",
-      "Les araignées-loups (Lycosidae)"
+      "La parthénogenèse",
+      "La néoténie",
+      "Le dimorphisme sexuel"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1725206076077-1b5cdb82bac3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1707759408971-3c9358b450c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la principale source d'énergie pour la vie autour des cheminées hydrothermales des fonds marins, supportant des écosystèmes entiers sans lumière solaire?",
-    "correct_answer": "La chimiosynthèse",
+    "question": "Quel est le nom scientifique du phénomène où des animaux immatures conservent des caractéristiques larvaires à l'âge adulte, comme chez l'axolotl ?",
+    "correct_answer": "La néoténie",
     "incorrect_answers": [
-      "La photosynthèse résiduelle",
-      "La décomposition de matière organique en surface",
-      "L'énergie géothermique directe"
+      "La pédogenèse",
+      "La métamorphose incomplète",
+      "L'hétérochronie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1641046741761-d0f286ab6f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1646186598644-0b0e407852a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe d'annélides est caractérisé par un corps aplati, la présence de ventouses aux deux extrémités et l'absence de soies ou de parapodes?",
-    "correct_answer": "Les Hirudinées (sangsues)",
+    "question": "Quel est l'animal marin capable de 'chasser' avec une bulle de cavitation générée par un claquement ultra-rapide de sa pince ?",
+    "correct_answer": "La crevette-pistolet (Alpheus)",
     "incorrect_answers": [
-      "Les Polychètes",
-      "Les Oligochètes",
-      "Les Sipunculiens"
+      "La squille",
+      "Le crabe boxeur",
+      "Le bernard-l'hermite"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1711011998211-98f4fbe5f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1683355931765-6c8e573e69af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Parmi ces poissons, lequel est exclusivement connu pour le mâle portant les œufs dans une poche incubatrice entièrement fermée, distincte des poches ouvertes ou des supports externes d'autres Syngnathidae?",
-    "correct_answer": "L'hippocampe (Hippocampus spp.)",
+    "question": "Quel est le type de venin qui affecte principalement le système nerveux, causant paralysie et détresse respiratoire ?",
+    "correct_answer": "Neurotoxique",
     "incorrect_answers": [
-      "Le Syngnathe (Syngnathus spp.)",
-      "Le Dragon de mer feuillu",
-      "Le Poisson-pipe"
+      "Hémotoxique",
+      "Myotoxique",
+      "Cytotoxique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1653326243366-39679dc05642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1757858849087-7095a55a0550?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la capacité exceptionnelle de régénération de la salamandre axolotl (Ambystoma mexicanum) qui la distingue de la plupart des autres vertébrés?",
-    "correct_answer": "La régénération complète des membres, de la mâchoire, du cerveau et d'autres organes",
+    "question": "Quelle est la fonction principale du 'rostre' dentelé chez les poissons-scie et certains requins (Pristiophoriformes) ?",
+    "correct_answer": "Détection et étourdissement des proies",
     "incorrect_answers": [
-      "La capacité de régénérer sa queue et une partie de sa peau uniquement",
-      "La régénération de ses yeux, mais pas d'autres organes",
-      "La cicatrisation rapide sans formation de blastème"
+      "Perforation de proies",
+      "Ancrage au substrat",
+      "Défense territoriale"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1656769953565-91b35bb2cc7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1726335849092-a9870a096165?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau détient le record de la plus longue migration annuelle non-stop au-dessus de l'océan, parcourant des milliers de kilomètres sans atterrissage, notamment entre l'Alaska et la Nouvelle-Zélande?",
-    "correct_answer": "La Barge rousse (Limosa lapponica)",
+    "question": "Quel est le nom du stade larvaire unique aux cnidaires (méduses, coraux) qui est cilié et nageur avant de se fixer ?",
+    "correct_answer": "La planula",
     "incorrect_answers": [
-      "Le Sterne arctique (Sterna paradisaea)",
-      "L'Albatros hurleur (Diomedea exulans)",
-      "Le Martinet noir (Apus apus)"
+      "Le véliger",
+      "La trochophore",
+      "Le miracidium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1617660772291-e5d67b4610dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1680113989065-fe7bbf080a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de crustacés est endémique des grottes et aquifères souterrains, souvent aveugle et dépigmenté, et présente une forme de développement direct sans stade larvaire planctonique?",
-    "correct_answer": "Les Syncarides",
+    "question": "Quel est l'oiseau marin connu pour son vol de très longue durée, capable de dormir en vol pendant de longues périodes ?",
+    "correct_answer": "Le frégate",
     "incorrect_answers": [
-      "Les Copépodes",
-      "Les Cirripèdes",
-      "Les Isopodes"
+      "L'albatros",
+      "Le pétrel",
+      "La mouette rieuse"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696776156652-1bd7a1ac4727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1622429797416-2bc41e302300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le pigment respiratoire, de couleur bleue en état oxygéné, qui remplace l'hémoglobine chez de nombreux mollusques et arthropodes (ex: les limules, certains céphalopodes et crustacés)?",
-    "correct_answer": "L'hémocyanine",
+    "question": "Quel est le mécanisme de défense du 'foulque d'Amérique' (Fulica americana) où les parents réduisent leur couvée en tuant les plus faibles ?",
+    "correct_answer": "L'infanticide sélectif",
     "incorrect_answers": [
-      "L'hémérythrine",
-      "La chlorocruorine",
-      "La myoglobine"
+      "L'émigration forcée",
+      "La dispersion juvénile",
+      "L'éviction compétitive"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1722081415322-7557e8c22ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1668701644378-209c3e9f7e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est l'espèce de méduse, appartenant à la classe Cubozoa, dont le venin est considéré comme l'un des plus puissants et rapidement mortels pour l'homme, provoquant le syndrome d'Irukandji et des arrêts cardiaques?",
-    "correct_answer": "Chironex fleckeri (Méduse-boîte)",
+    "question": "Quel est l'animal endémique de Madagascar célèbre pour sa longue dent de rongeur et son doigt allongé utilisé pour sonder le bois ?",
+    "correct_answer": "L'aye-aye",
     "incorrect_answers": [
-      "Pelagia noctiluca",
-      "Physalia physalis (Galère portugaise)",
-      "Aurelia aurita"
+      "Le lémur catta",
+      "Le fossa",
+      "Le sifaka"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1625598176870-b1c49127d063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1653326200806-aa37ffb0d865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Outre les insectes sociaux, quel autre groupe d'animaux présente une eusocialité stricte caractérisée par un chevauchement des générations, des soins coopératifs et une division du travail reproductive avec une reine unique?",
-    "correct_answer": "Les puces de mer eusociales (ou Synalpheus spp., crevettes-pistolet)",
+    "question": "Quelle est la particularité unique du système de reproduction des hippocampes, où le rôle parental est inversé ?",
+    "correct_answer": "Le mâle porte les œufs dans une poche incubatrice",
     "incorrect_answers": [
-      "Les termites",
-      "Les oiseaux tisserands",
-      "Les dytiques"
+      "La femelle pond des œufs vivipares",
+      "Les deux parents partagent l'incubation",
+      "Ils sont hermaphrodites simultanés"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1646186598644-0b0e407852a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1491930334092-1bb43e54af1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel organe digestif, présent chez de nombreux oiseaux granivores et certains reptiles, est une poche musculaire épaisse utilisée pour broyer la nourriture avec l'aide de petits cailloux (gastrolithes)?",
-    "correct_answer": "Le gésier",
+    "question": "Quelle espèce de tortue marine est connue pour sa capacité unique à réguler sa température corporelle partiellement via une sorte d'endothermie ?",
+    "correct_answer": "La tortue luth",
     "incorrect_answers": [
-      "Le jabot",
-      "Le proventricule",
-      "L'œsophage"
+      "La tortue verte",
+      "La tortue caouanne",
+      "La tortue imbriquée"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1556032743-e5c0cda93bf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1722081415322-7557e8c22ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de mollusques gastéropodes marins, souvent appelés 'limaces de mer', est caractérisé par la perte de leur coquille à l'état adulte, l'affichage de couleurs vives (aposématisme) et la capacité d'incorporer les nématocystes des cnidaires qu'ils consomment pour leur propre défense?",
-    "correct_answer": "Les Nudibranches",
+    "question": "Quel est le phénomène où les femelles de certaines espèces de moustiques ont impérativement besoin d'un repas de sang pour la maturation de leurs œufs ?",
+    "correct_answer": "L'anautogénèse",
     "incorrect_answers": [
-      "Les Conidae",
-      "Les Aplysiidae",
-      "Les Haliotidae"
+      "L'hématophagie obligatoire",
+      "La trophallaxie sanguine",
+      "L'oviparité hématique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1658285175819-f6390bde98de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1657189542100-cdffd7adebb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

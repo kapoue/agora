@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel mouvement artistique est principalement associé à la déconstruction des formes et à la représentation d'objets sous de multiples angles simultanément ?",
+    "question": "Quel peintre est l'auteur du tableau 'La Nuit étoilée', caractérisé par son ciel tourbillonnant ?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Pierre-Auguste Renoir"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1705366208002-c77ff0a1ce55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est caractérisé par l'utilisation de formes géométriques et la déconstruction des objets, souvent co-fondé par Picasso et Braque ?",
     "correct_answer": "Le Cubisme",
     "incorrect_answers": [
-      "Le Futurisme",
-      "Le Fauvisme",
-      "Le Surréalisme"
+      "Le Surréalisme",
+      "L'Impressionnisme",
+      "Le Futurisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1572116618753-98d395f2d48f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1732566268069-63c1a5c516ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel artiste de la Renaissance hollandaise est célèbre pour ses autoportraits profonds et son utilisation magistrale du clair-obscur ?",
-    "correct_answer": "Rembrandt van Rijn",
-    "incorrect_answers": [
-      "Johannes Vermeer",
-      "Pieter Bruegel l'Ancien",
-      "Jan van Eyck"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773096237329-1380a15862a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "La Joconde (ou Monna Lisa), chef-d'œuvre de Léonard de Vinci, est un portrait emblématique exposé dans quel célèbre musée ?",
-    "correct_answer": "Le musée du Louvre",
-    "incorrect_answers": [
-      "Le musée d'Orsay",
-      "Les Offices",
-      "Le Metropolitan Museum of Art"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775335372670-7a715f98385a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel architecte catalan est mondialement reconnu pour ses œuvres modernistes et inachevées, dont la Sagrada Familia à Barcelone ?",
-    "correct_answer": "Antoni Gaudí",
-    "incorrect_answers": [
-      "Santiago Calatrava",
-      "Ricardo Bofill",
-      "Frank Gehry"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1732566249941-8f6fe9695bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique du début du 20e siècle s'est inspiré des théories psychanalytiques pour explorer l'inconscient et les rêves ?",
-    "correct_answer": "Le Surréalisme",
-    "incorrect_answers": [
-      "L'Expressionnisme",
-      "Le Dadaïsme",
-      "Le Constructivisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763854021249-b85ae8427125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est l'œuvre sculpturale majeure de Michel-Ange représentant le héros biblique avant son affrontement avec le géant Goliath ?",
+    "question": "Quelle sculpture de Michel-Ange représente le jeune berger biblique avant son combat contre Goliath ?",
     "correct_answer": "David",
     "incorrect_answers": [
-      "La Piéta",
       "Moïse",
-      "Le Bacchus"
+      "La Pietà",
+      "Le Baiser"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773474273205-6c60227490df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1768366778536-f4e32064cc2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quelle ville se trouve la Galerie des Offices, l'un des plus anciens et célèbres musées d'art du monde, avec une collection Renaissance ?",
-    "correct_answer": "Florence",
+    "question": "Dans quel musée parisien peut-on admirer le célèbre tableau 'La Joconde' de Léonard de Vinci ?",
+    "correct_answer": "Le Louvre",
     "incorrect_answers": [
-      "Rome",
-      "Venise",
-      "Milan"
+      "Le MoMA",
+      "Le Prado",
+      "Le British Museum"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1732566268069-63c1a5c516ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1773474200110-c69c3accf229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre impressionniste français est mondialement connu pour ses séries de tableaux représentant des nénuphars et des paysages aquatiques ?",
-    "correct_answer": "Claude Monet",
+    "question": "Quel architecte est mondialement connu pour avoir conçu le Guggenheim Museum de Bilbao, aux formes organiques et métalliques ?",
+    "correct_answer": "Frank Gehry",
     "incorrect_answers": [
-      "Pierre-Auguste Renoir",
-      "Edgar Degas",
-      "Alfred Sisley"
+      "Le Corbusier",
+      "Zaha Hadid",
+      "Santiago Calatrava"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769117620065-577bcb26c185?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1759194772480-19ab385e354f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle technique de peinture murale consiste à appliquer des pigments sur un enduit de plâtre encore frais, assurant une grande durabilité ?",
-    "correct_answer": "La fresque",
+    "question": "Qui a peint 'Les Ménines', chef-d'œuvre de la peinture espagnole représentant la famille royale dans une composition complexe ?",
+    "correct_answer": "Diego Vélasquez",
     "incorrect_answers": [
-      "Le Sfumato",
-      "Le Tenebrisme",
-      "Le Chiaroscuro"
+      "Francisco Goya",
+      "El Greco",
+      "Salvador Dalí"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1650835222564-c869b03803ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1762117863713-ee3dde87c020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Le Panthéon de Rome, avec son immense coupole ouverte en son centre, est un exemple emblématique de l'architecture de quelle période ?",
-    "correct_answer": "La Rome antique",
+    "question": "Quel mouvement artistique du début du 20e siècle, explorant l'inconscient et le rêve, a été co-fondé par André Breton ?",
+    "correct_answer": "Le Surréalisme",
     "incorrect_answers": [
-      "La Renaissance",
-      "Le Baroque",
-      "Le Néoclassicisme"
+      "Le Dadaïsme",
+      "Le Fauvisme",
+      "L'Expressionnisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773474200110-c69c3accf229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775283267270-2046f4103ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle artiste mexicaine est célèbre pour ses autoportraits intenses, souvent marqués par la douleur et les symboles de sa culture ?",
-    "correct_answer": "Frida Kahlo",
-    "incorrect_answers": [
-      "María Izquierdo",
-      "Leonora Carrington",
-      "Remedios Varo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763792334906-70a24d373140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique américain des années 1960 s'est inspiré de la culture populaire, de la publicité et des objets du quotidien ?",
-    "correct_answer": "Le Pop Art",
-    "incorrect_answers": [
-      "L'Art informel",
-      "Le Minimalisme",
-      "L'Op Art"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1705366208002-c77ff0a1ce55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sculpteur français est l'auteur de l'œuvre emblématique 'Le Penseur', une figure masculine en pleine méditation ?",
+    "question": "Quel sculpteur français est célèbre pour ses œuvres 'Le Penseur' et 'Le Baiser', symboles de la fin du XIXe siècle ?",
     "correct_answer": "Auguste Rodin",
     "incorrect_answers": [
       "Camille Claudel",
       "Antoine Bourdelle",
       "Aristide Maillol"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1762117863713-ee3dde87c020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1765153885305-85e56c2efe92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée, situé à New York, est une référence mondiale pour l'art moderne et contemporain, abritant des œuvres comme 'La Nuit étoilée' ?",
-    "correct_answer": "MoMA",
+    "question": "Quelle cathédrale gothique française est réputée pour ses 176 vitraux d'origine et son labyrinthe au sol ?",
+    "correct_answer": "Cathédrale de Chartres",
     "incorrect_answers": [
-      "Le Guggenheim Museum",
-      "Le Whitney Museum",
-      "Le Metropolitan Museum of Art"
+      "Cathédrale Notre-Dame de Paris",
+      "Cathédrale de Reims",
+      "Cathédrale d'Amiens"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764214918507-3938f17df7ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1769117618434-8a4b22697936?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre flamand est considéré comme l'un des inventeurs de la peinture à l'huile et est célèbre pour 'Le Portrait des Arnolfini' ?",
-    "correct_answer": "Jan van Eyck",
+    "question": "L'artiste peintre Frida Kahlo, célèbre pour ses autoportraits poignants, est originaire de quel pays ?",
+    "correct_answer": "Mexique",
     "incorrect_answers": [
-      "Rogier van der Weyden",
-      "Hans Memling",
-      "Hugo van der Goes"
+      "Espagne",
+      "Colombie",
+      "Argentine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769117619995-78fc971f041b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1766972501562-5f5acc13ece5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quelle ville européenne se trouve le Rijksmuseum, célèbre pour sa collection de maîtres hollandais, dont 'La Ronde de nuit' de Rembrandt ?",
-    "correct_answer": "Amsterdam",
+    "question": "Le Pop Art, mouvement qui a intégré la culture populaire et de consommation à l'art, s'est principalement développé dans quel pays dans les années 1950-1960 ?",
+    "correct_answer": "États-Unis",
     "incorrect_answers": [
-      "Bruxelles",
-      "La Haye",
-      "Rotterdam"
+      "Royaume-Uni",
+      "France",
+      "Allemagne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775283267270-2046f4103ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1761563071832-e548e022a706?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel style architectural et décoratif du XVIIIe siècle est caractérisé par une profusion d'ornements asymétriques, de courbes et de couleurs pastel ?",
-    "correct_answer": "Le Rococo",
+    "question": "Le British Museum, connu pour ses vastes collections d'antiquités mondiales, est situé dans quelle ville ?",
+    "correct_answer": "Londres",
     "incorrect_answers": [
-      "Le Baroque",
-      "Le Néoclassicisme",
-      "L'Art Nouveau"
+      "Rome",
+      "Paris",
+      "Berlin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761563071832-e548e022a706?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1764214918507-3938f17df7ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "L'artiste britannique Banksy est principalement connu pour ses œuvres anonymes et engagées réalisées sous quelle forme artistique ?",
-    "correct_answer": "Le street art",
-    "incorrect_answers": [
-      "Le land art",
-      "L'art conceptuel",
-      "La performance"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1760174205716-ddef54f0dc59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel peintre italien de la Première Renaissance est l'auteur de 'La Naissance de Vénus' et 'Le Printemps', deux icônes de la mythologie ?",
-    "correct_answer": "Sandro Botticelli",
-    "incorrect_answers": [
-      "Masaccio",
-      "Fra Angelico",
-      "Piero della Francesca"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766972501562-5f5acc13ece5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "L'architecte Le Corbusier est une figure majeure de quel courant architectural qui a révolutionné la conception des bâtiments au 20e siècle ?",
-    "correct_answer": "Le Modernisme",
-    "incorrect_answers": [
-      "L'Art Déco",
-      "Le Brutalisme",
-      "Le Postmodernisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769117618434-8a4b22697936?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "L'œuvre 'Le Cri', avec sa figure angoissée et ses couleurs tourbillonnantes, est l'emblème de quel peintre expressionniste ?",
-    "correct_answer": "Edvard Munch",
-    "incorrect_answers": [
-      "Egon Schiele",
-      "Ernst Ludwig Kirchner",
-      "Franz Marc"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1768366778536-f4e32064cc2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel musée parisien, installé dans une ancienne gare, est dédié à l'art du XIXe siècle, notamment l'Impressionnisme et le Post-impressionnisme ?",
-    "correct_answer": "Le musée d'Orsay",
-    "incorrect_answers": [
-      "Le Centre Pompidou",
-      "Le Grand Palais",
-      "Le musée Marmottan Monet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1718359760007-4b11d377689c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Le procédé du 'sfumato', cette technique picturale créant des contours estompés et un doux passage des couleurs, est associé à quel maître ?",
+    "question": "Quel artiste de la Renaissance est l'auteur des fresques 'La Cène' et des dessins célèbres comme 'L'Homme de Vitruve' ?",
     "correct_answer": "Léonard de Vinci",
     "incorrect_answers": [
       "Raphaël",
-      "Titien",
-      "Giorgione"
+      "Botticelli",
+      "Michel-Ange"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760281853829-05d55988423a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760281853829-05d55988423a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle œuvre architecturale de Frank Lloyd Wright est célèbre pour son intégration harmonieuse dans la nature, au-dessus d'une cascade ?",
-    "correct_answer": "Fallingwater (Maison sur la cascade)",
+    "question": "Le Parthénon, temple antique emblématique de l'architecture grecque, est situé sur l'Acropole de quelle ville ?",
+    "correct_answer": "Athènes",
     "incorrect_answers": [
-      "Le Guggenheim Museum (New York)",
-      "La Robie House",
-      "Le Johnson Wax Headquarters"
+      "Rome",
+      "Éphèse",
+      "Alexandrie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707259783407-c448c6a72372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1773096237329-1380a15862a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre hollandais est célèbre pour ses scènes intimes de la vie quotidienne et sa maîtrise exceptionnelle de la lumière, comme dans 'La Laitière' ?",
-    "correct_answer": "Johannes Vermeer",
+    "question": "Quel mouvement artistique privilégie la représentation de scènes de la vie quotidienne et l'étude des variations de la lumière et des couleurs en plein air ?",
+    "correct_answer": "L'Impressionnisme",
     "incorrect_answers": [
-      "Frans Hals",
-      "Jacob van Ruisdael",
-      "Jan Steen"
+      "Le Réalisme",
+      "Le Romantisme",
+      "Le Baroque"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765153885305-85e56c2efe92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775309678887-811b74496530?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mouvement artistique des années 1960-70 cherchait à réduire l'art à ses éléments essentiels, souvent par l'utilisation de formes géométriques simples ?",
-    "correct_answer": "Le Minimalisme",
+    "question": "Qui est l'auteur du tableau 'Guernica', œuvre monumentale dénonçant les horreurs de la guerre civile espagnole ?",
+    "correct_answer": "Pablo Picasso",
     "incorrect_answers": [
-      "L'Art conceptuel",
-      "Le Pop Art",
-      "L'Op Art"
+      "Joan Miró",
+      "Salvador Dalí",
+      "Francisco Goya"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1600673772664-6b6f98ccbc5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1718359760007-4b11d377689c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Le 'Jardin des délices', un triptyque complexe et énigmatique dépeignant l'humanité, est l'œuvre emblématique de quel peintre flamand ?",
+    "question": "Quelle est l'œuvre de Rodin représentant un couple s'embrassant passionnément, inspirée de la Divine Comédie ?",
+    "correct_answer": "Le Baiser",
+    "incorrect_answers": [
+      "Les Bourgeois de Calais",
+      "Le Penseur",
+      "La Porte de l'Enfer"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1600673772664-6b6f98ccbc5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Le Rijksmuseum, célèbre pour ses maîtres hollandais comme Rembrandt et Vermeer, se trouve dans quelle capitale ?",
+    "correct_answer": "Amsterdam",
+    "incorrect_answers": [
+      "Bruxelles",
+      "Copenhague",
+      "Berlin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1769117619995-78fc971f041b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel style architectural est caractérisé par des arcs brisés, des voûtes sur croisée d'ogives et des arcs-boutants ?",
+    "correct_answer": "Gothique",
+    "incorrect_answers": [
+      "Roman",
+      "Baroque",
+      "Renaissance"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773474273205-6c60227490df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel artiste est l'auteur du 'Jardin des délices', un triptyque foisonnant et énigmatique de la Renaissance flamande ?",
     "correct_answer": "Jérôme Bosch",
     "incorrect_answers": [
       "Pieter Bruegel l'Ancien",
-      "Hans Holbein le Jeune",
-      "Albrecht Dürer"
+      "Jan van Eyck",
+      "Hans Memling"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773761542010-0450bf37856a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1559841096-8739e2b7dc57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bâtiment iconique, avec ses toits en forme de voiles ou de coquillages, est l'emblème de Sydney et de l'architecture moderniste ?",
-    "correct_answer": "L'Opéra de Sydney",
+    "question": "Le Caravage, maître du clair-obscur et du réalisme dramatique, est un représentant majeur de quel courant artistique ?",
+    "correct_answer": "Le Baroque",
     "incorrect_answers": [
-      "Le Harbour Bridge",
-      "La Tour de Sydney",
-      "Le Queen Victoria Building"
+      "Le Maniérisme",
+      "Le Rococo",
+      "Le Classicisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1559841096-8739e2b7dc57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763854021249-b85ae8427125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle peintre baroque italienne est reconnue pour ses toiles puissantes et dramatiques, souvent des scènes bibliques ou mythologiques de femmes fortes ?",
-    "correct_answer": "Artemisia Gentileschi",
+    "question": "La Galerie des Offices, l'un des plus anciens et prestigieux musées d'art au monde, est située dans quelle ville italienne ?",
+    "correct_answer": "Florence",
     "incorrect_answers": [
-      "Elisabetta Sirani",
-      "Clara Peeters",
-      "Judith Leyster"
+      "Rome",
+      "Venise",
+      "Milan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1759194772480-19ab385e354f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1707259783407-c448c6a72372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Le mouvement artistique 'De Stijl', caractérisé par l'abstraction pure et l'utilisation de couleurs primaires, est lié à quel artiste néerlandais ?",
-    "correct_answer": "Piet Mondrian",
+    "question": "Quel peintre hollandais du XVIIe siècle est célèbre pour ses autoportraits, ses scènes bibliques et ses portraits de groupe comme 'La Ronde de nuit' ?",
+    "correct_answer": "Rembrandt",
     "incorrect_answers": [
-      "Theo van Doesburg",
-      "Gerrit Rietveld",
-      "Kazimir Malevitch"
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763337590334-8cb68521fae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3NzExMjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1773761542010-0450bf37856a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "La Sagrada Família, basilique inachevée à Barcelone, est l'œuvre emblématique de quel architecte catalan ?",
+    "correct_answer": "Antoni Gaudí",
+    "incorrect_answers": [
+      "Frank Lloyd Wright",
+      "Oscar Niemeyer",
+      "Alvar Aalto"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773304292149-1d721aa70346?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique du début du XXe siècle a cherché à exprimer les émotions et les sentiments intérieurs plutôt que la réalité objective ?",
+    "correct_answer": "L'Expressionnisme",
+    "incorrect_answers": [
+      "Le Fauvisme",
+      "Le Futurisme",
+      "Le Réalisme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763337590334-8cb68521fae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a peint la 'Naissance de Vénus', chef-d'œuvre de la Renaissance florentine, représentant la déesse sortant de l'écume ?",
+    "correct_answer": "Sandro Botticelli",
+    "incorrect_answers": [
+      "Michel-Ange",
+      "Léonard de Vinci",
+      "Raphaël"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1760174205716-ddef54f0dc59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle œuvre de la Grèce antique, représentant une déesse ailée sans tête ni bras, est exposée au Louvre ?",
+    "correct_answer": "Victoire de Samothrace",
+    "incorrect_answers": [
+      "Vénus de Milo",
+      "Laocoon et ses fils",
+      "Discobole"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1769117620065-577bcb26c185?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement architectural du 20e siècle prône la fonction avant la forme et l'utilisation de matériaux modernes comme le béton et l'acier, souvent associé au Bauhaus ?",
+    "correct_answer": "Le Modernisme",
+    "incorrect_answers": [
+      "L'Art Déco",
+      "Le Postmodernisme",
+      "Le Néo-classique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1732566249941-8f6fe9695bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel artiste est connu pour ses séries de nymphéas et son rôle majeur dans l'Impressionnisme, cherchant à capturer les variations de lumière au fil des heures ?",
+    "correct_answer": "Claude Monet",
+    "incorrect_answers": [
+      "Édouard Manet",
+      "Edgar Degas",
+      "Auguste Renoir"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775335372670-7a715f98385a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique français du début du 20e siècle, caractérisé par l'usage audacieux de couleurs pures et non naturalistes, a été nommé d'après une critique les qualifiant de 'fauves' ?",
+    "correct_answer": "Le Fauvisme",
+    "incorrect_answers": [
+      "Le Cubisme",
+      "L'Orphisme",
+      "Le Divisionnisme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763792334906-70a24d373140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1MjgxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

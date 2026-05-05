@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel théorème énonce que dans un triangle rectangle, le carré de la longueur de l'hypoténuse est égal à la somme des carrés des longueurs des deux autres côtés ?",
+    "question": "Quel théorème fondamental de la géométrie euclidienne établit une relation entre les longueurs des côtés d'un triangle rectangle ?",
     "correct_answer": "Le théorème de Pythagore",
     "incorrect_answers": [
       "Le théorème de Thalès",
-      "Le dernier théorème de Fermat",
-      "Le théorème de l'Hôpital"
+      "La conjecture de Goldbach",
+      "Le principe de Cavalieri"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845882-288eee8e913e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848758-74747f4f0727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien est célèbre pour sa conjecture stipulant que tout nombre pair supérieur à 2 peut être exprimé comme la somme de deux nombres premiers ?",
-    "correct_answer": "Christian Goldbach",
+    "question": "Quelle est la nature du nombre Pi (π), la constante mathématique représentant le rapport de la circonférence d'un cercle à son diamètre ?",
+    "correct_answer": "Il est irrationnel et transcendant",
     "incorrect_answers": [
-      "Pierre de Fermat",
+      "Il est rationnel mais transcendant",
+      "Il est entier et transcendant",
+      "Il est irrationnel mais algébrique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1573871014706-263f4dfec410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien est, avec Lobatchevski, l'un des fondateurs de la géométrie non-euclidienne hyperbolique ?",
+    "correct_answer": "János Bolyai",
+    "incorrect_answers": [
+      "Bernhard Riemann",
       "Carl Friedrich Gauss",
-      "Bernhard Riemann"
+      "David Hilbert"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848478-b57d7aff2a9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848352-c527c32b2054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle branche des mathématiques étudie les propriétés des figures qui restent invariantes sous déformation continue, comme un donut et une tasse ?",
-    "correct_answer": "La topologie",
+    "question": "Géométriquement, que représente la dérivée d'une fonction en un point donné de sa courbe représentative ?",
+    "correct_answer": "La pente de la tangente à la courbe en ce point",
     "incorrect_answers": [
-      "La géométrie euclidienne",
-      "L'algèbre linéaire",
-      "La trigonométrie"
+      "L'aire sous la courbe entre ce point et l'origine",
+      "La courbure de la courbe en ce point",
+      "L'ordonnée du point d'inflexion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734301-1e6ef045145f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848204-a170e78f1507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la valeur qui divise un ensemble de données ordonnées en deux parties égales, de sorte que 50% des données sont inférieures et 50% sont supérieures à cette valeur ?",
-    "correct_answer": "La médiane",
-    "incorrect_answers": [
-      "La moyenne arithmétique",
-      "Le mode",
-      "L'écart-type"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734622-3e0a002b2f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est considéré comme le père de la géométrie analytique, reliant l'algèbre et la géométrie grâce à un système de coordonnées ?",
-    "correct_answer": "René Descartes",
+    "question": "Quel célèbre mathématicien est à l'origine de la formule e^(iπ) + 1 = 0, souvent qualifiée de 'plus belle formule des mathématiques' ?",
+    "correct_answer": "Leonhard Euler",
     "incorrect_answers": [
       "Isaac Newton",
-      "Gottfried Leibniz",
-      "Euclide"
+      "René Descartes",
+      "Gottfried Leibniz"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734242-8dbf726479eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734363-9ca32535183d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel théorème fondamental des mathématiques affirme que tout système formel cohérent et suffisamment puissant pour l'arithmétique contient des énoncés qui sont indécidables ?",
-    "correct_answer": "Le théorème d'incomplétude de Gödel",
+    "question": "Quel est le nom de la fonction qui, pour tout nombre réel x, compte le nombre de nombres premiers inférieurs ou égaux à x ?",
+    "correct_answer": "La fonction de comptage des nombres premiers (π(x))",
     "incorrect_answers": [
-      "Le dernier théorème de Fermat",
-      "Le théorème des quatre couleurs",
-      "Le théorème de la limite centrale"
+      "La fonction zêta de Riemann",
+      "La fonction Gamma",
+      "La fonction d'Euler (phi)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734483-e11fe75480dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1620621983410-962c3124dc83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Combien de faces possède un dodécaèdre régulier ?",
-    "correct_answer": "Douze faces",
+    "question": "Dans une série statistique, après avoir classé les valeurs par ordre croissant, que représente la médiane ?",
+    "correct_answer": "La valeur qui partage la série en deux parties égales",
     "incorrect_answers": [
-      "Huit faces",
-      "Vingt faces",
-      "Six faces"
+      "La valeur la plus fréquente de la série",
+      "La somme de toutes les valeurs divisée par leur nombre",
+      "L'écart entre la valeur maximale et minimale"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848123-01f7a269bfc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848478-b57d7aff2a9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel type de nombre, supérieur à 1, n'admet que deux diviseurs positifs distincts : 1 et lui-même ?",
-    "correct_answer": "Un nombre premier",
+    "question": "Que démontre principalement le premier théorème d'incomplétude de Gödel sur les systèmes formels ?",
+    "correct_answer": "L'existence de propositions indécidables dans des systèmes formels cohérents",
     "incorrect_answers": [
-      "Un nombre composé",
-      "Un nombre parfait",
-      "Un nombre rationnel"
+      "Que tout système formel est nécessairement incomplet",
+      "Que les mathématiques sont fondamentalement incohérentes",
+      "La possibilité de prouver toutes les vérités mathématiques"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848758-74747f4f0727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734314-a2633cef4c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien grec antique est principalement connu pour ses 'Éléments', un traité fondamental de géométrie ?",
-    "correct_answer": "Euclide",
+    "question": "Quel mathématicien est largement reconnu comme le 'père' de la géométrie fractale et a conceptualisé l'ensemble qui porte son nom ?",
+    "correct_answer": "Benoît Mandelbrot",
     "incorrect_answers": [
-      "Archimède",
-      "Pythagore",
-      "Thalès"
+      "Gaston Julia",
+      "Henri Poincaré",
+      "Georg Cantor"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734314-a2633cef4c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848123-01f7a269bfc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle opération mathématique permet de calculer la pente d'une courbe en un point donné et est l'inverse de l'intégration ?",
-    "correct_answer": "La dérivation",
+    "question": "Quel concept mathématique révolutionnaire est principalement associé au mathématicien allemand Georg Cantor ?",
+    "correct_answer": "La théorie des ensembles et les nombres transfinis",
+    "incorrect_answers": [
+      "Le calcul infinitésimal",
+      "La géométrie différentielle",
+      "La logique propositionnelle"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle opération mathématique est l'inverse de la dérivation et permet de trouver les fonctions dont la dérivée est connue ?",
+    "correct_answer": "L'intégration (ou primitivation)",
     "incorrect_answers": [
       "La factorisation",
-      "La sommation",
-      "L'interpolation"
+      "La linéarisation",
+      "La différentiation"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848813-a6133f937bfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734301-1e6ef045145f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel théorème établit qu'un polynôme de degré 'n' (avec n ≥ 1) à coefficients complexes possède exactement 'n' racines complexes, en comptant leur multiplicité ?",
-    "correct_answer": "Le théorème fondamental de l'algèbre",
+    "question": "Quel est le déterminant d'une matrice carrée si ses colonnes sont linéairement dépendantes ?",
+    "correct_answer": "Zéro",
     "incorrect_answers": [
-      "Le théorème de Gauss-Lucas",
-      "Le théorème de Rolle",
-      "Le théorème des valeurs intermédiaires"
+      "Un",
+      "Non défini",
+      "Négatif"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848761-a55e08173622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685733876-3bb63d3da1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans un contexte statistique, qu'est-ce que l'écart-type mesure-t-il ?",
-    "correct_answer": "La dispersion des données autour de la moyenne",
+    "question": "Quel type de séquence numérique est la suite de Fibonacci, caractérisée par une croissance exponentielle ?",
+    "correct_answer": "Une suite où chaque terme est la somme des deux précédents",
     "incorrect_answers": [
-      "La valeur la plus fréquente",
-      "Le point médian des données",
-      "La somme totale des valeurs"
+      "Une suite arithmétique de raison constante",
+      "Une suite géométrique de rapport constant",
+      "Une suite de nombres premiers"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733876-3bb63d3da1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734423-593b9854a31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien allemand du 19e siècle est célèbre pour ses travaux sur la géométrie non euclidienne et les variétés riemanniennes ?",
-    "correct_answer": "Bernhard Riemann",
-    "incorrect_answers": [
-      "David Hilbert",
-      "Carl Friedrich Gauss",
-      "Augustin-Louis Cauchy"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685849011-b3efeb6e1122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le terme désignant un ensemble qui contient tous les éléments possibles du contexte étudié ?",
-    "correct_answer": "L'ensemble universel",
-    "incorrect_answers": [
-      "L'ensemble vide",
-      "L'ensemble des parties",
-      "L'ensemble dénombrable"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734006-4a3cb9253a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème de probabilité indique qu'à mesure que la taille de l'échantillon augmente, la distribution de la moyenne de l'échantillon tend à être normale ?",
-    "correct_answer": "Le théorème de la limite centrale",
-    "incorrect_answers": [
-      "La loi des grands nombres",
-      "Le théorème de Bayes",
-      "Le théorème de la limite des bornes"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848238-001e0cc182ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans la géométrie hyperbolique, que se passe-t-il avec la somme des angles d'un triangle ?",
-    "correct_answer": "Elle est toujours inférieure à 180 degrés",
-    "incorrect_answers": [
-      "Elle est toujours égale à 180 degrés",
-      "Elle est toujours supérieure à 180 degrés",
-      "Elle varie en fonction de la taille du triangle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734226-e5a8327bf502?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a prouvé en 1994 le dernier théorème de Fermat, résolvant un problème posé depuis plus de 350 ans ?",
-    "correct_answer": "Andrew Wiles",
-    "incorrect_answers": [
-      "John Nash",
-      "Grigori Perelman",
-      "Alan Turing"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de l'unité imaginaire 'i' élevée à la puissance 2 (i²) ?",
-    "correct_answer": "-1",
-    "incorrect_answers": [
-      "1",
-      "i",
-      "0"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1620621983410-962c3124dc83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle transformation géométrique conserve les distances et les angles, mais inverse l'orientation d'une figure ?",
-    "correct_answer": "La réflexion (ou symétrie axiale)",
-    "incorrect_answers": [
-      "La rotation",
-      "La translation",
-      "L'homothétie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734363-9ca32535183d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien britannique est considéré comme le père de l'informatique théorique et de l'intelligence artificielle pour ses travaux sur la calculabilité ?",
-    "correct_answer": "Alan Turing",
-    "incorrect_answers": [
-      "Claude Shannon",
-      "John von Neumann",
-      "Norbert Wiener"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734423-593b9854a31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans la théorie des groupes, qu'est-ce qu'un groupe ?",
-    "correct_answer": "Un ensemble muni d'une loi de composition vérifiant certaines propriétés",
-    "incorrect_answers": [
-      "Un ensemble de nombres premiers",
-      "Une suite infinie de nombres",
-      "Un polygone régulier"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733809-0e53c640d93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème garantit que si une fonction continue sur un intervalle fermé prend des valeurs positives et négatives, elle doit s'annuler au moins une fois ?",
-    "correct_answer": "Le théorème des valeurs intermédiaires (TVI)",
-    "incorrect_answers": [
-      "Le théorème de Rolle",
-      "Le théorème de la moyenne",
-      "Le théorème de Bolzano-Weierstrass"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845891-64736626610f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel symbole mathématique, introduit par Leonhard Euler, représente la base du logarithme naturel et est approximativement égal à 2,718 ?",
-    "correct_answer": "La lettre 'e'",
-    "incorrect_answers": [
-      "La lettre 'π'",
-      "Le symbole '∞'",
-      "La lettre 'i'"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734268-003e12ca57bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle figure géométrique auto-similaire, où chaque partie est une reproduction plus petite du tout, est souvent associée à la dimension non entière ?",
-    "correct_answer": "Un fractal",
-    "incorrect_answers": [
-      "Un hypercube",
-      "Une sphère",
-      "Un tore"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848755-7db48b484385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En statistiques, quel est le terme pour l'hypothèse que l'on cherche à rejeter, souvent exprimée comme l'absence d'effet ou de différence ?",
-    "correct_answer": "L'hypothèse nulle",
-    "incorrect_answers": [
-      "L'hypothèse alternative",
-      "L'hypothèse de travail",
-      "L'hypothèse secondaire"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848612-dc8d3c0e9646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien et physicien du 17e siècle est crédité, avec Leibniz, de la découverte indépendante du calcul infinitésimal ?",
-    "correct_answer": "Isaac Newton",
-    "incorrect_answers": [
-      "Albert Einstein",
-      "Blaise Pascal",
-      "Johannes Kepler"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1573871014706-263f4dfec410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du raisonnement mathématique qui consiste à prouver une proposition en montrant que sa négation conduit à une contradiction ?",
-    "correct_answer": "La démonstration par l'absurde",
-    "incorrect_answers": [
-      "La démonstration directe",
-      "L'induction mathématique",
-      "La contraposition"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1659386510402-e93799ec82a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En géométrie, un polyèdre est dit convexe si le segment joignant deux de ses points est entièrement contenu à l'intérieur. Quelle est l'alternative pour un polyèdre non convexe ?",
-    "correct_answer": "Concave",
-    "incorrect_answers": [
-      "Irrégulier",
-      "Complexe",
-      "Dégénéré"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848352-c527c32b2054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le plus petit nombre entier positif qui est à la fois un carré parfait et un cube parfait (hormis 1) ?",
-    "correct_answer": "64 (qui est 8² et 4³)",
-    "incorrect_answers": [
-      "36",
-      "100",
-      "144"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848204-a170e78f1507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle mathématicienne allemande du 20e siècle a apporté des contributions fondamentales à l'algèbre abstraite et à la physique théorique, notamment les théorèmes de Noether ?",
-    "correct_answer": "Emmy Noether",
+    "question": "Quelle mathématicienne et philosophe de l'Antiquité, originaire d'Alexandrie, est la première femme dont l'œuvre mathématique est bien documentée ?",
+    "correct_answer": "Hypatie d'Alexandrie",
     "incorrect_answers": [
       "Sophie Germain",
-      "Hypatie",
+      "Émilie du Châtelet",
       "Ada Lovelace"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848791-87860bb29292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848761-a55e08173622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel célèbre théorème d'arithmétique, énoncé au XVIIe siècle, fut finalement démontré par Andrew Wiles en 1994 ?",
+    "correct_answer": "Le dernier théorème de Fermat",
+    "incorrect_answers": [
+      "Le petit théorème de Fermat",
+      "Le théorème des quatre couleurs",
+      "La conjecture de Poincaré"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848612-dc8d3c0e9646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En logique mathématique, quel est le nom de l'opérateur qui est vrai si et seulement si toutes les propositions qu'il relie sont vraies ?",
+    "correct_answer": "La conjonction (ET)",
+    "incorrect_answers": [
+      "La disjonction (OU)",
+      "L'implication",
+      "La négation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734268-003e12ca57bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En algèbre linéaire, qu'est-ce qu'une base d'un espace vectoriel ?",
+    "correct_answer": "Un ensemble de vecteurs linéairement indépendants qui engendrent l'espace",
+    "incorrect_answers": [
+      "Un ensemble de vecteurs orthogonaux",
+      "La dimension de l'espace vectoriel",
+      "Le plus petit sous-espace vectoriel"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848791-87860bb29292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Que mesure la variance en statistiques, et pourquoi est-elle souvent utilisée avec l'écart-type ?",
+    "correct_answer": "La dispersion des données autour de la moyenne",
+    "incorrect_answers": [
+      "La tendance centrale des données",
+      "La corrélation entre deux variables",
+      "La forme de la distribution"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733809-0e53c640d93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans le nombre complexe z = 3 + 2i, où 'i' est l'unité imaginaire, quelle est sa partie imaginaire ?",
+    "correct_answer": "2",
+    "incorrect_answers": [
+      "2i",
+      "3",
+      "i"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848813-a6133f937bfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Selon la classification des solides de Platon, quel est le seul polyèdre régulier possédant exactement 20 faces ?",
+    "correct_answer": "L'icosaèdre",
+    "incorrect_answers": [
+      "Le dodécaèdre",
+      "L'octaèdre",
+      "Le tétraèdre"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685849011-b3efeb6e1122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel théorème géométrique est utilisé pour calculer des longueurs de segments formés par des droites parallèles coupées par des sécantes ?",
+    "correct_answer": "Le théorème de Thalès",
+    "incorrect_answers": [
+      "Le théorème de Ménélaüs",
+      "Le théorème de Ceva",
+      "Le théorème de Ptolémée"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685845882-288eee8e913e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quels sont les deux mathématiciens souvent crédités d'avoir développé indépendamment le calcul infinitésimal ?",
+    "correct_answer": "Isaac Newton et Gottfried Wilhelm Leibniz",
+    "incorrect_answers": [
+      "René Descartes et Pierre de Fermat",
+      "Blaise Pascal et Pierre-Simon de Laplace",
+      "Leonhard Euler et Joseph-Louis Lagrange"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848755-7db48b484385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel concept mathématique est fondamental pour la définition de la dérivée, de l'intégrale et de la continuité des fonctions ?",
+    "correct_answer": "La notion de limite",
+    "incorrect_answers": [
+      "La notion d'infini",
+      "La notion de fonction",
+      "La notion d'ensemble"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734006-4a3cb9253a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Si deux événements A et B sont indépendants en probabilités, quelle est la formule correcte pour calculer P(A et B) ?",
+    "correct_answer": "P(A et B) = P(A) * P(B)",
+    "incorrect_answers": [
+      "P(A et B) = P(A) + P(B)",
+      "P(A et B) = P(A) / P(B)",
+      "P(A et B) = 0"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734242-8dbf726479eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "À quel grand problème mathématique non résolu l'hypothèse de Riemann, concernant les zéros de la fonction zêta, est-elle directement liée ?",
+    "correct_answer": "La distribution des nombres premiers",
+    "incorrect_answers": [
+      "La résolution des équations polynomiales",
+      "La théorie des cordes",
+      "Le problème de la quadrature du cercle"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734622-3e0a002b2f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle propriété du nombre Pi rend impossible la quadrature du cercle à la règle et au compas ?",
+    "correct_answer": "Sa transcendance",
+    "incorrect_answers": [
+      "Son irrationalité",
+      "Son infinité de décimales",
+      "Son statut de constante universelle"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685845891-64736626610f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel domaine des mathématiques généralise les notions de distance, de proximité et de convergence sans utiliser de mesures de distance explicites ?",
+    "correct_answer": "La topologie",
+    "incorrect_answers": [
+      "L'algèbre linéaire",
+      "La géométrie différentielle",
+      "La théorie des groupes"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734483-e11fe75480dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la principale propriété d'une matrice identité (I) lorsqu'elle est multipliée par une autre matrice (A) de taille compatible ?",
+    "correct_answer": "AI = IA = A",
+    "incorrect_answers": [
+      "AI = 0",
+      "A + I = A",
+      "IA = I"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734226-e5a8327bf502?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel célèbre problème mathématique non résolu énonce que tout nombre pair supérieur à 2 est la somme de deux nombres premiers ?",
+    "correct_answer": "La conjecture de Goldbach",
+    "incorrect_answers": [
+      "L'hypothèse de Riemann",
+      "Le problème de P vs NP",
+      "Le dernier théorème de Fermat"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1659386510402-e93799ec82a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Que mesure le coefficient de corrélation de Pearson entre deux variables quantitatives ?",
+    "correct_answer": "La force et la direction de leur relation linéaire",
+    "incorrect_answers": [
+      "La cause et l'effet entre elles",
+      "La probabilité qu'elles se produisent ensemble",
+      "L'écart-type de chaque variable"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848238-001e0cc182ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

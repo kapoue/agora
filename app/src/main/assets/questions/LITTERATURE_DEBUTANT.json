@@ -1,302 +1,302 @@
 [
   {
-    "question": "Qui est l'auteur du célèbre roman \"Les Misérables\" ?",
+    "question": "Qui a écrit le célèbre roman philosophique et poétique \"Le Petit Prince\" ?",
+    "correct_answer": "Antoine de Saint-Exupéry",
+    "incorrect_answers": [
+      "Jules Verne",
+      "Victor Hugo",
+      "Marcel Pagnol"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1553447977-754f9430685c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur est connu pour ses œuvres majeures comme \"Les Misérables\" et \"Notre-Dame de Paris\" ?",
     "correct_answer": "Victor Hugo",
     "incorrect_answers": [
       "Émile Zola",
       "Honoré de Balzac",
-      "Gustave Flaubert"
+      "Alexandre Dumas"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769313973845-e3694c8e93d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1746913361326-01c3214c7540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel écrivain est connu pour avoir écrit \"Le Petit Prince\" ?",
-    "correct_answer": "Antoine de Saint-Exupéry",
+    "question": "Molière est un dramaturge français célèbre pour ses comédies. Laquelle de ces pièces est la sienne ?",
+    "correct_answer": "Le Bourgeois Gentilhomme",
     "incorrect_answers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "André Malraux"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1700160098321-658839e8a3ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle pièce de théâtre célèbre a été écrite par Molière ?",
-    "correct_answer": "Le Malade imaginaire",
-    "incorrect_answers": [
+      "Roméo et Juliette",
       "Le Cid",
-      "Phèdre",
-      "Cyrano de Bergerac"
+      "Britannicus"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1697791173189-d56b15df4f33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3NzExMjkzMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1553448410-3b3b2584498c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3Nzk1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le plus ancien et le plus prestigieux des prix littéraires français ?",
+    "question": "Quel auteur français est l'inventeur du Capitaine Nemo dans \"Vingt mille lieues sous les mers\" et \"L'Île mystérieuse\" ?",
+    "correct_answer": "Jules Verne",
+    "incorrect_answers": [
+      "Guy de Maupassant",
+      "Albert Camus",
+      "Jean Giono"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1760869028443-07e914573a7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du célèbre fabuliste français, auteur de \"Le Corbeau et le Renard\" ?",
+    "correct_answer": "Jean de La Fontaine",
+    "incorrect_answers": [
+      "Charles Perrault",
+      "Les frères Grimm",
+      "Hans Christian Andersen"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1755188977089-3bb40306d57f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "À quel genre littéraire appartient principalement l'œuvre \"Les Fleurs du Mal\" de Charles Baudelaire ?",
+    "correct_answer": "La poésie",
+    "incorrect_answers": [
+      "Le roman policier",
+      "La pièce de théâtre",
+      "L'essai philosophique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1535058489223-1331b20fa114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus ancien et prestigieux prix littéraire français, créé en 1903 ?",
     "correct_answer": "Le Prix Goncourt",
     "incorrect_answers": [
-      "Le Prix Femina",
       "Le Prix Renaudot",
+      "Le Prix Femina",
       "Le Prix Médicis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1748207397062-02440ad9f034?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1585742162711-ed1a0fb549ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3Nzk1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit le roman philosophique \"Candide ou l'Optimisme\" ?",
+    "question": "Au 17e siècle, qui est l'un des plus grands dramaturges français, maître de la comédie ?",
+    "correct_answer": "Molière",
+    "incorrect_answers": [
+      "Victor Hugo",
+      "Jean Racine",
+      "Pierre Corneille"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768219778067-40d9edc03c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Jean Valjean est le personnage principal de quel roman célèbre de Victor Hugo ?",
+    "correct_answer": "Les Misérables",
+    "incorrect_answers": [
+      "Le Comte de Monte-Cristo",
+      "Germinal",
+      "L'Étranger"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1748630864655-1d95b79fc2f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3Nzk1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a imaginé les contes intemporels comme \"Le Petit Chaperon rouge\" et \"Cendrillon\" ?",
+    "correct_answer": "Charles Perrault",
+    "incorrect_answers": [
+      "Les frères Grimm",
+      "Hans Christian Andersen",
+      "Jean de La Fontaine"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1722182877533-7378b60bf1e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "William Shakespeare, l'auteur de \"Roméo et Juliette\" et \"Hamlet\", est de quelle nationalité ?",
+    "correct_answer": "Britannique",
+    "incorrect_answers": [
+      "Américaine",
+      "Française",
+      "Italienne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761570391541-5fb2938a8024?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3Nzk1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain français a raconté ses souvenirs d'enfance dans \"La Gloire de mon père\" et \"Le Château de ma mère\" ?",
+    "correct_answer": "Marcel Pagnol",
+    "incorrect_answers": [
+      "Alphonse Daudet",
+      "Pierre Loti",
+      "André Gide"
+    ],
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1575402734631-19834e7ac4be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3Nzk1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "\"L'Étranger\" d'Albert Camus explore une idée majeure. Laquelle ?",
+    "correct_answer": "L'absurdité de l'existence",
+    "incorrect_answers": [
+      "La quête d'identité",
+      "L'amour impossible",
+      "La critique sociale"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1697791173189-d56b15df4f33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3Nzk1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui est la célèbre auteure britannique de romans policiers, créatrice d'Hercule Poirot et Miss Marple ?",
+    "correct_answer": "Agatha Christie",
+    "incorrect_answers": [
+      "Mary Higgins Clark",
+      "Patricia Highsmith",
+      "Dorothy L. Sayers"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774215915219-0daacf6e5977?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle auteure britannique a créé l'univers magique du jeune sorcier Harry Potter ?",
+    "correct_answer": "J.K. Rowling",
+    "incorrect_answers": [
+      "Roald Dahl",
+      "Enid Blyton",
+      "Suzanne Collins"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1700160098321-658839e8a3ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe des Lumières est l'auteur du conte philosophique \"Candide ou l'Optimisme\" ?",
     "correct_answer": "Voltaire",
     "incorrect_answers": [
       "Jean-Jacques Rousseau",
       "Denis Diderot",
       "Montesquieu"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1553447977-754f9430685c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1764807750225-b2ebb272c174?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur français est associé au recueil de poèmes \"Les Fleurs du Mal\" ?",
-    "correct_answer": "Charles Baudelaire",
+    "question": "Quasimodo, le sonneur de cloches, est le personnage emblématique de quel grand roman ?",
+    "correct_answer": "Notre-Dame de Paris",
     "incorrect_answers": [
-      "Arthur Rimbaud",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
+      "Les Travailleurs de la mer",
+      "Quatrevingt-treize",
+      "Hernani"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760869028443-07e914573a7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1671202201112-a98948cc879d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3Nzk1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel grand écrivain du XIXe siècle a écrit le roman \"Germinal\" ?",
-    "correct_answer": "Émile Zola",
+    "question": "Guy de Maupassant est un maître de la nouvelle réaliste. Laquelle de ces œuvres est la sienne ?",
+    "correct_answer": "Boule de Suif",
     "incorrect_answers": [
-      "Guy de Maupassant",
-      "Alphonse Daudet",
-      "Jules Verne"
+      "La Vénus d'Ille",
+      "Le Colonel Chabert",
+      "Le Roman de la momie"
     ],
-    "imageUrl": "https://images.unsplash.com/flagged/photo-1575402734631-19834e7ac4be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3NzExMjkzMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1772380407481-81b8f13bd010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman raconte les aventures du personnage de \"Don Quichotte\" ?",
-    "correct_answer": "Don Quichotte",
-    "incorrect_answers": [
-      "Le Cid",
-      "L'Odyssée",
-      "La Divine Comédie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553448410-3b3b2584498c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3NzExMjkzMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est l'auteur des tragédies classiques comme \"Phèdre\" ?",
-    "correct_answer": "Jean Racine",
-    "incorrect_answers": [
-      "Pierre Corneille",
-      "Molière",
-      "Victor Hugo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1652711475965-61d2e00904e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3NzExMjkzMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Jules Verne emmène ses lecteurs sous la mer ?",
-    "correct_answer": "Vingt mille lieues sous les mers",
-    "incorrect_answers": [
-      "Le Tour du monde en quatre-vingts jours",
-      "De la Terre à la Lune",
-      "Voyage au centre de la Terre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595123336219-5eedd543bc4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel personnage est le bossu de Notre-Dame de Paris dans le roman de Victor Hugo ?",
-    "correct_answer": "Quasimodo",
-    "incorrect_answers": [
-      "Esmeralda",
-      "Gavroche",
-      "Jean Valjean"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775903962504-655dd33409b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman débute par la phrase \"Longtemps, je me suis couché de bonne heure.\" ?",
-    "correct_answer": "Du côté de chez Swann",
-    "incorrect_answers": [
-      "L'Étranger",
-      "Madame Bovary",
-      "Le Père Goriot"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1722182877533-7378b60bf1e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est l'auteur du roman \"L'Étranger\", figure majeure de l'existentialisme ?",
-    "correct_answer": "Albert Camus",
-    "incorrect_answers": [
-      "Jean-Paul Sartre",
-      "André Gide",
-      "François Mauriac"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1760574016165-01d2743cecf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel poète a écrit le recueil \"Une saison en enfer\" et \"Le Bateau ivre\" ?",
-    "correct_answer": "Arthur Rimbaud",
-    "incorrect_answers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Guillaume Apollinaire"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764728671460-34931d8261f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est l'auteur de \"Madame Bovary\", roman réaliste du XIXe siècle ?",
-    "correct_answer": "Gustave Flaubert",
+    "question": "Qui est l'auteur du célèbre roman \"Le Rouge et le Noir\", figure du romantisme et du réalisme ?",
+    "correct_answer": "Stendhal",
     "incorrect_answers": [
       "Honoré de Balzac",
-      "Stendhal",
-      "Guy de Maupassant"
+      "Gustave Flaubert",
+      "Émile Zola"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769092992573-d9b4f25b5c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1769313973845-e3694c8e93d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'auteur de \"Le Père Goriot\", roman de la Comédie humaine ?",
-    "correct_answer": "Honoré de Balzac",
+    "question": "Qui est l'auteur du roman \"Madame Bovary\", œuvre majeure du réalisme français du 19e siècle ?",
+    "correct_answer": "Gustave Flaubert",
     "incorrect_answers": [
       "Émile Zola",
-      "Victor Hugo",
-      "Alexandre Dumas"
+      "Stendhal",
+      "Honoré de Balzac"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1768219778067-40d9edc03c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775903962504-655dd33409b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel genre littéraire est caractérisé par des vers et des strophes ?",
-    "correct_answer": "La poésie",
-    "incorrect_answers": [
-      "Le roman",
-      "Le théâtre",
-      "L'essai"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1748630864655-1d95b79fc2f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3NzExMjkzMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit la célèbre pièce de théâtre \"Roméo et Juliette\" ?",
-    "correct_answer": "William Shakespeare",
-    "incorrect_answers": [
-      "Molière",
-      "Jean Racine",
-      "Pierre Corneille"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1671202201112-a98948cc879d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3NzExMjkzMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Guy de Maupassant met en scène le personnage de Georges Duroy ?",
-    "correct_answer": "Bel-Ami",
-    "incorrect_answers": [
-      "Une vie",
-      "Pierre et Jean",
-      "Boule de suif"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1755188977089-3bb40306d57f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel prix littéraire est attribué chaque année par l'Académie suédoise ?",
-    "correct_answer": "Le Prix Nobel de littérature",
-    "incorrect_answers": [
-      "Le Prix Goncourt",
-      "Le Prix Pulitzer",
-      "Le Booker Prize"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1768573263829-483ffb02c81d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3NzExMjkzMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit \"Les Trois Mousquetaires\" et \"Le Comte de Monte-Cristo\" ?",
+    "question": "Quel est l'auteur des romans d'aventure \"Les Trois Mousquetaires\" et \"Le Comte de Monte-Cristo\" ?",
     "correct_answer": "Alexandre Dumas père",
     "incorrect_answers": [
       "Victor Hugo",
       "Jules Verne",
       "Honoré de Balzac"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765959678997-2342f6d31a42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1769092992573-d9b4f25b5c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Molière est un dramaturge emblématique de quel siècle et mouvement ?",
-    "correct_answer": "Le XVIIe siècle et le classicisme",
+    "question": "\"Germinal\" d'Émile Zola dépeint les conditions de vie de quelle catégorie sociale au 19e siècle ?",
+    "correct_answer": "Les mineurs",
     "incorrect_answers": [
-      "Le XVIIIe siècle et les Lumières",
-      "Le XIXe siècle et le romantisme",
-      "Le XVIe siècle et la Renaissance"
+      "Les bourgeois",
+      "Les paysans",
+      "Les aristocrates"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774215915219-0daacf6e5977?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1595123550384-b81222e23cf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel roman peut-on suivre les aventures de Frodon Sacquet et Gandalf ?",
-    "correct_answer": "Le Seigneur des Anneaux",
+    "question": "Quel écrivain espagnol est connu pour avoir créé le personnage de Don Quichotte ?",
+    "correct_answer": "Miguel de Cervantes",
     "incorrect_answers": [
-      "Harry Potter",
-      "Le Monde de Narnia",
-      "Game of Thrones"
+      "Lope de Vega",
+      "Gabriel García Márquez",
+      "Jorge Luis Borges"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1535058489223-1331b20fa114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1615306110347-d06557efb54d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3Nzk1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est l'auteur du recueil de fables \"Les Fables de La Fontaine\" ?",
-    "correct_answer": "Jean de La Fontaine",
+    "question": "Au 19e siècle, Victor Hugo a marqué son époque. À quel mouvement littéraire est-il principalement associé ?",
+    "correct_answer": "Le Romantisme",
     "incorrect_answers": [
-      "Charles Perrault",
-      "Montesquieu",
-      "Voltaire"
+      "Le Classicisme",
+      "Le Réalisme",
+      "Le Naturalisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761570391541-5fb2938a8024?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3NzExMjkzMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760574016165-01d2743cecf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Victor Hugo raconte l'histoire du forçat Jean Valjean ?",
-    "correct_answer": "Les Misérables",
+    "question": "Quel était le vrai nom du célèbre dramaturge français Molière ?",
+    "correct_answer": "Jean-Baptiste Poquelin",
     "incorrect_answers": [
-      "Notre-Dame de Paris",
-      "Quatrevingt-treize",
-      "Les Travailleurs de la mer"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1746913361326-01c3214c7540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel écrivain a imaginé le \"Tour du monde en quatre-vingts jours\" ?",
-    "correct_answer": "Jules Verne",
-    "incorrect_answers": [
-      "Alexandre Dumas",
-      "Gustave Flaubert",
-      "Émile Zola"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595123550384-b81222e23cf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est l'auteur de la célèbre pièce de théâtre \"Cyrano de Bergerac\" ?",
-    "correct_answer": "Edmond Rostand",
-    "incorrect_answers": [
-      "Molière",
+      "François-Marie Arouet",
       "Jean Racine",
       "Pierre Corneille"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1615306110347-d06557efb54d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1652711475965-61d2e00904e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3Nzk1MDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel écrivain est connu pour ses contes comme \"Le Chat Botté\" et \"Le Petit Poucet\" ?",
-    "correct_answer": "Charles Perrault",
+    "question": "Dans quelle ville se déroule une grande partie de l'action du roman \"Les Misérables\" de Victor Hugo ?",
+    "correct_answer": "Paris",
     "incorrect_answers": [
-      "Jean de La Fontaine",
-      "Hans Christian Andersen",
-      "Les Frères Grimm"
+      "Marseille",
+      "Lyon",
+      "Bordeaux"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769963061311-293a72e5cffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1765959678997-2342f6d31a42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman d'Albert Camus met en scène Meursault, un homme indifférent au monde ?",
-    "correct_answer": "L'Étranger",
+    "question": "Quel auteur a créé le personnage d'Arsène Lupin, le célèbre gentleman-cambrioleur français ?",
+    "correct_answer": "Maurice Leblanc",
     "incorrect_answers": [
-      "La Peste",
-      "La Chute",
-      "Caligula"
+      "Gaston Leroux",
+      "Arthur Conan Doyle",
+      "Edgar Allan Poe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1772380407481-81b8f13bd010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1595123336219-5eedd543bc4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Victor Hugo est une figure majeure de quel mouvement littéraire français ?",
-    "correct_answer": "Le Romantisme",
+    "question": "Alice est l'héroïne de quel conte fantastique où elle explore un monde absurde ?",
+    "correct_answer": "Alice au pays des merveilles",
     "incorrect_answers": [
-      "Le Réalisme",
-      "Le Naturalisme",
-      "Le Classicisme"
+      "Le Magicien d'Oz",
+      "Peter Pan",
+      "Narnia"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1585742162711-ed1a0fb549ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3NzExMjkzMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1764728671460-34931d8261f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Jacques Prévert est un célèbre poète français du 20e siècle. Quel est le titre d'un de ses recueils les plus connus ?",
+    "correct_answer": "Paroles",
+    "incorrect_answers": [
+      "Alcools",
+      "Capitale de la douleur",
+      "La Chanson de Roland"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768573263829-483ffb02c81d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "\"Le Cid\" de Pierre Corneille est une œuvre majeure de la littérature française du 17e siècle. De quel type est-elle ?",
+    "correct_answer": "Une pièce de théâtre",
+    "incorrect_answers": [
+      "Un roman historique",
+      "Un recueil de poèmes",
+      "Un essai philosophique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1769963061311-293a72e5cffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

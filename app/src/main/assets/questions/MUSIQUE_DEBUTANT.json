@@ -1,302 +1,302 @@
 [
   {
-    "question": "Qui est surnommé le « Roi de la Pop » ?",
+    "question": "Quel artiste est surnommé le 'Roi de la Pop' ?",
     "correct_answer": "Michael Jackson",
     "incorrect_answers": [
       "Elvis Presley",
       "Prince",
-      "Freddie Mercury"
+      "James Brown"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1724346809072-8b512cb5c6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1580151671904-f599d3f0b3f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'instrument à clavier le plus courant, souvent utilisé pour apprendre la musique ?",
-    "correct_answer": "Le piano",
+    "question": "Quel est l'instrument à cordes le plus couramment joué dans le rock et la pop ?",
+    "correct_answer": "La guitare électrique",
     "incorrect_answers": [
-      "La guitare",
-      "La batterie",
-      "Le violon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574282481525-530f0ed989cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzcxMTI5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "De quel genre musical Bob Marley est-il une figure emblématique ?",
-    "correct_answer": "Le reggae",
-    "incorrect_answers": [
-      "Le rock",
-      "Le jazz",
-      "La salsa"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1608728786215-8234c575dc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzcxMTI5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe britannique a sorti l'album « Abbey Road » avec sa célèbre pochette sur un passage piéton ?",
-    "correct_answer": "The Beatles",
-    "incorrect_answers": [
-      "The Rolling Stones",
-      "Queen",
-      "Led Zeppelin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1720602463847-620b9af0f61d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle chanteuse est connue pour son tube planétaire « Hello » ?",
-    "correct_answer": "Adele",
-    "incorrect_answers": [
-      "Rihanna",
-      "Beyoncé",
-      "Taylor Swift"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1630353174598-210fa3fe80ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzcxMTI5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur autrichien a écrit des œuvres célèbres comme « La Flûte enchantée » ou « Une petite musique de nuit » ?",
-    "correct_answer": "Wolfgang Amadeus Mozart",
-    "incorrect_answers": [
-      "Ludwig van Beethoven",
-      "Jean-Sébastien Bach",
-      "Frédéric Chopin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583258071132-0c1aa562a5c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Parmi ces instruments, lequel appartient à la famille des cordes frottées ?",
-    "correct_answer": "Le violon",
-    "incorrect_answers": [
-      "La guitare",
+      "Le violon",
       "La harpe",
-      "Le piano"
+      "Le saxophone"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580151713793-30a0df886358?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1583257984061-135437bac7c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzc5MTkzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le titre de l'album de Michael Jackson le plus vendu de tous les temps ?",
-    "correct_answer": "Thriller",
+    "question": "Quel genre musical est originaire de la Jamaïque et popularisé par Bob Marley ?",
+    "correct_answer": "Le Reggae",
     "incorrect_answers": [
-      "Bad",
-      "Dangerous",
-      "Off the Wall"
+      "Le Blues",
+      "Le Jazz",
+      "La Salsa"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767468889316-a0739e14297b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1685640477533-f4d00f9b2f50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzc5MTkzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel genre musical est né à la Nouvelle-Orléans et se caractérise par l'improvisation ?",
-    "correct_answer": "Le jazz",
+    "question": "Quel est le titre de la chanson emblématique de Queen souvent considérée comme un opéra rock ?",
+    "correct_answer": "Bohemian Rhapsody",
     "incorrect_answers": [
-      "Le blues",
-      "Le gospel",
-      "Le folk"
+      "We Will Rock You",
+      "Stairway to Heaven",
+      "Hotel California"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696949772210-ac1e9e59a4d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1724346895394-96e3f2084e8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui était le chanteur emblématique du groupe Queen ?",
-    "correct_answer": "Freddie Mercury",
-    "incorrect_answers": [
-      "Mick Jagger",
-      "Robert Plant",
-      "John Lennon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1692575853105-eb72bfeaec83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzcxMTI5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument de musique est composé de fûts, de cymbales et se joue avec des baguettes ?",
-    "correct_answer": "La batterie",
-    "incorrect_answers": [
-      "Le xylophone",
-      "Le tambourin",
-      "Le djembé"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1579200301048-20b886b6dcae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "La « Symphonie n°5 » et la « Lettre à Élise » sont des œuvres célèbres de quel compositeur ?",
+    "question": "Quel grand compositeur classique a écrit la 'Symphonie n°5' et est souvent associé à la surdité ?",
     "correct_answer": "Ludwig van Beethoven",
     "incorrect_answers": [
+      "Wolfgang Amadeus Mozart",
       "Johann Sebastian Bach",
-      "Joseph Haydn",
-      "Franz Schubert"
+      "Frédéric Chopin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1579883238462-2c9025486ef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzcxMTI5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1579883477083-7af2e61049fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de rock britannique est célèbre pour des titres comme « (I Can't Get No) Satisfaction » ?",
-    "correct_answer": "The Rolling Stones",
+    "question": "De quel pays est originaire le groupe The Beatles ?",
+    "correct_answer": "Le Royaume-Uni",
     "incorrect_answers": [
-      "The Kinks",
-      "The Who",
-      "Led Zeppelin"
+      "Les États-Unis",
+      "L'Australie",
+      "Le Canada"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1583257984061-135437bac7c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzcxMTI5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1625801821689-b6ba4919c9a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'instrument à vent en cuivre le plus grave, reconnaissable à sa forme en S ?",
-    "correct_answer": "Le tuba",
+    "question": "Quel instrument est principalement utilisé pour maintenir le rythme dans un groupe de musique ?",
+    "correct_answer": "La batterie",
     "incorrect_answers": [
-      "La trompette",
-      "Le trombone",
-      "Le cor d'harmonie"
+      "Le piano",
+      "La flûte",
+      "La trompette"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1579883477083-7af2e61049fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1583258071132-0c1aa562a5c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du célèbre festival de musique qui s'est déroulé en 1969 aux États-Unis ?",
-    "correct_answer": "Woodstock",
+    "question": "Quel genre musical se caractérise par des paroles rappées sur un accompagnement rythmique ?",
+    "correct_answer": "Le Hip-hop",
     "incorrect_answers": [
-      "Glastonbury",
-      "Coachella",
-      "Rock in Rio"
+      "Le Country",
+      "La Musique classique",
+      "Le Flamenco"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1583258189112-66ebfa12be98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1692575853105-eb72bfeaec83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzc5MTkzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la chanteuse américaine surnommée la « Reine de la Pop » ?",
-    "correct_answer": "Madonna",
+    "question": "Quelle chanson d'Edith Piaf est l'une des plus célèbres au monde et parle d'amour ?",
+    "correct_answer": "La Vie en rose",
     "incorrect_answers": [
-      "Janet Jackson",
-      "Mariah Carey",
-      "Whitney Houston"
+      "Non, je ne regrette rien",
+      "Milord",
+      "L'Hymne à l'amour"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580151671904-f599d3f0b3f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1583258189112-66ebfa12be98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument à vent est souvent associé au jazz et est disponible en différentes tailles (alto, ténor) ?",
+    "question": "Quel DJ et producteur français est connu pour ses casques et son style électronique ?",
+    "correct_answer": "Daft Punk",
+    "incorrect_answers": [
+      "David Guetta",
+      "Calvin Harris",
+      "Martin Garrix"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1696949773465-9e8a0cce5262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à vent est souvent associé au jazz et a une forme courbée ?",
     "correct_answer": "Le saxophone",
     "incorrect_answers": [
       "La clarinette",
-      "La flûte",
-      "Le hautbois"
+      "La flûte traversière",
+      "Le trombone"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801823657-faf97ff912cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1696949772210-ac1e9e59a4d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel genre musical est caractérisé par des paroles rappées et des rythmes syncopés ?",
-    "correct_answer": "Le hip-hop",
+    "question": "Comment s'appelle l'ensemble des musiciens qui jouent ensemble sous la direction d'un chef ?",
+    "correct_answer": "Un orchestre",
     "incorrect_answers": [
-      "Le R&B",
-      "La soul",
-      "Le funk"
+      "Un chœur",
+      "Un duo",
+      "Une chorale"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580151624121-10557144c85c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1574282481525-530f0ed989cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzc5MTkzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le titre de l'album de Pink Floyd dont la pochette représente un prisme décomposant la lumière ?",
-    "correct_answer": "The Dark Side of the Moon",
-    "incorrect_answers": [
-      "Wish You Were Here",
-      "The Wall",
-      "Animals"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1685640477533-f4d00f9b2f50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzcxMTI5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur italien est célèbre pour ses « Quatre Saisons » ?",
-    "correct_answer": "Antonio Vivaldi",
-    "incorrect_answers": [
-      "Giuseppe Verdi",
-      "Giacomo Puccini",
-      "Gioachino Rossini"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1630353174704-72da2fe9298e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la particularité principale de la guitare électrique par rapport à la guitare acoustique ?",
-    "correct_answer": "Elle nécessite un amplificateur pour le son",
-    "incorrect_answers": [
-      "Elle n'a pas de cordes",
-      "Elle est toujours plus petite",
-      "Elle se joue uniquement au doigt"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1724346895394-96e3f2084e8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste français est connu pour ses chansons comme « Papaoutai » et « Alors on danse » ?",
-    "correct_answer": "Stromae",
-    "incorrect_answers": [
-      "M. Pokora",
-      "Vianney",
-      "Maître Gims"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801821689-b6ba4919c9a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Le genre musical « classique » est principalement né sur quel continent ?",
-    "correct_answer": "L'Europe",
-    "incorrect_answers": [
-      "L'Afrique",
-      "L'Asie",
-      "L'Amérique du Nord"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1640420301600-37a8c72961ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzcxMTI5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel chanteur américain est une icône du rock'n'roll, connu pour son déhanché ?",
+    "question": "Quel chanteur américain est connu comme le 'Roi du Rock and Roll' ?",
     "correct_answer": "Elvis Presley",
     "incorrect_answers": [
       "Chuck Berry",
       "Little Richard",
       "Jerry Lee Lewis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696949773465-9e8a0cce5262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1625801821669-d11f0ede90cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument à clavier est souvent associé à la musique d'église ?",
-    "correct_answer": "L'orgue",
+    "question": "Quelle est la chanson thème du film 'Titanic' interprétée par Céline Dion ?",
+    "correct_answer": "My Heart Will Go On",
     "incorrect_answers": [
-      "Le clavecin",
-      "L'accordéon",
-      "Le synthétiseur"
+      "I Will Always Love You",
+      "The Power of Love",
+      "All By Myself"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801827670-3ae6e48dc89d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1625801827670-3ae6e48dc89d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "De quel pays est originaire le genre musical du Tango ?",
-    "correct_answer": "L'Argentine",
+    "question": "Quel genre musical est apparu aux États-Unis à la fin du 19e siècle, caractérisé par l'improvisation ?",
+    "correct_answer": "Le Jazz",
     "incorrect_answers": [
-      "L'Espagne",
-      "Le Brésil",
-      "Le Mexique"
+      "Le Rock",
+      "Le Disco",
+      "La Pop"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763627516727-2ca3e324fa59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzcxMTI5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1630353174598-210fa3fe80ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzc5MTkzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur allemand est célèbre pour ses œuvres baroques comme les « Concertos brandebourgeois » ?",
-    "correct_answer": "Jean-Sébastien Bach",
+    "question": "Quel instrument est un grand clavier avec des marteaux qui frappent des cordes ?",
+    "correct_answer": "Le piano",
     "incorrect_answers": [
-      "Georg Friedrich Haendel",
-      "Franz Liszt",
-      "Richard Wagner"
+      "L'orgue",
+      "Le synthétiseur",
+      "Le clavecin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773433535783-64c7922c8ede?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763627516727-2ca3e324fa59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzc5MTkzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du petit instrument à vent que l'on joue en soufflant dedans et qui est souvent utilisé pour le blues ?",
-    "correct_answer": "L'harmonica",
+    "question": "Quel artiste belge est célèbre pour des chansons comme 'Alors on danse' et 'Papaoutai' ?",
+    "correct_answer": "Stromae",
     "incorrect_answers": [
-      "Le sifflet",
-      "La flûte à bec",
-      "Le kazoo"
+      "Angèle",
+      "Jacques Brel",
+      "Johnny Hallyday"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801821669-d11f0ede90cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1724346809072-8b512cb5c6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du groupe français connu pour ses casques et ses tubes comme « Get Lucky » ou « Around the World » ?",
-    "correct_answer": "Daft Punk",
+    "question": "Quel accessoire sert à diriger les musiciens d'un orchestre ?",
+    "correct_answer": "La baguette",
     "incorrect_answers": [
-      "Justice",
-      "Phoenix",
-      "Air"
+      "Le pupitre",
+      "Le micro",
+      "L'archet"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1583258242799-579668b2a4e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1580151713793-30a0df886358?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle période de l'histoire de la musique classique est caractérisée par la virtuosité et l'expression des émotions, avec Chopin ou Liszt ?",
-    "correct_answer": "Le Romantisme",
+    "question": "Quel chanteur britannique est connu pour des tubes comme 'Shape of You' et 'Perfect' ?",
+    "correct_answer": "Ed Sheeran",
     "incorrect_answers": [
-      "La période Baroque",
-      "La période Classique",
-      "La période Contemporaine"
+      "Harry Styles",
+      "Sam Smith",
+      "Justin Bieber"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1579883238479-0397fab0e4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3MTEyOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1625801823657-faf97ff912cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est né aux États-Unis parmi les communautés afro-américaines avec des chants de travail ?",
+    "correct_answer": "Le Blues",
+    "incorrect_answers": [
+      "Le Rockabilly",
+      "Le Funk",
+      "La Soul"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1640420301600-37a8c72961ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzc5MTkzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Lequel de ces instruments fait partie de la famille des cuivres ?",
+    "correct_answer": "La trompette",
+    "incorrect_answers": [
+      "La clarinette",
+      "Le violoncelle",
+      "La flûte"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1579883238479-0397fab0e4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzc5MTkzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "De quelle chanson emblématique de John Lennon est extrait le célèbre refrain 'Imagine all the people living life in peace' ?",
+    "correct_answer": "Imagine",
+    "incorrect_answers": [
+      "Give Peace a Chance",
+      "Happy Xmas (War Is Over)",
+      "Woman"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1630353174704-72da2fe9298e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel grand compositeur autrichien a écrit des opéras comme 'La Flûte enchantée' ?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "incorrect_answers": [
+      "Johann Strauss",
+      "Joseph Haydn",
+      "Antonio Vivaldi"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1583258242799-579668b2a4e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Comment s'appelle la personne qui interprète une chanson en la chantant ?",
+    "correct_answer": "Un chanteur",
+    "incorrect_answers": [
+      "Un danseur",
+      "Un acteur",
+      "Un écrivain"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773433535783-64c7922c8ede?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est connu pour ses rythmes entraînants et ses mélodies dansantes, très populaire dans les années 70 ?",
+    "correct_answer": "Le Disco",
+    "incorrect_answers": [
+      "Le Grunge",
+      "Le Punk",
+      "Le Heavy Metal"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580151624121-10557144c85c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Lequel de ces instruments n'est PAS un instrument à cordes ?",
+    "correct_answer": "Le tambour",
+    "incorrect_answers": [
+      "Le violon",
+      "La guitare",
+      "La harpe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1720602463847-620b9af0f61d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "De quel groupe était le célèbre chanteur Freddie Mercury ?",
+    "correct_answer": "Queen",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "The Rolling Stones",
+      "Pink Floyd"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1579200301048-20b886b6dcae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'album le plus vendu de tous les temps, de Michael Jackson ?",
+    "correct_answer": "Thriller",
+    "incorrect_answers": [
+      "Bad",
+      "Dangerous",
+      "Off the Wall"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1579883238462-2c9025486ef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzc5MTkzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qu'est-ce qu'une 'note de musique' ?",
+    "correct_answer": "Un son musical précis et constant",
+    "incorrect_answers": [
+      "Un type d'instrument",
+      "Une danse populaire",
+      "Un genre musical"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767468889316-a0739e14297b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Comment appelle-t-on le livre qui contient les paroles d'un opéra ou d'une comédie musicale ?",
+    "correct_answer": "Le livret",
+    "incorrect_answers": [
+      "Le roman",
+      "La partition",
+      "Le script"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1625801820911-59ce8bb65f6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

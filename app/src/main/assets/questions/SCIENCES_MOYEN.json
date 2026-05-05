@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quelle est la principale fonction des mitochondries dans une cellule eucaryote ?",
-    "correct_answer": "Production d'énergie sous forme d'ATP",
+    "question": "Quelle est la molécule support de l'information génétique dans la plupart des organismes vivants ?",
+    "correct_answer": "Acide désoxyribonucléique (ADN)",
     "incorrect_answers": [
-      "Synthèse des protéines",
-      "Stockage de l'information génétique",
-      "Détoxification cellulaire"
+      "Acide ribonucléique (ARN)",
+      "Protéine",
+      "Glucide"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928355784-b05f7a78b842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1602928355784-b05f7a78b842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la planète la plus chaude de notre système solaire ?",
+    "question": "Quel physicien a formulé la loi universelle de la gravitation ?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": [
+      "Albert Einstein",
+      "Galilée",
+      "Johannes Kepler"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777631587017-ab434588da3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'atmosphère terrestre ?",
+    "correct_answer": "Azote",
+    "incorrect_answers": [
+      "Oxygène",
+      "Argon",
+      "Dioxyde de carbone"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766713203219-8ca06e1f4db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle planète est surnommée \"l'Étoile du Berger\" et est la plus chaude du système solaire ?",
     "correct_answer": "Vénus",
     "incorrect_answers": [
-      "Mercure",
       "Mars",
-      "Jupiter"
+      "Jupiter",
+      "Mercure"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1568742280287-3824b9ff7fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1618053448701-5220304dc9ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel phénomène optique est responsable de la séparation de la lumière blanche en un spectre de couleurs lorsqu'elle traverse un prisme ?",
-    "correct_answer": "La dispersion",
+    "question": "Quel organe produit l'insuline, une hormone régulant la glycémie ?",
+    "correct_answer": "Pancréas",
     "incorrect_answers": [
-      "La diffraction",
-      "La réflexion",
-      "La réfraction"
+      "Foie",
+      "Reins",
+      "Thyroïde"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760960067586-3999b9aae844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1552256028-2c58c3cbfa7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le symbole chimique de l'élément le plus abondant dans l'atmosphère terrestre ?",
-    "correct_answer": "N₂",
+    "question": "Quel gaz à effet de serre est principalement responsable du réchauffement climatique dû aux activités humaines ?",
+    "correct_answer": "Dioxyde de carbone (CO2)",
     "incorrect_answers": [
-      "O₂",
-      "CO₂",
-      "Ar"
+      "Méthane (CH4)",
+      "Protoxyde d'azote (N2O)",
+      "Vapeur d'eau (H2O)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1556201977-1df3c782a58e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est l'auteur de l'ouvrage 'L'Origine des espèces' exposant la théorie de la sélection naturelle ?",
-    "correct_answer": "Charles Darwin",
-    "incorrect_answers": [
-      "Gregor Mendel",
-      "Jean-Baptiste Lamarck",
-      "Alfred Russel Wallace"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1705727210721-961cc64a6895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel vaccin a été découvert par Edward Jenner, marquant une étape majeure en immunologie ?",
-    "correct_answer": "Le vaccin contre la variole",
-    "incorrect_answers": [
-      "Le vaccin contre la rage",
-      "Le vaccin contre la poliomyélite",
-      "Le vaccin contre la grippe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618053448701-5220304dc9ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel gaz à effet de serre est principalement produit par les activités humaines et contribue le plus au réchauffement climatique ?",
-    "correct_answer": "Dioxyde de carbone (CO₂)",
-    "incorrect_answers": [
-      "Méthane (CH₄)",
-      "Protoxyde d'azote (N₂O)",
-      "Vapeur d'eau (H₂O)"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle unité mesure la résistance électrique ?",
-    "correct_answer": "L'Ohm",
-    "incorrect_answers": [
-      "Le Volt",
-      "L'Ampère",
-      "Le Watt"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1736710744807-cc278de00afa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel processus permet aux plantes de convertir l'énergie lumineuse en énergie chimique ?",
-    "correct_answer": "La photosynthèse",
-    "incorrect_answers": [
-      "La respiration cellulaire",
-      "La transpiration",
-      "L'osmose"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763066472871-a49d025f9f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le terme désignant l'explosion d'une étoile massive en fin de vie, qui libère une quantité immense d'énergie ?",
-    "correct_answer": "Supernova",
-    "incorrect_answers": [
-      "Nova",
-      "Naine blanche",
-      "Trou noir"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1742137587510-389de3549208?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Sur l'échelle de pH, quelle valeur indique une solution neutre à 25°C ?",
-    "correct_answer": "7",
-    "incorrect_answers": [
-      "0",
-      "14",
-      "3"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762951317733-9e800909e93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel scientifique a formulé la loi de la relativité restreinte et générale ?",
-    "correct_answer": "Albert Einstein",
-    "incorrect_answers": [
-      "Isaac Newton",
-      "Max Planck",
-      "Niels Bohr"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle structure cellulaire contient l'ADN et est le centre de contrôle de la cellule ?",
-    "correct_answer": "Le noyau",
-    "incorrect_answers": [
-      "Le cytoplasme",
-      "La mitochondrie",
-      "Le réticulum endoplasmique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775148582526-75c707421350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la principale cause de l'appauvrissement de la couche d'ozone ?",
-    "correct_answer": "Les chlorofluorocarbones (CFC)",
-    "incorrect_answers": [
-      "Le dioxyde de carbone",
-      "Les oxydes d'azote",
-      "Le méthane"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610547939489-73202bc6afda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel milieu le son se propage-t-il le plus rapidement ?",
-    "correct_answer": "Solides",
-    "incorrect_answers": [
-      "Liquides",
-      "Gaz",
-      "Vide"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1727803649916-49969a3bddcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le composé organique le plus simple contenant uniquement du carbone et de l'hydrogène ?",
-    "correct_answer": "Le méthane",
-    "incorrect_answers": [
-      "L'éthanol",
-      "Le glucose",
-      "Le benzène"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1551811372-3ad1df6d6403?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du télescope spatial qui a révolutionné notre compréhension de l'univers avec ses images détaillées ?",
-    "correct_answer": "Hubble",
-    "incorrect_answers": [
-      "James Webb",
-      "Kepler",
-      "Chandra"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1657269946528-fb9aa16fd925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'organe du corps humain responsable de la production d'insuline ?",
-    "correct_answer": "Le pancréas",
-    "incorrect_answers": [
-      "Le foie",
-      "Les reins",
-      "La thyroïde"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1570723989345-3a537f60a9c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans la classification scientifique des êtres vivants, quelle est la catégorie la plus spécifique juste au-dessus de l'espèce ?",
-    "correct_answer": "Le genre",
-    "incorrect_answers": [
-      "La famille",
-      "L'ordre",
-      "Le règne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583607264434-2d8e199b3a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel principe stipule que l'énergie ne peut être ni créée ni détruite, seulement transformée ?",
-    "correct_answer": "Le principe de conservation de l'énergie",
-    "incorrect_answers": [
-      "Le principe d'incertitude",
-      "La loi de gravitation universelle",
-      "Le principe de Pascal"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928374389-6eeee0e5e4ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le processus par lequel un solide passe directement à l'état gazeux sans passer par l'état liquide ?",
-    "correct_answer": "La sublimation",
-    "incorrect_answers": [
-      "La fusion",
-      "La vaporisation",
-      "La condensation"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1742137587512-1276fbcf973c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a découvert la pénicilline, le premier antibiotique largement utilisé ?",
+    "question": "Qui a découvert la pénicilline, le premier antibiotique ?",
     "correct_answer": "Alexander Fleming",
     "incorrect_answers": [
       "Louis Pasteur",
       "Robert Koch",
-      "Jonas Salk"
+      "Marie Curie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766713203219-8ca06e1f4db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1762951317733-9e800909e93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le plus grand volcan connu du système solaire, situé sur Mars ?",
-    "correct_answer": "Olympus Mons",
+    "question": "Quel est le mécanisme principal par lequel l'évolution des espèces se produit selon Darwin ?",
+    "correct_answer": "Sélection naturelle",
     "incorrect_answers": [
-      "Mont Everest",
-      "Valles Marineris",
-      "Caloris Basin"
+      "Mutation génétique",
+      "Dérive génétique",
+      "Hérédité des caractères acquis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760738999560-bcb2a000938a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760738999560-bcb2a000938a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle partie du cerveau est principalement responsable de la coordination des mouvements et de l'équilibre ?",
-    "correct_answer": "Le cervelet",
+    "question": "Quelle est l'unité de mesure de la puissance d'une lentille optique ?",
+    "correct_answer": "Dioptrie",
     "incorrect_answers": [
-      "Le cerveau antérieur",
-      "Le tronc cérébral",
-      "Le thalamus"
+      "Lumen",
+      "Candela",
+      "Watt"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928261664-bfcf023fbc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1551811372-3ad1df6d6403?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel terme désigne la variété de la vie sur Terre, à tous les niveaux, des gènes aux écosystèmes ?",
-    "correct_answer": "La biodiversité",
+    "question": "Quel type de réaction chimique libère de l'énergie sous forme de chaleur ?",
+    "correct_answer": "Réaction exothermique",
     "incorrect_answers": [
-      "L'écologie",
-      "La biomasse",
-      "L'évolution"
+      "Réaction endothermique",
+      "Réaction catalytique",
+      "Réaction de substitution"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1552256028-2c58c3cbfa7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1568742280287-3824b9ff7fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel composant électronique est utilisé pour stocker de l'énergie électrique sous forme de champ électrique ?",
-    "correct_answer": "Le condensateur",
+    "question": "Comment appelle-t-on le phénomène où un trou noir attire la matière si fortement que rien ne peut s'en échapper ?",
+    "correct_answer": "Horizon des événements",
     "incorrect_answers": [
-      "La résistance",
-      "La bobine",
-      "La diode"
+      "Singularité",
+      "Ergosphère",
+      "Disque d'accrétion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1566216867955-5b2e8c77e45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1727803649916-49969a3bddcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe d'éléments du tableau périodique est caractérisé par sa faible réactivité chimique et son état gazeux à température ambiante ?",
-    "correct_answer": "Les gaz nobles",
+    "question": "Qui est considéré comme le père de la médecine moderne et a formulé le serment éthique des médecins ?",
+    "correct_answer": "Hippocrate",
     "incorrect_answers": [
-      "Les métaux alcalins",
-      "Les halogènes",
-      "Les terres rares"
+      "Galien",
+      "Avicenne",
+      "Paracelse"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1603895544146-3b0636f1348f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1736710744807-cc278de00afa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelles cellules rétiniennes sont responsables de la vision en basse lumière (vision nocturne) ?",
-    "correct_answer": "Les bâtonnets",
+    "question": "Quelle est la principale cause de la perte de biodiversité à l'échelle mondiale ?",
+    "correct_answer": "Destruction des habitats naturels",
     "incorrect_answers": [
-      "Les cônes",
-      "Les cellules ganglionnaires",
-      "Les cellules bipolaires"
+      "Pollution de l'air",
+      "Chasse excessive",
+      "Espèces invasives"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1684259498900-afdea87b1a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1603895544146-3b0636f1348f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du modèle cosmologique dominant qui décrit l'origine et l'évolution de l'univers ?",
-    "correct_answer": "Le Big Bang",
+    "question": "Quel scientifique a développé la théorie de la relativité restreinte et générale ?",
+    "correct_answer": "Albert Einstein",
     "incorrect_answers": [
-      "L'état stationnaire",
-      "L'expansion éternelle",
-      "Le Multivers"
+      "Max Planck",
+      "Werner Heisenberg",
+      "Niels Bohr"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1569512756636-2100074a089e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760960067586-3999b9aae844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est généralement créditée de l'invention du premier algorithme destiné à être exécuté par une machine ?",
-    "correct_answer": "Ada Lovelace",
+    "question": "Quelle est la fonction principale des mitochondries dans une cellule eucaryote ?",
+    "correct_answer": "Production d'énergie (ATP)",
+    "incorrect_answers": [
+      "Synthèse des protéines",
+      "Stockage du matériel génétique",
+      "Détoxification cellulaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1742137587510-389de3549208?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est l'unité de mesure de la température absolue dans le Système International ?",
+    "correct_answer": "Kelvin",
+    "incorrect_answers": [
+      "Celsius",
+      "Fahrenheit",
+      "Joule"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1570723989345-3a537f60a9c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le principal composant de l'alcool domestique (éthanol) ?",
+    "correct_answer": "Un groupe hydroxyle (-OH)",
+    "incorrect_answers": [
+      "Un groupe carboxyle (-COOH)",
+      "Un groupe amine (-NH2)",
+      "Un groupe carbonyle (>C=O)"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1742137587512-1276fbcf973c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Comment s'appelle le processus de fusion nucléaire qui alimente le Soleil ?",
+    "correct_answer": "Cycle proton-proton",
+    "incorrect_answers": [
+      "Cycle de CNO",
+      "Effondrement gravitationnel",
+      "Accrétion stellaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602928261664-bfcf023fbc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel os est le plus long et le plus robuste du corps humain ?",
+    "correct_answer": "Fémur",
+    "incorrect_answers": [
+      "Tibia",
+      "Humerus",
+      "Péroné"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel polluant atmosphérique est souvent associé aux pluies acides ?",
+    "correct_answer": "Dioxyde de soufre (SO2)",
+    "incorrect_answers": [
+      "Monoxyde de carbone (CO)",
+      "Ozone (O3)",
+      "Particules fines (PM2.5)"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775148582526-75c707421350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui est généralement crédité de l'invention de la première radio ?",
+    "correct_answer": "Guglielmo Marconi",
+    "incorrect_answers": [
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Thomas Edison"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1569512756636-2100074a089e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel terme désigne l'ensemble des êtres vivants et de leur environnement physique interagissant dans une zone donnée ?",
+    "correct_answer": "Écosystème",
+    "incorrect_answers": [
+      "Biotope",
+      "Biocénose",
+      "Habitat"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1684259498900-afdea87b1a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est l'unité de mesure de la résistance électrique ?",
+    "correct_answer": "Ohm",
+    "incorrect_answers": [
+      "Volt",
+      "Ampère",
+      "Watt"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610547939489-73202bc6afda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel état de la matière est caractérisé par une forme et un volume définis ?",
+    "correct_answer": "Solide",
+    "incorrect_answers": [
+      "Liquide",
+      "Gazeux",
+      "Plasma"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1657269946528-fb9aa16fd925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Comment s'appelle notre galaxie, qui abrite le système solaire ?",
+    "correct_answer": "Voie lactée",
+    "incorrect_answers": [
+      "Andromède",
+      "Triangulum",
+      "Grand Nuage de Magellan"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602928374389-6eeee0e5e4ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle maladie est causée par une bactérie et affecte principalement les poumons, mais peut toucher d'autres organes ?",
+    "correct_answer": "Tuberculose",
+    "incorrect_answers": [
+      "Paludisme",
+      "Grippe",
+      "SIDA"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1705727210721-961cc64a6895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel accord international majeur vise à réduire les émissions de gaz à effet de serre pour lutter contre le changement climatique ?",
+    "correct_answer": "Accord de Paris",
+    "incorrect_answers": [
+      "Protocole de Montréal",
+      "Convention de Rio",
+      "Traité de Kyoto"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763066472871-a49d025f9f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui est considéré comme le père de l'informatique moderne pour ses travaux sur la machine de Turing ?",
+    "correct_answer": "Alan Turing",
     "incorrect_answers": [
       "Charles Babbage",
-      "Alan Turing",
+      "Ada Lovelace",
       "John von Neumann"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1742137587486-fdef8cdd25bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1556201977-1df3c782a58e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le processus par lequel les plantes vertes produisent leur propre nourriture en utilisant la lumière du soleil ?",
+    "correct_answer": "Photosynthèse",
+    "incorrect_answers": [
+      "Respiration cellulaire",
+      "Chimiotrophe",
+      "Nitrification"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1742137587486-fdef8cdd25bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle particule élémentaire est le \"quant\" de lumière et est responsable du transport de l'énergie électromagnétique ?",
+    "correct_answer": "Photon",
+    "incorrect_answers": [
+      "Électron",
+      "Neutron",
+      "Proton"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1566216867955-5b2e8c77e45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

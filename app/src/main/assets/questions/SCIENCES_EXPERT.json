@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quelle particule est l'échangeur de force pour l'interaction forte entre quarks, et quelle est sa propriété de \"couleur\" qui la distingue des autres bosons de jauge ?",
-    "correct_answer": "Le gluon, qui porte deux charges de couleur (une couleur et une anti-couleur).",
+    "question": "Quel est l'opérateur associé à la quantité de mouvement en mécanique quantique dans la représentation de position?",
+    "correct_answer": "-iħ∇",
     "incorrect_answers": [
-      "Le photon, qui transmet la charge électrique entre leptons.",
-      "Le boson W, responsable de la désintégration bêta.",
-      "Le graviton, médiateur de la gravité dans les théories quantiques."
+      "iħ∂/∂t",
+      "ħ²/2m",
+      "Ê"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1669344319065-61282714d7ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1618281228519-81136b42f6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mécanisme épigénétique implique la modification covalente des queues d'histones par acétylation, et quel est son effet général sur la transcription génique ?",
-    "correct_answer": "L'acétylation des histones, qui tend à augmenter l'expression génique.",
+    "question": "Quelle enzyme est responsable de la stabilisation des télomères en ajoutant des séquences répétées aux extrémités des chromosomes?",
+    "correct_answer": "Télomérase",
     "incorrect_answers": [
-      "La méthylation de l'ADN, qui se produit sur les cytosines des îlots CpG.",
-      "La phosphorylation des histones, qui active la réplication.",
-      "La sumoylation, qui stabilise les protéines de transcription."
+      "ADN ligase",
+      "ARN polymérase",
+      "Hélicase"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1630959302661-0005f0bb0b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1614308457932-e16d85c5d053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans la réactivité des composés aromatiques, quelle réaction, impliquant un nitronium (NO₂⁺) comme électrophile, est utilisée pour introduire un groupe nitro sur un cycle benzénique ?",
-    "correct_answer": "La nitration aromatique électrophile.",
+    "question": "Quelle réaction permet la formation d'un éther à partir d'un alcool et d'un halogénure d'alkyle via une substitution nucléophile?",
+    "correct_answer": "Synthèse de Williamson",
     "incorrect_answers": [
-      "La réaction de Diels-Alder.",
-      "L'addition de Michael.",
-      "La réaction de Suzuki-Miyaura."
+      "Réaction de Friedel-Crafts",
+      "Réaction de Grignard",
+      "Condensation aldolique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1636721174787-850cf30bc35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1579256308199-873605ecd436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle observation cosmologique a été la première à suggérer l'existence de la matière noire en démontrant que la masse visible des galaxies était insuffisante pour expliquer leur courbe de rotation ?",
-    "correct_answer": "Les courbes de rotation des galaxies spirales.",
+    "question": "Quel est le nom du paradoxe qui postule que, si l'univers est infini et rempli d'étoiles, le ciel nocturne devrait être uniformément brillant?",
+    "correct_answer": "Paradoxe d'Olbers",
     "incorrect_answers": [
-      "L'anisotropie du fond diffus cosmologique.",
-      "L'expansion accélérée de l'univers.",
-      "La formation des amas de galaxies."
+      "Paradoxe d'Einstein",
+      "Paradoxe de Zénon",
+      "Paradoxe de Fermi"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618281228519-81136b42f6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848567-a24f55473cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le rôle principal des molécules du Complexe Majeur d'Histocompatibilité de classe I (CMH-I) dans la réponse immunitaire adaptative ?",
-    "correct_answer": "Présenter des antigènes peptidiques endogènes aux lymphocytes T CD8+.",
+    "question": "Quel mécanisme d'action est principalement visé par les inhibiteurs de la HMG-CoA réductase, communément appelés statines?",
+    "correct_answer": "Réduction de la synthèse de cholestérol",
     "incorrect_answers": [
-      "Activer les lymphocytes B pour la production d'anticorps.",
-      "Présenter des antigènes exogènes aux lymphocytes T CD4+.",
-      "Faciliter la reconnaissance des cellules tumorales par les cellules NK."
+      "Augmentation de l'excrétion biliaire",
+      "Inhibition de la réabsorption de sodium",
+      "Blocage des canaux calciques"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848567-a24f55473cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le terme désignant le processus par lequel les océans absorbent le dioxyde de carbone de l'atmosphère, entraînant une diminution de leur pH et affectant les organismes marins calcifiants ?",
-    "correct_answer": "L'acidification des océans.",
+    "question": "Quel processus est la principale source d'oxygène atmosphérique sur Terre depuis le Paléoprotérozoïque?",
+    "correct_answer": "Photosynthèse des cyanobactéries",
     "incorrect_answers": [
-      "L'eutrophisation marine.",
-      "La stratification thermique.",
-      "La désoxygénation des eaux profondes."
+      "Dégazage volcanique",
+      "Dissociation de la vapeur d'eau",
+      "Respiration des plantes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1636751179475-516561a802c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1748261347902-451fb437e8fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a proposé l'idée des quanta d'énergie pour expliquer le rayonnement du corps noir, marquant le début de la physique quantique ?",
-    "correct_answer": "Max Planck.",
+    "question": "Quelle découverte majeure a été faite par Arno Penzias et Robert Wilson en 1964, confirmant le modèle du Big Bang?",
+    "correct_answer": "Le fond diffus cosmologique (CMB)",
     "incorrect_answers": [
-      "Albert Einstein.",
-      "Niels Bohr.",
-      "Werner Heisenberg."
+      "Les ondes gravitationnelles",
+      "Les pulsars",
+      "L'énergie sombre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1748261347768-a32434751a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631556761867-50fd6cf7f0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la fonction principale des cellules de Schwann dans le système nerveux périphérique des vertébrés ?",
-    "correct_answer": "Former la gaine de myéline, augmentant la vitesse de conduction nerveuse.",
+    "question": "Quelle est la métrique qui décrit l'espace-temps autour d'un trou noir non rotatif et non chargé?",
+    "correct_answer": "Métrique de Schwarzschild",
     "incorrect_answers": [
-      "Produire le liquide céphalorachidien.",
-      "Soutenir les neurones en régulant l'environnement ionique.",
-      "Former les synapses et transmettre les neurotransmetteurs."
+      "Métrique de Kerr",
+      "Métrique de Friedmann-Lemaître-Robertson-Walker",
+      "Métrique de Minkowski"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1575467678971-7cd5c2937dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1684259498786-ffaf1ec5c5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel concept décrit l'état où un système est en équilibre thermique, mécanique et chimique, et quelle loi de la thermodynamique en est à la base ?",
-    "correct_answer": "L'équilibre thermodynamique, basé sur la loi zéro de la thermodynamique.",
+    "question": "Quelle est la fonction principale des cellules T auxiliaires (CD4+) dans la réponse immunitaire adaptative?",
+    "correct_answer": "Activer les cellules B et les lymphocytes T cytotoxiques",
     "incorrect_answers": [
-      "Le cycle de Carnot, qui décrit l'efficacité maximale d'un moteur thermique.",
-      "Le principe d'entropie maximale, selon la deuxième loi de la thermodynamique.",
-      "L'énergie libre de Gibbs, un critère de spontanéité pour les réactions."
+      "Produire des anticorps",
+      "Phagocyter les agents pathogènes",
+      "Détruire directement les cellules infectées"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1748261347768-a32434751a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle technique de spectroscopie RMN est utilisée pour déterminer les couplages entre noyaux non liés par liaison chimique, souvent via l'espace, comme les couplages NOE (Nuclear Overhauser Effect) ?",
-    "correct_answer": "La spectroscopie 2D-NOESY (Nuclear Overhauser Effect Spectroscopy).",
+    "question": "Quel phénomène décrit la capacité de certains matériaux à générer une charge électrique sous contrainte mécanique?",
+    "correct_answer": "Piézoélectricité",
     "incorrect_answers": [
-      "La spectroscopie 1H-RMN.",
-      "La spectroscopie COSY (Correlation Spectroscopy).",
-      "La spectroscopie HSQC (Heteronuclear Single Quantum Coherence)."
+      "Thermoélectricité",
+      "Ferroélectricité",
+      "Magnétostriction"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556760646-50241850eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1669344319065-61282714d7ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la limite de masse au-delà de laquelle une naine blanche ne peut plus être stable et s'effondrera, potentiellement en supernova de type Ia si elle est en accrétion ?",
-    "correct_answer": "La limite de Chandrasekhar (environ 1,4 masse solaire).",
+    "question": "Quelle méthode de détection d'exoplanètes mesure les minuscules variations périodiques de la vitesse radiale d'une étoile causées par la gravité d'une planète?",
+    "correct_answer": "Méthode des vitesses radiales",
     "incorrect_answers": [
-      "La limite de Hayflick.",
-      "La masse de Jeans.",
-      "La limite d'Eddington."
+      "Méthode des transits",
+      "Microlentille gravitationnelle",
+      "Imagerie directe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618053448492-2b629c2c912c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1636721174787-850cf30bc35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le mécanisme d'action des inhibiteurs de l'enzyme de conversion de l'angiotensine (IECAs) dans le traitement de l'hypertension artérielle ?",
-    "correct_answer": "Ils bloquent la conversion de l'angiotensine I en angiotensine II.",
+    "question": "Quel est le neurotransmetteur primaire inhibiteur dans le système nerveux central des mammifères?",
+    "correct_answer": "GABA (Acide gamma-aminobutyrique)",
     "incorrect_answers": [
-      "Ils augmentent la réabsorption du sodium et de l'eau.",
-      "Ils activent les récepteurs bêta-adrénergiques cardiaques.",
-      "Ils provoquent une vasoconstriction périphérique."
+      "Acétylcholine",
+      "Glutamate",
+      "Dopamine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1676293107432-1b6753581201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1636751179475-516561a802c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle théorie de l'évolution propose que la plupart des changements évolutifs majeurs se produisent rapidement sur de courtes périodes géologiques, suivies de longues périodes de stase, plutôt que par un changement lent et graduel ?",
-    "correct_answer": "L'équilibre ponctué.",
+    "question": "Quel concept de la thermodynamique statistique quantifie le nombre de micro-états correspondant à un macro-état donné?",
+    "correct_answer": "Entropie (formule de Boltzmann)",
     "incorrect_answers": [
-      "Le gradualisme phylétique.",
-      "La théorie neutre de l'évolution moléculaire.",
-      "La loi de Hardy-Weinberg."
+      "Énergie libre de Gibbs",
+      "Enthalpie",
+      "Potentiel chimique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556759597-96df19797d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1618053448748-b7251851d014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la principale différence entre un fermion et un boson en termes de spin et de comportement statistique ?",
-    "correct_answer": "Les fermions ont un spin demi-entier et obéissent à la statistique de Fermi-Dirac.",
+    "question": "Quel terme décrit l'ensemble des organismes vivants (biocénose) et de leur environnement physique (biotope) interagissant dans une unité fonctionnelle?",
+    "correct_answer": "Écosystème",
     "incorrect_answers": [
-      "Les bosons ont un spin demi-entier et obéissent à la statistique de Bose-Einstein.",
-      "Les fermions ont un spin entier et obéissent à la statistique de Bose-Einstein.",
-      "Les bosons ont un spin nul et obéissent à la statistique de Maxwell-Boltzmann."
+      "Biome",
+      "Habitat",
+      "Niche écologique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618053448748-b7251851d014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1608037222022-62649819f8aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel phénomène, observé dans les complexes de métaux de transition, explique la division des niveaux d'énergie des orbitales d en présence de ligands et influence la couleur et les propriétés magnétiques ?",
-    "correct_answer": "La théorie du champ cristallin (ou du champ de ligands).",
+    "question": "Quel est le nom du processus industriel clé pour la production d'ammoniac à partir d'azote et d'hydrogène gazeux?",
+    "correct_answer": "Procédé Haber-Bosch",
     "incorrect_answers": [
-      "L'électronégativité de Pauling.",
-      "La résonance mésomère.",
-      "Le principe de Aufbau."
+      "Procédé Solvay",
+      "Procédé Ostwald",
+      "Procédé contact"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631816290138-9f0f79cada3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1616046560582-41ac3c954715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la principale fonction du réticulum endoplasmique lisse (REL) dans les cellules eucaryotes, en particulier dans les hépatocytes et les cellules stéroïdogènes ?",
-    "correct_answer": "La synthèse de lipides (stéroïdes), la détoxification et le stockage du calcium.",
+    "question": "Quel processus de fusion nucléaire est prédominant dans les étoiles de masse solaire pendant la phase de la séquence principale?",
+    "correct_answer": "Cycle proton-proton",
     "incorrect_answers": [
-      "La synthèse et la maturation des protéines destinées à l'exportation.",
-      "La dégradation des déchets cellulaires via des enzymes hydrolytiques.",
-      "La production d'ATP par la phosphorylation oxydative."
+      "Cycle CNO",
+      "Triple alpha",
+      "Capture de neutrons"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556761867-50fd6cf7f0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1576670159805-622729b5b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle méthode de détection d'exoplanètes mesure les infimes variations de luminosité d'une étoile lorsque la planète passe devant elle, masquant une partie de sa lumière ?",
-    "correct_answer": "La méthode des transits planétaires.",
+    "question": "Quelle technique permet l'édition de gènes avec une précision inégalée en utilisant un ARN guide pour cibler l'ADN?",
+    "correct_answer": "CRISPR-Cas9",
     "incorrect_answers": [
-      "La méthode des vitesses radiales.",
-      "La microlentille gravitationnelle.",
-      "L'imagerie directe."
+      "PCR (Réaction en chaîne par polymérase)",
+      "Électrophorèse sur gel",
+      "Séquençage Sanger"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1748261347902-451fb437e8fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631556760646-50241850eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel type de protéine cellulaire est une version mutée d'un gène normal (proto-oncogène) qui peut favoriser la croissance et la division cellulaire incontrôlée, contribuant ainsi au développement du cancer ?",
-    "correct_answer": "Un oncogène.",
+    "question": "Quel phénomène décrit la séparation de la lumière blanche en ses couleurs constitutives lors de son passage à travers un prisme?",
+    "correct_answer": "Dispersion",
     "incorrect_answers": [
-      "Un gène suppresseur de tumeur.",
-      "Une protéine p53.",
-      "Un facteur de transcription."
+      "Diffraction",
+      "Interférence",
+      "Réfraction"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766297248076-2848d8d0d464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1630959302661-0005f0bb0b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le terme décrivant l'augmentation de la concentration d'une substance toxique le long de la chaîne alimentaire, conduisant à des concentrations plus élevées chez les prédateurs de haut niveau ?",
-    "correct_answer": "La bioamplification (ou bioaccumulation trophique).",
+    "question": "Quelle structure cérébrale est principalement responsable de la régulation de la faim, de la soif, de la température corporelle et des cycles circadiens?",
+    "correct_answer": "Hypothalamus",
     "incorrect_answers": [
-      "La bioremédiation.",
-      "La biodégradation.",
-      "L'eutrophisation."
+      "Cervelet",
+      "Thalamus",
+      "Hippocampe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1614308457932-e16d85c5d053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631556759597-96df19797d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'effet de Lense-Thirring, prédit par la relativité générale, qui décrit comment la rotation d'un corps massif \"entraîne\" l'espace-temps autour de lui ?",
-    "correct_answer": "L'entraînement du référentiel (frame-dragging).",
+    "question": "Quelle méthode spectroscopique est principalement utilisée pour déterminer la structure des molécules organiques en se basant sur les spins nucléaires?",
+    "correct_answer": "RMN (Résonance Magnétique Nucléaire)",
     "incorrect_answers": [
-      "La dilatation du temps gravitationnelle.",
-      "L'effet Shapiro (retard des signaux radar).",
-      "La précession anomale du périhélie de Mercure."
+      "Spectroscopie IR (Infrarouge)",
+      "Spectrométrie de masse",
+      "UV-Vis (Ultraviolet-Visible)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1614308456595-a59d48697ea8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1581056771306-166fa643838c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la loi qui stipule que le volume d'un gaz parfait est inversement proportionnel à sa pression, à température et quantité de matière constantes ?",
-    "correct_answer": "La loi de Boyle-Mariotte.",
+    "question": "Quel est le nom du rayon autour d'un trou noir au-delà duquel rien, pas même la lumière, ne peut s'échapper?",
+    "correct_answer": "Horizon des événements",
     "incorrect_answers": [
-      "La loi de Charles.",
-      "La loi d'Avogadro.",
-      "La loi de Dalton."
+      "Ergosphère",
+      "Singularité",
+      "Disque d'accrétion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1576670159805-622729b5b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1583607264434-2d8e199b3a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le mécanisme par lequel certaines bactéries peuvent échanger du matériel génétique directement via un pilus sexuel, sans division cellulaire ni transfert de phages ?",
-    "correct_answer": "La conjugaison bactérienne.",
+    "question": "Quelle maladie neurodégénérative est caractérisée par la formation d'agrégats de protéine alpha-synucléine (corps de Lewy)?",
+    "correct_answer": "Maladie de Parkinson",
     "incorrect_answers": [
-      "La transformation bactérienne.",
-      "La transduction bactérienne.",
-      "La fission binaire."
+      "Maladie d'Alzheimer",
+      "Sclérose en plaques",
+      "Maladie de Huntington"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758573467057-99f26217b2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la principale caractéristique morphologique qui distingue les galaxies spirales barrées des galaxies spirales non barrées ?",
-    "correct_answer": "La présence d'une structure rectiligne de matière traversant le bulbe central.",
+    "question": "Quelle particule est la médiatrice de l'interaction forte, liant les quarks entre eux pour former des hadrons?",
+    "correct_answer": "Gluon",
     "incorrect_answers": [
-      "Un halo de matière noire plus dense.",
-      "Un nombre plus élevé d'étoiles de population II.",
-      "L'absence de bras spiraux distincts."
+      "Photon",
+      "Boson W/Z",
+      "Graviton"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1579256308199-873605ecd436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1575467678971-7cd5c2937dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle hormone peptidique, sécrétée par les cellules alpha du pancréas, a pour fonction principale d'augmenter le taux de glucose sanguin en stimulant la glycogénolyse hépatique ?",
-    "correct_answer": "Le glucagon.",
+    "question": "Quelle est la fonction principale du xylème chez les plantes vasculaires?",
+    "correct_answer": "Transport de l'eau et des minéraux des racines aux feuilles",
     "incorrect_answers": [
-      "L'insuline.",
-      "La somatostatine.",
-      "L'adrénaline."
+      "Transport des sucres",
+      "Stockage des nutriments",
+      "Soutien mécanique primaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1608037222022-62649819f8aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le principe qui énonce qu'il est impossible de connaître simultanément avec une précision arbitraire la position et la quantité de mouvement (impulsion) d'une particule quantique ?",
-    "correct_answer": "Le principe d'incertitude de Heisenberg.",
+    "question": "Quel polymère est exceptionnellement résistant à la chaleur et aux produits chimiques, souvent utilisé dans les revêtements antiadhésifs (Teflon)?",
+    "correct_answer": "Polytétrafluoroéthylène (PTFE)",
     "incorrect_answers": [
-      "Le principe d'exclusion de Pauli.",
-      "L'équation de Schrödinger.",
-      "L'effet tunnel quantique."
+      "Polyéthylène",
+      "Polypropylène",
+      "Polychlorure de vinyle (PVC)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616046560582-41ac3c954715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1618053448492-2b629c2c912c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel terme décrit deux stéréoisomères qui sont des images miroirs non superposables l'un de l'autre, et qui possèdent au moins un centre chiral ?",
-    "correct_answer": "Des énantiomères.",
+    "question": "Quel processus décrit l'accumulation progressive de matière par des collisions pour former des planètes à partir de petites particules?",
+    "correct_answer": "Accrétion",
     "incorrect_answers": [
-      "Des diastéréoisomères.",
-      "Des isomères de constitution.",
-      "Des conformères."
+      "Érosion",
+      "Subduction",
+      "Diffusion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734160-3a2f6f73f3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1766297248076-2848d8d0d464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le rôle principal des stomates dans les feuilles des plantes, et quel processus physiologique majeur régulent-ils ?",
-    "correct_answer": "Ils régulent les échanges gazeux (CO2, O2) et la transpiration.",
+    "question": "Quel type d'immunité est acquis naturellement après une infection et implique la production de lymphocytes mémoire?",
+    "correct_answer": "Immunité adaptative (acquise)",
     "incorrect_answers": [
-      "Ils absorbent l'eau et les nutriments du sol.",
-      "Ils sont le site principal de la photosynthèse.",
-      "Ils transportent la sève brute vers les fleurs."
+      "Immunité innée",
+      "Immunité passive",
+      "Auto-immunité"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758573467057-99f26217b2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1676293107432-1b6753581201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel microbiologiste a développé les critères (postulats) pour établir une relation de causalité entre un microorganisme spécifique et une maladie spécifique ?",
-    "correct_answer": "Robert Koch.",
+    "question": "Quel est l'effet par lequel un matériau supraconducteur expulse complètement les champs magnétiques de son intérieur?",
+    "correct_answer": "Effet Meissner",
     "incorrect_answers": [
-      "Louis Pasteur.",
-      "Alexander Fleming.",
-      "Edward Jenner."
+      "Effet Hall",
+      "Effet Zeeman",
+      "Effet Josephson"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1581056771306-166fa643838c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1766297247072-93fd815afef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la mission de la NASA, lancée en 1977, qui détient le record de l'engin spatial le plus éloigné de la Terre et qui continue d'envoyer des données ?",
-    "correct_answer": "Voyager 1.",
+    "question": "Quel gaz à effet de serre, bien que présent en plus faibles concentrations que le CO2, possède un potentiel de réchauffement global (PRG) beaucoup plus élevé sur 100 ans?",
+    "correct_answer": "Méthane (CH4)",
     "incorrect_answers": [
-      "Hubble Space Telescope.",
-      "Cassini-Huygens.",
-      "New Horizons."
+      "Oxyde nitreux (N2O)",
+      "Vapeur d'eau (H2O)",
+      "Dioxyde de soufre (SO2)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766297247072-93fd815afef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631816290138-9f0f79cada3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle méthode de conservation ex situ implique le stockage à très basse température de graines, de pollens, de spores ou de tissus végétaux pour préserver la diversité génétique des espèces végétales ?",
-    "correct_answer": "La cryoconservation en banques de graines.",
+    "question": "Quelle structure bactérienne est responsable de l'adhésion aux surfaces et aux cellules hôtes, et non de la motilité?",
+    "correct_answer": "Pili (Fimbriae)",
     "incorrect_answers": [
-      "La restauration écologique des habitats.",
-      "La réintroduction d'espèces.",
-      "La création de corridors biologiques."
+      "Flagelle",
+      "Capsule",
+      "Spore"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1684259498786-ffaf1ec5c5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734160-3a2f6f73f3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

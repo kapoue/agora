@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel scientifique est généralement crédité d'avoir formalisé le concept de 'bit' comme unité binaire d'information dans sa théorie mathématique de la communication ?",
-    "correct_answer": "Claude Shannon",
+    "question": "Quel langage de programmation, développé par Ole-Johan Dahl et Kristen Nygaard au Centre Norvégien de Calcul dans les années 1960, est souvent cité comme le premier à introduire les concepts de la programmation orientée objet ?",
+    "correct_answer": "Simula",
     "incorrect_answers": [
-      "John von Neumann",
-      "Alan Turing",
-      "Norbert Wiener"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258343-cdf1306baa2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En Haskell, quel est l'objectif principal d'une 'type class' ?",
-    "correct_answer": "Définir un ensemble d'opérations polymorphiques pour divers types",
-    "incorrect_answers": [
-      "Permettre l'héritage de comportement entre types concrets",
-      "Garantir l'immuabilité des structures de données",
-      "Gérer la concurrence et le parallélisme de manière sûre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1626362814904-d27009a10da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le port UDP par défaut utilisé pour les requêtes DNS traditionnelles ?",
-    "correct_answer": "53",
-    "incorrect_answers": [
-      "80",
-      "443",
-      "23"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle innovation majeure est généralement associée au système informatique Xerox Alto de 1973 ?",
-    "correct_answer": "La première interface utilisateur graphique (GUI) basée sur le bureau",
-    "incorrect_answers": [
-      "L'introduction du premier microprocesseur commercial",
-      "Le développement du premier système d'exploitation multitâche",
-      "La création du premier réseau local Ethernet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258429-b3c7634a764d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qu'est-ce que le 'Continuation-Passing Style' (CPS) en programmation fonctionnelle ?",
-    "correct_answer": "Une technique où chaque fonction prend une continuation pour le reste du calcul",
-    "incorrect_answers": [
-      "Un style de programmation où les boucles sont remplacées par des récursions terminales",
-      "Une méthode pour passer des arguments à travers des fermetures",
-      "Une approche pour sérialiser l'état d'un programme pour la persistance"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle était la caractéristique la plus notable du Z3 de Konrad Zuse, achevé en 1941 ?",
-    "correct_answer": "C'était la première machine programmable entièrement automatique et fonctionnelle",
-    "incorrect_answers": [
-      "Il utilisait des tubes à vide pour le calcul",
-      "Il implémentait une architecture de von Neumann",
-      "Il était le premier ordinateur à être vendu commercialement"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774620396033-18782cda8242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle entreprise a développé le premier microprocesseur commercial, l'Intel 4004 ?",
-    "correct_answer": "Intel",
-    "incorrect_answers": [
-      "IBM",
-      "Texas Instruments",
-      "Fairchild Semiconductor"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258239-d3b5c95019af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En développement web, qu'est-ce qu'un 'polyfill' ?",
-    "correct_answer": "Un code qui fournit des fonctionnalités modernes aux navigateurs plus anciens",
-    "incorrect_answers": [
-      "Une technique d'optimisation pour réduire la taille des images",
-      "Un type de balise HTML pour l'intégration de contenu externe",
-      "Un mécanisme de sécurité pour prévenir les attaques XSS"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1581472723648-909f4851d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation est réputé pour son puissant système de macros et son homoiconicité ?",
-    "correct_answer": "Lisp",
-    "incorrect_answers": [
+      "Smalltalk",
       "C++",
-      "Python",
-      "Java"
+      "Lisp"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258311-8da2b4233921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel projet majeur de système d'exploitation Multics a-t-il directement influencé ?",
-    "correct_answer": "Unix",
+    "question": "Quel numéro de port UDP est traditionnellement associé au protocole DHCP pour les requêtes client, distinguant ainsi le trafic client du trafic serveur ?",
+    "correct_answer": "68",
     "incorrect_answers": [
-      "MS-DOS",
-      "VMS",
-      "CP/M"
+      "67",
+      "53",
+      "80"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258557-515962e11f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763568258429-b3c7634a764d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'objectif principal de DNSSEC (Domain Name System Security Extensions) ?",
-    "correct_answer": "Fournir une authentification d'origine et d'intégrité aux réponses DNS",
-    "incorrect_answers": [
-      "Chiffrer le trafic DNS entre le client et le serveur",
-      "Accélérer la résolution DNS pour les domaines sécurisés",
-      "Bloquer les requêtes DNS malveillantes"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En programmation orientée objet, que signifie le 'Liskov Substitution Principle' (LSP) ?",
-    "correct_answer": "Les objets d'un type peuvent être remplacés par des objets de ses sous-types",
-    "incorrect_answers": [
-      "Les classes ne devraient avoir qu'une seule raison de changer",
-      "Les modules de haut niveau ne devraient pas dépendre des modules de bas niveau",
-      "Les interfaces devraient être petites et spécifiques au client"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle organisation a initialement développé la norme Ethernet ?",
-    "correct_answer": "Xerox PARC",
-    "incorrect_answers": [
-      "Bell Labs",
-      "IBM",
-      "ARPA"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776521796613-564c9f7d02e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "À quoi sert principalement le concept RAII (Resource Acquisition Is Initialization) en C++ ?",
-    "correct_answer": "Gérer automatiquement les ressources via la durée de vie des objets",
-    "incorrect_answers": [
-      "Optimiser la récursivité terminale",
-      "Assurer l'atomicité des opérations multithreadées",
-      "Implémenter le polymorphisme à l'exécution"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1604591259403-81d6c9cf87d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a proposé le concept du World Wide Web au CERN en mars 1989 ?",
-    "correct_answer": "Tim Berners-Lee",
-    "incorrect_answers": [
-      "Robert Kahn",
-      "Vinton Cerf",
-      "Marc Andreessen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258449-44718bd82b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel algorithme est célèbre pour avoir été le premier à permettre l'échange de clés secrètes sur un canal non sécurisé ?",
-    "correct_answer": "Diffie-Hellman",
-    "incorrect_answers": [
-      "RSA",
-      "AES",
-      "Merkle-Hellman"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618477371303-b2a56f422d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle acquisition majeure de Facebook en 2012 a consolidé sa position dans le partage de photos mobiles ?",
-    "correct_answer": "Instagram",
-    "incorrect_answers": [
-      "WhatsApp",
-      "Oculus VR",
-      "Onavo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258844-b31a923568b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans les propriétés ACID des transactions de base de données, que représente le 'C' ?",
-    "correct_answer": "Consistency (Cohérence)",
-    "incorrect_answers": [
-      "Concurrency (Concurrence)",
-      "Commit (Validation)",
-      "Caching (Mise en cache)"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759661881353-5b9cc55e1cf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel était le nom de l'ordinateur IBM qui a battu Garry Kasparov aux échecs en 1997 ?",
-    "correct_answer": "Deep Blue",
-    "incorrect_answers": [
-      "Watson",
-      "AlphaGo",
-      "HAL 9000"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258492-7c006595375a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la fonction principale du protocole BGP (Border Gateway Protocol) ?",
-    "correct_answer": "Échanger des informations de routage entre systèmes autonomes sur Internet",
-    "incorrect_answers": [
-      "Gérer l'allocation dynamique d'adresses IP",
-      "Chiffrer le trafic entre routeurs",
-      "Authentifier les utilisateurs sur les réseaux étendus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1532522953890-ccc87dfeb0b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la distinction principale entre un mutex et un sémaphore ?",
-    "correct_answer": "Un mutex est pour l'exclusion mutuelle, un sémaphore gère l'accès à plusieurs ressources",
-    "incorrect_answers": [
-      "Un mutex est un verrou de lecture, un sémaphore est un verrou d'écriture",
-      "Les sémaphores sont spécifiques aux threads, les mutex aux processus",
-      "Un mutex est une primitive de synchronisation matérielle, un sémaphore est logicielle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258482-c45010ae3528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est généralement crédité du développement du premier compilateur de langage de programmation (le système A-0) ?",
+    "question": "Quelle figure emblématique de l'informatique est réputée pour avoir popularisé le terme 'bug' informatique après la découverte d'un insecte dans le Mark II Aiken Relay Calculator en 1947 ?",
     "correct_answer": "Grace Hopper",
     "incorrect_answers": [
-      "John Backus",
-      "Niklaus Wirth",
-      "Dennis Ritchie"
+      "Ada Lovelace",
+      "Alan Turing",
+      "John von Neumann"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707927438677-592d30e1262a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763568258844-b31a923568b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel géant de la technologie a été co-fondé par Gordon Moore et Robert Noyce ?",
-    "correct_answer": "Intel",
+    "question": "Dans le modèle d'acteur, une approche de concurrence, quelle propriété garantit qu'un acteur ne peut pas modifier l'état interne d'un autre acteur sans passer par l'envoi de messages ?",
+    "correct_answer": "Encapsulation",
+    "incorrect_answers": [
+      "Immuabilité",
+      "Isolement",
+      "Asynchronicité"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Avant de devenir une entité distincte, quelle division de Remington Rand a été responsable de la commercialisation du premier ordinateur électronique commercial, l'UNIVAC I ?",
+    "correct_answer": "UNIVAC",
+    "incorrect_answers": [
+      "IBM",
+      "Honeywell",
+      "Burroughs"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258449-44718bd82b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel RFC décrit le protocole IP (Internet Protocol) version 4, établissant les bases de l'adressage et du routage sur Internet, et est toujours fondamental aujourd'hui ?",
+    "correct_answer": "RFC 791",
+    "incorrect_answers": [
+      "RFC 793",
+      "RFC 821",
+      "RFC 1180"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258343-cdf1306baa2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle structure de données auto-équilibrée est une généralisation des arbres AVL, où chaque nœud peut contenir plusieurs clés et avoir plus de deux enfants, optimisée pour les accès disque ?",
+    "correct_answer": "B-tree",
+    "incorrect_answers": [
+      "Red-Black tree",
+      "Splay tree",
+      "Heap"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1584949091708-0a21d38ab8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel ingénieur allemand est crédité d'avoir construit le Z3 en 1941, souvent considéré comme le premier ordinateur entièrement automatique et programmable au monde utilisant des relais électromécaniques ?",
+    "correct_answer": "Konrad Zuse",
+    "incorrect_answers": [
+      "Howard Aiken",
+      "John von Neumann",
+      "Charles Babbage"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1532522953890-ccc87dfeb0b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans un contexte de programmation fonctionnelle, quel terme décrit une fonction qui prend une ou plusieurs fonctions comme arguments ou renvoie une fonction comme résultat ?",
+    "correct_answer": "Fonction d'ordre supérieur",
+    "incorrect_answers": [
+      "Fonction pure",
+      "Currying",
+      "Lambda"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1683813479742-4730f91fa3ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel type d'enregistrement DNS est spécifiquement utilisé pour désigner les serveurs de messagerie responsables de la réception d'e-mails pour un domaine donné ?",
+    "correct_answer": "MX record",
+    "incorrect_answers": [
+      "A record",
+      "CNAME record",
+      "NS record"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580894896813-652ff5aa8146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel système d'exploitation, développé aux Bell Labs à partir de 1969, a introduit des concepts fondamentaux comme le système de fichiers hiérarchique, les pipes et les utilitaires modulaires en ligne de commande ?",
+    "correct_answer": "Unix",
+    "incorrect_answers": [
+      "Multics",
+      "CP/M",
+      "MS-DOS"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618477371303-b2a56f422d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle technique d'ingénierie logicielle vise à évaluer la sécurité d'une application en lui fournissant des entrées de données malformées ou inattendues pour découvrir des vulnérabilités ou des plantages ?",
+    "correct_answer": "Fuzzing",
+    "incorrect_answers": [
+      "Pentesting",
+      "Code review",
+      "Static analysis"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258314-24ef37bb52e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle entreprise est principalement connue pour ses systèmes d'exploitation embarqués et son rôle précoce dans le développement de l'Internet des Objets (IoT) avec des technologies comme VxWorks ?",
+    "correct_answer": "Wind River Systems",
+    "incorrect_answers": [
+      "ARM Holdings",
+      "MIPS Technologies",
+      "Qualcomm"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258492-7c006595375a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans le protocole BGP (Border Gateway Protocol), quel attribut est spécifiquement utilisé pour influencer le chemin de retour du trafic vers un système autonome voisin, et non le chemin sortant ?",
+    "correct_answer": "MED (Multi-Exit Discriminator)",
+    "incorrect_answers": [
+      "AS_PATH",
+      "LOCAL_PREF",
+      "ORIGIN"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258205-3cbcf3ac56c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la complexité temporelle moyenne et, plus important encore, dans le pire des cas d'un algorithme de tri par fusion (Merge Sort) ?",
+    "correct_answer": "O(n log n)",
+    "incorrect_answers": [
+      "O(n^2)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774620396033-18782cda8242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle entreprise a développé et commercialisé le premier disque dur en 1956, connu sous le nom de RAMAC (Random Access Method of Accounting and Control) ?",
+    "correct_answer": "IBM",
+    "incorrect_answers": [
+      "Western Digital",
+      "Seagate",
+      "Hitachi"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258143-904ea924ac53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans un langage comme C ou C++, quelle est la principale fonction des opérateurs `new` et `delete` ou des fonctions `malloc` et `free` ?",
+    "correct_answer": "Allocation dynamique de mémoire sur le tas (heap)",
+    "incorrect_answers": [
+      "Allocation statique sur la pile (stack)",
+      "Gestion des registres CPU",
+      "Optimisation du cache"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258557-515962e11f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel navigateur web, développé par Marc Andreessen et Eric Bina au NCSA en 1993, a popularisé le World Wide Web en étant le premier à afficher des images directement dans les pages HTML ?",
+    "correct_answer": "Mosaic",
+    "incorrect_answers": [
+      "Netscape Navigator",
+      "Internet Explorer",
+      "Lynx"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel programme d'IA, créé par Joseph Weizenbaum au MIT en 1966, a simulé un psychothérapeute rogerien et a démontré les limites d'une simple analyse lexicale pour la compréhension du langage ?",
+    "correct_answer": "ELIZA",
+    "incorrect_answers": [
+      "SHRDLU",
+      "Deep Blue",
+      "HAL 9000"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1581472723648-909f4851d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans le contexte des systèmes distribués, quel théorème stipule qu'un système ne peut pas garantir simultanément la Cohérence, la Disponibilité et la Tolérance aux partitions ?",
+    "correct_answer": "Théorème CAP",
+    "incorrect_answers": [
+      "Théorème de Brewer",
+      "Loi de Amdahl",
+      "Loi de Moore"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1524690217307-5214e9eecf56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle personnalité est connue pour avoir co-fondé Intel Corporation en 1968 avec Robert Noyce et est également crédité d'avoir formulé la célèbre 'Loi de Moore' ?",
+    "correct_answer": "Gordon Moore",
+    "incorrect_answers": [
+      "Andy Grove",
+      "Bill Gates",
+      "Steve Wozniak"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258311-8da2b4233921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de hachage cryptographique, largement utilisé dans les signatures numériques et la vérification d'intégrité, a été significativement compromis par des vulnérabilités de collision théoriques et pratiques documentées par Google en 2017 ?",
+    "correct_answer": "SHA-1",
+    "incorrect_answers": [
+      "MD5",
+      "SHA-256",
+      "AES"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777132732614-6115ab88fa79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle phase d'un compilateur est responsable de la transformation du code source en un flux de jetons (tokens) reconnaissables par le compilateur, sans analyser la structure grammaticale du programme ?",
+    "correct_answer": "Analyse lexicale",
+    "incorrect_answers": [
+      "Analyse syntaxique",
+      "Génération de code",
+      "Optimisation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel appareil, inventé par Douglas Engelbart en 1964 et présenté lors de 'The Mother of All Demos', a révolutionné l'interaction homme-machine en permettant une manipulation directe des éléments à l'écran ?",
+    "correct_answer": "La souris informatique",
+    "incorrect_answers": [
+      "Le clavier QWERTY",
+      "L'écran tactile",
+      "La tablette graphique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258208-a5af30d5a31b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le rôle principal d'un serveur DNS récursif dans le processus de résolution de noms de domaine, distinct de celui d'un serveur DNS autoritaire ?",
+    "correct_answer": "Il interroge d'autres serveurs DNS pour trouver l'adresse IP d'un nom de domaine",
+    "incorrect_answers": [
+      "Il stocke tous les enregistrements DNS du monde",
+      "Il est l'autorité pour un domaine spécifique",
+      "Il convertit les adresses IP en noms de domaine"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773349807434-374473797148?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans le contexte de la métaprogrammation, quel concept permet à un programme d'examiner et de modifier sa propre structure ou son comportement à l'exécution, souvent en manipulant des types ou des objets ?",
+    "correct_answer": "Réflexion (Reflection)",
+    "incorrect_answers": [
+      "Polymorphisme",
+      "Héritage",
+      "Abstraction"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776521796613-564c9f7d02e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel cryptanalyste britannique est célèbre pour son rôle dans le déchiffrement des codes Enigma pendant la Seconde Guerre mondiale et est considéré comme le père de l'informatique théorique et de l'intelligence artificielle ?",
+    "correct_answer": "Alan Turing",
+    "incorrect_answers": [
+      "Claude Shannon",
+      "John von Neumann",
+      "Norbert Wiener"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258482-c45010ae3528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle entreprise a acquis YouTube en 2006, faisant d'elle le leader incontesté du partage de vidéos en ligne et l'une des plateformes les plus visitées au monde ?",
+    "correct_answer": "Google",
     "incorrect_answers": [
       "Microsoft",
       "Apple",
-      "Hewlett-Packard"
+      "Meta (Facebook)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1707927438677-592d30e1262a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En programmation fonctionnelle, quel est le rôle d'une 'monade' pour la gestion des effets de bord ?",
-    "correct_answer": "Encapsuler et séquencer des calculs avec des effets de bord gérés",
+    "question": "Dans les langages supportant les 'coroutines', quelle caractéristique distingue une coroutine d'une simple fonction ou d'un thread par sa capacité à suspendre son exécution et à la reprendre ultérieurement à partir du même point ?",
+    "correct_answer": "Yielding (point de suspension/reprise)",
     "incorrect_answers": [
-      "Permettre l'accès direct à la mémoire pour des performances optimales",
-      "Forcer la pureté des fonctions en interdisant les effets de bord",
-      "Une structure de données pour la manipulation d'arbres binaires"
+      "Multithreading",
+      "Asynchronicité",
+      "Parallelisation"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1584949091708-0a21d38ab8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763568258239-d3b5c95019af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qu'est-ce qu'une attaque de type 'man-in-the-browser' cible principalement ?",
-    "correct_answer": "Les transactions bancaires ou les informations d'identification d'une session",
+    "question": "Quel protocole de routage extérieur (EGP) est le protocole de routage de facto sur Internet, utilisé pour échanger des informations d'accessibilité entre les systèmes autonomes ?",
+    "correct_answer": "BGP (Border Gateway Protocol)",
     "incorrect_answers": [
-      "Le système d'exploitation de l'utilisateur pour le rendre inutilisable",
-      "Les serveurs DNS pour rediriger le trafic web",
-      "Les routeurs pour intercepter tout le trafic réseau local"
+      "OSPF",
+      "RIP",
+      "EIGRP"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258314-24ef37bb52e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle a été l'innovation majeure de l'IBM 350, introduit en 1956 ?",
-    "correct_answer": "Le premier disque dur commercial",
-    "incorrect_answers": [
-      "Le premier lecteur de bande magnétique pour ordinateur",
-      "La première mémoire à tores magnétiques",
-      "Le premier système de stockage optique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258205-3cbcf3ac56c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "À quoi sert principalement WebAssembly (Wasm) ?",
-    "correct_answer": "Exécuter du code compilé à haute performance dans les navigateurs web",
-    "incorrect_answers": [
-      "Développer des interfaces utilisateur réactives en HTML et CSS",
-      "Gérer la base de données côté client dans les applications web",
-      "Un nouveau protocole de communication en temps réel pour le web"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773349807434-374473797148?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle organisation est responsable de la spécification des standards du World Wide Web ?",
-    "correct_answer": "Le World Wide Web Consortium (W3C)",
-    "incorrect_answers": [
-      "L'Internet Engineering Task Force (IETF)",
-      "L'Internet Corporation for Assigned Names and Numbers (ICANN)",
-      "L'Institute of Electrical and Electronics Engineers (IEEE)"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1524690217307-5214e9eecf56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qu'est-ce que la 'Software Transactional Memory' (STM) ?",
-    "correct_answer": "Un mécanisme de contrôle de la concurrence inspiré des bases de données",
-    "incorrect_answers": [
-      "Une technique pour stocker des objets en mémoire partagée de manière persistante",
-      "Un modèle de programmation pour la gestion automatique de la mémoire",
-      "Une méthode pour optimiser les accès disque dans les systèmes distribués"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894896813-652ff5aa8146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été initialement nommé 'Oak' avant sa sortie publique ?",
-    "correct_answer": "Java",
-    "incorrect_answers": [
-      "C#",
-      "Ruby",
-      "Python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258143-904ea924ac53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

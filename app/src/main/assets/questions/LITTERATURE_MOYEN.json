@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel prix littéraire français est généralement décerné en même temps que le Goncourt, le même jour ?",
-    "correct_answer": "Le prix Renaudot",
-    "incorrect_answers": [
-      "Le prix Médicis",
-      "Le prix Femina",
-      "Le Grand Prix du roman de l'Académie française"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773352520531-3b2917e8efc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "De quel auteur français la 'Comédie humaine' est-elle le titre générique d'une vaste œuvre romanesque ?",
-    "correct_answer": "Honoré de Balzac",
-    "incorrect_answers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Guy de Maupassant"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765969934422-077ccae29246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel célèbre roman d'Albert Camus met en scène le personnage de Meursault et son indifférence au monde ?",
+    "question": "Quel roman d'Albert Camus met en scène Meursault, un homme indifférent à la société et à son procès ?",
     "correct_answer": "L'Étranger",
     "incorrect_answers": [
       "La Peste",
-      "Le Mythe de Sisyphe",
-      "Caligula"
+      "La Chute",
+      "Le Premier Homme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1698943083667-e6edf53c778a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1768332491203-d95985191057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel recueil de poèmes, publié en 1857, a valu à Charles Baudelaire un procès pour outrage à la morale publique ?",
-    "correct_answer": "Les Fleurs du Mal",
+    "question": "Quel mouvement littéraire, caractérisé par le rejet du roman traditionnel, est illustré par des auteurs comme Alain Robbe-Grillet et Nathalie Sarraute ?",
+    "correct_answer": "Le Nouveau Roman",
+    "incorrect_answers": [
+      "Le Surréalisme",
+      "Le Naturalisme",
+      "Le Théâtre de l'Absurde"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1748207397062-02440ad9f034?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel recueil de poèmes de Paul Verlaine est réputé pour sa musicalité, sa mélancolie et son influence symboliste ?",
+    "correct_answer": "Poèmes saturniens",
     "incorrect_answers": [
       "Alcools",
-      "Les Illuminations",
-      "Cahiers de Douai"
+      "Les Fleurs du Mal",
+      "Capitale de la douleur"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775430766307-da6ed6641bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1698943083667-e6edf53c778a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'auteur du roman dystopique '1984' ?",
+    "question": "Quel est le nom du prix littéraire français décerné par un jury composé exclusivement de femmes ?",
+    "correct_answer": "Le Prix Femina",
+    "incorrect_answers": [
+      "Le Prix Goncourt",
+      "Le Prix Renaudot",
+      "Le Prix Médicis"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1553448539-76016c055738?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le poème épique de l'Antiquité grecque qui raconte le retour difficile d'Ulysse après la guerre de Troie ?",
+    "correct_answer": "L'Odyssée",
+    "incorrect_answers": [
+      "L'Iliade",
+      "L'Énéide",
+      "Les Travaux et les Jours"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773352520531-3b2917e8efc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage emblématique de Molière est un avare obsessionnel qui aime l'argent plus que tout, au détriment de sa famille ?",
+    "correct_answer": "Harpagon",
+    "incorrect_answers": [
+      "Don Juan",
+      "Alceste",
+      "Monsieur Jourdain"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776533696375-e5c29673e751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Stendhal narre l'ascension sociale de Julien Sorel dans la France de la Restauration, entre l'armée et l'Église ?",
+    "correct_answer": "Le Rouge et le Noir",
+    "incorrect_answers": [
+      "La Chartreuse de Parme",
+      "Germinal",
+      "Le Père Goriot"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774270115093-58d6eb433fb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur russe a écrit le roman fleuve 'Guerre et Paix', fresque historique et philosophique sur la Russie impériale ?",
+    "correct_answer": "Léon Tolstoï",
+    "incorrect_answers": [
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Nicolas Gogol"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1769962920122-fe86f53a31e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dramaturge est l'auteur de la pièce 'En attendant Godot', chef-d'œuvre du théâtre de l'absurde ?",
+    "correct_answer": "Samuel Beckett",
+    "incorrect_answers": [
+      "Eugène Ionesco",
+      "Jean Anouilh",
+      "Albert Camus"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765969934422-077ccae29246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans quel roman d'Émile Zola découvre-t-on le monde des mines et la lutte des ouvriers du Nord de la France pour leurs droits ?",
+    "correct_answer": "Germinal",
+    "incorrect_answers": [
+      "L'Assommoir",
+      "Nana",
+      "Au Bonheur des Dames"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1648905755287-b5c721ab36c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui est l'auteur du roman 'Le Grand Meaulnes', racontant la quête d'un domaine mystérieux et d'un amour perdu ?",
+    "correct_answer": "Alain-Fournier",
+    "incorrect_answers": [
+      "Colette",
+      "Jean Giono",
+      "Marcel Pagnol"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761207299610-12a4d8735be0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète est l'auteur du recueil 'Alcools', caractérisé par l'expérimentation formelle et la suppression de la ponctuation ?",
+    "correct_answer": "Guillaume Apollinaire",
+    "incorrect_answers": [
+      "Arthur Rimbaud",
+      "Paul Éluard",
+      "Jacques Prévert"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777401005650-0eed57a9a121?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement littéraire français, de la fin du 19e siècle, met l'accent sur l'étude scientifique et déterministe de la société ?",
+    "correct_answer": "Le Naturalisme",
+    "incorrect_answers": [
+      "Le Romantisme",
+      "Le Symbolisme",
+      "Le Réalisme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777828631919-6a9749831b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a écrit le célèbre roman dystopique '1984', décrivant un régime totalitaire où 'Big Brother' surveille tout ?",
     "correct_answer": "George Orwell",
     "incorrect_answers": [
       "Aldous Huxley",
       "Ray Bradbury",
       "Philip K. Dick"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764807750225-b2ebb272c174?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774320536102-1d883b09ac46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel roman de Victor Hugo peut-on suivre les aventures de Jean Valjean et l'inspecteur Javert ?",
-    "correct_answer": "Les Misérables",
+    "question": "Quel auteur français du 17e siècle est célèbre pour ses contes de fées comme 'Cendrillon' et 'Le Petit Chaperon rouge' ?",
+    "correct_answer": "Charles Perrault",
     "incorrect_answers": [
-      "Notre-Dame de Paris",
-      "Quatrevingt-treize",
-      "Les Travailleurs de la mer"
+      "Jean de La Fontaine",
+      "Les frères Grimm",
+      "Hans Christian Andersen"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761474909212-21b511bd3eb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1773266109454-765e229ccc4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Lequel de ces mouvements littéraires est associé à des auteurs comme André Breton et Louis Aragon ?",
-    "correct_answer": "Le Surréalisme",
+    "question": "Quel prix prestigieux, décerné par l'Académie suédoise, récompense chaque année une œuvre littéraire de portée mondiale ?",
+    "correct_answer": "Le Prix Nobel de littérature",
     "incorrect_answers": [
-      "Le Dadaïsme",
-      "L'Existentialisme",
-      "Le Nouveau Roman"
+      "Le Prix Booker",
+      "Le Prix Pulitzer",
+      "Le Prix Cervantes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773394184308-4452aaf03492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1761474909212-21b511bd3eb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel dramaturge est l'auteur de la célèbre comédie 'Le Misanthrope' ?",
-    "correct_answer": "Molière",
+    "question": "Qui est l'auteur du roman 'L'Anomalie', Prix Goncourt 2020, mêlant thriller, science-fiction et réflexion philosophique ?",
+    "correct_answer": "Hervé Le Tellier",
     "incorrect_answers": [
-      "Pierre Corneille",
-      "Jean Racine",
-      "Beaumarchais"
+      "Virginie Despentes",
+      "Édouard Louis",
+      "Nicolas Mathieu"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774270115093-58d6eb433fb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1647696945040-56de84f73f5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Fiodor Dostoïevski raconte l'histoire de Raskolnikov et son crime ?",
-    "correct_answer": "Crime et Châtiment",
+    "question": "Quel genre littéraire médiéval français met en scène les exploits de chevaliers comme Lancelot ou Perceval, et l'amour courtois ?",
+    "correct_answer": "Le roman courtois",
     "incorrect_answers": [
-      "Les Frères Karamazov",
-      "L'Idiot",
-      "Démons"
+      "La farce",
+      "Le fabliau",
+      "Le mystère"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769962929240-24f4c2a69b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1764728671420-d88d4734e2fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année a été attribué le premier Prix Nobel de littérature ?",
-    "correct_answer": "1901",
+    "question": "Quelle auteure française a écrit 'Le Deuxième Sexe', ouvrage majeur du féminisme analysant la condition féminine ?",
+    "correct_answer": "Simone de Beauvoir",
     "incorrect_answers": [
-      "1895",
-      "1910",
-      "1920"
+      "Marguerite Duras",
+      "Françoise Sagan",
+      "Colette"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761207299610-12a4d8735be0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1595123550441-d377e017de6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Marcel Proust, en sept tomes, est célèbre pour son exploration de la mémoire involontaire ?",
-    "correct_answer": "À la recherche du temps perdu",
-    "incorrect_answers": [
-      "Les Faux-Monnayeurs",
-      "Le Grand Meaulnes",
-      "Un amour de Swann"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1648905755287-b5c721ab36c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel roman de Gustave Flaubert le personnage principal s'appelle-t-il Emma Bovary ?",
-    "correct_answer": "Madame Bovary",
-    "incorrect_answers": [
-      "Salammbô",
-      "L'Éducation sentimentale",
-      "Bouvard et Pécuchet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553448539-a13a5595a494?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel auteur français, lauréat du Prix Nobel en 2014, est connu pour ses romans explorant l'Occupation et la mémoire ?",
-    "correct_answer": "Patrick Modiano",
-    "incorrect_answers": [
-      "J.M.G. Le Clézio",
-      "Annie Ernaux",
-      "Michel Houellebecq"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384817-3d09eb983833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dramaturge est l'auteur de la tragédie 'Hamlet' ?",
-    "correct_answer": "William Shakespeare",
-    "incorrect_answers": [
-      "Christopher Marlowe",
-      "Ben Jonson",
-      "John Webster"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1768332491203-d95985191057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qu'est-ce que l'alexandrin en poésie française ?",
-    "correct_answer": "Un vers de douze syllabes",
-    "incorrect_answers": [
-      "Un poème sans rimes",
-      "Une strophe de six vers",
-      "Un type de prose poétique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764345608021-25cc35653f7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel philosophe des Lumières est l'auteur du conte philosophique 'Candide ou l'Optimisme' ?",
+    "question": "Quel philosophe et écrivain français est l'auteur de 'Candide ou l'Optimisme', conte philosophique satirique ?",
     "correct_answer": "Voltaire",
     "incorrect_answers": [
       "Jean-Jacques Rousseau",
       "Denis Diderot",
       "Montesquieu"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384833-4d788d9fe476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1698943083652-6213d825bab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur est associé au roman 'Cent ans de solitude' ?",
-    "correct_answer": "Gabriel García Márquez",
+    "question": "Quel est le titre du roman de J.D. Salinger qui suit l'adolescent Holden Caulfield à New York, en rébellion contre le monde adulte ?",
+    "correct_answer": "L'Attrape-cœurs",
     "incorrect_answers": [
-      "Jorge Luis Borges",
-      "Julio Cortázar",
-      "Mario Vargas Llosa"
+      "Sur la route",
+      "Gatsby le Magnifique",
+      "Un singe en hiver"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1699523525646-ae96e089474f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1699359104598-9e1c62031af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman d'Émile Zola dépeint la vie misérable des mineurs du Nord de la France ?",
-    "correct_answer": "Germinal",
+    "question": "Quel auteur est considéré comme le principal théoricien et animateur du mouvement surréaliste, avec le 'Manifeste du surréalisme' ?",
+    "correct_answer": "André Breton",
     "incorrect_answers": [
-      "L'Assommoir",
-      "Nana",
-      "La Bête humaine"
+      "Louis Aragon",
+      "Paul Éluard",
+      "René Char"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1724501405264-945712f7f05a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1773394184308-4452aaf03492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman a valu le Prix Goncourt à André Malraux en 1933 ?",
-    "correct_answer": "La Condition humaine",
+    "question": "Quel roman de Victor Hugo raconte l'histoire de Quasimodo, Esmeralda et Frollo dans le Paris médiéval du XVe siècle ?",
+    "correct_answer": "Notre-Dame de Paris",
     "incorrect_answers": [
-      "L'Espoir",
-      "Les Conquérants",
-      "Antimémoires"
+      "Les Misérables",
+      "Quatre-vingt-treize",
+      "L'Homme qui rit"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1699359104598-9e1c62031af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767634924490-2e48dccf8019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur britannique a créé le personnage de Sherlock Holmes ?",
-    "correct_answer": "Arthur Conan Doyle",
+    "question": "Quel est le nom du genre théâtral où l'on se moque des travers de la société par le rire et la satire, souvent avec un dénouement heureux ?",
+    "correct_answer": "La comédie",
     "incorrect_answers": [
-      "Agatha Christie",
-      "Edgar Allan Poe",
-      "Wilkie Collins"
+      "La tragédie",
+      "Le drame",
+      "Le mélodrame"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384865-82dba88ac831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1769962929240-24f4c2a69b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman d'Alain Robbe-Grillet est emblématique du Nouveau Roman par son style descriptif et ses scènes ambiguës ?",
-    "correct_answer": "La Jalousie",
+    "question": "Qui est l'auteur des célèbres tragédies 'Hamlet', 'Roméo et Juliette' et 'Macbeth' ?",
+    "correct_answer": "William Shakespeare",
     "incorrect_answers": [
-      "Moderato Cantabile",
-      "Le Voyeur",
-      "Les Gommes"
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "George Bernard Shaw"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1595123550441-d377e017de6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1696952384833-4d788d9fe476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est l'auteure du roman 'L'Amant', qui a reçu le Prix Goncourt en 1984 ?",
-    "correct_answer": "Marguerite Duras",
+    "question": "Qui a écrit 'Le Consentement', récit autobiographique sur une relation sous emprise, Prix Renaudot des lycéens 2020 ?",
+    "correct_answer": "Vanessa Springora",
     "incorrect_answers": [
-      "Françoise Sagan",
-      "Simone de Beauvoir",
-      "Annie Ernaux"
+      "Annie Ernaux",
+      "Delphine de Vigan",
+      "Leïla Slimani"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774320536102-1d883b09ac46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1764345608021-25cc35653f7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle pièce de théâtre d'Eugène Ionesco met en scène des personnages qui voient leur ville envahie par des rhinocéros ?",
-    "correct_answer": "Rhinocéros",
-    "incorrect_answers": [
-      "La Cantatrice chauve",
-      "Les Chaises",
-      "En attendant Godot"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773266109454-765e229ccc4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel auteur est le principal théoricien de l'existentialisme et a écrit 'L'Être et le Néant' ?",
+    "question": "Quel auteur a exploré la question de la liberté individuelle et de la responsabilité dans 'L'Être et le Néant', ouvrage majeur de l'existentialisme ?",
     "correct_answer": "Jean-Paul Sartre",
     "incorrect_answers": [
       "Albert Camus",
-      "André Malraux",
-      "Michel Foucault"
+      "Simone de Beauvoir",
+      "Maurice Merleau-Ponty"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1776533696375-e5c29673e751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1724500307191-a4f2f7351334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel poète est l'auteur du célèbre poème 'Le Dormeur du val' ?",
-    "correct_answer": "Arthur Rimbaud",
+    "question": "Quel poète de la Pléiade est l'auteur des 'Amours de Cassandre' et 'Sonnet pour Hélène', célébrant l'amour et la beauté ?",
+    "correct_answer": "Pierre de Ronsard",
     "incorrect_answers": [
-      "Paul Verlaine",
-      "Stéphane Mallarmé",
-      "Alfred de Vigny"
+      "Joachim du Bellay",
+      "Agrippa d'Aubigné",
+      "Clément Marot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1553448539-76016c055738?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775430766307-da6ed6641bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Jane Austen raconte l'histoire d'Elizabeth Bennet et Mr Darcy ?",
-    "correct_answer": "Orgueil et Préjugés",
+    "question": "Dans quel roman de Franz Kafka le protagoniste, Joseph K., est-il arrêté et accusé sans connaître la nature de son crime ?",
+    "correct_answer": "Le Procès",
     "incorrect_answers": [
-      "Raison et Sentiments",
-      "Emma",
-      "Mansfield Park"
+      "La Métamorphose",
+      "Le Château",
+      "L'Amérique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769962920122-fe86f53a31e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1765547683192-bdb17a698c21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur chilien, lauréat du Prix Nobel de littérature, est célèbre pour son recueil 'Vingt poèmes d'amour et une chanson désespérée' ?",
-    "correct_answer": "Pablo Neruda",
+    "question": "Quel auteur est considéré comme l'un des pères de la science-fiction avec des romans comme 'Vingt Mille Lieues sous les mers' ?",
+    "correct_answer": "Jules Verne",
     "incorrect_answers": [
-      "Gabriel García Márquez",
-      "Jorge Luis Borges",
-      "Octavio Paz"
+      "H.G. Wells",
+      "Isaac Asimov",
+      "Philip K. Dick"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764728671420-d88d4734e2fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Stendhal a pour héros Julien Sorel et dépeint la société de la Restauration ?",
-    "correct_answer": "Le Rouge et le Noir",
-    "incorrect_answers": [
-      "La Chartreuse de Parme",
-      "Lucien Leuwen",
-      "Armance"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767634924490-2e48dccf8019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman philosophique d'Antoine de Saint-Exupéry met en scène un aviateur et un petit prince venu d'une autre planète ?",
-    "correct_answer": "Le Petit Prince",
-    "incorrect_answers": [
-      "Vol de nuit",
-      "Terre des hommes",
-      "Courrier Sud"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1698943083652-6213d825bab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel auteur français a obtenu le Prix Nobel de littérature en 2022 ?",
-    "correct_answer": "Annie Ernaux",
-    "incorrect_answers": [
-      "Michel Houellebecq",
-      "Virginie Despentes",
-      "Jean Echenoz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1647696945040-56de84f73f5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzcxMTI5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1777144159742-a138f0f7f7dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

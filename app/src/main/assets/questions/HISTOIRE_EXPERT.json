@@ -1,302 +1,302 @@
 [
   {
-    "question": "Sous quel empereur romain la tétrarchie fut-elle instituée pour stabiliser l'Empire ?",
+    "question": "Quel souverain de Lagash, vers 2120 av. J.-C., est connu pour son œuvre législative, antérieure au Code d'Hammurabi ?",
+    "correct_answer": "Ur-Nammou",
+    "incorrect_answers": [
+      "Gudea",
+      "Sargon d'Akkad",
+      "Naram-Sin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775233861699-60b3a1f557a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roi hittite affronta Ramsès II à la bataille de Qadesh, dont l'issue est encore débattue ?",
+    "correct_answer": "Muwatalli II",
+    "incorrect_answers": [
+      "Suppiluliuma Ier",
+      "Hattusili III",
+      "Tudhaliya IV"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758915464792-a83b054dc48e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe cynique était réputé pour vivre dans un tonneau et défier les conventions sociales à Corinthe ?",
+    "correct_answer": "Diogène de Sinope",
+    "incorrect_answers": [
+      "Antisthène",
+      "Cratès de Thèbes",
+      "Zénon de Kition"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763567764927-b3784b91f112?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empereur romain fut le premier à abdiquer volontairement, instaurant la tétrarchie ?",
     "correct_answer": "Dioclétien",
     "incorrect_answers": [
-      "Constantin Ier",
       "Auguste",
-      "Théodose Ier"
+      "Trajan",
+      "Constantin Ier"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760893407540-378452435ee0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1777029235058-5934d9b4910b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel fut le véritable nom du fondateur de la dynastie mongole des Yuan en Chine ?",
+    "question": "Quel juriste byzantin fut le principal architecte de la compilation du Corpus Juris Civilis sous Justinien Ier ?",
+    "correct_answer": "Tribonien",
+    "incorrect_answers": [
+      "Gaius",
+      "Ulpien",
+      "Papinien"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775129893552-9a8877894302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle dynastie islamique a régné sur l'Espagne (Al-Andalus) du VIIIe au XIe siècle, faisant de Cordoue un centre culturel majeur ?",
+    "correct_answer": "Omeyyades de Cordoue",
+    "incorrect_answers": [
+      "Abbassides",
+      "Almoravides",
+      "Almohades"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758915464840-5b3dcd000619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la date exacte de la signature de la Magna Carta en Angleterre ?",
+    "correct_answer": "15 juin 1215",
+    "incorrect_answers": [
+      "20 avril 1216",
+      "10 mars 1213",
+      "5 juillet 1220"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1760297253430-0b2c4ad663cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel khan mongol, petit-fils de Gengis Khan, fonda la dynastie Yuan en Chine ?",
     "correct_answer": "Kubilai Khan",
     "incorrect_answers": [
-      "Gengis Khan",
       "Ögödei Khan",
-      "Tamerlan"
+      "Batu Khan",
+      "Houlagou Khan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775649134690-8a616cd3974c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1765081508256-fc4224d697b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel événement déclencha la Guerre de Succession d'Autriche en 1740, remettant en cause la Pragmatique Sanction ?",
-    "correct_answer": "La mort de Charles VI",
-    "incorrect_answers": [
-      "L'invasion de la Silésie par Frédéric II",
-      "L'accession de Marie-Thérèse au trône",
-      "Le congrès d'Aix-la-Chapelle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764145798489-5150f7d574df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel empire perse antique le zoroastrisme fut-il la religion d'État prédominante ?",
-    "correct_answer": "L'Empire sassanide",
-    "incorrect_answers": [
-      "L'Empire achéménide",
-      "L'Empire parthe",
-      "L'Empire moghol"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771245463034-f96caf4392e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel philosophe empiriste écossais est l'auteur du monumental 'Traité de la nature humaine' (1739-1740) ?",
-    "correct_answer": "David Hume",
-    "incorrect_answers": [
-      "Adam Smith",
-      "John Locke",
-      "George Berkeley"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767037447555-9a6b100ce724?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel shogun, premier des Trois Grands Unificateurs, initia l'unification du Japon à la fin du XVIe siècle ?",
-    "correct_answer": "Oda Nobunaga",
-    "incorrect_answers": [
-      "Tokugawa Ieyasu",
-      "Toyotomi Hideyoshi",
-      "Minamoto Yoritomo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758915464792-a83b054dc48e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel événement marqua un tournant majeur pour la puissance navale athénienne durant la Guerre du Péloponnèse ?",
-    "correct_answer": "La destruction de leur flotte lors de l'expédition de Sicile",
-    "incorrect_answers": [
-      "La victoire à la bataille des Arginuses",
-      "La défaite à la bataille de Notium",
-      "La prise de Sphactérie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761920365490-87667b46b6e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité, ou ensemble de traités, mit fin à la Guerre de Trente Ans et redessina la carte de l'Europe ?",
-    "correct_answer": "Les Traités de Westphalie",
-    "incorrect_answers": [
-      "La Paix des Pyrénées",
-      "Le Traité d'Utrecht",
-      "La Paix d'Augsbourg"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763567764933-898877f97d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Lequel de ces empereurs byzantins est célèbre pour son code de lois, le 'Corpus Juris Civilis' ?",
-    "correct_answer": "Justinien Ier",
-    "incorrect_answers": [
-      "Léon III l'Isaurien",
-      "Basile II",
-      "Héraclius"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762762901720-a1fa7273844d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle nation africaine a infligé une défaite écrasante à l'armée coloniale italienne à Adoua en 1896 ?",
-    "correct_answer": "L'Éthiopie",
-    "incorrect_answers": [
-      "Le Maroc",
-      "L'Égypte",
-      "L'Afrique du Sud"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759141251414-2e21c5ea7ade?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel souverain aztèque accueillit Hernán Cortés, devenant le dernier tlatoani indépendant de Tenochtitlan ?",
-    "correct_answer": "Moctezuma II",
-    "incorrect_answers": [
-      "Cuauhtémoc",
-      "Nezahualcóyotl",
-      "Itzcoatl"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758811489552-a75d4e44d49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Lequel de ces événements a directement conduit à la formation 'officielle' du Saint-Empire romain germanique ?",
-    "correct_answer": "Le couronnement d'Otton Ier en 962",
-    "incorrect_answers": [
-      "Le couronnement de Charlemagne en 800",
-      "Le Traité de Verdun en 843",
-      "Le sacre de Pépin le Bref en 754"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759234365868-535ace6f4f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle figure religieuse fut excommuniée par le Pape Léon X en 1521, solidifiant la rupture de la Réforme ?",
-    "correct_answer": "Martin Luther",
-    "incorrect_answers": [
-      "Jean Calvin",
-      "Ulrich Zwingli",
-      "Jan Hus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776260700271-e707fba9f330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle dynastie chinoise est associée à l'apogée de la poésie classique et à une ère de grande prospérité ?",
-    "correct_answer": "La dynastie Tang",
-    "incorrect_answers": [
-      "La dynastie Han",
-      "La dynastie Song",
-      "La dynastie Ming"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776018645400-cf15e52ab513?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel général carthaginois est célèbre pour avoir traversé les Alpes avec des éléphants de guerre en 218 av. J.-C. ?",
-    "correct_answer": "Hannibal Barca",
-    "incorrect_answers": [
-      "Hamilcar Barca",
-      "Hasdrubal Barca",
-      "Scipion l'Africain"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775603839158-02efbb15ade0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement littéraire et artistique du XIXe siècle était caractérisé par l'exaltation de la nature et des émotions ?",
-    "correct_answer": "Le Romantisme",
-    "incorrect_answers": [
-      "Le Classicisme",
-      "Le Réalisme",
-      "Le Naturalisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761143471911-1d343db5d5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle bataille de 1805 est souvent citée comme le chef-d'œuvre tactique de Napoléon Bonaparte ?",
-    "correct_answer": "Austerlitz",
-    "incorrect_answers": [
-      "Iéna",
-      "Wagram",
-      "Borodino"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764685762015-64e977de2be6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel président des États-Unis a lancé le programme ambitieux de la 'Great Society' dans les années 1960 ?",
-    "correct_answer": "Lyndon B. Johnson",
-    "incorrect_answers": [
-      "John F. Kennedy",
-      "Richard Nixon",
-      "Dwight D. Eisenhower"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1768045854929-eefaf2ed0004?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Lequel de ces pays n'a pas été une puissance mandataire de la Société des Nations après la Première Guerre mondiale ?",
-    "correct_answer": "Les États-Unis",
-    "incorrect_answers": [
-      "Le Royaume-Uni",
-      "La France",
-      "Le Japon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767842931243-0c29041a9e6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fut le sort du dernier sultan ottoman, Mehmed VI, après l'abolition du sultanat en 1922 ?",
-    "correct_answer": "Il fut exilé",
-    "incorrect_answers": [
-      "Il fut exécuté",
-      "Il devint un chef religieux",
-      "Il se suicida"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761056920622-94346373099e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle conférence de 1884-1885 a formalisé le partage et les règles de colonisation de l'Afrique ?",
-    "correct_answer": "La Conférence de Berlin",
-    "incorrect_answers": [
-      "La Conférence de Brazzaville",
-      "Le Congrès de Vienne",
-      "La Conférence de Yalta"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775233861699-60b3a1f557a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dirigeant yougoslave a maintenu une politique de non-alignement durant la Guerre froide ?",
-    "correct_answer": "Josip Broz Tito",
-    "incorrect_answers": [
-      "Slobodan Milošević",
-      "Milan Nedeljković",
-      "Ante Pavelić"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774306949863-1ea075e2a342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Laquelle de ces révolutions d'Europe de l'Est de 1989 est surnommée la 'Révolution de Velours' ?",
-    "correct_answer": "La Révolution tchécoslovaque",
-    "incorrect_answers": [
-      "La Révolution hongroise",
-      "La Révolution roumaine",
-      "La Révolution polonaise"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771744500546-4bc0680290f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste de la Renaissance a peint 'La Cène' et est également célèbre pour ses esquisses d'inventions ?",
-    "correct_answer": "Léonard de Vinci",
+    "question": "Quel artiste de la Renaissance est l'auteur du David en bronze, chef-d'œuvre de la sculpture florentine ?",
+    "correct_answer": "Donatello",
     "incorrect_answers": [
       "Michel-Ange",
-      "Raphaël",
-      "Donatello"
+      "Verrocchio",
+      "Cellini"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763374046991-632df3a66127?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1761347604361-297ef9a75f5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel événement précis marqua le début de l'Inquisition espagnole en 1478 ?",
-    "correct_answer": "La bulle papale 'Exigit Sincerae Devotionis Affectus'",
+    "question": "Quel théologien jésuite fut l'un des principaux rédacteurs des décrets du Concile de Trente, notamment sur le péché originel ?",
+    "correct_answer": "Diego Laínez",
     "incorrect_answers": [
-      "Le mariage d'Isabelle de Castille et Ferdinand d'Aragon",
-      "La chute de Grenade",
-      "L'expulsion des Juifs d'Espagne"
+      "Robert Bellarmin",
+      "Pedro Canisio",
+      "Francisco Suárez"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767766790972-3d9113d652c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760196504510-bf2bf5bfbd82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Laquelle de ces écoles philosophiques grecques prônait l'ataraxie et l'aponie comme buts de la vie ?",
-    "correct_answer": "L'épicurisme",
+    "question": "Quel traité de 1494 a divisé les terres non européennes entre le Portugal et la Castille le long d'un méridien ?",
+    "correct_answer": "Traité de Tordesillas",
     "incorrect_answers": [
-      "Le stoïcisme",
-      "Le cynisme",
-      "Le scepticisme"
+      "Traité de Saragosse",
+      "Traité d'Alcáçovas",
+      "Traité de Cintra"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765219711338-05c3e4db2d22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767842931243-0c29041a9e6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel fut le nom du traité secret de 1916 entre la France et le Royaume-Uni pour se partager le Moyen-Orient ottoman ?",
-    "correct_answer": "Accords Sykes-Picot",
+    "question": "Quelle réforme administrative, introduite sous Louis XIII et renforcée par Louis XIV, visait à centraliser le pouvoir royal en province ?",
+    "correct_answer": "Les intendants",
     "incorrect_answers": [
-      "Déclaration Balfour",
-      "Traité de Sèvres",
-      "Conférence de Lausanne"
+      "Les baillis",
+      "Les sénéchaux",
+      "Les gouverneurs"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761347604361-297ef9a75f5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1776018645400-cf15e52ab513?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roi de France est associé à la révocation de l'Édit de Nantes en 1685, mettant fin à la tolérance religieuse ?",
-    "correct_answer": "Louis XIV",
+    "question": "Quel encyclopédiste français a contribué à l'Encyclopédie par de nombreux articles scientifiques, et a promu l'athéisme ?",
+    "correct_answer": "Paul Henri Thiry d'Holbach",
     "incorrect_answers": [
-      "Henri IV",
-      "Louis XIII",
-      "Louis XV"
+      "Denis Diderot",
+      "Jean le Rond d'Alembert",
+      "Voltaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760297253430-0b2c4ad663cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1776139053059-956f18e3b34e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel amiral de la dynastie Joseon est célèbre pour ses victoires navales contre les Japonais à la fin du XVIe siècle ?",
-    "correct_answer": "Yi Sun-sin",
+    "question": "Quel délégué de Virginie, plus tard président, est considéré comme le 'Père de la Constitution américaine' ?",
+    "correct_answer": "James Madison",
     "incorrect_answers": [
-      "Sejong le Grand",
-      "Gwanggaeto le Grand",
-      "Toyotomi Hideyoshi"
+      "Thomas Jefferson",
+      "George Washington",
+      "Benjamin Franklin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761923350888-333fe22fede0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1771966738168-83218d95c81b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel historien grec est considéré comme le 'Père de l'Histoire' pour son œuvre sur les guerres médiques ?",
-    "correct_answer": "Hérodote",
+    "question": "Quelle loi du 22 prairial an II (10 juin 1794) a systématisé la Grande Terreur et limité les droits de la défense ?",
+    "correct_answer": "Loi de Prairial",
     "incorrect_answers": [
-      "Thucydide",
-      "Xénophon",
-      "Polybe"
+      "Loi des suspects",
+      "Loi Le Chapelier",
+      "Décret sur le culte de l'Être suprême"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763374005345-34bf974e2b8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1761984336932-3f535187dcae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel maréchal de France, surnommé 'le Tonnerre de la guerre', fut tué à Waterloo ?",
+    "correct_answer": "Maréchal Ney",
+    "incorrect_answers": [
+      "Maréchal Murat",
+      "Maréchal Lannes",
+      "Maréchal Davout"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758779529326-5e5044d19d27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle innovation technique d'Henry Cort dans les années 1780 a révolutionné la production du fer ?",
+    "correct_answer": "Le puddlage",
+    "incorrect_answers": [
+      "Le convertisseur Bessemer",
+      "Le haut fourneau",
+      "La filature hydraulique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1759141251414-2e21c5ea7ade?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du traité signé en 1866 qui met fin à la guerre austro-prussienne et exclut l'Autriche de la Confédération germanique ?",
+    "correct_answer": "Paix de Prague",
+    "incorrect_answers": [
+      "Paix de Francfort",
+      "Traité de Vienne",
+      "Traité de Nikolsburg"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761863825460-544ae26137be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel explorateur et journaliste a aidé le roi Léopold II à établir son contrôle personnel sur le bassin du Congo ?",
+    "correct_answer": "Henry Morton Stanley",
+    "incorrect_answers": [
+      "David Livingstone",
+      "Pierre Savorgnan de Brazza",
+      "Karl Peters"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765121717136-f416076e84de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel général français fut le principal concepteur et défenseur du système défensif de la Ligne Maginot ?",
+    "correct_answer": "André Maginot",
+    "incorrect_answers": [
+      "Philippe Pétain",
+      "Ferdinand Foch",
+      "Joseph Joffre"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776453547334-34f294ef7ec9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pacte de 1928, visant à 'mettre la guerre hors la loi', fut signé par de nombreuses nations mais s'est avéré inefficace ?",
+    "correct_answer": "Pacte Briand-Kellogg",
+    "incorrect_answers": [
+      "Pacte de Locarno",
+      "Traité de Versailles",
+      "Pacte anti-Komintern"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777830801475-e012c3249afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'opération de diversion massive alliée précédant le débarquement de Normandie ?",
+    "correct_answer": "Opération Fortitude",
+    "incorrect_answers": [
+      "Opération Overlord",
+      "Opération Market Garden",
+      "Opération Mincemeat"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765104941440-403d1ca24472?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel document stratégique américain de 1950, le NSC-68, a recommandé une augmentation massive des dépenses militaires pour contenir l'URSS ?",
+    "correct_answer": "NSC-68",
+    "incorrect_answers": [
+      "Doctrine Truman",
+      "Plan Marshall",
+      "Rapport Acheson-Lilienthal"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777846553316-d9e3ff5df5e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays d'Asie du Sud-Est fut le théâtre d'une guerre civile dans les années 1970, aboutissant au régime des Khmers Rouges ?",
+    "correct_answer": "Cambodge",
+    "incorrect_answers": [
+      "Laos",
+      "Vietnam",
+      "Thaïlande"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761701826174-f7d2e0b0974c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel leader nationaliste algérien fut le premier président de l'Algérie indépendante en 1962 ?",
+    "correct_answer": "Ahmed Ben Bella",
+    "incorrect_answers": [
+      "Ferhat Abbas",
+      "Houari Boumédiène",
+      "Messali Hadj"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758915464608-ab5cdb025242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'opération militaire lancée par les États-Unis et leurs alliés en 1991 pour libérer le Koweït ?",
+    "correct_answer": "Opération Tempête du Désert",
+    "incorrect_answers": [
+      "Opération Bouclier du Désert",
+      "Opération Iraqi Freedom",
+      "Opération Enduring Freedom"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1770172351627-d1264006f7ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel général et stratège de la période des Royaumes combattants est l'auteur présumé du traité 'L'Art de la guerre' ?",
+    "correct_answer": "Sun Tzu",
+    "incorrect_answers": [
+      "Han Fei",
+      "Mozi",
+      "Shang Yang"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763567764933-898877f97d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roi de Jérusalem, lépreux mais stratège habile, a défié Saladin à la bataille de Montgisard en 1177 ?",
+    "correct_answer": "Baudouin IV",
+    "incorrect_answers": [
+      "Guy de Lusignan",
+      "Amaury Ier",
+      "Conrad de Montferrat"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1772358529648-52695890668d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel scientifique flamand du XVIIe siècle est considéré comme le père de l'anatomie moderne pour son œuvre 'De humani corporis fabrica' ?",
+    "correct_answer": "André Vésale",
+    "incorrect_answers": [
+      "William Harvey",
+      "Paracelse",
+      "Ambroise Paré"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775129841048-fee913742822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel ouvrage de Rachel Carson, publié en 1962, est considéré comme le point de départ du mouvement écologiste moderne ?",
+    "correct_answer": "Printemps silencieux",
+    "incorrect_answers": [
+      "La Bombe P",
+      "Halte à la croissance",
+      "Le complexe militaro-industriel"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762092630818-0d5e41719498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

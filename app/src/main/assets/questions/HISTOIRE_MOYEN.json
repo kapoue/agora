@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel événement est traditionnellement considéré comme la date de la chute de l'Empire romain d'Occident ?",
-    "correct_answer": "476 après J.-C.",
+    "question": "Qui fut le célèbre chef carthaginois ayant traversé les Alpes avec ses éléphants pour combattre Rome durant les Guerres puniques ?",
+    "correct_answer": "Hannibal Barca",
     "incorrect_answers": [
-      "330 après J.-C.",
-      "1453 après J.-C.",
-      "753 avant J.-C."
+      "Scipion l'Africain",
+      "Pyrrhus d'Épire",
+      "Jules César"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758529619134-1320b0785999?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775832683448-7f5d0847cefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le précepteur d'Alexandre le Grand, figure emblématique de la philosophie grecque antique ?",
-    "correct_answer": "Aristote",
+    "question": "En quelle année la Révolution française a-t-elle débuté avec la prise de la Bastille ?",
+    "correct_answer": "1789",
     "incorrect_answers": [
-      "Platon",
-      "Socrate",
-      "Héraclite"
+      "1776",
+      "1815",
+      "1848"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767080661535-a16d2ba6088a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775129841064-ef8e44301781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle bataille majeure de 1066 marqua la conquête normande de l'Angleterre par Guillaume le Conquérant ?",
-    "correct_answer": "La bataille de Hastings",
+    "question": "Quel événement marqua traditionnellement la fin de l'Empire romain d'Occident ?",
+    "correct_answer": "La déposition de Romulus Augustule en 476 après J.-C.",
     "incorrect_answers": [
-      "La bataille d'Austerlitz",
-      "La bataille de Bouvines",
-      "La bataille d'Alésia"
+      "La division de l'Empire en 395 après J.-C.",
+      "Le sac de Rome par les Wisigoths en 410 après J.-C.",
+      "La chute de Constantinople en 1453 après J.-C."
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1759136513068-46b72dfa57e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763374046991-632df3a66127?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel empereur romain a fait du christianisme la religion d'État de l'Empire romain à la fin du IVe siècle ?",
-    "correct_answer": "Théodose Ier",
+    "question": "La Magna Carta, l'un des premiers documents limitant le pouvoir royal, fut signée par le roi Jean sans Terre en quelle année ?",
+    "correct_answer": "1215",
     "incorrect_answers": [
-      "Constantin Ier",
-      "Dioclétien",
-      "Julien"
+      "1066",
+      "1348",
+      "1415"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1776011008365-00a3071850f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1626270732473-54ff3d1cf636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle reine d'Égypte est célèbre pour ses relations avec Jules César et Marc Antoine ?",
-    "correct_answer": "Cléopâtre VII",
+    "question": "Quel moine allemand est considéré comme le père de la Réforme protestante après avoir publié ses 95 thèses ?",
+    "correct_answer": "Martin Luther",
     "incorrect_answers": [
-      "Néfertiti",
-      "Hatchepsout",
-      "Bérénice IV"
+      "Jean Calvin",
+      "Thomas More",
+      "Érasme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1554111954-66a45f3de9b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767907570471-f62a71a804da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du célèbre code de lois babylonien, l'un des plus anciens déchiffrés à ce jour ?",
-    "correct_answer": "Code d'Hammurabi",
+    "question": "Quelle était la capitale de l'Empire aztèque, célèbre pour ses canaux et son architecture complexe ?",
+    "correct_answer": "Tenochtitlan",
     "incorrect_answers": [
-      "Code de Gortyne",
-      "Lois des Douze Tables",
-      "Code de Justinien"
+      "Cuzco",
+      "Chichen Itza",
+      "Tikal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763734546251-cdc4d465ce4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1773016976783-7438406107cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année Christophe Colomb a-t-il atteint les Amériques pour la première fois ?",
-    "correct_answer": "1492",
+    "question": "En quelle année le Canal de Suez, reliant la Méditerranée à la Mer Rouge, a-t-il été inauguré ?",
+    "correct_answer": "1869",
     "incorrect_answers": [
-      "1453",
-      "1517",
-      "1488"
+      "1859",
+      "1914",
+      "1956"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767766790812-3322a548dd08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1766999708586-daf201963934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mouvement a été initié par Martin Luther au XVIe siècle, contestant les doctrines de l'Église catholique ?",
-    "correct_answer": "La Réforme protestante",
-    "incorrect_answers": [
-      "La Contre-Réforme",
-      "L'Inquisition espagnole",
-      "Le Grand Schisme d'Occident"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776040106733-54beb73abf67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui fut le premier empereur de Chine à unifier le pays et à lancer la construction de la Grande Muraille ?",
-    "correct_answer": "Qin Shi Huang",
-    "incorrect_answers": [
-      "Empereur Wu de Han",
-      "Kubilai Khan",
-      "Puyi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759924573667-22e39d25b4ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roi de France est surnommé le 'Roi-Soleil' et a régné pendant la majeure partie du XVIIe siècle ?",
-    "correct_answer": "Louis XIV",
-    "incorrect_answers": [
-      "Henri IV",
-      "Louis XIII",
-      "Louis XVI"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1770129481042-c7e7c213ffff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la date symbolique de la prise de la Bastille, marquant le début de la Révolution française ?",
-    "correct_answer": "14 juillet 1789",
-    "incorrect_answers": [
-      "4 août 1789",
-      "21 janvier 1793",
-      "20 juin 1789"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764687145657-411a693839e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel général français s'est auto-proclamé Empereur des Français en 1804 ?",
-    "correct_answer": "Napoléon Bonaparte",
-    "incorrect_answers": [
-      "Louis XVIII",
-      "Maximilien Robespierre",
-      "Charles de Gaulle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767907572131-f086af016c5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Où Napoléon Bonaparte a-t-il subi sa défaite finale en 1815, mettant fin à son règne ?",
-    "correct_answer": "Waterloo",
-    "incorrect_answers": [
-      "Austerlitz",
-      "Trafalgar",
-      "Leipzig"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1626270732473-54ff3d1cf636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel événement majeur a eu lieu en 1917 et a conduit à la création de l'Union Soviétique ?",
-    "correct_answer": "La Révolution russe",
-    "incorrect_answers": [
-      "La Révolution française",
-      "La Guerre civile espagnole",
-      "La Révolution industrielle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767907570471-f62a71a804da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité, signé en 1919, a officiellement mis fin à la Première Guerre mondiale et imposé des conditions à l'Allemagne ?",
-    "correct_answer": "Le Traité de Versailles",
-    "incorrect_answers": [
-      "Le Traité de Trianon",
-      "L'Armistice de Rethondes",
-      "Le Traité de Paris"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129841064-ef8e44301781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année a eu lieu le débarquement de Normandie, événement clé de la Seconde Guerre mondiale ?",
-    "correct_answer": "1944",
-    "incorrect_answers": [
-      "1942",
-      "1943",
-      "1945"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1770364145395-9adae58620ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle ville japonaise fut la cible de la première bombe atomique de l'histoire, le 6 août 1945 ?",
-    "correct_answer": "Hiroshima",
-    "incorrect_answers": [
-      "Nagasaki",
-      "Tokyo",
-      "Kyoto"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1578301978577-5189c83839ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel leader indien a mené son pays à l'indépendance par des méthodes de non-violence et de désobéissance civile ?",
-    "correct_answer": "Mahatma Gandhi",
-    "incorrect_answers": [
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose",
-      "Sardar Patel"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764686621196-adfb23afb1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année le mur de Berlin est-il tombé, symbolisant la fin de la Guerre Froide ?",
-    "correct_answer": "1989",
-    "incorrect_answers": [
-      "1991",
-      "1985",
-      "1961"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766999708586-daf201963934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel empire fut dirigé par Gengis Khan au XIIIe siècle, couvrant une grande partie de l'Asie et de l'Europe ?",
-    "correct_answer": "L'Empire mongol",
-    "incorrect_answers": [
-      "L'Empire ottoman",
-      "L'Empire achéménide",
-      "L'Empire byzantin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758915464817-1ced97e87e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel navigateur portugais est le premier à avoir atteint l'Inde par la voie maritime en contournant l'Afrique ?",
-    "correct_answer": "Vasco de Gama",
-    "incorrect_answers": [
-      "Fernand de Magellan",
-      "Bartolomeu Dias",
-      "Pedro Álvares Cabral"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773813080538-8568cce37c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel événement déclencha officiellement la Première Guerre mondiale en juillet 1914 ?",
+    "question": "Quel événement est souvent considéré comme le déclencheur de la Première Guerre mondiale ?",
     "correct_answer": "L'assassinat de l'Archiduc François-Ferdinand",
     "incorrect_answers": [
-      "L'invasion de la Pologne",
-      "Le naufrage du Lusitania",
-      "La crise d'Agadir"
+      "La mobilisation générale de la Russie",
+      "L'invasion de la Belgique par l'Allemagne",
+      "La déclaration de guerre de l'Allemagne à la France"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775832683448-7f5d0847cefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767766790972-3d9113d652c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel philosophe des Lumières a rédigé l'Encyclopédie avec Diderot, œuvre majeure du XVIIIe siècle ?",
-    "correct_answer": "Jean le Rond d'Alembert",
+    "question": "Quel leader bolchevique fut à la tête de la Révolution d'Octobre en Russie en 1917 ?",
+    "correct_answer": "Vladimir Lénine",
+    "incorrect_answers": [
+      "Léon Trotski",
+      "Joseph Staline",
+      "Nicolas II"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764145798489-5150f7d574df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel était le principal principe de la lutte menée par Mahatma Gandhi pour l'indépendance de l'Inde ?",
+    "correct_answer": "La désobéissance civile et la non-violence",
+    "incorrect_answers": [
+      "La résistance armée et les guérillas",
+      "Les négociations secrètes avec l'Empire britannique",
+      "Le boycott économique total"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773813080538-8568cce37c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel symbole de la Guerre Froide a été érigé en 1961 pour séparer Berlin en deux parties ?",
+    "correct_answer": "Le Mur de Berlin",
+    "incorrect_answers": [
+      "Le rideau de fer",
+      "Le pont aérien de Berlin",
+      "La Porte de Brandebourg"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762762901720-a1fa7273844d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année la crise des missiles de Cuba a-t-elle failli déclencher une guerre nucléaire entre les États-Unis et l'URSS ?",
+    "correct_answer": "1962",
+    "incorrect_answers": [
+      "1959",
+      "1961",
+      "1968"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777846553385-638593cebbef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel astronaute américain fut le premier homme à marcher sur la Lune en 1969 ?",
+    "correct_answer": "Neil Armstrong",
+    "incorrect_answers": [
+      "Buzz Aldrin",
+      "Youri Gagarine",
+      "John Glenn"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765219711338-05c3e4db2d22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année le Mur de Berlin est-il tombé, symbolisant la fin de la division de l'Europe ?",
+    "correct_answer": "1989",
+    "incorrect_answers": [
+      "1961",
+      "1991",
+      "1985"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761923350888-333fe22fede0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année Nelson Mandela a-t-il été libéré de prison après 27 ans de détention ?",
+    "correct_answer": "1990",
+    "incorrect_answers": [
+      "1964",
+      "1994",
+      "1985"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767037447555-9a6b100ce724?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Où se situait principalement l'Empire inca ?",
+    "correct_answer": "Dans la chaîne des Andes en Amérique du Sud",
+    "incorrect_answers": [
+      "En Mésoamérique",
+      "Dans la vallée du Nil",
+      "En Mésopotamie"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1759136513068-46b72dfa57e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a été définitivement vaincu lors de la bataille de Waterloo en 1815 ?",
+    "correct_answer": "Napoléon Bonaparte",
+    "incorrect_answers": [
+      "Le duc de Wellington",
+      "Le maréchal Blücher",
+      "Louis XVIII"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762259506644-4087d4e9ef46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe des Lumières est l'auteur de l'œuvre majeure 'Du Contrat Social' ?",
+    "correct_answer": "Jean-Jacques Rousseau",
     "incorrect_answers": [
       "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Montesquieu"
+      "Montesquieu",
+      "Denis Diderot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767724942096-5c49620ca599?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1764686621196-adfb23afb1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel traité mit fin à la Guerre de Trente Ans en 1648, redessinant la carte politique de l'Europe ?",
-    "correct_answer": "Traités de Westphalie",
+    "question": "Dans quel pays la Révolution industrielle a-t-elle débuté au XVIIIe siècle ?",
+    "correct_answer": "La Grande-Bretagne",
     "incorrect_answers": [
-      "Traité de Cateau-Cambrésis",
-      "Paix des Pyrénées",
-      "Édit de Nantes"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129893691-1738a89cb921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays fut le premier à abolir officiellement l'esclavage colonial en 1794, avant de le rétablir en 1802 ?",
-    "correct_answer": "La France",
-    "incorrect_answers": [
-      "Le Royaume-Uni",
+      "La France",
       "Les États-Unis",
-      "L'Espagne"
+      "L'Allemagne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129840823-99f061586a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758915464817-1ced97e87e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle femme fut une figure emblématique de la Guerre de Cent Ans, menant les troupes françaises au XVe siècle ?",
-    "correct_answer": "Jeanne d'Arc",
+    "question": "Les Guerres de l'Opium ont opposé principalement la Chine à quel empire au XIXe siècle ?",
+    "correct_answer": "L'Empire britannique",
     "incorrect_answers": [
-      "Aliénor d'Aquitaine",
-      "Catherine de Médicis",
-      "Blanche de Castille"
+      "L'Empire français",
+      "L'Empire américain",
+      "L'Empire russe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770413186478-77f5cab19325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758811489552-a75d4e44d49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année a débuté la construction de la pyramide de Khéops, l'une des sept merveilles du monde antique ?",
-    "correct_answer": "Environ 2580 av. J.-C.",
+    "question": "En quelle année la Déclaration d'indépendance des États-Unis a-t-elle été adoptée ?",
+    "correct_answer": "1776",
     "incorrect_answers": [
-      "Environ 3100 av. J.-C.",
-      "Environ 1550 av. J.-C.",
-      "Environ 600 av. J.-C."
+      "1787",
+      "1783",
+      "1775"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773017825019-b8d05f7eac4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758389934152-447c53bd1aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel événement en 1962 a failli déclencher une guerre nucléaire entre les États-Unis et l'URSS ?",
-    "correct_answer": "La crise des missiles de Cuba",
+    "question": "Que désigne l'expression 'Pax Romana' dans l'histoire de Rome ?",
+    "correct_answer": "Une longue période de paix et de stabilité dans l'Empire romain",
     "incorrect_answers": [
-      "La guerre de Corée",
-      "La guerre du Vietnam",
-      "Le blocus de Berlin"
+      "Une guerre civile intense qui a ravagé Rome",
+      "L'âge d'or de la démocratie romaine",
+      "La conquête de la Gaule par Jules César"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758389934152-447c53bd1aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763734546251-cdc4d465ce4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle figure est associée à l'unification de l'Italie au XIXe siècle, notamment par l'expédition des Mille ?",
-    "correct_answer": "Giuseppe Garibaldi",
+    "question": "Quel était le principal objectif des Croisades lancées par les chrétiens d'Occident ?",
+    "correct_answer": "Reprendre Jérusalem et la Terre Sainte aux musulmans",
     "incorrect_answers": [
-      "Camillo Cavour",
-      "Victor-Emmanuel II",
-      "Otto von Bismarck"
+      "Conquérir l'Espagne musulmane",
+      "Évangéliser les peuples d'Asie",
+      "Détruire l'Empire byzantin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770463180000-f24bc3b8cc06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775129840823-99f061586a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel événement marqua la fin de la ségrégation raciale institutionnelle en Afrique du Sud (Apartheid) ?",
-    "correct_answer": "Les premières élections multiraciales de 1994",
+    "question": "Quel célèbre conquérant a fondé le plus vaste empire terrestre de l'histoire ?",
+    "correct_answer": "Genghis Khan",
     "incorrect_answers": [
-      "La libération de Nelson Mandela en 1990",
-      "L'abolition des lois de l'Apartheid en 1991",
-      "La fondation de l'ANC"
+      "Alexandre le Grand",
+      "Tamerlan",
+      "Attila"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773016976783-7438406107cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzcxMTI5MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767766790812-3322a548dd08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année Constantinople, capitale de l'Empire byzantin, est-elle tombée aux mains des Ottomans ?",
+    "correct_answer": "1453",
+    "incorrect_answers": [
+      "1204",
+      "1071",
+      "1571"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763374005345-34bf974e2b8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "La Restauration de Meiji, qui a modernisé et industrialisé le pays, a eu lieu dans quel pays ?",
+    "correct_answer": "Le Japon",
+    "incorrect_answers": [
+      "La Chine",
+      "La Corée",
+      "L'Inde"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764685762015-64e977de2be6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel événement majeur a conduit à la partition de l'Inde et à la création du Pakistan en 1947 ?",
+    "correct_answer": "La fin de la domination coloniale britannique",
+    "incorrect_answers": [
+      "Une guerre civile majeure entre hindous et musulmans",
+      "La fondation de l'Organisation des Nations Unies",
+      "Une invasion étrangère"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1771245463034-f96caf4392e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel officier nazi fut le principal architecte de la 'Solution finale' et dirigeant de la SS ?",
+    "correct_answer": "Heinrich Himmler",
+    "incorrect_answers": [
+      "Hermann Göring",
+      "Joseph Goebbels",
+      "Adolf Eichmann"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776040106733-54beb73abf67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle fut la raison principale du pont aérien de Berlin mis en place par les Alliés en 1948-1949 ?",
+    "correct_answer": "Le blocus soviétique de Berlin-Ouest",
+    "incorrect_answers": [
+      "Une invasion soviétique de Berlin",
+      "Le manque de ressources en Allemagne après la guerre",
+      "La construction du Mur de Berlin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767724942096-5c49620ca599?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel était l'objectif principal du Mouvement des pays non-alignés pendant la Guerre Froide ?",
+    "correct_answer": "Ne pas s'allier aux blocs Est ou Ouest",
+    "incorrect_answers": [
+      "Promouvoir le communisme mondial",
+      "Renforcer l'OTAN",
+      "Créer une union économique européenne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1760893407540-378452435ee0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzc5MTg5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

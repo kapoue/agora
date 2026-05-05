@@ -1,302 +1,302 @@
 [
   {
-    "question": "Combien de côtés possède un triangle ?",
-    "correct_answer": "Trois",
+    "question": "Quelle est la formule pour calculer l'aire d'un rectangle de longueur L et de largeur l ?",
+    "correct_answer": "L × l",
     "incorrect_answers": [
-      "Deux",
-      "Quatre",
-      "Cinq"
+      "L + l",
+      "2 × (L + l)",
+      "L ÷ l"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848061-3080d0780285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3NzExMjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848697-b5fb55f87407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3Nzk1MjkwOXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom d'un angle de 90 degrés ?",
-    "correct_answer": "Angle droit",
+    "question": "Comment calcule-t-on le périmètre d'un carré dont le côté mesure \"c\" ?",
+    "correct_answer": "4 × c",
     "incorrect_answers": [
-      "Angle aigu",
-      "Angle obtus",
-      "Angle plat"
+      "c × c",
+      "c + 4",
+      "c ÷ 4"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734671-21838fcd724e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734643-db77920292bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Comment appelle-t-on un nombre divisible par 2 sans reste ?",
-    "correct_answer": "Nombre pair",
+    "question": "Quel théorème permet de calculer la longueur d'un côté d'un triangle rectangle si les deux autres sont connus ?",
+    "correct_answer": "Théorème de Pythagore",
     "incorrect_answers": [
-      "Nombre impair",
-      "Nombre premier",
-      "Nombre rationnel"
+      "Théorème de Thalès",
+      "Conjecture de Goldbach",
+      "Principe d'Archimède"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3NzExMjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685849145-cd8bfb57ab2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est l'opération inverse de l'addition ?",
-    "correct_answer": "La soustraction",
-    "incorrect_answers": [
-      "La multiplication",
-      "La division",
-      "L'exponentiation"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848691-3933bc2aa3ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3NzExMjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Le théorème de Pythagore s'applique-t-il à quel type de triangle ?",
-    "correct_answer": "Triangle rectangle",
-    "incorrect_answers": [
-      "Triangle isocèle",
-      "Triangle équilatéral",
-      "Triangle quelconque"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631047085941-a29e9730a7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3NzExMjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la distance entre le centre d'un cercle et n'importe quel point de sa circonférence ?",
-    "correct_answer": "Le rayon",
-    "incorrect_answers": [
-      "Le diamètre",
-      "La corde",
-      "L'arc"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1648126506800-a7b1412fcadf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel célèbre mathématicien grec est connu pour son théorème sur les triangles semblables ?",
-    "correct_answer": "Thalès",
+    "question": "Quel célèbre mathématicien de la Grèce antique est associé au théorème du carré de l'hypoténuse ?",
+    "correct_answer": "Pythagore",
     "incorrect_answers": [
       "Euclide",
-      "Archimède",
-      "Platon"
+      "Thalès",
+      "Archimède"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734311-f25c8d2de991?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848754-0aa566b4ddf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Comment calcule-t-on la moyenne d'une série de nombres ?",
-    "correct_answer": "En additionnant les nombres puis en divisant par leur quantité",
+    "question": "Un nombre premier est un nombre entier qui possède exactement combien de diviseurs ?",
+    "correct_answer": "Deux (lui-même et 1)",
     "incorrect_answers": [
-      "En prenant le nombre du milieu",
-      "En choisissant le nombre le plus fréquent",
-      "En multipliant tous les nombres entre eux"
+      "Un seul",
+      "Trois",
+      "Un nombre infini"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848754-0aa566b4ddf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1585875350095-933e478b7e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3Nzk1MjkwOXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le plus petit nombre premier ?",
-    "correct_answer": "Deux",
+    "question": "Que représente le dénominateur d'une fraction comme 3/4 ?",
+    "correct_answer": "Le nombre total de parts égales",
     "incorrect_answers": [
-      "Zéro",
-      "Un",
-      "Trois"
+      "Le nombre de parts prises",
+      "La valeur de la fraction",
+      "Le reste de la division"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734643-db77920292bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848061-3080d0780285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3Nzk1MjkwOXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la formule pour calculer l'aire d'un carré de côté 'c' ?",
-    "correct_answer": "c multiplié par c (c²)",
-    "incorrect_answers": [
-      "4 multiplié par c",
-      "c divisé par 2",
-      "2 multiplié par c"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1585875350095-933e478b7e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3NzExMjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur approximative de Pi (π) ?",
-    "correct_answer": "3,14",
-    "incorrect_answers": [
-      "2,71",
-      "1,61",
-      "4,20"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848697-b5fb55f87407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3NzExMjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans l'équation x + 5 = 10, que représente la lettre 'x' ?",
-    "correct_answer": "Une inconnue",
-    "incorrect_answers": [
-      "Un coefficient",
-      "Une constante",
-      "Une variable dépendante"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734640-5a539c096aed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Une figure à quatre côtés égaux et quatre angles droits est un...",
-    "correct_answer": "Carré",
-    "incorrect_answers": [
-      "Rectangle",
-      "Losange",
-      "Trapèze"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734686-e69f130c1aab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En statistiques, quelle est la valeur qui apparaît le plus souvent dans une série ?",
-    "correct_answer": "Le mode",
-    "incorrect_answers": [
-      "La médiane",
-      "L'étendue",
-      "Le quartile"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733685-7e0f30c35a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien de l'Antiquité est considéré comme le père de la géométrie ?",
-    "correct_answer": "Euclide",
-    "incorrect_answers": [
-      "Ptolémée",
-      "Socrate",
-      "Aristote"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733699-04d6544f2655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Un nombre inférieur à zéro est appelé...",
-    "correct_answer": "Nombre négatif",
-    "incorrect_answers": [
-      "Nombre positif",
-      "Nombre entier",
-      "Nombre décimal"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848069-5a747851f32c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la somme des mesures des angles d'un triangle ?",
+    "question": "Quelle est la somme des mesures des angles intérieurs d'un triangle, quelle que soit sa forme ?",
     "correct_answer": "180 degrés",
     "incorrect_answers": [
       "90 degrés",
-      "270 degrés",
-      "360 degrés"
+      "360 degrés",
+      "100 degrés"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848084-fc51214f3cd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734303-e85757067f28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Comment appelle-t-on le résultat d'une multiplication ?",
-    "correct_answer": "Le produit",
+    "question": "Dans l'ordre des opérations mathématiques, quelle opération doit être effectuée en premier dans 2 + 3 × 4 ?",
+    "correct_answer": "La multiplication",
     "incorrect_answers": [
-      "La somme",
-      "La différence",
-      "Le quotient"
+      "L'addition",
+      "La soustraction",
+      "La division"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848691-3933bc2aa3ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3Nzk1MjkwOXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle formule donne le périmètre d'un cercle de rayon 'r' ?",
-    "correct_answer": "2 multiplié par Pi multiplié par r",
+    "question": "Si vous avez les notes 10, 12, et 14, quelle est la moyenne de ces notes ?",
+    "correct_answer": "12",
     "incorrect_answers": [
-      "Pi multiplié par r au carré",
-      "r multiplié par r",
-      "2 multiplié par r"
+      "10",
+      "14",
+      "36"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3NzExMjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734311-f25c8d2de991?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel chiffre représente l'absence de quantité ou le point de départ ?",
-    "correct_answer": "Zéro",
+    "question": "Comment appelle-t-on un angle dont la mesure est exactement 90 degrés ?",
+    "correct_answer": "Un angle droit",
     "incorrect_answers": [
-      "Un",
-      "Dix",
-      "L'infini"
+      "Un angle aigu",
+      "Un angle obtus",
+      "Un angle plat"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770719269462-d3c1ed7e184f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3NzExMjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685845902-acd5db1b532b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Une figure géométrique plane ayant cinq côtés et cinq angles est un...",
-    "correct_answer": "Pentagone",
+    "question": "Quel mathématicien de l'Antiquité est souvent considéré comme le \"père de la géométrie\" et auteur des \"Éléments\" ?",
+    "correct_answer": "Euclide",
     "incorrect_answers": [
-      "Hexagone",
-      "Octogone",
-      "Heptagone"
+      "Aristote",
+      "Platon",
+      "Ptolémée"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848095-249ad965f4f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631047085941-a29e9730a7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3Nzk1MjkwOXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel type de graphique est le plus approprié pour montrer la proportion de chaque catégorie dans un tout ?",
-    "correct_answer": "Diagramme circulaire (camembert)",
+    "question": "Comment s'écrit 50% en fraction la plus simple ?",
+    "correct_answer": "1/2",
     "incorrect_answers": [
-      "Diagramme en bâtons",
-      "Histogramme",
-      "Graphique en ligne"
+      "50/1000",
+      "5/100",
+      "1/5"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848766-06f00193020e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien français a introduit les coordonnées cartésiennes ?",
+    "question": "Quelle forme géométrique en 3D est caractérisée par deux bases circulaires parallèles et une surface latérale courbe ?",
+    "correct_answer": "Un cylindre",
+    "incorrect_answers": [
+      "Un cône",
+      "Une sphère",
+      "Un cube"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848951-35cfbf688e14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3Nzk1MjkwOXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Le théorème de Thalès est souvent utilisé pour calculer des longueurs dans des figures impliquant des...",
+    "correct_answer": "Triangles semblables",
+    "incorrect_answers": [
+      "Carrés parfaits",
+      "Cercles concentriques",
+      "Droites perpendiculaires"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848766-06f00193020e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus petit nombre entier naturel ?",
+    "correct_answer": "0",
+    "incorrect_answers": [
+      "1",
+      "-1",
+      "Il n'y en a pas"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734640-5a539c096aed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En géométrie, que représente le premier nombre dans une paire de coordonnées (x, y) ?",
+    "correct_answer": "La position sur l'axe horizontal (abscisse)",
+    "incorrect_answers": [
+      "La position sur l'axe vertical (ordonnée)",
+      "La profondeur",
+      "La taille de la figure"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Que signifie 5 puissance 2 (5²) ?",
+    "correct_answer": "5 multiplié par 5",
+    "incorrect_answers": [
+      "5 multiplié par 2",
+      "5 + 2",
+      "2 multiplié par 5"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733800-bc2a64fa8017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans une série de données, qu'est-ce que le \"mode\" ?",
+    "correct_answer": "La valeur qui apparaît le plus souvent",
+    "incorrect_answers": [
+      "La valeur médiane",
+      "La moyenne des valeurs",
+      "La différence entre max et min"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734312-5134968399a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Si une figure est symétrique par rapport à une droite, comment appelle-t-on cette droite ?",
+    "correct_answer": "Un axe de symétrie",
+    "incorrect_answers": [
+      "Une diagonale",
+      "Une bissectrice",
+      "Un rayon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1648126506800-a7b1412fcadf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe et mathématicien français a développé le système de coordonnées cartésiennes ?",
     "correct_answer": "René Descartes",
     "incorrect_answers": [
       "Blaise Pascal",
-      "Pierre de Fermat",
-      "Isaac Newton"
+      "Isaac Newton",
+      "Gottfried Leibniz"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848951-35cfbf688e14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3NzExMjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734671-21838fcd724e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Comment appelle-t-on une écriture de la forme a/b, où b est différent de zéro ?",
-    "correct_answer": "Une fraction",
+    "question": "Quel est le plus grand commun diviseur (PGCD) de 12 et 18 ?",
+    "correct_answer": "6",
     "incorrect_answers": [
-      "Un pourcentage",
-      "Un exposant",
-      "Une racine carrée"
+      "3",
+      "2",
+      "12"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848095-249ad965f4f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la formule pour calculer le volume d'un cube de côté 'a' ?",
-    "correct_answer": "a multiplié par a multiplié par a (a³)",
+    "question": "Le périmètre d'un cercle est aussi appelé...",
+    "correct_answer": "Circonférence",
     "incorrect_answers": [
-      "6 multiplié par a",
-      "3 multiplié par a",
-      "a multiplié par 2"
+      "Diamètre",
+      "Rayon",
+      "Aire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734343-491353d96a81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685733685-7e0f30c35a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Le théorème de Thalès concerne principalement les propriétés de quelles figures ?",
-    "correct_answer": "Triangles et droites parallèles",
+    "question": "Un nombre est dit \"pair\" s'il est divisible par quel chiffre ?",
+    "correct_answer": "2",
     "incorrect_answers": [
-      "Cercles et tangentes",
-      "Carrés et leurs diagonales",
-      "Polygones réguliers"
+      "1",
+      "3",
+      "5"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734303-e85757067f28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848069-5a747851f32c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Le concept mathématique qui représente une quantité sans fin est appelé...",
-    "correct_answer": "L'infini",
+    "question": "Quelle est la probabilité d'obtenir un 6 en lançant un dé à six faces non truqué ?",
+    "correct_answer": "1/6",
     "incorrect_answers": [
-      "Le zéro",
-      "L'unité",
-      "Le total"
+      "1/2",
+      "6/6",
+      "1/3"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685849145-cd8bfb57ab2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685733699-04d6544f2655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel célèbre savant de l'Antiquité est associé à la découverte de la poussée hydrostatique et au calcul de Pi ?",
+    "question": "Un triangle isocèle est un triangle qui possède au moins combien de côtés de même longueur ?",
+    "correct_answer": "Deux",
+    "incorrect_answers": [
+      "Trois",
+      "Un",
+      "Aucun"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3Nzk1MjkwOXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est l'opération inverse de la multiplication ?",
+    "correct_answer": "La division",
+    "incorrect_answers": [
+      "L'addition",
+      "La soustraction",
+      "L'exponentiation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3Nzk1MjkwOXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien grec est célèbre pour sa méthode de calcul de Pi et le principe de la poussée qui porte son nom ?",
     "correct_answer": "Archimède",
     "incorrect_answers": [
-      "Héraclite",
-      "Démocrite",
+      "Euclide",
+      "Zénon",
       "Ératosthène"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734312-5134968399a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734686-e69f130c1aab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Un angle dont la mesure est inférieure à 90 degrés est un...",
-    "correct_answer": "Angle aigu",
+    "question": "Comment appelle-t-on une figure géométrique en 3D dont toutes les faces sont des polygones ?",
+    "correct_answer": "Un polyèdre",
     "incorrect_answers": [
-      "Angle obtus",
-      "Angle droit",
-      "Angle réflexe"
+      "Une courbe",
+      "Une sphère",
+      "Un disque"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733800-bc2a64fa8017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1770719269462-d3c1ed7e184f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3Nzk1MjkwOXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qu'est-ce qu'une donnée statistique ?",
-    "correct_answer": "Une information mesurable ou observable collectée",
+    "question": "Si 2x + 5 = 11, quelle est la valeur de x ?",
+    "correct_answer": "3",
     "incorrect_answers": [
-      "Un avis personnel",
-      "Une hypothèse non vérifiée",
-      "Un résultat de calcul unique"
+      "6",
+      "8",
+      "1"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845902-acd5db1b532b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzcxMTI5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848084-fc51214f3cd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel type de graphique est le plus approprié pour représenter des proportions d'un tout ?",
+    "correct_answer": "Un diagramme circulaire (camembert)",
+    "incorrect_answers": [
+      "Un histogramme",
+      "Un graphique en courbes",
+      "Un diagramme en bâtons"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734343-491353d96a81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTI5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

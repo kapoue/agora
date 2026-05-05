@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel groupe d'animaux est caractérisé par un exosquelette, un corps segmenté et des appendices articulés ?",
-    "correct_answer": "Arthropodes",
+    "question": "Quel mammifère marin est capable de dormir avec un hémisphère de son cerveau à la fois, lui permettant de rester alerte et de nager ?",
+    "correct_answer": "Le dauphin",
     "incorrect_answers": [
-      "Mollusques",
-      "Vertébrés",
-      "Annélides"
+      "L'orque",
+      "Le phoque",
+      "Le marsouin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916185-f80c51edf37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1705889518185-71612a3efa08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel comportement animal implique un état d'inactivité et un métabolisme ralenti pendant l'hiver ?",
-    "correct_answer": "Hibernation",
+    "question": "Quel grand félin, originaire d'Asie, est le seul de son espèce à posséder des rayures distinctives sur son pelage ?",
+    "correct_answer": "Le tigre",
     "incorrect_answers": [
-      "Estivation",
-      "Migration",
-      "Mue"
+      "Le léopard",
+      "Le jaguar",
+      "Le puma"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1715890434417-40229a310620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1593923428221-c59c39b35581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus grand reptile vivant au monde, célèbre pour sa force et son habitat semi-aquatique en milieu salé ?",
+    "correct_answer": "Le crocodile marin",
+    "incorrect_answers": [
+      "L'anaconda vert",
+      "Le dragon de Komodo",
+      "L'alligator d'Amérique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1679807276408-9f7d7501340f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la principale caractéristique physique permettant aux oiseaux de voler efficacement, en dehors de leurs ailes ?",
+    "correct_answer": "Des os creux et légers",
+    "incorrect_answers": [
+      "Une vision nocturne accrue",
+      "Un grand cerveau",
+      "Une régulation thermique interne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728025131138-e05d5b0e2b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le seul mammifère capable de véritable vol actif (et non de planer) ?",
+    "correct_answer": "La chauve-souris",
+    "incorrect_answers": [
+      "L'écureuil volant",
+      "Le colugo",
+      "Le ptérosaure (éteint)"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1707536484356-86ca44981e49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal marin est capable de régénérer la plupart de ses membres, même après en avoir perdu la majorité ?",
+    "correct_answer": "L'étoile de mer",
+    "incorrect_answers": [
+      "Le crabe",
+      "La salamandre",
+      "Le ver de terre"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1640886907876-33506d50a4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus grand rongeur du monde, natif d'Amérique du Sud, souvent observé près de l'eau ?",
+    "correct_answer": "Le capybara",
+    "incorrect_answers": [
+      "Le castor",
+      "Le porc-épic",
+      "Le rat géant de Gambie"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1718647507338-4dc7b6e6ff86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du phénomène où les poissons migrent de la mer vers l'eau douce pour se reproduire ?",
+    "correct_answer": "Anadromie",
+    "incorrect_answers": [
+      "Catadromie",
+      "Potamodromie",
+      "Thalassodromie"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1712330139932-148053efc401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel type de primate est célèbre pour sa fourrure rousse et sa vie majoritairement arboricole dans les forêts d'Asie ?",
+    "correct_answer": "L'orang-outan",
+    "incorrect_answers": [
+      "Le bonobo",
+      "Le babouin",
+      "Le chimpanzé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1707515637645-7b9ed1e1597f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est l'animal terrestre le plus rapide sur de courtes distances ?",
-    "correct_answer": "Guépard",
+    "correct_answer": "Le guépard",
     "incorrect_answers": [
-      "Lion",
-      "Antilope springbok",
-      "Gazelle de Thomson"
+      "Le pronghorn",
+      "Le lion",
+      "L'autruche"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707536484356-86ca44981e49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1591089570621-ea86c99a09a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel type d'habitat naturel trouve-t-on majoritairement les okapis ?",
-    "correct_answer": "Forêts tropicales denses",
+    "question": "Quelle est la principale source de nourriture des pandas géants, constituant près de 99% de leur régime alimentaire ?",
+    "correct_answer": "Le bambou",
     "incorrect_answers": [
-      "Savanes africaines",
-      "Déserts arides",
-      "Toundra arctique"
+      "L'eucalyptus",
+      "Les pousses de fougères",
+      "Les petits rongeurs"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1607268102039-3e470cf6e263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1728557349552-c1660fbdff7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est connu pour son vol stationnaire et sa capacité à voler en arrière ?",
-    "correct_answer": "Colibri",
+    "question": "Quel reptile est connu pour sa capacité à changer radicalement la couleur et la texture de sa peau pour le camouflage ?",
+    "correct_answer": "Le caméléon",
     "incorrect_answers": [
-      "Faucon crécerelle",
-      "Martin-pêcheur",
-      "Hirondelle"
+      "Le gecko",
+      "L'iguane",
+      "Le basilic (lézard)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631820018357-7527ff384843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1701430916184-94724f1ad9b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "À quelle classe de la classification zoologique appartient la pieuvre ?",
-    "correct_answer": "Céphalopodes",
+    "question": "Quel est le plus grand marsupial du monde, capable de se déplacer par bonds puissants sur ses pattes arrière ?",
+    "correct_answer": "Le kangourou roux",
     "incorrect_answers": [
-      "Gastéropodes",
-      "Bivalves",
-      "Crustacés"
+      "Le koala",
+      "Le wallaby",
+      "Le wombat"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1611590278089-8dce9a70ed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1668701649406-83c46add1b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Pourquoi les manchots empereurs se regroupent-ils en grandes colonies pendant la reproduction en Antarctique ?",
-    "correct_answer": "Pour se protéger du froid extrême",
+    "question": "Quel oiseau est capable de voler en arrière, une capacité unique parmi les oiseaux ?",
+    "correct_answer": "Le colibri",
     "incorrect_answers": [
-      "Pour chasser collectivement",
-      "Pour migrer plus facilement",
-      "Pour trouver de la nourriture"
+      "Le martin-pêcheur",
+      "L'hirondelle",
+      "La mouette"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916184-94724f1ad9b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1671006185939-27507226c356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal marin détient le record de la plus longue migration annuelle ?",
-    "correct_answer": "Baleine grise",
+    "question": "Quel animal marin est célèbre pour son sonar biologique (écholocation) ultra-précis pour chasser et naviguer ?",
+    "correct_answer": "Le dauphin",
     "incorrect_answers": [
-      "Thon rouge",
-      "Requin blanc",
-      "Tortue luth"
+      "L'otarie",
+      "La baleine à bosse",
+      "Le lamantin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1708522101004-0718712b4547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1726335849487-fd5d3b63b87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est endémique de l'Australie et se nourrit exclusivement de feuilles d'eucalyptus ?",
-    "correct_answer": "Koala",
+    "question": "Quel mammifère est le plus grand animal terrestre du monde en termes de masse ?",
+    "correct_answer": "L'éléphant d'Afrique",
     "incorrect_answers": [
-      "Panda roux",
-      "Lémurien",
-      "Paresseux"
+      "Le rhinocéros blanc",
+      "L'hippopotame",
+      "L'ours polaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1674114411719-199c28e587b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1708522101004-0718712b4547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est capable de régénérer la plupart de ses parties du corps, y compris des organes complexes ?",
-    "correct_answer": "Salamandre",
+    "question": "Quel insecte social est connu pour sa reine, ses ouvrières stériles, et la construction de nids complexes comme les fourmilières ?",
+    "correct_answer": "La fourmi",
     "incorrect_answers": [
-      "Étoile de mer",
-      "Ver de terre",
-      "Lézard"
+      "Le termite",
+      "L'abeille",
+      "La guêpe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1669406047620-509b197b9125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1728025139514-72890f2c69d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Les amphibiens se distinguent des reptiles par quelle caractéristique essentielle de leur peau et cycle de vie ?",
-    "correct_answer": "Peau perméable et cycle de vie aquatique/terrestre",
+    "question": "Quel groupe d'oiseaux inclut l'autruche, l'émeu et le casoar, et est majoritairement incapable de voler ?",
+    "correct_answer": "Les ratites",
     "incorrect_answers": [
-      "Respiration pulmonaire exclusive",
-      "Sang chaud",
-      "Présence d'écailles"
+      "Les gallinacés",
+      "Les passereaux",
+      "Les rapaces"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616308913711-c2c719dc2ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1731994634956-94a42f6b6290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel terme désigne le processus par lequel un serpent abandonne sa vieille peau ?",
-    "correct_answer": "Mue",
+    "question": "Quel est le plus grand primate vivant ?",
+    "correct_answer": "Le gorille",
     "incorrect_answers": [
-      "Métamorphose",
-      "Pupation",
-      "Éclosion"
+      "Le chimpanzé",
+      "L'orang-outan",
+      "Le babouin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1728557349552-c1660fbdff7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1715890434417-40229a310620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'animal le plus lourd à avoir jamais vécu sur Terre ?",
-    "correct_answer": "Baleine bleue",
+    "question": "Quel est le serpent le plus long du monde, non-venimeux, réputé pour sa capacité à étouffer ses proies ?",
+    "correct_answer": "Le python réticulé",
     "incorrect_answers": [
-      "Diplodocus",
-      "Éléphant d'Afrique",
-      "Brachiosaure"
+      "L'anaconda vert",
+      "Le cobra royal",
+      "Le boa constrictor"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1726335849487-fd5d3b63b87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1563644786008-051ff259517c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel type de milieu vit le narval, souvent surnommé 'licorne des mers' ?",
-    "correct_answer": "Eaux arctiques",
+    "question": "Quel oiseau marin des régions polaires, incapable de voler, est un excellent nageur et plongeur ?",
+    "correct_answer": "Le manchot",
     "incorrect_answers": [
-      "Récifs coralliens",
-      "Profondeurs abyssales",
-      "Estuaires"
+      "Le macareux",
+      "Le goéland",
+      "Le pingouin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707515637645-7b9ed1e1597f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1610714050385-eec2009e935a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la particularité du venin du serpent Taipan du désert ?",
-    "correct_answer": "C'est le plus toxique de tous les serpents terrestres",
+    "question": "Quel céphalopode est célèbre pour son intelligence, sa capacité de camouflage et ses huit bras ?",
+    "correct_answer": "Le poulpe",
     "incorrect_answers": [
-      "Il provoque une paralysie immédiate",
-      "Il est principalement hémotoxique",
-      "Il n'a pas d'antidote connu"
+      "Le calmar",
+      "La seiche",
+      "Le nautile"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1728025139514-72890f2c69d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1674114411719-199c28e587b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "À quel ordre de mammifères appartiennent les chauves-souris ?",
-    "correct_answer": "Chiroptères",
+    "question": "Quel est le plus grand poisson du monde, un requin inoffensif qui se nourrit de plancton par filtration ?",
+    "correct_answer": "Le requin-baleine",
     "incorrect_answers": [
-      "Rodentia",
-      "Primates",
-      "Cétacés"
+      "Le grand requin blanc",
+      "Le requin pèlerin",
+      "La baleine bleue"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1610714050385-eec2009e935a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1701430916185-f80c51edf37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Pourquoi les fourmis champignonnistes, ou fourmis coupe-feuilles, cultivent-elles des champignons ?",
-    "correct_answer": "Pour s'en nourrir et nourrir la colonie",
+    "question": "Quel mammifère est le seul dont les mâles développent une crinière distinctive autour de la tête ?",
+    "correct_answer": "Le lion",
     "incorrect_answers": [
-      "Pour construire leurs nids",
-      "Pour fabriquer des antibiotiques",
-      "Pour se camoufler"
+      "Le tigre",
+      "Le loup",
+      "Le gnou"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1712330139932-148053efc401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1669406047620-509b197b9125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal possède la durée de vie la plus longue parmi les vertébrés connus ?",
-    "correct_answer": "Requin du Groenland",
+    "question": "Quel ordre d'insectes est caractérisé par la métamorphose complète (œuf, larve, nymphe, adulte) et inclut les papillons ?",
+    "correct_answer": "Les lépidoptères",
     "incorrect_answers": [
-      "Tortue géante des Galápagos",
-      "Baleine boréale",
-      "Éléphant d'Asie"
+      "Les coléoptères",
+      "Les hyménoptères",
+      "Les diptères"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1640886907876-33506d50a4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631820018357-7527ff384843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Le Pika d'Amérique, un petit mammifère, vit principalement dans quel environnement ?",
-    "correct_answer": "Montagnes rocheuses",
+    "question": "Quel est le comportement animal où un individu se sacrifie pour le bien du groupe ou de ses proches, comme chez les abeilles ?",
+    "correct_answer": "L'altruisme",
     "incorrect_answers": [
-      "Plaines inondables",
-      "Forêts tropicales humides",
-      "Toundra"
+      "La symbiose",
+      "Le parasitisme",
+      "La compétition"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1668701649406-83c46add1b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1616308913711-c2c719dc2ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le régime alimentaire principal de l'oryctérope, un mammifère africain ?",
-    "correct_answer": "Fourmis et termites",
+    "question": "Quel animal aquatique est connu pour sa capacité à produire de puissantes décharges électriques pour chasser ou se défendre ?",
+    "correct_answer": "L'anguille électrique",
     "incorrect_answers": [
-      "Fruits et baies",
-      "Petits rongeurs",
-      "Herbes et racines"
+      "La raie manta",
+      "Le silure glane",
+      "Le grand requin blanc"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1658004354495-2877ace1c158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1611590278089-8dce9a70ed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Les oiseaux sont des animaux appartenant à la classe des...",
-    "correct_answer": "Aves",
+    "question": "Quelle est la particularité des oiseaux du genre 'Picidae' (les pics), leur permettant de frapper les arbres sans se blesser ?",
+    "correct_answer": "Une langue enroulée autour du crâne",
     "incorrect_answers": [
-      "Reptilia",
-      "Mammalia",
-      "Amphibia"
+      "Des pattes très puissantes",
+      "Un bec fait d'un métal rare",
+      "Des yeux ultra-résistants"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1593923428221-c59c39b35581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1607268102039-3e470cf6e263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel phénomène est illustré par l'attirance des papillons de nuit pour la lumière artificielle ?",
-    "correct_answer": "Phototaxie positive",
+    "question": "Quel type de vie sociale est observé chez les insectes comme les termites et certaines espèces de fourmis, avec des castes stériles ?",
+    "correct_answer": "L'eusocialité",
     "incorrect_answers": [
-      "Thermotaxie",
-      "Chimiotaxie",
-      "Thigmotaxie"
+      "La monogamie",
+      "Le grégarisme",
+      "La polygamie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1671006185939-27507226c356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1658004354495-2877ace1c158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le plus grand primate du monde en termes de masse corporelle ?",
-    "correct_answer": "Gorille des plaines de l'Est",
+    "question": "Quel petit mammifère terrestre est célèbre pour son hibernation prolongée, parfois plus de la moitié de l'année ?",
+    "correct_answer": "La marmotte",
     "incorrect_answers": [
-      "Orang-outan de Bornéo",
-      "Chimpanzé commun",
-      "Gorille des montagnes"
+      "Le hérisson",
+      "L'ours brun",
+      "Le blaireau"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1591089570621-ea86c99a09a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Où trouve-t-on naturellement les pangolins, ces mammifères écailleux ?",
-    "correct_answer": "Afrique et Asie",
-    "incorrect_answers": [
-      "Australie et Nouvelle-Zélande",
-      "Amérique du Sud",
-      "Europe et Amérique du Nord"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774625010223-16d426362b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la caractéristique unique des monotrèmes (comme l'ornithorynque et l'échidné) ?",
-    "correct_answer": "Ils pondent des œufs tout en étant des mammifères",
-    "incorrect_answers": [
-      "Ils ont une poche marsupiale",
-      "Ils sont aveugles",
-      "Ils hibernent pendant des mois"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1563644786008-051ff259517c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la principale différence anatomique entre un poisson osseux et un poisson cartilagineux ?",
-    "correct_answer": "La composition de leur squelette",
-    "incorrect_answers": [
-      "Leur mode de reproduction",
-      "Leur habitat préféré",
-      "Leur régime alimentaire"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1598131478675-8d9e4b40be1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Les poissons nettoyeurs adoptent quelle stratégie comportementale pour se nourrir ?",
-    "correct_answer": "Ils mangent les parasites sur d'autres poissons",
-    "incorrect_answers": [
-      "Ils filtrent l'eau de mer",
-      "Ils creusent le fond marin",
-      "Ils chassent en groupe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1679807276408-9f7d7501340f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'animal dont l'œil est proportionnellement le plus grand par rapport à son corps ?",
-    "correct_answer": "Tarsier",
-    "incorrect_answers": [
-      "Chouette",
-      "Calmar géant",
-      "Aigle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1731994634956-94a42f6b6290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Le Caméléon de Parson, l'un des plus grands caméléons, est endémique de quelle île ?",
-    "correct_answer": "Madagascar",
-    "incorrect_answers": [
-      "Bornéo",
-      "Ceylan",
-      "Nouvelle-Guinée"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1705889518185-71612a3efa08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le rôle principal de la bosse du dromadaire ?",
-    "correct_answer": "Stockage de graisse",
-    "incorrect_answers": [
-      "Réservoir d'eau",
-      "Organe respiratoire",
-      "Récepteur sensoriel"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1757858849087-7095a55a0550?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzcxMTI5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774625010223-16d426362b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzc5NTMyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

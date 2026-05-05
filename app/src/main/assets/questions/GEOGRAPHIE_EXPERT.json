@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quelle est la capitale administrative du Sri Lanka, officiellement désignée depuis 1982, et qui abrite le Parlement national ?",
-    "correct_answer": "Sri Jayawardenepura Kotte",
-    "incorrect_answers": [
-      "Colombo",
-      "Kandy",
-      "Galle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1630793335371-d20c3a6ceb8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fleuve, le plus long de la péninsule Ibérique, prend sa source en Espagne et se jette dans l'océan Atlantique à Porto, au Portugal, après avoir traversé une région viticole célèbre ?",
-    "correct_answer": "Douro",
-    "incorrect_answers": [
-      "Tage",
-      "Guadalquivir",
-      "Ebre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1594098819887-f950c953722e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle chaîne de montagnes d'Asie centrale abrite le pic Ismail Samani (anciennement Pic du Communisme), le point culminant du Tadjikistan avec plus de 7 400 mètres d'altitude ?",
-    "correct_answer": "Pamir",
-    "incorrect_answers": [
-      "Tian Shan",
-      "Altaï",
-      "Karakoram"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1723307060937-b003478a2c03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle mer est un bassin de l'océan Atlantique, célèbre pour ses remontées d'eau profonde et sa biodiversité marine unique, particulièrement à la frontière entre l'Europe et l'Afrique ?",
-    "correct_answer": "Mer d'Alboran",
-    "incorrect_answers": [
-      "Mer Ionienne",
-      "Mer Adriatique",
-      "Mer Égée"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1666209818306-b21749849d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quelle sous-région d'Afrique se situe la dépression du Danakil, l'un des endroits les plus chauds et les plus bas de la Terre, connue pour ses paysages volcaniques et ses lacs salés ?",
-    "correct_answer": "Corne de l'Afrique",
-    "incorrect_answers": [
-      "Afrique de l'Ouest",
-      "Afrique Centrale",
-      "Afrique Australe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1567910640027-4029c4d8e9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le désert hyperaride non polaire le plus étendu du monde, caractérisé par des périodes de sécheresse extrêmes et abritant des minéraux uniques comme le salpêtre ?",
-    "correct_answer": "Désert d'Atacama",
-    "incorrect_answers": [
-      "Désert du Gobi",
-      "Désert de Sonora",
-      "Désert du Kalahari"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1606933988011-8adbb3ee269a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays possède l'exclave de Kaliningrad, un territoire d'environ 15 000 km² bordé par la Pologne et la Lituanie, séparé du reste du pays par la Biélorussie ?",
-    "correct_answer": "Russie",
-    "incorrect_answers": [
-      "Allemagne",
-      "Biélorussie",
-      "Pologne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1526547118874-cdc60d0011e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle capitale européenne est célèbre pour son rôle historique de centre politique et culturel du Saint-Empire romain germanique pendant de nombreux siècles, et pour ses palais impériaux ?",
-    "correct_answer": "Vienne",
-    "incorrect_answers": [
-      "Prague",
-      "Budapest",
-      "Munich"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1522072176817-41673f7f0ccc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fleuve d'Europe de l'Est, long de près de 2 300 km, est le principal cours d'eau de l'Ukraine et se jette dans la Mer Noire après avoir traversé la Biélorussie ?",
-    "correct_answer": "Dniepr",
-    "incorrect_answers": [
-      "Don",
-      "Dniestr",
-      "Volga"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1683576221736-ab17ac9ffe61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle chaîne de montagnes volcaniques, située sur l'île de Java en Indonésie, abrite des volcans actifs et des paysages spectaculaires comme le Mont Bromo et le Mont Semeru ?",
-    "correct_answer": "Tengger",
-    "incorrect_answers": [
-      "Barisan",
-      "Maoke",
-      "Puncak Jaya"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1705646742193-d0ffd590193b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle mer intérieure, située entre le Kazakhstan et l'Ouzbékistan, est tristement célèbre pour son rétrécissement dramatique au cours du XXe siècle, causant une catastrophe écologique majeure ?",
-    "correct_answer": "Mer d'Aral",
-    "incorrect_answers": [
-      "Mer Caspienne",
-      "Mer Morte",
-      "Lac Balkhach"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775563798442-a1b7e114bff7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel pays africain se situe la dépression d'Assal, un lac hyper-salé et le point le plus bas du continent, à 155 mètres sous le niveau de la mer ?",
-    "correct_answer": "Djibouti",
-    "incorrect_answers": [
-      "Éthiopie",
-      "Érythrée",
-      "Somalie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1723306744533-bed5a4f696dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la ville la plus haute du monde habitée en permanence, située à plus de 5 100 mètres d'altitude dans les Andes péruviennes, connue pour ses mines d'or ?",
-    "correct_answer": "La Rinconada",
-    "incorrect_answers": [
-      "El Alto",
-      "Potosí",
-      "La Paz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1741719454341-21de7f28a3e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays insulaire d'Océanie, situé près de la ligne de changement de date, est le premier État souverain à entrer dans le nouveau jour ?",
-    "correct_answer": "Kiribati",
-    "incorrect_answers": [
-      "Samoa",
-      "Fidji",
-      "Tonga"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1723306008397-0b7291a3da7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle capitale d'Asie Centrale, ancienne cité marchande de la Route de la Soie, est aujourd'hui la capitale de l'Ouzbékistan et la plus grande ville de la région ?",
-    "correct_answer": "Tachkent",
-    "incorrect_answers": [
-      "Douchanbé",
-      "Bichkek",
-      "Samarcande"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1723307060931-8285f3efb6bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fleuve d'Amérique du Sud est le plus long affluent du monde en volume, prenant sa source en Colombie et rejoignant l'Amazone près de Manaus, au Brésil ?",
-    "correct_answer": "Rio Negro",
-    "incorrect_answers": [
-      "Río Purús",
-      "Río Japurá",
-      "Río Madeira"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1572837067417-a7e2cc92a7ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la plus haute montagne d'Océanie, située sur l'île de Nouvelle-Guinée, dans la partie indonésienne de la Papouasie, et faisant partie des Sept Sommets ?",
-    "correct_answer": "Puncak Jaya",
-    "incorrect_answers": [
-      "Mont Wilhelm",
-      "Mont Cook",
-      "Mauna Kea"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1753045871205-2915c2a0dc6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle mer est la seule au monde à ne pas avoir de côtes, étant délimitée uniquement par des courants océaniques et caractérisée par une grande quantité d'algues sargasses flottantes ?",
-    "correct_answer": "Mer des Sargasses",
-    "incorrect_answers": [
-      "Mer de Barents",
-      "Mer de Laptev",
-      "Mer de Weddell"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1677130997509-41a76745b7f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Selon les théories anthropologiques, quel continent fut le point de départ des premières migrations humaines 'hors d'Afrique', il y a environ 60 000 ans, vers le reste du monde ?",
-    "correct_answer": "Asie",
-    "incorrect_answers": [
-      "Europe",
-      "Océanie",
-      "Amérique du Nord"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1554623515-3b2f224b92f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le volcan actif le plus haut d'Eurasie, situé dans la péninsule du Kamtchatka, en Russie, culminant à plus de 4 750 mètres d'altitude ?",
-    "correct_answer": "Klyuchevskaya Sopka",
-    "incorrect_answers": [
-      "Mont Elbrouz",
-      "Mont Ararat",
-      "Etna"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1741719454371-65162794ba0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays est le seul au monde dont la capitale se trouve dans la partie européenne, mais qui possède une portion significative de son territoire sur un autre continent (Asie) ?",
-    "correct_answer": "Turquie",
-    "incorrect_answers": [
-      "Russie",
-      "Égypte",
-      "Panama"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1741719454351-16e387cc6483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle capitale européenne est la plus élevée en altitude parmi les États souverains reconnus, culminant à environ 1 023 mètres d'altitude ?",
-    "correct_answer": "Andorre-la-Vieille",
-    "incorrect_answers": [
-      "Madrid",
-      "Berne",
-      "Oslo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1566935843883-66e5038dded6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fleuve d'Amérique du Sud, important affluent du Paraná, est célèbre pour ses chutes d'eau majestueuses, partagées entre le Brésil et l'Argentine, classées au patrimoine mondial ?",
-    "correct_answer": "Iguazú",
-    "incorrect_answers": [
-      "Uruguay",
-      "Salado",
-      "Pilcomayo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1741719454372-dd05b4af5275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle chaîne de montagnes d'Asie du Sud-Ouest, s'étendant principalement en Iran et en Irak, est l'une des plus longues du continent et abrite de riches gisements de pétrole ?",
-    "correct_answer": "Zagros",
-    "incorrect_answers": [
-      "Monts Taurus",
-      "Monts Elbourz",
-      "Monts Pontiques"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1621408417287-f1fbc243985f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle petite mer intérieure de la Turquie, reliant la Mer Noire à la Mer Égée via le Bosphore et les Dardanelles, est la plus petite du monde en termes de superficie ?",
-    "correct_answer": "Mer de Marmara",
-    "incorrect_answers": [
-      "Mer d'Azov",
-      "Mer de Thrace",
-      "Mer Rouge"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1723306743338-04d754fa88e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel continent abrite le craton de Yilgarn, une des plus anciennes et stables masses continentales de la Terre, formant le cœur de son bouclier occidental ?",
-    "correct_answer": "Australie",
-    "incorrect_answers": [
-      "Afrique",
-      "Amérique du Nord",
-      "Antarctique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590547358801-142dcbe30270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le plus grand glacier alpin en termes de longueur et de masse dans les Alpes, situé en Suisse et classé au patrimoine mondial de l'UNESCO ?",
-    "correct_answer": "Glacier d'Aletsch",
-    "incorrect_answers": [
-      "Glacier des Bossons",
-      "Pasterze",
-      "Glacier du Rhône"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610813505759-ec15a7bdbc8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays du Caucase fut le premier État au monde à adopter le christianisme comme religion d'État, au début du IVe siècle, influençant profondément son identité culturelle ?",
-    "correct_answer": "Arménie",
-    "incorrect_answers": [
-      "Géorgie",
-      "Grèce",
-      "Éthiopie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1746456669381-dfbc2c27c3cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle capitale sud-américaine est un chef-d'œuvre de l'urbanisme moderniste, conçue dans les années 1950 sous la forme d'un avion ou d'un oiseau, par Lúcio Costa et Oscar Niemeyer ?",
-    "correct_answer": "Brasília",
+    "question": "Quelle capitale est située à l'embouchure du fleuve Uruguay, bien que ne le traversant pas directement ?",
+    "correct_answer": "Montevideo",
     "incorrect_answers": [
       "Buenos Aires",
-      "Caracas",
-      "Montevideo"
+      "Asunción",
+      "Santiago"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1543191878-2baa4ff8a570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1594098819887-f950c953722e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel fleuve d'Asie du Sud-Est, prenant sa source dans les montagnes de l'Himalaya et traversant le Myanmar, est l'habitat d'une espèce rare de dauphin d'eau douce ?",
-    "correct_answer": "Irrawaddy",
+    "question": "Quel est le point culminant des monts Drakensberg en Afrique australe ?",
+    "correct_answer": "Thabana Ntlenyana",
     "incorrect_answers": [
-      "Salouen",
-      "Chao Phraya",
-      "Mékong"
+      "Pic Margherita",
+      "Mont Meru",
+      "Toubkal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1619392553201-3d9ab3169271?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1723307060931-8285f3efb6bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fleuve africain est réputé pour son delta intérieur, le 'Macina', situé au Mali ?",
+    "correct_answer": "Niger",
+    "incorrect_answers": [
+      "Sénégal",
+      "Volta",
+      "Zambèze"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1572837067417-a7e2cc92a7ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel lac d'Asie centrale était en grande partie alimenté par le fleuve Amou-Daria ?",
+    "correct_answer": "Lac Aral",
+    "incorrect_answers": [
+      "Lac Balkhach",
+      "Lac Baïkal",
+      "Mer Caspienne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1567910640027-4029c4d8e9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la dépression la plus profonde de la surface terrestre non immergée, située en Antarctique ?",
+    "correct_answer": "Dépression de Bentley",
+    "incorrect_answers": [
+      "Mer Morte",
+      "Désert de Danakil",
+      "Lac Baïkal"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1621408417287-f1fbc243985f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays est traversé par le canal de Corinthe, qui sépare sa péninsule du Péloponnèse du reste de sa masse continentale ?",
+    "correct_answer": "Grèce",
+    "incorrect_answers": [
+      "Italie",
+      "Turquie",
+      "Panama"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1683576221736-ab17ac9ffe61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle chaîne de montagnes abrite le Mont Elbrouz, le point culminant de l'Europe ?",
+    "correct_answer": "Caucase",
+    "incorrect_answers": [
+      "Carpates",
+      "Alpes",
+      "Oural"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1723306008397-0b7291a3da7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fleuve d'Amérique du Sud est le principal affluent du fleuve Paraguay et traverse le Gran Chaco ?",
+    "correct_answer": "Pilcomayo",
+    "incorrect_answers": [
+      "Paraná",
+      "Uruguay",
+      "Madeira"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1741719454341-21de7f28a3e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle île méditerranéenne est la plus grande en superficie ?",
+    "correct_answer": "Sicile",
+    "incorrect_answers": [
+      "Sardaigne",
+      "Chypre",
+      "Crète"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1566935843883-66e5038dded6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle capitale européenne est célèbre pour ses nombreux ponts traversant la Vltava ?",
+    "correct_answer": "Prague",
+    "incorrect_answers": [
+      "Budapest",
+      "Vienne",
+      "Varsovie"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1753045871205-2915c2a0dc6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel désert abrite le Grand Cratère de Roter Kamm, un cratère météoritique majeur ?",
+    "correct_answer": "Namib",
+    "incorrect_answers": [
+      "Sahara",
+      "Atacama",
+      "Gobi"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775563798442-a1b7e114bff7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel détroit sépare la péninsule du Kamtchatka de l'île de Sakhaline ?",
+    "correct_answer": "Détroit de La Pérouse",
+    "incorrect_answers": [
+      "Détroit de Béring",
+      "Détroit de Tartarie",
+      "Détroit de Corée"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1543191878-2baa4ff8a570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus long fleuve qui s'écoule entièrement en Italie ?",
+    "correct_answer": "Pô",
+    "incorrect_answers": [
+      "Adige",
+      "Tibre",
+      "Arno"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1746456669381-dfbc2c27c3cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle capitale est le point le plus septentrional de toutes les capitales continentales africaines ?",
+    "correct_answer": "Tunis",
+    "incorrect_answers": [
+      "Alger",
+      "Rabat",
+      "Le Caire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1741719454516-4e937461043f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle chaîne de montagnes détient le record du pic le plus élevé hors de l'Asie ?",
+    "correct_answer": "Andes",
+    "incorrect_answers": [
+      "Rocheuses",
+      "Kilimandjaro",
+      "Chaîne Transantarctique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1723306744533-bed5a4f696dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays possède l'enclave de Nahwa, entièrement enclavée dans un territoire d'un autre pays qui est lui-même une enclave ?",
+    "correct_answer": "Émirats arabes unis",
+    "incorrect_answers": [
+      "Oman",
+      "Lesotho",
+      "Suisse"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1456525744438-f8fcd6c82290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays est principalement couvert par le plateau de Dekkan ?",
+    "correct_answer": "Inde",
+    "incorrect_answers": [
+      "Pakistan",
+      "Bangladesh",
+      "Népal"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1666209818306-b21749849d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel grand lac d'Afrique est partagé par le Malawi, le Mozambique et la Tanzanie ?",
+    "correct_answer": "Lac Malawi",
+    "incorrect_answers": [
+      "Lac Tanganyika",
+      "Lac Victoria",
+      "Lac Turkana"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1590547358801-142dcbe30270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle capitale nationale est la plus éloignée de toute côte maritime ?",
+    "correct_answer": "Oulan-Bator",
+    "incorrect_answers": [
+      "Tachkent",
+      "Achgabat",
+      "Astana"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1741719454372-dd05b4af5275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fleuve européen est réputé pour son delta, site du patrimoine mondial de l'UNESCO ?",
+    "correct_answer": "Danube",
+    "incorrect_answers": [
+      "Rhin",
+      "Volga",
+      "Elbe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1606933988011-8adbb3ee269a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel détroit sépare la Terre de Feu du continent sud-américain ?",
+    "correct_answer": "Détroit de Magellan",
+    "incorrect_answers": [
+      "Canal de Beagle",
+      "Détroit de Drake",
+      "Détroit de Le Maire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619392553201-3d9ab3169271?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays d'Amérique centrale a des côtes sur le Pacifique et les Caraïbes sans canal transocéanique ?",
+    "correct_answer": "Costa Rica",
+    "incorrect_answers": [
+      "Panama",
+      "Nicaragua",
+      "Honduras"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1554623515-3b2f224b92f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel continent abrite le plus grand nombre d'États enclavés (sans accès à la mer) ?",
+    "correct_answer": "Afrique",
+    "incorrect_answers": [
+      "Europe",
+      "Asie",
+      "Amérique du Sud"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1741719454351-16e387cc6483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus haut sommet de l'île de Bornéo ?",
+    "correct_answer": "Mont Kinabalu",
+    "incorrect_answers": [
+      "Puncak Jaya",
+      "Mont Rinjani",
+      "Gunung Kerinci"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1677130997509-41a76745b7f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle baie est réputée pour avoir les plus grandes marées du monde ?",
+    "correct_answer": "Baie de Fundy",
+    "incorrect_answers": [
+      "Baie de Baffin",
+      "Baie d'Hudson",
+      "Baie de Biscaye"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1630793335371-d20c3a6ceb8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "De quel lac le Nil Blanc tire-t-il sa source principale ?",
+    "correct_answer": "Lac Victoria",
+    "incorrect_answers": [
+      "Lac Tana",
+      "Lac Albert",
+      "Lac Édouard"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1522072176817-41673f7f0ccc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle ville est la capitale de l'Australie, contrairement à ses métropoles plus connues ?",
+    "correct_answer": "Canberra",
+    "incorrect_answers": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1705646742193-d0ffd590193b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans quel désert se trouve la 'Porte de l'Enfer', un cratère de gaz naturel en feu ?",
+    "correct_answer": "Karakoum",
+    "incorrect_answers": [
+      "Kyzylkoum",
+      "Gobi",
+      "Taklamakan"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1723306743338-04d754fa88e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle péninsule est la plus grande du monde par sa superficie ?",
+    "correct_answer": "Péninsule Arabique",
+    "incorrect_answers": [
+      "Péninsule Scandinave",
+      "Péninsule Indochinoise",
+      "Péninsule de l'Alaska"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1526547118874-cdc60d0011e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle mer est la moins profonde du monde avec une profondeur moyenne de seulement 7 mètres ?",
+    "correct_answer": "Mer d'Azov",
+    "incorrect_answers": [
+      "Mer de Marmara",
+      "Mer Baltique",
+      "Mer Jaune"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1741719454371-65162794ba0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc3OTE5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

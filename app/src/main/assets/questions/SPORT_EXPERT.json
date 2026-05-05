@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quelle était la récompense pour le vainqueur d'une épreuve aux Jeux Olympiques antiques ?",
-    "correct_answer": "Une couronne d'olivier",
+    "question": "Quel athlète est resté invaincu sur 400m haies pendant 9 ans, 9 mois et 9 jours, soit 122 courses consécutives ?",
+    "correct_answer": "Edwin Moses",
     "incorrect_answers": [
-      "Une statue en or",
-      "Des terres arables",
-      "Une somme d'argent conséquente"
+      "Kevin Young",
+      "Karsten Warholm",
+      "Daley Thompson"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1654357679467-66fe7e7253ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1614000980518-7ea513e986e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel athlète a détenu le record du monde du 400 mètres haies masculin pendant près de 29 ans, établi en 1992 ?",
-    "correct_answer": "Kevin Young",
+    "question": "Quelle est la seule ville à avoir accueilli trois éditions des Jeux Olympiques d'été ?",
+    "correct_answer": "Londres",
     "incorrect_answers": [
-      "Edwin Moses",
-      "Harald Schmid",
-      "Andre Phillips"
+      "Athènes",
+      "Paris",
+      "Los Angeles"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1771909719482-4f95e62f41a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1654357679467-66fe7e7253ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la seule course cycliste 'Monument' à avoir lieu entièrement en France ?",
-    "correct_answer": "Paris-Roubaix",
+    "question": "Quel pilote de Formule 1 détient le record du plus grand nombre de départs sans jamais monter sur le podium ?",
+    "correct_answer": "Andrea de Cesaris",
     "incorrect_answers": [
-      "Liège-Bastogne-Liège",
-      "Tour des Flandres",
-      "Milan-San Remo"
+      "Nick Heidfeld",
+      "Martin Brundle",
+      "Uli Biesinger"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181829-021e30b6dcf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775725181909-29a6e1f1905e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Au biathlon, quelle est la durée d'un tour de pénalité supplémentaire sur l'anneau pour chaque cible manquée en poursuite ?",
-    "correct_answer": "150 mètres",
+    "question": "Dans quel sport le terme 'tête de bélier' (ram-raid) désigne-t-il une technique illégale d'entrée en mêlée ?",
+    "correct_answer": "Rugby",
     "incorrect_answers": [
-      "50 mètres",
-      "100 mètres",
-      "200 mètres"
+      "Football américain",
+      "Judo",
+      "Lutte"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1614000980518-7ea513e986e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774419477272-693534dc0bdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle gymnaste est la seule à avoir remporté la médaille d'or aux JO dans les quatre épreuves individuelles lors d'une même édition ?",
-    "correct_answer": "Larisa Latynina",
+    "question": "Qui fut le premier nageur à descendre sous la barre des 50 secondes sur 100 mètres nage libre ?",
+    "correct_answer": "Jim Montgomery",
     "incorrect_answers": [
-      "Nadia Comăneci",
-      "Věra Čáslavská",
-      "Olga Korbut"
+      "Mark Spitz",
+      "Matt Biondi",
+      "Alexander Popov"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1663852914605-f5d7f50e7392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774199440300-d9c0d4369bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel boxeur est le seul à avoir été champion du monde dans huit catégories de poids différentes ?",
-    "correct_answer": "Manny Pacquiao",
+    "question": "Quel est le seul coureur à avoir remporté le Tour de France cinq fois consécutivement ?",
+    "correct_answer": "Miguel Indurain",
+    "incorrect_answers": [
+      "Jacques Anquetil",
+      "Eddy Merckx",
+      "Bernard Hinault"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1603093327015-e8fd50d1293d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Au tennis, quelle est la seule joueuse à avoir réalisé le Grand Chelem calendaire deux fois dans sa carrière professionnelle ?",
+    "correct_answer": "Margaret Court",
+    "incorrect_answers": [
+      "Steffi Graf",
+      "Serena Williams",
+      "Rod Laver"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774199741507-a779d6166228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel boxeur a été le seul à rester invaincu dans trois catégories de poids différentes : super-plumes, légers et super-légers ?",
+    "correct_answer": "Pernell Whitaker",
     "incorrect_answers": [
       "Floyd Mayweather Jr.",
       "Oscar De La Hoya",
-      "Canelo Álvarez"
+      "Sugar Ray Leonard"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774199440300-d9c0d4369bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774600551775-747997267949?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Au basketball FIBA, quelle est la durée maximale pour faire passer le ballon de la zone arrière à la zone avant ?",
-    "correct_answer": "8 secondes",
+    "question": "Dans le règlement NBA, quelle est la durée maximale pendant laquelle un joueur peut garder le ballon sans dribbler, courir ou passer ?",
+    "correct_answer": "5 secondes",
     "incorrect_answers": [
-      "5 secondes",
-      "10 secondes",
-      "12 secondes"
+      "3 secondes",
+      "8 secondes",
+      "10 secondes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181909-29a6e1f1905e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1777643155935-2786c497df80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle ville est la seule à avoir accueilli les Jeux Olympiques d'été à trois reprises ?",
-    "correct_answer": "Londres",
+    "question": "Quel pays a remporté le plus grand nombre de Coupes du Monde de football (masculin et féminin cumulés) ?",
+    "correct_answer": "États-Unis",
     "incorrect_answers": [
-      "Paris",
-      "Los Angeles",
-      "Athènes"
+      "Brésil",
+      "Allemagne",
+      "France"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774600551660-1065d43c1587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774199440321-970b8c785c5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pilote détient le record du plus grand nombre de championnats du monde de F1 remportés consécutivement ?",
-    "correct_answer": "Michael Schumacher (5 titres)",
-    "incorrect_answers": [
-      "Lewis Hamilton (4 titres)",
-      "Juan Manuel Fangio (4 titres)",
-      "Sebastian Vettel (4 titres)"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767780648463-2ba4c5866438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel nageur a été le premier à franchir la barre des 47 secondes sur 100 mètres nage libre ?",
-    "correct_answer": "César Cielo Filho",
-    "incorrect_answers": [
-      "Alain Bernard",
-      "Eamon Sullivan",
-      "Frederick Bousquet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774419477272-693534dc0bdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Au rugby à XV, dans quelles circonstances un 'drop-goal' peut-il être tenté ?",
-    "correct_answer": "À tout moment pendant le jeu ouvert",
-    "incorrect_answers": [
-      "Uniquement après une mêlée",
-      "Seulement après une pénalité",
-      "Seulement lors d'un renvoi aux 22 mètres"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774600551057-86cdc692305f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel joueur de tennis masculin est le seul à avoir remporté au moins deux titres du Grand Chelem sur chaque surface (terre battue, herbe, dur) ?",
-    "correct_answer": "Rafael Nadal",
-    "incorrect_answers": [
-      "Roger Federer",
-      "Novak Djokovic",
-      "Rod Laver"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771344159140-c8b947d4b609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est l'arme d'escrime introduite en dernier aux Jeux Olympiques ?",
-    "correct_answer": "Le sabre féminin",
-    "incorrect_answers": [
-      "L'épée masculine",
-      "Le fleuret féminin",
-      "Le sabre masculin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1689903203831-e71549f02bdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En football, quelle est la sanction pour un joueur retirant son maillot après avoir marqué un but ?",
-    "correct_answer": "Avertissement (carton jaune)",
-    "incorrect_answers": [
-      "Coup franc indirect",
-      "Expulsion (carton rouge)",
-      "Pénalty"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765261473063-ec862e10ba58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle année a marqué la première participation d'un athlète avec un handicap aux Jeux Olympiques (hors Paralympiques) ?",
-    "correct_answer": "1904",
-    "incorrect_answers": [
-      "1948",
-      "1960",
-      "1984"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771909713958-0ba954ff4b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel skieur alpin est le seul homme à avoir remporté des médailles d'or olympiques dans toutes les disciplines (descente, super-G, géant, slalom, combiné) ?",
-    "correct_answer": "Personne n'a réussi cet exploit",
+    "question": "Quel skieur alpin a remporté un titre olympique dans les cinq disciplines masculines (descente, super-G, géant, slalom, combiné) ?",
+    "correct_answer": "Aucun",
     "incorrect_answers": [
       "Kjetil André Aamodt",
-      "Hermann Maier",
+      "Marc Girardelli",
       "Bode Miller"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764703666646-acc2f7d48857?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767780648463-2ba4c5866438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Au curling, comment s'appelle la règle empêchant de frapper les pierres adverses dans la zone de garde avant un certain nombre de pierres jouées ?",
-    "correct_answer": "La règle du \"free guard zone\"",
+    "question": "En escrime, quel terme désigne une action offensive simple lancée sans préparation ?",
+    "correct_answer": "Flèche",
     "incorrect_answers": [
-      "La règle du \"no touch zone\"",
-      "La règle de la \"safe zone\"",
-      "La règle du \"protected zone\""
+      "Riposte",
+      "Remise",
+      "Battement"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774199741507-a779d6166228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774600551660-1065d43c1587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a été le premier grimpeur à réussir l'ascension de tous les quatorze 8000 mètres sans oxygène supplémentaire ?",
-    "correct_answer": "Reinhold Messner",
+    "question": "Quel golfeur est le seul à avoir remporté le 'Grand Chelem en carrière' (les 4 majeurs) ET la Ryder Cup en tant que joueur et capitaine ?",
+    "correct_answer": "Jack Nicklaus",
     "incorrect_answers": [
-      "Jerzy Kukuczka",
-      "Gerlinde Kaltenbrunner",
-      "Simone Moro"
+      "Tiger Woods",
+      "Arnold Palmer",
+      "Ben Hogan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775955808293-3f62dfa8665d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1766756499755-0ae763777974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle équipe a remporté la première Série mondiale de l'ère moderne en 1903 ?",
-    "correct_answer": "Boston Americans",
+    "question": "Quel athlète est le seul à avoir remporté des médailles olympiques en saut en longueur, en sprint et en bobsleigh ?",
+    "correct_answer": "Eddie Eagan",
     "incorrect_answers": [
-      "New York Giants",
-      "Pittsburgh Pirates",
-      "St. Louis Cardinals"
+      "Carl Lewis",
+      "Jesse Owens",
+      "Al Oerter"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761674714808-efa1fd3bc574?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1765261473063-ec862e10ba58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel cycliste détient le record du plus grand nombre de titres mondiaux en cyclisme sur piste masculin ?",
-    "correct_answer": "Harrie Lavreysen",
+    "question": "Quel pays a dominé le handball masculin olympique en remportant 3 titres consécutifs de 2008 à 2016 ?",
+    "correct_answer": "France",
     "incorrect_answers": [
-      "Chris Hoy",
-      "Arnaud Tournant",
-      "François Pervis"
+      "Danemark",
+      "Suède",
+      "Espagne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774600551361-1b7674d1e48c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1765261371855-967aef597a9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle nation a dominé le tableau des médailles en aviron lors des Jeux Olympiques d'Athènes en 2004 ?",
-    "correct_answer": "Roumanie",
+    "question": "En volley-ball, quelle est la hauteur du filet pour les compétitions masculines seniors ?",
+    "correct_answer": "2,43 mètres",
     "incorrect_answers": [
-      "Allemagne",
-      "Grande-Bretagne",
-      "États-Unis"
+      "2,35 mètres",
+      "2,50 mètres",
+      "2,24 mètres"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1771909712692-a8f1af194bdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1771909713958-0ba954ff4b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En lutte gréco-romaine, quelle technique consiste à faire décoller le corps de l'adversaire du tapis pour le projeter ?",
-    "correct_answer": "Le \"suplex\"",
+    "question": "Aux Jeux Olympiques antiques, quelle était la seule épreuve de course disputée sur une seule longueur de stade (environ 192m) ?",
+    "correct_answer": "Le Stade",
     "incorrect_answers": [
-      "La \"prise de l'ours\"",
-      "Le \"nelson\"",
-      "Le \"pont\""
+      "Le Diaulos",
+      "Le Dolichos",
+      "L'Hoplitodromos"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1728028646600-b37d075b1316?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1764703666646-acc2f7d48857?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel plongeur est le seul à avoir remporté 4 médailles d'or olympiques en plongeon individuel ?",
-    "correct_answer": "Greg Louganis",
+    "question": "Quel lanceur de poids a détenu le record du monde pendant plus de 23 ans, de 1990 à 2013 ?",
+    "correct_answer": "Randy Barnes",
     "incorrect_answers": [
-      "Guo Jingjing",
-      "Fu Mingxia",
-      "Tian Liang"
+      "Ulf Timmermann",
+      "Werner Günthör",
+      "Alessandro Andrei"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1603093327015-e8fd50d1293d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1771344159140-c8b947d4b609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel était le nom du stade où se déroulaient les épreuves de course aux Jeux Olympiques antiques à Olympie ?",
-    "correct_answer": "Le Stade d'Olympie",
+    "question": "Quel est le nom de la discipline équestre olympique qui combine dressage, cross-country et saut d'obstacles ?",
+    "correct_answer": "Le Concours Complet d'Équitation (CCE)",
     "incorrect_answers": [
-      "Le Panathénaïque",
-      "Le Drome",
-      "Le Pnyx"
+      "Le Dressage",
+      "Le Saut d'obstacles",
+      "L'Endurance"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766756499755-0ae763777974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1777715330019-f1ea4c19f8d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle équipe détient le record du plus grand nombre de victoires au Super Bowl ?",
-    "correct_answer": "New England Patriots et Pittsburgh Steelers",
+    "question": "En judo, quelle prise emblématique est connue comme la 'prise de l'ours' et est associée à Teddy Riner ?",
+    "correct_answer": "Uchi Mata",
     "incorrect_answers": [
-      "Dallas Cowboys",
-      "San Francisco 49ers",
-      "Green Bay Packers"
+      "O-Goshi",
+      "Seoi Nage",
+      "Harai Goshi"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774600551775-747997267949?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774167766179-e6242efa2dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel athlète détient le record du monde du triple saut masculin depuis 1995 ?",
-    "correct_answer": "Jonathan Edwards",
+    "question": "Quel navigateur est le seul à avoir remporté le Vendée Globe trois fois ?",
+    "correct_answer": "Didier Ravon",
     "incorrect_answers": [
-      "Christian Taylor",
-      "Kenny Harrison",
-      "Pedro Pichardo"
+      "Michel Desjoyeaux",
+      "Armel Le Cléac'h",
+      "François Gabart"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774167766179-e6242efa2dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774600551361-1b7674d1e48c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle nation a remporté la première médaille d'or olympique de handball (à 7 joueurs) masculin en 1972 ?",
-    "correct_answer": "Yougoslavie",
+    "question": "Au biathlon, quelle est la pénalité pour une cible manquée lors de l'épreuve individuelle de 20 km ?",
+    "correct_answer": "Une minute ajoutée au temps",
     "incorrect_answers": [
-      "Union Soviétique",
-      "Roumanie",
-      "Allemagne de l'Est"
+      "Un tour de pénalité",
+      "Deux minutes ajoutées au temps",
+      "Un tir supplémentaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1776078599049-7823c340ee69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775725181829-021e30b6dcf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la limite numérique stricte de tentatives de sauts quadruples dans un programme libre masculin de patinage artistique ?",
-    "correct_answer": "Il n'y a pas de limite numérique stricte.",
+    "question": "Quel est le seul sport collectif où le jeu peut reprendre si l'un des joueurs est blessé et évacué du terrain sans que l'équipe ne soit en infériorité numérique ?",
+    "correct_answer": "Water-polo",
     "incorrect_answers": [
-      "Deux",
-      "Trois",
-      "Quatre"
+      "Basketball",
+      "Handball",
+      "Football"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765261371855-967aef597a9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1663852914605-f5d7f50e7392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la seule discipline équestre olympique où les deux sexes s'affrontent sans distinction dans les mêmes épreuves ?",
-    "correct_answer": "Toutes les disciplines équestres olympiques",
+    "question": "Qui a été la première gymnaste à réaliser un 'double-double' (double salto arrière groupé avec double vrille) au sol aux JO ?",
+    "correct_answer": "Svetlana Boginskaya",
     "incorrect_answers": [
-      "Le saut d'obstacles",
-      "Le dressage",
-      "Le concours complet"
+      "Nadia Comaneci",
+      "Lilia Podkopayeva",
+      "Simone Biles"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770698693897-ee89c1f7aea2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1771909713569-356610d7e192?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays est considéré comme le berceau du water-polo moderne ?",
-    "correct_answer": "Écosse",
+    "question": "Au cricket, quel terme désigne une série de six lancers consécutifs effectués par le même lanceur ?",
+    "correct_answer": "Un over",
     "incorrect_answers": [
-      "Angleterre",
-      "Hongrie",
-      "États-Unis"
+      "Un wicket",
+      "Un run",
+      "Un boundary"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765130420831-e33e58daac37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767190938283-d71ee3f63995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel joueur de baseball est le seul à avoir remporté la Triple Couronne offensive à deux reprises (moyenne au bâton, coups de circuit, points produits) ?",
+    "correct_answer": "Ted Williams",
+    "incorrect_answers": [
+      "Babe Ruth",
+      "Lou Gehrig",
+      "Miguel Cabrera"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1728028646600-b37d075b1316?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le record masculin du marathon le plus rapide jamais enregistré sur un parcours certifié par World Athletics ?",
+    "correct_answer": "2h01'09",
+    "incorrect_answers": [
+      "2h01'39",
+      "2h02'57",
+      "2h00'35"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1650124077853-b6fcb0231cc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En triathlon, quelle est la distance de natation pour une épreuve 'Ironman' ?",
+    "correct_answer": "3,8 km",
+    "incorrect_answers": [
+      "1,5 km",
+      "1,9 km",
+      "7,6 km"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774600551057-86cdc692305f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Au hockey sur glace, quelle pénalité est automatiquement attribuée en cas de bagarre (altercation physique avec les poings) ?",
+    "correct_answer": "5 minutes de prison",
+    "incorrect_answers": [
+      "2 minutes de prison",
+      "10 minutes de prison",
+      "Expulsion du match"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765130420831-e33e58daac37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel athlète paralympique, surnommé 'Blade Runner', a participé aux JO valides avant d'être impliqué dans une affaire criminelle ?",
+    "correct_answer": "Oscar Pistorius",
+    "incorrect_answers": [
+      "Jonnie Peacock",
+      "Marcel Hug",
+      "Markus Rehm"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775955808293-3f62dfa8665d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

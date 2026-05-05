@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quelle technologie de moteur, bien que moins courante aujourd'hui, est associée à une meilleure répartition du poids grâce à l'absence de vilebrequin ?",
-    "correct_answer": "Moteur rotatif (Wankel)",
+    "question": "Quel est le nom du premier véhicule automobile à moteur à essence breveté, souvent considéré comme l'invention de l'automobile moderne ?",
+    "correct_answer": "Benz Patent-Motorwagen",
     "incorrect_answers": [
-      "Moteur à plat (Boxer)",
-      "Moteur en V",
-      "Moteur en ligne"
+      "Ford Modèle T",
+      "Daimler Reitwagen",
+      "Porsche Type 64"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764547167629-2797a6c7a399?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1721910253300-b6333ee32e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a réalisé le premier vol transatlantique en solitaire et sans escale en 1927 ?",
+    "question": "Quel inventeur est crédité du premier vol contrôlé et soutenu d'un aéronef plus lourd que l'air, en 1903 ?",
+    "correct_answer": "Les frères Wright",
+    "incorrect_answers": [
+      "Louis Blériot",
+      "Clément Ader",
+      "Otto Lilienthal"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1721910261409-829fde958b43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle innovation majeure a permis aux navires de traverser les océans sans dépendre des vents à partir du XIXe siècle ?",
+    "correct_answer": "La machine à vapeur",
+    "incorrect_answers": [
+      "Le gouvernail articulé",
+      "La boussole magnétique",
+      "Les voiles latines"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616869378946-c713c56f884b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train emblématique est connu pour son trajet luxueux entre Paris et Istanbul, popularisé par la littérature ?",
+    "correct_answer": "L'Orient-Express",
+    "incorrect_answers": [
+      "Le Transsibérien",
+      "Le Shinkansen",
+      "Le TGV"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616454992568-092fe073dd98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion de ligne est le seul à avoir atteint des vitesses supersoniques en service commercial régulier ?",
+    "correct_answer": "Le Concorde",
+    "incorrect_answers": [
+      "Le Boeing 747",
+      "Le Tupolev Tu-144",
+      "L'Airbus A380"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1721497043807-637fc7d8e3a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la principale caractéristique technique qui distingue les voitures électriques des voitures à moteur thermique ?",
+    "correct_answer": "Un moteur alimenté par batterie",
+    "incorrect_answers": [
+      "Une transmission automatique",
+      "Un système de freinage ABS",
+      "Un châssis monocoque"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764547167629-2797a6c7a399?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur automobile est à l'origine de la méthode de production en série par chaîne d'assemblage, rendant la voiture accessible au grand public ?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "General Motors",
+      "Mercedes-Benz",
+      "Renault"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1577947691826-a6e4548d1cc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du sous-marin qui a été le premier à réussir la traversée du Pôle Nord sous la banquise en 1958 ?",
+    "correct_answer": "USS Nautilus",
+    "incorrect_answers": [
+      "Le Red October",
+      "Le K-19",
+      "L'USS Seawolf"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616869483210-e9a9babbd164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays est réputé pour avoir développé les premiers trains à grande vitesse, connus sous le nom de Shinkansen ?",
+    "correct_answer": "Japon",
+    "incorrect_answers": [
+      "Allemagne",
+      "France",
+      "États-Unis"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1683273206605-0dcf50b89b6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est l'élément qui génère la portance nécessaire à un avion pour voler ?",
+    "correct_answer": "Les ailes",
+    "incorrect_answers": [
+      "Le fuselage",
+      "Le moteur",
+      "La queue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1738810477903-87c840fa3205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le record de vitesse terrestre absolu pour un véhicule motorisé, établi par le Thrust SSC en 1997 ?",
+    "correct_answer": "Supersonique (Mach 1.02)",
+    "incorrect_answers": [
+      "500 km/h",
+      "750 mph",
+      "1000 mph"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1537686421314-16f7daf5ff77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la fonction principale du différentiel dans une voiture ?",
+    "correct_answer": "Permettre aux roues de tourner à des vitesses différentes",
+    "incorrect_answers": [
+      "Changer les rapports de vitesse",
+      "Transmettre la puissance au moteur",
+      "Freiner les roues arrière"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1739544201128-20d0bcd7a62e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel explorateur fut le premier à traverser l'Atlantique en solitaire et sans escale à bord d'un avion ?",
     "correct_answer": "Charles Lindbergh",
     "incorrect_answers": [
       "Amelia Earhart",
-      "Louis Blériot",
-      "Howard Hughes"
+      "Howard Hughes",
+      "Antoine de Saint-Exupéry"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721906532944-1aec1f362721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1616869483385-71f1ad7b2345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du célèbre navire qui a sombré lors de son voyage inaugural en 1912 après avoir heurté un iceberg ?",
-    "correct_answer": "Titanic",
+    "question": "Quelle est la signification de l'acronyme TGV pour les trains français ?",
+    "correct_answer": "Train à Grande Vitesse",
     "incorrect_answers": [
-      "Lusitania",
-      "Britannic",
-      "Queen Mary"
+      "Transport Général Voyageurs",
+      "Technologie Grande Vitesse",
+      "Train Grand Voyageur"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1683023706435-0b22b35cdf66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1616868546921-d32b0a935fdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel type de train utilise la lévitation magnétique pour se déplacer au-dessus des rails, réduisant ainsi la friction ?",
+    "question": "Quel est le type de moteur le plus couramment utilisé dans les avions de ligne modernes pour atteindre de grandes vitesses ?",
+    "correct_answer": "Le turboréacteur (jet)",
+    "incorrect_answers": [
+      "Le moteur à hélice",
+      "Le moteur à pistons",
+      "Le moteur à réaction pulsée"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1584012221414-be8fe5d27c43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel navire transatlantique fut tristement célèbre pour son naufrage lors de son voyage inaugural en 1912 ?",
+    "correct_answer": "Le Titanic",
+    "incorrect_answers": [
+      "Le Lusitania",
+      "Le Queen Mary",
+      "Le Bismarck"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1721906532944-1aec1f362721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du système de navigation par satellite mondial le plus répandu, utilisé dans de nombreux véhicules ?",
+    "correct_answer": "GPS (Global Positioning System)",
+    "incorrect_answers": [
+      "Galileo",
+      "Glonass",
+      "Beidou"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1722026744596-f3864c97dac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est le nom de la première automobile à dépasser les 100 km/h, électrique, en 1899 ?",
+    "correct_answer": "La Jamais Contente",
+    "incorrect_answers": [
+      "La Bête du Gévaudan",
+      "La Flèche d'Argent",
+      "La Lancia Delta Integrale"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1746326653464-a94fdef01cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le principe physique qui permet à un dirigeable ou une montgolfière de voler ?",
+    "correct_answer": "La poussée d'Archimède",
+    "incorrect_answers": [
+      "L'effet Magnus",
+      "La loi de Bernoulli",
+      "La gravité différentielle"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616620418290-81a162f05e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la principale source d'énergie des premières locomotives au XIXe siècle ?",
+    "correct_answer": "Le charbon (vapeur)",
+    "incorrect_answers": [
+      "Le bois",
+      "L'électricité",
+      "Le pétrole"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619413227482-f6f87d3afd56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle célèbre voiture française, surnommée 'Deuche', a été produite pendant des décennies pour sa simplicité et sa robustesse ?",
+    "correct_answer": "La Citroën 2CV",
+    "incorrect_answers": [
+      "La Peugeot 205",
+      "La Renault 4L",
+      "La Simca 1000"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1771444152231-d06d8356dc15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du système qui empêche les roues d'un véhicule de se bloquer lors d'un freinage d'urgence ?",
+    "correct_answer": "ABS (Anti-lock Braking System)",
+    "incorrect_answers": [
+      "ESP (Electronic Stability Program)",
+      "ASR (Anti-Slip Regulation)",
+      "AFU (Aide au Freinage d'Urgence)"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616454992655-92cbf292f9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le surnom donné au Lockheed SR-71, l'avion de reconnaissance le plus rapide jamais construit ?",
+    "correct_answer": "Blackbird",
+    "incorrect_answers": [
+      "Phantom",
+      "Valkyrie",
+      "Raptor"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1583328883101-db96b1501154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel type de navire utilise une coque profilée pour fendre la glace et ouvrir des voies navigables ?",
+    "correct_answer": "Un brise-glace",
+    "incorrect_answers": [
+      "Un sous-marin",
+      "Un pétrolier",
+      "Un porte-conteneurs"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616869378926-447501e83b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle invention a révolutionné le transport terrestre au début de la civilisation, bien avant les moteurs ?",
+    "correct_answer": "La roue",
+    "incorrect_answers": [
+      "Le bateau à voile",
+      "La boussole",
+      "Le cheval attelé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1770998829229-34387f137605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la principale fonction du turbocompresseur dans un moteur à combustion interne ?",
+    "correct_answer": "Augmenter la puissance en injectant plus d'air",
+    "incorrect_answers": [
+      "Refroidir le moteur",
+      "Réduire la consommation de carburant",
+      "Filtrer les gaz d'échappement"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1683023706435-0b22b35cdf66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'hélicoptère le plus lourd et puissant jamais construit, d'origine soviétique ?",
+    "correct_answer": "Mil Mi-26",
+    "incorrect_answers": [
+      "Bell UH-1 Iroquois",
+      "Boeing CH-47 Chinook",
+      "Eurocopter Tiger"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1729972895978-3c2f16cc2e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel terme désigne un type de train qui utilise la sustentation magnétique pour léviter au-dessus des rails, éliminant les frottements ?",
     "correct_answer": "Maglev",
     "incorrect_answers": [
-      "Train à crémaillère",
-      "TGV",
-      "Locomotion Diesel"
+      "Hyperloop",
+      "Tramway",
+      "Monorail"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770998829229-34387f137605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1679587827468-416f729d33d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel équipement de sécurité automobile est conçu pour empêcher les roues de se bloquer lors d'un freinage d'urgence ?",
-    "correct_answer": "ABS (Système anti-blocage des roues)",
+    "question": "Quelle est la principale différence entre un bateau à voile et un voilier moderne en termes de propulsion auxiliaire ?",
+    "correct_answer": "Le voilier moderne a souvent un moteur",
     "incorrect_answers": [
-      "ESP (Contrôle de stabilité)",
-      "Airbag",
-      "Régulateur de vitesse"
+      "Le bateau à voile est plus rapide",
+      "Le voilier moderne n'utilise pas de vent",
+      "Le bateau à voile est plus grand"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1663605172031-7c5b8da73fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1617564992562-73a8ea602be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom donné aux avions dont la sustentation est assurée principalement par un rotor tournant au-dessus du fuselage ?",
-    "correct_answer": "Hélicoptère",
+    "question": "Quel système permet à un avion de décoller et d'atterrir verticalement, comme le Harrier ?",
+    "correct_answer": "ADAV (décollage et atterrissage verticaux)",
     "incorrect_answers": [
-      "Avion de chasse",
-      "Hydravion",
-      "Planeur"
+      "STOL (décollage court)",
+      "CTOL (décollage conventionnel)",
+      "VTOL (décollage vertical seulement)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1729972895978-3c2f16cc2e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'ingénieur allemand souvent considéré comme l'inventeur de la première automobile à moteur à combustion interne en 1886 ?",
-    "correct_answer": "Karl Benz",
-    "incorrect_answers": [
-      "Henry Ford",
-      "Rudolf Diesel",
-      "Gottlieb Daimler"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619413227482-f6f87d3afd56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment appelle-t-on un sous-marin propulsé par un réacteur nucléaire, permettant une très longue autonomie en plongée ?",
-    "correct_answer": "Sous-marin nucléaire",
-    "incorrect_answers": [
-      "Bathyscaphe",
-      "Navire porte-conteneurs",
-      "Frégate"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1537686421314-16f7daf5ff77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle nation a été la première à développer un réseau ferroviaire à grande vitesse avec ses trains \"Shinkansen\" ?",
-    "correct_answer": "Japon",
-    "incorrect_answers": [
-      "France",
-      "Allemagne",
-      "États-Unis"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616454992568-092fe073dd98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel constructeur automobile est célèbre pour ses modèles 911 et a son siège social à Stuttgart, en Allemagne ?",
-    "correct_answer": "Porsche",
-    "incorrect_answers": [
-      "Ferrari",
-      "Lamborghini",
-      "Aston Martin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616868546921-d32b0a935fdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion commercial supersonique a été retiré du service en 2003, marquant la fin de l'ère des vols commerciaux ultra-rapides ?",
-    "correct_answer": "Concorde",
-    "incorrect_answers": [
-      "Tupolev Tu-144",
-      "Boeing 747",
-      "Airbus A380"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1746326653464-a94fdef01cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle partie d'un navire est spécifiquement conçue pour stabiliser la coque et éviter le roulis excessif ?",
-    "correct_answer": "Quille",
-    "incorrect_answers": [
-      "Mât",
-      "Gouvernail",
-      "Hélice"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1721910253300-b6333ee32e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays détient le record du monde de vitesse sur rail pour un train commercial sur roues, atteint par le TGV ?",
-    "correct_answer": "France",
-    "incorrect_answers": [
-      "Japon",
-      "Chine",
-      "Allemagne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1738810477903-87c840fa3205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel ingénieur allemand est l'inventeur du moteur à allumage par compression qui porte son nom ?",
-    "correct_answer": "Rudolf Diesel",
-    "incorrect_answers": [
-      "Nikolaus Otto",
-      "James Watt",
-      "Ettore Bugatti"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869483385-71f1ad7b2345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du carburant composé principalement de méthane, de plus en plus utilisé comme alternative à l'essence ou au diesel ?",
-    "correct_answer": "Gaz naturel pour véhicules (GNV)",
-    "incorrect_answers": [
-      "GPL (Gaz de pétrole liquéfié)",
-      "Éthanol",
-      "Hydrogène"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616620418290-81a162f05e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment s'appelle la force aérodynamique qui s'oppose à l'avancement d'un avion et qui doit être compensée par la poussée ?",
-    "correct_answer": "Traînée",
-    "incorrect_answers": [
-      "Portance",
-      "Poussée",
-      "Gravité"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583328883101-db96b1501154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument de navigation est utilisé pour mesurer la profondeur de l'eau sous la quille d'un navire ?",
-    "correct_answer": "Sondeur",
-    "incorrect_answers": [
-      "Compas",
-      "Sextant",
-      "Radar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771444152231-d06d8356dc15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel était le type de locomotive le plus répandu avant l'avènement des moteurs diesel et électriques ?",
-    "correct_answer": "Locomotive à vapeur",
-    "incorrect_answers": [
-      "Locotracteur",
-      "Rame automotrice",
-      "Tramway"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1722026744596-f3864c97dac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la course automobile la plus ancienne encore disputée, célèbre pour ses 24 heures d'endurance ?",
-    "correct_answer": "Les 24 Heures du Mans",
-    "incorrect_answers": [
-      "Le Grand Prix de Monaco",
-      "L'Indianapolis 500",
-      "Le Rallye Dakar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1679587827468-416f729d33d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle partie de l'aile d'un avion est utilisée pour augmenter la portance à basse vitesse, notamment au décollage et à l'atterrissage ?",
-    "correct_answer": "Volet (Flap)",
-    "incorrect_answers": [
-      "Aileron",
-      "Spolier",
-      "Dérive"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616454992655-92cbf292f9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel célèbre paquebot britannique fut le premier à traverser l'Atlantique en moins de dix jours en 1838 ?",
-    "correct_answer": "Great Western",
-    "incorrect_answers": [
-      "Queen Mary 2",
-      "USS Enterprise",
-      "SS Savannah"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1721497043807-637fc7d8e3a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment appelle-t-on le système qui permet de contrôler la circulation des trains et d'assurer leur espacement en toute sécurité ?",
-    "correct_answer": "Signalisation ferroviaire",
-    "incorrect_answers": [
-      "Caténaire",
-      "Ballast",
-      "Rail unique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869483210-e9a9babbd164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel constructeur automobile est généralement crédité d'avoir lancé la première voiture de série hybride essence-électrique à grande échelle ?",
-    "correct_answer": "Toyota (avec la Prius)",
-    "incorrect_answers": [
-      "Honda",
-      "Ford",
-      "Tesla"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869378926-447501e83b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'avion le plus rapide du monde jamais construit, capable d'atteindre Mach 3+ ?",
-    "correct_answer": "SR-71 Blackbird",
-    "incorrect_answers": [
-      "F-22 Raptor",
-      "Mig-25 Foxbat",
-      "X-15"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1577947691826-a6e4548d1cc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la célèbre régate internationale où s'affrontent des voiliers monocoques ou multicoques, souvent pour la plus ancienne coupe sportive ?",
-    "correct_answer": "Coupe de l'America",
-    "incorrect_answers": [
-      "Vendée Globe",
-      "Route du Rhum",
-      "Fastnet Race"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1617564992562-73a8ea602be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays est le berceau du TGV (Train à Grande Vitesse), dont la première ligne commerciale fut ouverte en 1981 ?",
-    "correct_answer": "France",
-    "incorrect_answers": [
-      "Allemagne",
-      "Italie",
-      "Royaume-Uni"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1739544201128-20d0bcd7a62e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle pièce d'un moteur transmet le mouvement de rotation des pistons au vilebrequin ?",
-    "correct_answer": "Bielle",
-    "incorrect_answers": [
-      "Arbre à cames",
-      "Soupape",
-      "Bougie d'allumage"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619672161512-5253ed90b797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel principe physique explique comment l'air circule plus vite au-dessus de l'aile qu'en dessous, créant ainsi une force de portance ?",
-    "correct_answer": "Principe de Bernoulli",
-    "incorrect_answers": [
-      "Loi de Newton",
-      "Loi d'Archimède",
-      "Effet Venturi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869378946-c713c56f884b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment appelle-t-on la partie avant d'un navire, qui fend l'eau ?",
-    "correct_answer": "Proue",
-    "incorrect_answers": [
-      "Poupe",
-      "Tribord",
-      "Bâbord"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1721910261409-829fde958b43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est l'invention majeure de Nikolaus Otto qui a révolutionné les transports et les industries au 19ème siècle ?",
-    "correct_answer": "Le moteur à explosion à quatre temps",
-    "incorrect_answers": [
-      "La locomotive à vapeur",
-      "Le moteur électrique",
-      "La turbine à gaz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1683273206605-0dcf50b89b6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3MTEyOTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1663605172031-7c5b8da73fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc3OTUxMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

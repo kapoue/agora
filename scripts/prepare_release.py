@@ -158,8 +158,9 @@ def generate_questions_for(clients, theme: str, difficulty: str) -> list:
             return questions
         except Exception as e:
             err_str = str(e)
-            if "429" in err_str and "GenerateRequestsPerDayPerProjectPerModel" in err_str:
-                print(f"✗ quota épuisé (clé {client_index + 1})")
+            if ("429" in err_str and "GenerateRequestsPerDayPerProjectPerModel" in err_str) or "403" in err_str:
+                reason = "quota épuisé" if "429" in err_str else "clé invalide/révoquée"
+                print(f"✗ {reason} (clé {client_index + 1}), rotation...")
                 client_index = (client_index + 1) % len(clients)
                 if client_index == 0:
                     break

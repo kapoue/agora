@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel langage de programmation, créé par Bjarne Stroustrup, est une extension du langage C avec des fonctionnalités orientées objet ?",
-    "correct_answer": "C++",
+    "question": "Qui est souvent considérée comme la première programmeuse pour ses travaux sur la machine analytique de Charles Babbage ?",
+    "correct_answer": "Ada Lovelace",
     "incorrect_answers": [
-      "Java",
-      "Python",
-      "C#"
+      "Grace Hopper",
+      "Hedy Lamarr",
+      "Katherine Johnson"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631624226983-655dea38053d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1549605659-32d82da3a059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel scientifique a conçu la 'Machine Analytique' au 19ème siècle, considérée comme l'ancêtre des ordinateurs modernes ?",
-    "correct_answer": "Charles Babbage",
+    "question": "Quel langage de programmation est connu pour sa flexibilité et son utilisation répandue dans le développement web côté serveur ?",
+    "correct_answer": "PHP",
     "incorrect_answers": [
-      "Alan Turing",
-      "John von Neumann",
-      "Blaise Pascal"
+      "C++",
+      "Swift",
+      "COBOL"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1669447895659-d7d101008082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1675495667069-d18d7d78eeb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel protocole est principalement utilisé pour transférer des fichiers sur un réseau TCP/IP, notamment pour l'upload/download ?",
-    "correct_answer": "FTP (File Transfer Protocol)",
+    "question": "Quel est le nom du système de noms de domaine qui traduit les adresses IP en noms de site web lisibles par l'homme ?",
+    "correct_answer": "DNS (Domain Name System)",
     "incorrect_answers": [
-      "HTTP",
-      "SMTP",
-      "DNS"
+      "DHCP (Dynamic Host Configuration Protocol)",
+      "FTP (File Transfer Protocol)",
+      "SMTP (Simple Mail Transfer Protocol)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1632910605645-7a2e40713db1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631624210938-539575f92e3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a co-fondé Microsoft avec Paul Allen en 1975 ?",
-    "correct_answer": "Bill Gates",
+    "question": "Quelle entreprise technologique a été co-fondée par Bill Gates et Paul Allen ?",
+    "correct_answer": "Microsoft",
     "incorrect_answers": [
-      "Steve Jobs",
-      "Mark Zuckerberg",
-      "Larry Page"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631624217902-d14c634ab17c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle entreprise a popularisé l'interface utilisateur graphique (GUI) et la souris avec son Macintosh en 1984 ?",
-    "correct_answer": "Apple",
-    "incorrect_answers": [
+      "Apple",
       "IBM",
-      "Microsoft",
-      "Xerox PARC"
+      "Oracle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631624210938-539575f92e3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631624215749-b10b3dd7bca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel paradigme de programmation est caractérisé par l'encapsulation des données et des méthodes au sein d'objets ?",
-    "correct_answer": "Programmation Orientée Objet (POO)",
+    "question": "Quel inventeur est crédité de la conception de la première souris d'ordinateur à la fin des années 1960 ?",
+    "correct_answer": "Douglas Engelbart",
     "incorrect_answers": [
-      "Programmation fonctionnelle",
-      "Programmation procédurale",
-      "Programmation logique"
+      "Steve Wozniak",
+      "Alan Turing",
+      "J.C.R. Licklider"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1626362814904-d27009a10da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763568258533-d0597f86ce62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle entreprise a créé le premier microprocesseur commercialement disponible, l'Intel 4004, en 1971 ?",
-    "correct_answer": "Intel",
+    "question": "En programmation orientée objet, qu'est-ce qu'une 'classe' ?",
+    "correct_answer": "Un modèle pour créer des objets",
     "incorrect_answers": [
-      "AMD",
-      "Motorola",
-      "Texas Instruments"
+      "Une instance d'un objet",
+      "Une fonction spécifique",
+      "Une variable globale"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631624222568-6619ce21a683?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763568258492-9569a0af2127?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel terme décrit la première phase d'Internet, caractérisée par des sites web statiques et peu interactifs ?",
-    "correct_answer": "Web 1.0",
+    "question": "Quel événement majeur a marqué l'année 1969 pour l'ancêtre d'Internet ?",
+    "correct_answer": "La connexion des premiers nœuds d'ARPANET",
     "incorrect_answers": [
-      "Web 2.0",
-      "Web sémantique",
-      "Minitel"
+      "L'invention du World Wide Web",
+      "La création du protocole TCP/IP",
+      "Le lancement du premier navigateur web"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631624215749-b10b3dd7bca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760199789455-49098afd02f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de script est souvent utilisé pour automatiser des tâches système sur les systèmes d'exploitation de type Unix/Linux ?",
-    "correct_answer": "Bash",
+    "question": "Quel protocole de sécurité est souvent utilisé pour chiffrer les communications web, indiqué par 'https://' ?",
+    "correct_answer": "TLS (Transport Layer Security)",
     "incorrect_answers": [
-      "PowerShell",
-      "Python",
-      "Ruby"
+      "FTP (File Transfer Protocol)",
+      "SSH (Secure Shell)",
+      "ICMP (Internet Control Message Protocol)"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760548425425-e42e77fa38f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631624226983-655dea38053d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année le moteur de recherche Google a-t-il été officiellement fondé par Larry Page et Sergey Brin ?",
-    "correct_answer": "1998",
-    "incorrect_answers": [
-      "1995",
-      "2000",
-      "2004"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1675495667069-d18d7d78eeb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel système d'exploitation, initialement développé par Ken Thompson et Dennis Ritchie, est à la base de Linux et macOS ?",
-    "correct_answer": "Unix",
-    "incorrect_answers": [
-      "CP/M",
-      "MS-DOS",
-      "VMS"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1675495666895-9091741bfd78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Un masque de sous-réseau sert à déterminer quelle partie d'une adresse IP représente l'hôte et quelle partie représente quoi ?",
-    "correct_answer": "Le réseau",
-    "incorrect_answers": [
-      "La passerelle",
-      "Le serveur DNS",
-      "Le port"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258659-70b5dc69158e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle structure de données suit le principe 'Last In, First Out' (LIFO) pour l'accès aux éléments ?",
-    "correct_answer": "La pile (Stack)",
-    "incorrect_answers": [
-      "La file (Queue)",
-      "La liste chaînée",
-      "L'arbre binaire"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258299-0bac211f204e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est crédité de l'invention du premier système d'envoi d'e-mails entre utilisateurs de différentes machines sur ARPANET en 1971 ?",
-    "correct_answer": "Ray Tomlinson",
-    "incorrect_answers": [
-      "Vinton Cerf",
-      "Tim Berners-Lee",
-      "Steve Crocker"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1549605659-32d82da3a059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur électronique numérique généraliste et entièrement programmable, achevé en 1945 ?",
-    "correct_answer": "ENIAC",
-    "incorrect_answers": [
-      "Colossus",
-      "Mark I",
-      "Z3"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774649704786-298b96807db5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel framework JavaScript est développé par Facebook et est largement utilisé pour construire des interfaces utilisateur réactives ?",
-    "correct_answer": "React",
-    "incorrect_answers": [
-      "Angular",
-      "Vue.js",
-      "jQuery"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1704717700476-af979f54baf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle entreprise est le leader mondial des services de cloud computing avec sa plateforme AWS (Amazon Web Services) ?",
+    "question": "Quelle entreprise est principalement connue pour ses services de cloud computing, dont AWS (Amazon Web Services) est la figure de proue ?",
     "correct_answer": "Amazon",
     "incorrect_answers": [
       "Google",
       "Microsoft",
       "IBM"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258533-d0597f86ce62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1710306973761-717ec384efd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel type de programme malveillant se réplique et se propage d'un ordinateur à l'autre sans intervention humaine ?",
-    "correct_answer": "Un ver (Worm)",
+    "question": "Quel concept de la programmation orientée objet décrit la capacité d'une fonction ou d'une méthode à prendre différentes formes ?",
+    "correct_answer": "Polymorphisme",
     "incorrect_answers": [
-      "Un cheval de Troie",
-      "Un ransomware",
-      "Un logiciel espion"
+      "Encapsulation",
+      "Héritage",
+      "Abstraction"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760548425298-22aa4b60fc16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760548425298-22aa4b60fc16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la figure majeure de l'informatique qui a développé le premier compilateur et est à l'origine du terme 'débogage' ?",
-    "correct_answer": "Grace Hopper",
+    "question": "Quel ordinateur est considéré comme le premier ordinateur électronique numérique programmable à grande échelle aux États-Unis ?",
+    "correct_answer": "ENIAC",
     "incorrect_answers": [
-      "Ada Lovelace",
-      "Betty Holberton",
-      "Margaret Hamilton"
+      "UNIVAC",
+      "Colossus",
+      "Harvard Mark I"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1704717700477-69f9509f9af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763568258330-039d2f3dfc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mécanisme est utilisé dans des langages comme Python et Java pour libérer automatiquement la mémoire inutilisée ?",
-    "correct_answer": "Le ramasse-miettes (Garbage Collector)",
+    "question": "Lequel de ces termes désigne un réseau privé virtuel, utilisé pour sécuriser les connexions sur un réseau public ?",
+    "correct_answer": "VPN",
     "incorrect_answers": [
-      "La gestion manuelle de la mémoire",
-      "Les pointeurs",
-      "Les registres"
+      "LAN",
+      "WAN",
+      "SAN"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1613068687893-5e85b4638b56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1580894906475-403276d3942d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est l'inventeur du World Wide Web, proposant son idée au CERN en 1989 ?",
-    "correct_answer": "Tim Berners-Lee",
+    "question": "Qui est le PDG actuel de Tesla et SpaceX, ayant également co-fondé PayPal ?",
+    "correct_answer": "Elon Musk",
     "incorrect_answers": [
-      "Robert Kahn",
-      "Vinton Cerf",
-      "Steve Wozniak"
+      "Jeff Bezos",
+      "Mark Zuckerberg",
+      "Satya Nadella"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760199789455-49098afd02f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1632910605645-7a2e40713db1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel équipement réseau est responsable de la transmission de paquets de données entre différents réseaux informatiques ?",
-    "correct_answer": "Le routeur",
+    "question": "Quelle invention de 1947 a révolutionné l'électronique et est à la base de tous les circuits intégrés modernes ?",
+    "correct_answer": "Le transistor",
     "incorrect_answers": [
-      "Le commutateur (Switch)",
-      "Le concentrateur (Hub)",
-      "Le modem"
+      "Le microprocesseur",
+      "La diode",
+      "Le tube à vide"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258492-9569a0af2127?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1627143548751-63f9b4db5a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel système de contrôle de version distribué est devenu la norme de facto pour la gestion de projets de développement logiciel ?",
-    "correct_answer": "Git",
+    "question": "Dans une base de données relationnelle, quelle commande SQL est utilisée pour récupérer des données ?",
+    "correct_answer": "SELECT",
     "incorrect_answers": [
-      "SVN",
-      "Mercurial",
-      "CVS"
+      "INSERT",
+      "UPDATE",
+      "DELETE"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1669447895659-d7d101008082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel concept théorique, développé par Alan Turing, est un modèle abstrait d'ordinateur capable de simuler tout algorithme ?",
-    "correct_answer": "La machine de Turing",
+    "question": "Quel est le rôle principal d'un pare-feu (firewall) dans un réseau informatique ?",
+    "correct_answer": "Filtrer le trafic réseau pour la sécurité",
     "incorrect_answers": [
-      "La machine de Von Neumann",
-      "La machine de Babbage",
-      "Le test de Turing"
+      "Accélérer la connexion internet",
+      "Stocker des données utilisateur",
+      "Chiffrer les communications"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258330-039d2f3dfc76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763568258817-8814c9d3a9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle entreprise est connue pour être le principal contributeur commercial au noyau Linux et pour ses distributions Red Hat ?",
-    "correct_answer": "Red Hat",
+    "question": "Quel pionnier de l'informatique a proposé le concept d'une 'machine universelle' capable d'exécuter n'importe quel algorithme ?",
+    "correct_answer": "Alan Turing",
     "incorrect_answers": [
-      "Ubuntu",
-      "SUSE",
+      "Charles Babbage",
+      "John von Neumann",
+      "Norbert Wiener"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774649704786-298b96807db5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel système d'exploitation mobile a été développé par Google ?",
+    "correct_answer": "Android",
+    "incorrect_answers": [
+      "iOS",
+      "Windows Phone",
+      "BlackBerry OS"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258299-0bac211f204e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le terme pour un petit programme auto-exécutable ou un bloc de code souvent utilisé pour des tâches répétitives ?",
+    "correct_answer": "Script",
+    "incorrect_answers": [
+      "Driver",
+      "Compiler",
+      "Interpreter"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613068687893-5e85b4638b56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel type de mémoire est volatile, perdant son contenu lorsque l'ordinateur est éteint ?",
+    "correct_answer": "RAM (Random Access Memory)",
+    "incorrect_answers": [
+      "ROM (Read-Only Memory)",
+      "SSD (Solid State Drive)",
+      "Disque dur"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1626362814904-d27009a10da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qu'est-ce que le 'phishing' en cybersécurité ?",
+    "correct_answer": "Une technique d'hameçonnage pour voler des informations",
+    "incorrect_answers": [
+      "Un type de virus informatique",
+      "Un protocole de communication sécurisé",
+      "Une méthode de cryptage de données"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631624224925-b7810331159b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a co-fondé Apple avec Steve Jobs et est souvent crédité de la conception des premiers ordinateurs Apple ?",
+    "correct_answer": "Steve Wozniak",
+    "incorrect_answers": [
+      "Ronald Wayne",
+      "Tim Cook",
+      "Jony Ive"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258659-70b5dc69158e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Lequel de ces éléments est une structure de données qui stocke des éléments dans un ordre LIFO (dernier entré, premier sorti) ?",
+    "correct_answer": "Une pile (stack)",
+    "incorrect_answers": [
+      "Une file (queue)",
+      "Une liste chaînée",
+      "Un arbre binaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1675495666895-9091741bfd78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle entreprise est le créateur original du langage de programmation Java ?",
+    "correct_answer": "Sun Microsystems (maintenant Oracle)",
+    "incorrect_answers": [
+      "Microsoft",
+      "Google",
       "IBM"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627143548751-63f9b4db5a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760548425425-e42e77fa38f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel produit, lancé par Apple en 2010, a popularisé le concept des tablettes tactiles modernes ?",
-    "correct_answer": "L'iPad",
+    "question": "Quel acronyme désigne l'ensemble des règles fondamentales qui régissent la façon dont les ordinateurs communiquent sur Internet ?",
+    "correct_answer": "TCP/IP",
     "incorrect_answers": [
-      "Le Surface",
-      "Le Galaxy Tab",
-      "Le Kindle Fire"
+      "HTTP",
+      "HTML",
+      "URL"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258445-70fecf4e78af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1704717700477-69f9509f9af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel terme désigne l'ingénierie sociale visant à tromper un individu pour obtenir des informations confidentielles via email ou SMS ?",
-    "correct_answer": "Le phishing",
+    "question": "Quelle technologie permet à un seul ordinateur physique d'exécuter plusieurs systèmes d'exploitation simultanément et isolément ?",
+    "correct_answer": "Virtualisation",
     "incorrect_answers": [
-      "Le spam",
-      "Le déni de service",
-      "Le cracking"
+      "Conteneurisation",
+      "Clustering",
+      "Équilibrage de charge"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631624220291-8f191fbdb543?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631624220291-8f191fbdb543?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel type de langage de programmation est directement exécutable par le processeur d'un ordinateur, sans nécessiter de traduction ?",
-    "correct_answer": "Le langage machine",
+    "question": "À la fin des années 1970 et début 1980, quel était l'ordinateur personnel le plus vendu d'Apple avant le Macintosh ?",
+    "correct_answer": "Apple II",
     "incorrect_answers": [
-      "Le langage interprété",
-      "Le langage compilé",
-      "Le langage de haut niveau"
+      "Apple I",
+      "Lisa",
+      "NeXT Cube"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894906475-403276d3942d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle technologie est à la base de la Troisième Génération d'ordinateurs, permettant une miniaturisation et une puissance accrues ?",
-    "correct_answer": "Le circuit intégré",
+    "question": "Lequel de ces langages est principalement utilisé pour définir la structure et le contenu d'une page web ?",
+    "correct_answer": "HTML",
     "incorrect_answers": [
-      "Le tube à vide",
-      "Le transistor",
-      "Le microprocesseur"
+      "CSS",
+      "JavaScript",
+      "Python"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631624224925-b7810331159b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1631624217902-d14c634ab17c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel algorithme de tri est connu pour sa complexité temporelle moyenne de O(n log n) et utilise une approche 'diviser pour régner' ?",
-    "correct_answer": "Le tri rapide (Quicksort)",
+    "question": "Qu'est-ce qu'une adresse IP v6 ?",
+    "correct_answer": "Un identifiant numérique pour un appareil sur un réseau, version 6",
     "incorrect_answers": [
-      "Le tri à bulles (Bubble Sort)",
-      "Le tri par insertion (Insertion Sort)",
-      "Le tri par sélection (Selection Sort)"
+      "Un nouveau protocole de sécurité",
+      "Une version améliorée du Wi-Fi",
+      "Un type de serveur web"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258817-8814c9d3a9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzcxMTI5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1704717700476-af979f54baf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui est le fondateur de Facebook (aujourd'hui Meta Platforms) ?",
+    "correct_answer": "Mark Zuckerberg",
+    "incorrect_answers": [
+      "Larry Page",
+      "Jack Dorsey",
+      "Evan Spiegel"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1584949091708-0a21d38ab8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

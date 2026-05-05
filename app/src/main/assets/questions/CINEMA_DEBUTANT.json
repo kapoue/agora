@@ -1,302 +1,302 @@
 [
   {
-    "question": "Qui est l'acteur principal dans la saga cinématographique 'Pirates des Caraïbes' ?",
-    "correct_answer": "Johnny Depp",
+    "question": "Qui est le réalisateur du film à succès mondial 'Titanic' ?",
+    "correct_answer": "James Cameron",
     "incorrect_answers": [
-      "Leonardo DiCaprio",
-      "Brad Pitt",
-      "Tom Cruise"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1517444929422-105b184a5104?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur est célèbre pour des films comme 'E.T. l'extra-terrestre' et 'Jurassic Park' ?",
-    "correct_answer": "Steven Spielberg",
-    "incorrect_answers": [
-      "James Cameron",
+      "Steven Spielberg",
       "George Lucas",
       "Quentin Tarantino"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1558365904-e77a613549e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1515975375753-7ea7401d0898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle récompense est considérée comme la plus prestigieuse dans le cinéma américain ?",
+    "question": "Quel est le nom du célèbre sorcier à lunettes qui étudie à Poudlard ?",
+    "correct_answer": "Harry Potter",
+    "incorrect_answers": [
+      "Frodon Sacquet",
+      "Luke Skywalker",
+      "Indiana Jones"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1614030126544-b79b92e29e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle récompense cinématographique est la plus célèbre aux États-Unis ?",
     "correct_answer": "L'Oscar",
     "incorrect_answers": [
       "Le César",
-      "La Palme d'or",
-      "Le Lion d'or"
+      "La Palme d'Or",
+      "Le Lion d d'Or"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1610899633400-4fd20fba13fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1654257649889-556ac8ad947d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le titre du film d'animation des studios Pixar où un petit robot nettoyeur tombe amoureux ?",
-    "correct_answer": "WALL-E",
+    "question": "Dans quel film Leonardo DiCaprio prononce-t-il la phrase mythique 'Je suis le roi du monde !' ?",
+    "correct_answer": "Titanic",
     "incorrect_answers": [
-      "Toy Story",
-      "Le Monde de Nemo",
-      "Vice-versa"
+      "Inception",
+      "Le Loup de Wall Street",
+      "Romeo + Juliette"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-e47cdc7a6b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-9f8cfca5d944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur a interprété le personnage de James Bond le plus longtemps ?",
-    "correct_answer": "Roger Moore",
+    "question": "Quel studio d'animation est célèbre pour des films comme 'Le Roi Lion' et 'La Reine des Neiges' ?",
+    "correct_answer": "Disney",
     "incorrect_answers": [
-      "Sean Connery",
-      "Daniel Craig",
-      "Pierce Brosnan"
+      "DreamWorks",
+      "Pixar",
+      "Studio Ghibli"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775559002277-e1bcb4e5574d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1553166272-e69910ab5ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film est connu pour sa réplique culte 'Luke, je suis ton père' ?",
-    "correct_answer": "Star Wars, épisode V - L'Empire contre-attaque",
+    "question": "Qui sont considérés comme les inventeurs du cinématographe ?",
+    "correct_answer": "Les frères Lumière",
     "incorrect_answers": [
-      "Star Wars, épisode IV - Un nouvel espoir",
+      "Les frères Warner",
+      "Les frères Marx",
+      "Les frères Dardenne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1614368052447-c0d6f3f0052b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur français est célèbre pour ses rôles comiques comme le Gendarme Cruchot ?",
+    "correct_answer": "Louis de Funès",
+    "incorrect_answers": [
+      "Jean Gabin",
+      "Alain Delon",
+      "Gérard Depardieu"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1685838885743-0f059251d573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le titre du premier film de la saga 'Star Wars' sorti en 1977 ?",
+    "correct_answer": "Un nouvel espoir",
+    "incorrect_answers": [
+      "L'Empire contre-attaque",
       "Le Retour du Jedi",
       "La Menace fantôme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-45f82016c7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzExMjkyNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1620981503602-37a9d8bf9d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Le réalisateur Alfred Hitchcock est surnommé le 'Maître du...' ?",
-    "correct_answer": "Suspense",
+    "question": "Dans quel film un gentil extraterrestre tente-t-il de rentrer chez lui grâce à un petit garçon ?",
+    "correct_answer": "E.T. l'extraterrestre",
     "incorrect_answers": [
-      "Western",
-      "Fantastique",
-      "Drame"
+      "Alien",
+      "Star Wars",
+      "Avatar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1574712255203-2400beeb4bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1595270542459-2ec51c109e48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur est célèbre pour son rôle de vagabond au chapeau melon dans de nombreux films muets ?",
+    "question": "Quel festival de cinéma décerne la prestigieuse Palme d'Or en France ?",
+    "correct_answer": "Le Festival de Cannes",
+    "incorrect_answers": [
+      "Le Festival de Berlin",
+      "La Mostra de Venise",
+      "Le Festival de Deauville"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1574882559683-c27d3f9ab471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne l'agent secret James Bond dans les films récents comme 'Mourir peut attendre' ?",
+    "correct_answer": "Daniel Craig",
+    "incorrect_answers": [
+      "Sean Connery",
+      "Pierce Brosnan",
+      "Roger Moore"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1654881192428-074e3d27ef55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film d'animation met en scène des jouets qui prennent vie quand les humains ne sont pas là ?",
+    "correct_answer": "Toy Story",
+    "incorrect_answers": [
+      "Cars",
+      "Monstres & Cie",
+      "Shrek"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1532800783378-1bed60adaf58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur est connu pour des films de science-fiction comme 'Jurassic Park' et 'E.T.' ?",
+    "correct_answer": "Steven Spielberg",
+    "incorrect_answers": [
+      "Christopher Nolan",
+      "Ridley Scott",
+      "Tim Burton"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1650060176005-884bbe9f499a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du petit bonhomme doré remis lors de la cérémonie des Oscars ?",
+    "correct_answer": "La statuette de l'Oscar",
+    "incorrect_answers": [
+      "Le Golden Globe",
+      "Le BAFTA",
+      "Le César"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1572925140875-d30aebb64ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film français raconte l'amitié entre un homme d'affaires handicapé et son auxiliaire de vie ?",
+    "correct_answer": "Intouchables",
+    "incorrect_answers": [
+      "Le Dîner de Cons",
+      "Bienvenue chez les Ch'tis",
+      "La Chèvre"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1622829118151-1cfabdf11a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle actrice est célèbre pour avoir joué Amélie Poulain dans 'Le Fabuleux Destin d'Amélie Poulain' ?",
+    "correct_answer": "Audrey Tautou",
+    "incorrect_answers": [
+      "Marion Cotillard",
+      "Isabelle Huppert",
+      "Catherine Deneuve"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1622829118131-27ab20ded438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du genre de films qui cherchent à faire peur aux spectateurs ?",
+    "correct_answer": "L'horreur",
+    "incorrect_answers": [
+      "La comédie",
+      "Le drame",
+      "La science-fiction"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1620981478761-3e5589cb09ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a joué le rôle principal dans le film 'Forrest Gump' ?",
+    "correct_answer": "Tom Hanks",
+    "incorrect_answers": [
+      "Brad Pitt",
+      "George Clooney",
+      "Robert De Niro"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1514076529215-03662283365b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans quelle ville américaine se trouve le célèbre quartier du cinéma, Hollywood ?",
+    "correct_answer": "Los Angeles",
+    "incorrect_answers": [
+      "New York",
+      "Miami",
+      "San Francisco"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613908137518-06348dea40e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du bâton que le réalisateur claque pour synchroniser l'image et le son ?",
+    "correct_answer": "Le clap",
+    "incorrect_answers": [
+      "Le micro",
+      "La caméra",
+      "La perche"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1678655538413-b0f9623b0f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel célèbre dinosaure est au centre des films 'Jurassic Park' ?",
+    "correct_answer": "Le Tyrannosaure Rex (T-Rex)",
+    "incorrect_answers": [
+      "Le Tricératops",
+      "Le Vélociraptor",
+      "Le Stégosaure"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1655734335178-c51d9e048677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'agent secret britannique créé par Ian Fleming ?",
+    "correct_answer": "James Bond",
+    "incorrect_answers": [
+      "Jason Bourne",
+      "Ethan Hunt",
+      "John Wick"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1514078156858-22cfc7e23147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel prix récompense le meilleur film français chaque année ?",
+    "correct_answer": "Le César",
+    "incorrect_answers": [
+      "Le Goya",
+      "Le BAFTA",
+      "L'Oscar"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-e47cdc7a6b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quand a eu lieu la première projection publique de cinéma par les frères Lumière ?",
+    "correct_answer": "Fin du XIXe siècle",
+    "incorrect_answers": [
+      "Début du XXe siècle",
+      "Milieu du XXe siècle",
+      "Fin du XVIIIe siècle"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-45f82016c7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel super-héros est capable de voler et possède une cape rouge ?",
+    "correct_answer": "Superman",
+    "incorrect_answers": [
+      "Batman",
+      "Spider-Man",
+      "Iron Man"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1596765961658-7f8e7d129a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur français a souvent partagé l'affiche avec Louis de Funès dans des comédies ?",
+    "correct_answer": "Bourvil",
+    "incorrect_answers": [
+      "Fernandel",
+      "Jean-Paul Belmondo",
+      "Pierre Richard"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1607276159787-9ef4db5c0d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du grand studio de Los Angeles connu pour son logo avec un lion rugissant ?",
+    "correct_answer": "Metro-Goldwyn-Mayer (MGM)",
+    "incorrect_answers": [
+      "Paramount Pictures",
+      "Universal Pictures",
+      "20th Century Fox"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1595270308058-9768eb05862c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film d'animation Pixar met en scène une famille de super-héros ?",
+    "correct_answer": "Les Indestructibles",
+    "incorrect_answers": [
+      "Moi, moche et méchant",
+      "Toy Story",
+      "Coco"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1574712255203-2400beeb4bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur est souvent associé aux rôles d'aventurier comme Indiana Jones ?",
+    "correct_answer": "Harrison Ford",
+    "incorrect_answers": [
+      "Bruce Willis",
+      "Sylvester Stallone",
+      "Arnold Schwarzenegger"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1647534605086-2a788fe5ad12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du célèbre réalisateur connu pour ses films muets et son personnage de Charlot ?",
     "correct_answer": "Charlie Chaplin",
     "incorrect_answers": [
       "Buster Keaton",
-      "Laurel et Hardy",
-      "Louis de Funès"
+      "Alfred Hitchcock",
+      "Fritz Lang"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1614030126544-b79b92e29e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzExMjkyNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quelle ville française se déroule le célèbre Festival International du Film de Cannes ?",
-    "correct_answer": "Cannes",
-    "incorrect_answers": [
-      "Paris",
-      "Venise",
-      "Berlin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1614368052447-c0d6f3f0052b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre cinématographique est caractérisé par des duels, des chevaux et des paysages de l'Ouest américain ?",
-    "correct_answer": "Le Western",
-    "incorrect_answers": [
-      "Le Film noir",
-      "Le Péplum",
-      "La Comédie musicale"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1654881192428-074e3d27ef55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle réalisatrice est une figure emblématique de la Nouvelle Vague française, connue pour 'Cléo de 5 à 7' ?",
-    "correct_answer": "Agnès Varda",
-    "incorrect_answers": [
-      "Anne Fontaine",
-      "Valérie Lemercier",
-      "Maïwenn"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1515975375753-7ea7401d0898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui sont les inventeurs du Cinématographe et les pionniers du cinéma en France ?",
-    "correct_answer": "Les frères Lumière",
-    "incorrect_answers": [
-      "Les frères Dardenne",
-      "Georges Méliès",
-      "Thomas Edison"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1520904504199-f040f78d6f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel film culte voit-on une voiture DeLorean voyager dans le temps ?",
-    "correct_answer": "Retour vers le futur",
-    "incorrect_answers": [
-      "E.T. l'extra-terrestre",
-      "L'Armée des douze singes",
-      "Matrix"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514076529215-03662283365b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzExMjkyNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur américain est connu pour ses rôles dans 'Fight Club', 'Seven' et 'Inglourious Basterds' ?",
-    "correct_answer": "Brad Pitt",
-    "incorrect_answers": [
-      "Tom Hanks",
-      "Will Smith",
-      "George Clooney"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514078156858-22cfc7e23147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Les César sont les principales récompenses cinématographiques de quel pays ?",
-    "correct_answer": "La France",
-    "incorrect_answers": [
-      "Les États-Unis",
-      "L'Italie",
-      "L'Espagne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1622829118131-27ab20ded438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Quentin Tarantino est célèbre pour sa structure non linéaire et ses dialogues cultes ?",
-    "correct_answer": "Pulp Fiction",
-    "incorrect_answers": [
-      "Kill Bill",
-      "Reservoir Dogs",
-      "Django Unchained"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1620981503602-37a9d8bf9d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est l'acteur français célèbre pour sa voix grave et ses rôles dans des films comme 'Le Professionnel' et 'Léon' ?",
-    "correct_answer": "Jean Reno",
-    "incorrect_answers": [
-      "Gérard Depardieu",
-      "Alain Delon",
-      "Jean-Paul Belmondo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595270542459-2ec51c109e48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzExMjkyNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur japonais est mondialement reconnu pour ses films d'animation comme 'Le Voyage de Chihiro' ?",
-    "correct_answer": "Hayao Miyazaki",
-    "incorrect_answers": [
-      "Akira Kurosawa",
-      "Satoshi Kon",
-      "Isao Takahata"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1622829118151-1cfabdf11a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le symbole de la récompense principale du Festival International du Film de Venise ?",
-    "correct_answer": "Le Lion",
-    "incorrect_answers": [
-      "L'Ours",
-      "La Palme",
-      "Le Faucon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1572925140875-d30aebb64ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel film Louis de Funès incarne-t-il le personnage du 'Gendarme de Saint-Tropez' ?",
-    "correct_answer": "Le Gendarme de Saint-Tropez",
-    "incorrect_answers": [
-      "La Grande Vadrouille",
-      "Le Corniaud",
-      "Rabbi Jacob"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514077886732-9b375df6f77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Stanley Kubrick est le réalisateur de '2001, l'Odyssée de l'espace'. Quel est son style caractéristique ?",
-    "correct_answer": "Réalisme froid et perfectionnisme visuel",
-    "incorrect_answers": [
-      "Comédies burlesques",
-      "Westerns épiques",
-      "Films d'horreur à petit budget"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1678655538413-b0f9623b0f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Les 'films muets' sont des films qui n'utilisent pas de :",
-    "correct_answer": "Dialogue parlé",
-    "incorrect_answers": [
-      "Musique",
-      "Décors",
-      "Acteurs"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1607276159787-9ef4db5c0d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzExMjkyNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle actrice a joué aux côtés de Leonardo DiCaprio dans le film 'Titanic' ?",
-    "correct_answer": "Kate Winslet",
-    "incorrect_answers": [
-      "Angelina Jolie",
-      "Julia Roberts",
-      "Jennifer Lawrence"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1647534605086-2a788fe5ad12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzExMjkyNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel univers cinématographique se déroulent les aventures de Batman, Superman et Wonder Woman ?",
-    "correct_answer": "L'univers DC Comics",
-    "incorrect_answers": [
-      "L'univers Marvel",
-      "La Terre du Milieu",
-      "Le Monde de Narnia"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1613908137518-06348dea40e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Pedro Almodóvar est un réalisateur célèbre pour ses films aux couleurs vives. De quel pays est-il originaire ?",
-    "correct_answer": "L'Espagne",
-    "incorrect_answers": [
-      "Le Portugal",
-      "L'Italie",
-      "Le Mexique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595270308058-9768eb05862c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzExMjkyNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film est devenu un classique de science-fiction où des réplicants sont traqués à Los Angeles ?",
-    "correct_answer": "Blade Runner",
-    "incorrect_answers": [
-      "Terminator",
-      "Alien",
-      "Le Cinquième Élément"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574882559683-c27d3f9ab471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a remporté un Oscar du meilleur acteur pour son rôle dans le film 'Forest Gump' ?",
-    "correct_answer": "Tom Hanks",
-    "incorrect_answers": [
-      "Robert De Niro",
-      "Jack Nicholson",
-      "Denzel Washington"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1596765961658-7f8e7d129a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment appelle-t-on le fait de remplacer la voix d'un acteur par une autre, souvent dans une langue différente ?",
-    "correct_answer": "Le doublage",
-    "incorrect_answers": [
-      "Le sous-titrage",
-      "Le mixage",
-      "L'étalonnage"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1685838885743-0f059251d573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzExMjkyNnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film musical emblématique de 1939 est connu pour sa transition visuelle du noir et blanc à la couleur ?",
-    "correct_answer": "Le Magicien d'Oz",
-    "incorrect_answers": [
-      "Chantons sous la pluie",
-      "Mary Poppins",
-      "West Side Story"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553166272-e69910ab5ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur français est célèbre pour son physique athlétique et ses rôles dans des comédies d'action ?",
-    "correct_answer": "Jean-Paul Belmondo",
-    "incorrect_answers": [
-      "Lino Ventura",
-      "Bernard Giraudeau",
-      "Alain Delon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1655734335178-c51d9e048677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzExMjkyNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1610899633400-4fd20fba13fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

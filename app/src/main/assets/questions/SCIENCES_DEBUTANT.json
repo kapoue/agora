@@ -1,302 +1,302 @@
 [
   {
+    "question": "Quelle est la principale source d'énergie pour la photosynthèse chez les plantes ?",
+    "correct_answer": "La lumière du soleil",
+    "incorrect_answers": [
+      "L'eau du sol",
+      "Le dioxyde de carbone",
+      "Les nutriments minéraux"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602928309809-776bf9db8658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
     "question": "Quel organe pompe le sang dans tout le corps humain ?",
     "correct_answer": "Le cœur",
     "incorrect_answers": [
       "Le cerveau",
-      "Les poumons",
-      "L'estomac"
+      "Le foie",
+      "Les poumons"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364661-e83f9eca34f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1644335364811-755572c942b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la planète la plus proche du Soleil ?",
-    "correct_answer": "Mercure",
+    "question": "Quelle planète est connue comme la 'planète rouge' ?",
+    "correct_answer": "Mars",
     "incorrect_answers": [
       "Vénus",
-      "Mars",
-      "La Terre"
+      "Jupiter",
+      "Saturne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928299025-47892a76808a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1643625721976-3eb0adf3054d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Sous quelle forme l'eau se transforme-t-elle lorsqu'elle bout à 100°C ?",
-    "correct_answer": "En vapeur",
-    "incorrect_answers": [
-      "En glace",
-      "En brouillard",
-      "En gelée"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618826470964-f6f8b3ae52aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle force nous maintient au sol et fait tomber les objets ?",
+    "question": "Qu'est-ce qui attire les objets vers le sol sur Terre ?",
     "correct_answer": "La gravité",
     "incorrect_answers": [
-      "La flottaison",
-      "La friction",
-      "L'attraction magnétique"
+      "La pression atmosphérique",
+      "Le magnétisme",
+      "Le vent"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907592593-d4c2884e35f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1643625794877-b808168ba474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle source d'énergie est produite par le vent ?",
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "correct_answer": "H2O",
+    "incorrect_answers": [
+      "CO2",
+      "O2",
+      "N2"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1627907592593-d4c2884e35f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel matériau peut être recyclé pour fabriquer de nouvelles bouteilles et objets ?",
+    "correct_answer": "Le plastique",
+    "incorrect_answers": [
+      "Le bois",
+      "Le textile",
+      "Le carton"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602928298849-325cec8771c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui est généralement crédité de l'invention de l'ampoule électrique pratique ?",
+    "correct_answer": "Thomas Edison",
+    "incorrect_answers": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1644335364747-2981be9b5e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel gaz les humains respirent-ils principalement pour vivre ?",
+    "correct_answer": "L'oxygène",
+    "incorrect_answers": [
+      "Le dioxyde de carbone",
+      "L'azote",
+      "Le méthane"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1627907683878-519b0297c84c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzc5MTkxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'étoile la plus proche de la Terre ?",
+    "correct_answer": "Le Soleil",
+    "incorrect_answers": [
+      "La Lune",
+      "Mars",
+      "Jupiter"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618826470964-f6f8b3ae52aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qu'est-ce qu'un vaccin aide à prévenir ?",
+    "correct_answer": "Les maladies infectieuses",
+    "incorrect_answers": [
+      "Les blessures",
+      "La faim",
+      "Le vieillissement"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1643625757115-a712ca47a3af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzc5MTkxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans quel état la glace se trouve-t-elle ?",
+    "correct_answer": "Solide",
+    "incorrect_answers": [
+      "Liquide",
+      "Gazeux",
+      "Plasma"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1643625720564-bc9ce18936b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle source d'énergie est renouvelable et utilise le vent ?",
     "correct_answer": "L'énergie éolienne",
     "incorrect_answers": [
-      "L'énergie solaire",
-      "L'énergie hydraulique",
-      "L'énergie fossile"
+      "Le charbon",
+      "Le pétrole",
+      "L'énergie nucléaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625813046-88415927850c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzcxMTI5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1644335364668-7b2ca4509c9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle partie d'une plante absorbe la lumière du soleil pour la photosynthèse ?",
-    "correct_answer": "Les feuilles",
+    "question": "Quelle partie d'une plante absorbe principalement l'eau et les nutriments du sol ?",
+    "correct_answer": "Les racines",
     "incorrect_answers": [
-      "Les racines",
+      "Les feuilles",
       "Les fleurs",
       "La tige"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625768411-6b6d5493fd86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1644335364724-b6b0136e32c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel inventeur est célèbre pour avoir développé la première ampoule électrique pratique ?",
-    "correct_answer": "Thomas Edison",
+    "question": "Quel est le satellite naturel de la Terre ?",
+    "correct_answer": "La Lune",
     "incorrect_answers": [
-      "Alexander Graham Bell",
-      "Isaac Newton",
-      "Marie Curie"
+      "Mars",
+      "Le Soleil",
+      "Vénus"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625748977-43532f7d023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzcxMTI5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1643625761425-2ae5c23cf329?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzc5MTkxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le rôle principal des globules rouges dans le sang ?",
-    "correct_answer": "Transporter l'oxygène",
+    "question": "Quel inventeur est associé à la création du téléphone ?",
+    "correct_answer": "Alexander Graham Bell",
     "incorrect_answers": [
-      "Combattre les infections",
-      "Coaguler le sang",
-      "Réguler la température"
+      "Leonardo da Vinci",
+      "Nikola Tesla",
+      "Galileo Galilei"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364811-755572c942b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1627907629872-e7a331bc4f98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzc5MTkxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le symbole chimique de l'eau ?",
-    "correct_answer": "H₂O",
+    "question": "Quel phénomène transforme le fer en rouille ?",
+    "correct_answer": "L'oxydation",
     "incorrect_answers": [
-      "CO₂",
-      "O₂",
-      "N₂"
+      "La fusion",
+      "La vaporisation",
+      "La dissolution"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625720564-bc9ce18936b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1627907599569-c52ee42afb1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Combien de temps faut-il à la Terre pour faire un tour complet sur elle-même (une rotation) ?",
-    "correct_answer": "Environ 24 heures",
+    "question": "Quelle est une caractéristique distinctive des mammifères ?",
+    "correct_answer": "Ils allaitent leurs petits",
     "incorrect_answers": [
-      "Environ 365 jours",
-      "Environ 1 mois",
-      "Environ 1 heure"
+      "Ils ont des plumes",
+      "Ils pondent des œufs",
+      "Ils respirent par des branchies"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625794877-b808168ba474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1644335364551-978d2d892466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Comment appelle-t-on le fait qu'un son se propage dans l'air ou l'eau ?",
-    "correct_answer": "Une onde sonore",
+    "question": "Comment le son se propage-t-il ?",
+    "correct_answer": "Par des vibrations",
     "incorrect_answers": [
-      "Une onde lumineuse",
-      "Une vibration statique",
-      "Un champ magnétique"
+      "Par la lumière",
+      "Par la chaleur",
+      "Par le vide"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928333621-949abc1ec6f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1643625823473-5d47615e5312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzc5MTkxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est connu pour hiberner pendant l'hiver ?",
-    "correct_answer": "L'ours",
+    "question": "Quel geste simple permet de réduire la quantité de déchets ?",
+    "correct_answer": "Le tri sélectif",
     "incorrect_answers": [
-      "Le lion",
-      "La girafe",
-      "Le kangourou"
+      "La surconsommation",
+      "L'incinération sans tri",
+      "Le gaspillage alimentaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907629872-e7a331bc4f98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzcxMTI5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1643625668608-6e135f415c2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel gaz est principalement responsable de l'effet de serre et du réchauffement climatique ?",
+    "question": "Quel mouvement de la Terre provoque l'alternance du jour et de la nuit ?",
+    "correct_answer": "La rotation sur son axe",
+    "incorrect_answers": [
+      "L'orbite autour du Soleil",
+      "L'inclinaison de son axe",
+      "La dérive des continents"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1644335364661-e83f9eca34f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle pratique d'hygiène est essentielle pour prévenir la propagation des germes ?",
+    "correct_answer": "Se laver les mains",
+    "incorrect_answers": [
+      "Boire beaucoup de café",
+      "Regarder la télévision",
+      "Faire du sport"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602928333621-949abc1ec6f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a découvert la pénicilline, le premier antibiotique ?",
+    "correct_answer": "Alexander Fleming",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Marie Curie",
+      "Gregor Mendel"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1627907611749-f4d820b77236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzc5MTkxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est l'organe principal de la vision ?",
+    "correct_answer": "L'œil",
+    "incorrect_answers": [
+      "L'oreille",
+      "Le nez",
+      "La langue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602928321679-560bb453f190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le goût caractéristique d'une substance acide comme le citron ?",
+    "correct_answer": "Aigre",
+    "incorrect_answers": [
+      "Sucré",
+      "Salé",
+      "Amer"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602928299025-47892a76808a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "À quelle température l'eau gèle-t-elle à pression atmosphérique normale ?",
+    "correct_answer": "0 degré Celsius",
+    "incorrect_answers": [
+      "100 degrés Celsius",
+      "37 degrés Celsius",
+      "-10 degrés Celsius"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1643625768411-6b6d5493fd86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Combien de planètes principales composent notre système solaire (hors planètes naines) ?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "9",
+      "7",
+      "10"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1643625813046-88415927850c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzc5MTkxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel gaz est le principal responsable de l'effet de serre et du réchauffement climatique ?",
     "correct_answer": "Le dioxyde de carbone",
     "incorrect_answers": [
       "L'oxygène",
       "L'azote",
       "L'hélium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907683878-519b0297c84c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzcxMTI5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1643625818238-2169a1a029dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzc5MTkxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a inventé la première automobile fonctionnelle ?",
-    "correct_answer": "Karl Benz",
+    "question": "Quelle est l'unité de base de la vie chez tous les êtres vivants ?",
+    "correct_answer": "La cellule",
     "incorrect_answers": [
-      "Henry Ford",
-      "Les frères Wright",
-      "Léonard de Vinci"
+      "L'organe",
+      "Le tissu",
+      "La molécule"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625721976-3eb0adf3054d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1643625626556-5a77cc63549a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'organe responsable de l'ouïe ?",
-    "correct_answer": "L'oreille",
-    "incorrect_answers": [
-      "L'œil",
-      "Le nez",
-      "La langue"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625823473-5d47615e5312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzcxMTI5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'ingrédient principal du sel de table ?",
-    "correct_answer": "Le chlorure de sodium",
-    "incorrect_answers": [
-      "Le carbonate de calcium",
-      "Le sucre",
-      "Le bicarbonate de soude"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928309809-776bf9db8658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Pourquoi voit-on toujours la même face de la Lune depuis la Terre ?",
-    "correct_answer": "Sa rotation est synchronisée avec son orbite",
-    "incorrect_answers": [
-      "La Lune ne tourne pas sur elle-même",
-      "L'autre face est invisible",
-      "C'est une illusion d'optique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907611749-f4d820b77236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzcxMTI5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle couleur de lumière est absorbée par les plantes pour la photosynthèse ?",
-    "correct_answer": "Le bleu et le rouge",
-    "incorrect_answers": [
-      "Le vert",
-      "Le jaune",
-      "L'infrarouge"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625761425-2ae5c23cf329?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzcxMTI5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel terme désigne un animal qui mange d'autres animaux ?",
-    "correct_answer": "Un carnivore",
-    "incorrect_answers": [
-      "Un herbivore",
-      "Un omnivore",
-      "Un décomposeur"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625626556-5a77cc63549a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment s'appelle le processus par lequel l'eau des océans s'élève dans l'atmosphère ?",
-    "correct_answer": "L'évaporation",
-    "incorrect_answers": [
-      "La condensation",
-      "La précipitation",
-      "L'infiltration"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1648547019367-ec8d5ebbf94c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel appareil mécanique a été l'un des premiers outils de calcul ?",
-    "correct_answer": "L'abaque",
+    "question": "Quelle invention majeure a permis la diffusion massive de l'information et des livres ?",
+    "correct_answer": "L'imprimerie",
     "incorrect_answers": [
       "Le télescope",
       "La boussole",
-      "La machine à vapeur"
+      "L'ordinateur"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625757115-a712ca47a3af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzcxMTI5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1648547019367-ec8d5ebbf94c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'os le plus long du corps humain ?",
-    "correct_answer": "Le fémur",
+    "question": "Quel est l'organe qui contrôle la pensée, les émotions et le mouvement du corps ?",
+    "correct_answer": "Le cerveau",
     "incorrect_answers": [
-      "Le tibia",
-      "Le crâne",
-      "La colonne vertébrale"
+      "Le cœur",
+      "L'estomac",
+      "La moelle épinière"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364724-b6b0136e32c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Sur l'échelle de pH, quelle valeur indique une substance neutre ?",
-    "correct_answer": "7",
-    "incorrect_answers": [
-      "0",
-      "14",
-      "5"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928321679-560bb453f190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'étoile la plus proche de la Terre ?",
-    "correct_answer": "Le Soleil",
-    "incorrect_answers": [
-      "Alpha du Centaure",
-      "Sirius",
-      "Polaris"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625668608-6e135f415c2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel composant permet de contrôler le flux d'électricité dans un circuit ?",
-    "correct_answer": "Un interrupteur",
-    "incorrect_answers": [
-      "Une batterie",
-      "Un fil",
-      "Une ampoule"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907599569-c52ee42afb1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'organe féminin qui produit les ovules ?",
-    "correct_answer": "L'ovaire",
-    "incorrect_answers": [
-      "L'utérus",
-      "Le vagin",
-      "Les trompes de Fallope"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625818238-2169a1a029dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzcxMTI5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment appelle-t-on un tremblement de terre sous-marin qui provoque une grande vague ?",
-    "correct_answer": "Un tsunami",
-    "incorrect_answers": [
-      "Un ouragan",
-      "Une tornade",
-      "Un cyclone"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364747-2981be9b5e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est généralement crédité de l'invention de l'imprimerie à caractères mobiles en Europe ?",
-    "correct_answer": "Johannes Gutenberg",
-    "incorrect_answers": [
-      "Léonard de Vinci",
-      "Christophe Colomb",
-      "Galilée"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364668-7b2ca4509c9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel scientifique est connu pour avoir développé le premier vaccin contre la rage ?",
-    "correct_answer": "Louis Pasteur",
-    "incorrect_answers": [
-      "Edward Jenner",
-      "Alexander Fleming",
-      "Robert Koch"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928298849-325cec8771c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel gaz est essentiel pour qu'un feu puisse brûler ?",
-    "correct_answer": "L'oxygène",
-    "incorrect_answers": [
-      "L'azote",
-      "Le dioxyde de carbone",
-      "L'hydrogène"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364551-978d2d892466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3MTEyOTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1643625748977-43532f7d023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzc5MTkxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

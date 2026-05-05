@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel réalisateur est connu pour ses longs plans-séquences et son style minimaliste, notamment dans des films primés à Cannes comme 'Rosetta' et 'L'Enfant' ?",
-    "correct_answer": "Les frères Dardenne",
+    "question": "Quel réalisateur a été le premier à remporter l'Oscar du Meilleur Film pour un film non anglophone avec 'Parasite' ?",
+    "correct_answer": "Bong Joon-ho",
     "incorrect_answers": [
-      "Ken Loach",
-      "Michael Haneke",
-      "Nuri Bilge Ceylan"
+      "Alfonso Cuarón",
+      "Ang Lee",
+      "Pedro Almodóvar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1587319303796-ba11a5208840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1769699167703-9a1c72115d65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur est célèbre pour avoir interprété le rôle terrifiant de Hannibal Lecter dans 'Le Silence des agneaux' ?",
+    "question": "Quel acteur a incarné le rôle de Hannibal Lecter dans le film 'Le Silence des agneaux' ?",
     "correct_answer": "Anthony Hopkins",
     "incorrect_answers": [
       "Jack Nicholson",
       "Robert De Niro",
-      "Al Pacino"
+      "Jeremy Irons"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1595272839837-801709db9fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775559002277-e1bcb4e5574d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel film de Christopher Nolan les personnages s'introduisent-ils dans les rêves d'autrui pour y voler ou implanter des idées ?",
-    "correct_answer": "Inception",
-    "incorrect_answers": [
-      "Interstellar",
-      "Memento",
-      "The Dark Knight"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618934042859-38d5f6efc549?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film a remporté l'Oscar du Meilleur Film en 2020, devenant ainsi le premier film non-anglophone à recevoir cette distinction ?",
-    "correct_answer": "Parasite",
-    "incorrect_answers": [
-      "Roma",
-      "La La Land",
-      "1917"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1532800783378-1bed60adaf58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle innovation technique majeure a marqué la fin du cinéma muet et l'avènement des films parlants à la fin des années 1920 ?",
-    "correct_answer": "Le son synchronisé",
-    "incorrect_answers": [
-      "La couleur",
-      "Le Cinemascope",
-      "Le montage parallèle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1639048654591-45128910cc69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur japonais est réputé pour ses films d'animation poétiques et oniriques, tels que 'Le Voyage de Chihiro' et 'Princesse Mononoké' ?",
-    "correct_answer": "Hayao Miyazaki",
-    "incorrect_answers": [
-      "Akira Kurosawa",
-      "Satoshi Kon",
-      "Mamoru Hosoda"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1639615058024-abd22129cafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film culte de science-fiction, réalisé par Ridley Scott, est souvent considéré comme le précurseur esthétique du genre cyberpunk ?",
-    "correct_answer": "Blade Runner",
-    "incorrect_answers": [
-      "Metropolis",
-      "Alien",
-      "Mad Max"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769699167703-9a1c72115d65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle actrice était une icône du cinéma muet, souvent surnommée 'La Petite Fiancée de l'Amérique' ?",
-    "correct_answer": "Mary Pickford",
-    "incorrect_answers": [
-      "Greta Garbo",
-      "Marlene Dietrich",
-      "Louise Brooks"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1512025316832-8658f04f8a83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel prix représente la récompense suprême décernée au Festival de Cannes, saluant le meilleur film en compétition ?",
-    "correct_answer": "La Palme d'Or",
-    "incorrect_answers": [
-      "Le Lion d'Or",
-      "L'Ours d'Or",
-      "Le César du Meilleur Film"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1639048653299-417afa1a37a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur espagnol est connu pour ses mélodrames hauts en couleur, explorant souvent la féminité, comme 'Tout sur ma mère' ou 'Volver' ?",
-    "correct_answer": "Pedro Almodóvar",
-    "incorrect_answers": [
-      "Guillermo del Toro",
-      "Alejandro G. Iñárritu",
-      "Alfonso Cuarón"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1650060176005-884bbe9f499a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "De quel film emblématique du cinéma de gangsters provient la célèbre réplique : 'Je vais lui faire une offre qu'il ne pourra pas refuser' ?",
-    "correct_answer": "Le Parrain",
-    "incorrect_answers": [
-      "Scarface",
-      "Les Affranchis",
-      "Pulp Fiction"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1551332772-a9a555f16780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur est le collaborateur fétiche de Martin Scorsese, ayant tourné dans de nombreux films du réalisateur, notamment 'Taxi Driver' et 'Raging Bull' ?",
-    "correct_answer": "Robert De Niro",
-    "incorrect_answers": [
-      "Al Pacino",
-      "Joe Pesci",
-      "Leonardo DiCaprio"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1644229037815-de79aaf1ef38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le titre du tout premier film projeté en public et payant par les frères Lumière en 1895 ?",
-    "correct_answer": "La Sortie de l'Usine Lumière à Lyon",
-    "incorrect_answers": [
-      "Le Voyage dans la Lune",
-      "L'Arrivée d'un train en gare",
-      "L'Arroseur arrosé"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1654257650702-c981af19b886?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel film emblématique le personnage de Rick Blaine dirige-t-il un café à Casablanca pendant la Seconde Guerre mondiale ?",
-    "correct_answer": "Casablanca",
-    "incorrect_answers": [
-      "Le Faucon maltais",
-      "Citizen Kane",
-      "Autant en emporte le vent"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1654257649889-556ac8ad947d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur britannique est mondialement reconnu comme le 'Maître du suspense' pour ses thrillers ingénieux ?",
-    "correct_answer": "Alfred Hitchcock",
-    "incorrect_answers": [
-      "Steven Spielberg",
-      "Quentin Tarantino",
-      "David Lynch"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1506512297096-1305c7da1919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la principale cérémonie de remise de prix cinématographiques en France, considérée comme l'équivalent français des Oscars ?",
-    "correct_answer": "Les César",
-    "incorrect_answers": [
-      "Les Lumières",
-      "Les Molières",
-      "Les Victoires de la Musique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775559002277-e1bcb4e5574d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur est renommé pour ses transformations physiques extrêmes et son engagement intense dans des rôles comme ceux de 'The Machinist' ou 'American Psycho' ?",
-    "correct_answer": "Christian Bale",
-    "incorrect_answers": [
-      "Johnny Depp",
-      "Jared Leto",
-      "Tom Hardy"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1637248466668-64a4ebb097fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de science-fiction culte explore la nature de la réalité et la perception dans un monde simulé par des machines ?",
-    "correct_answer": "Matrix",
-    "incorrect_answers": [
-      "Tron",
-      "Blade Runner 2049",
-      "Equilibrium"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514077886732-9b375df6f77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur américain est célèbre pour son usage distinctif de la symétrie, des couleurs vives et des univers excentriques dans ses films ?",
-    "correct_answer": "Wes Anderson",
-    "incorrect_answers": [
-      "Tim Burton",
-      "Jean-Pierre Jeunet",
-      "Michel Gondry"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619558577453-f0e8e1e34fc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle actrice a marqué les esprits en interprétant la Princesse Leia Organa dans la saga originale Star Wars ?",
-    "correct_answer": "Carrie Fisher",
-    "incorrect_answers": [
-      "Sigourney Weaver",
-      "Meryl Streep",
-      "Jodie Foster"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1587319331522-349361826cd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement cinématographique français, né à la fin des années 1950, a révolutionné la narration et le montage avec des réalisateurs comme Godard et Truffaut ?",
-    "correct_answer": "La Nouvelle Vague",
-    "incorrect_answers": [
-      "Le Réalisme poétique",
-      "Le Cinéma du look",
-      "Le Surréalisme au cinéma"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1639048655435-cd954cdc03e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film est souvent cité comme l'exemple parfait du 'twist ending' et a été réalisé par M. Night Shyamalan ?",
-    "correct_answer": "Sixième Sens",
-    "incorrect_answers": [
-      "Usual Suspects",
-      "Fight Club",
-      "Primal Fear"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1548913577-3d12f36c294b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur est la voix originale emblématique du personnage de Woody le shérif dans la version anglaise de la saga 'Toy Story' ?",
-    "correct_answer": "Tom Hanks",
-    "incorrect_answers": [
-      "Tim Allen",
-      "Billy Crystal",
-      "Robin Williams"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1517445297835-99352d12c747?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Le 'Lion d'Or' est la récompense suprême de quel festival international de cinéma ?",
-    "correct_answer": "La Mostra de Venise",
-    "incorrect_answers": [
-      "Le Festival de Berlin",
-      "Le Festival de Sundance",
-      "Le Festival de Locarno"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514077386104-9d9504da577b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur japonais est mondialement acclamé pour ses films poétiques et contemplatifs, souvent centrés sur la vie quotidienne et les relations humaines, comme 'Une affaire de famille' ?",
-    "correct_answer": "Hirokazu Kore-eda",
-    "incorrect_answers": [
-      "Takeshi Kitano",
-      "Takashi Miike",
-      "Kiyoshi Kurosawa"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1639048654754-541474712b9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne le détective privé Philip Marlowe dans le film noir classique 'Le Grand Sommeil' ?",
-    "correct_answer": "Humphrey Bogart",
-    "incorrect_answers": [
-      "Robert Mitchum",
-      "Kirk Douglas",
-      "James Stewart"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1512790315962-66cbcd3eb8ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film est célèbre pour sa séquence de danse culte entre Vincent Vega et Mia Wallace sur la chanson 'You Never Can Tell' ?",
-    "correct_answer": "Pulp Fiction",
-    "incorrect_answers": [
-      "Reservoir Dogs",
-      "Kill Bill",
-      "Jackie Brown"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1537044751776-d5fb12da424d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le premier long métrage d'animation produit par Walt Disney Pictures, sorti en 1937 ?",
+    "question": "Quel film est souvent cité comme le premier long métrage d'animation couleur des studios Disney ?",
     "correct_answer": "Blanche-Neige et les Sept Nains",
     "incorrect_answers": [
       "Fantasia",
-      "Pinocchio",
-      "Dumbo"
+      "Dumbo",
+      "Bambi"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1520904504199-f040f78d6f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1620981468099-f3170a81e471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a signé des films emblématiques tels que '2001, l'Odyssée de l'espace', 'Orange mécanique' et 'Shining' ?",
-    "correct_answer": "Stanley Kubrick",
+    "question": "Quel est le nom du prix suprême décerné au Festival de Cannes, récompensant le meilleur film ?",
+    "correct_answer": "Palme d'Or",
     "incorrect_answers": [
-      "Francis Ford Coppola",
+      "Lion d'Or",
+      "Ours d'Or",
+      "Globe de Cristal"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1517445297835-99352d12c747?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pionnier du cinéma français est célèbre pour ses films à trucages comme 'Le Voyage dans la Lune' ?",
+    "correct_answer": "Georges Méliès",
+    "incorrect_answers": [
+      "Louis Lumière",
+      "Alice Guy-Blaché",
+      "Jean Renoir"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1514077386104-9d9504da577b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui est le réalisateur surnommé le 'maître du suspense' pour ses thrillers psychologiques emblématiques ?",
+    "correct_answer": "Alfred Hitchcock",
+    "incorrect_answers": [
+      "Stanley Kubrick",
       "Orson Welles",
-      "Andrei Tarkovski"
+      "Fritz Lang"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-9f8cfca5d944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1650060176005-884bbe9f499a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle actrice a été la première à remporter un Oscar du meilleur rôle féminin pour une performance dans un film en langue non anglaise ('La Môme') ?",
-    "correct_answer": "Marion Cotillard",
+    "question": "Quelle actrice détient le record du plus grand nombre d'Oscars de la meilleure actrice (quatre) ?",
+    "correct_answer": "Katharine Hepburn",
     "incorrect_answers": [
-      "Isabelle Huppert",
-      "Catherine Deneuve",
-      "Juliette Binoche"
+      "Meryl Streep",
+      "Ingrid Bergman",
+      "Bette Davis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1623506252439-8e91eed8a993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzcxMTI5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1620981478761-3e5589cb09ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans quel film de la saga Star Wars entend-on la célèbre réplique 'Luke, je suis ton père' ?",
+    "correct_answer": "Star Wars, épisode V : L'Empire contre-attaque",
+    "incorrect_answers": [
+      "Star Wars, épisode IV : Un nouvel espoir",
+      "Le Retour du Jedi",
+      "La Menace fantôme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619558577453-f0e8e1e34fc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur est l'auteur des musiques emblématiques de 'Star Wars' et 'Indiana Jones' ?",
+    "correct_answer": "John Williams",
+    "incorrect_answers": [
+      "Hans Zimmer",
+      "Ennio Morricone",
+      "Bernard Herrmann"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1506512297096-1305c7da1919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur français est une figure majeure de la Nouvelle Vague avec des films comme 'À bout de souffle' ?",
+    "correct_answer": "Jean-Luc Godard",
+    "incorrect_answers": [
+      "François Truffaut",
+      "Claude Chabrol",
+      "Agnès Varda"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1551332772-a9a555f16780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans le film 'Inception', quel est l'animal totem de Dom Cobb, joué par Leonardo DiCaprio ?",
+    "correct_answer": "Une toupie",
+    "incorrect_answers": [
+      "Un train miniature",
+      "Une bague de mariage",
+      "Un dé à jouer"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1520904504199-f040f78d6f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a incarné Tony Montana dans le film culte 'Scarface' de Brian De Palma ?",
+    "correct_answer": "Al Pacino",
+    "incorrect_answers": [
+      "Robert De Niro",
+      "Dustin Hoffman",
+      "Marlon Brando"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1512025316832-8658f04f8a83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays a vu naître le mouvement cinématographique de l'expressionnisme allemand au début du XXe siècle ?",
+    "correct_answer": "Allemagne",
+    "incorrect_answers": [
+      "France",
+      "Italie",
+      "Suède"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1514077886732-9b375df6f77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel cinéaste italien est le maître des westerns spaghetti, dont 'Le Bon, la Brute et le Truand' ?",
+    "correct_answer": "Sergio Leone",
+    "incorrect_answers": [
+      "Federico Fellini",
+      "Vittorio De Sica",
+      "Michelangelo Antonioni"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1512790315962-66cbcd3eb8ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a incarné James Bond dans le plus grand nombre de films officiels de la franchise EON Productions ?",
+    "correct_answer": "Roger Moore",
+    "incorrect_answers": [
+      "Sean Connery",
+      "Daniel Craig",
+      "Pierce Brosnan"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1537044751776-d5fb12da424d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année la première cérémonie des Oscars, récompensant les films de 1927 et 1928, a-t-elle eu lieu ?",
+    "correct_answer": "1929",
+    "incorrect_answers": [
+      "1935",
+      "1941",
+      "1927"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1644229037815-de79aaf1ef38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film est souvent considéré comme l'un des premiers et des plus influents films noirs de l'histoire ?",
+    "correct_answer": "Le Faucon maltais",
+    "incorrect_answers": [
+      "Citizen Kane",
+      "Casablanca",
+      "Assurance sur la mort"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1654257649889-556ac8ad947d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur est connu pour son esthétique visuelle symétrique, ses couleurs vives et des films comme 'The Grand Budapest Hotel' ?",
+    "correct_answer": "Wes Anderson",
+    "incorrect_answers": [
+      "Quentin Tarantino",
+      "David Lynch",
+      "Tim Burton"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1514076298225-f6de8bfa58fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année le film 'Titanic' de James Cameron est-il sorti au cinéma, devenant un succès mondial ?",
+    "correct_answer": "1997",
+    "incorrect_answers": [
+      "1995",
+      "1998",
+      "2000"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618934042859-38d5f6efc549?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle voix emblématique est celle de Dark Vador dans la version originale des films Star Wars ?",
+    "correct_answer": "James Earl Jones",
+    "incorrect_answers": [
+      "Morgan Freeman",
+      "Samuel L. Jackson",
+      "Orson Welles"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1637248466668-64a4ebb097fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans quel quartier pittoresque de Paris se déroule principalement 'Le Fabuleux Destin d'Amélie Poulain' ?",
+    "correct_answer": "Montmartre",
+    "incorrect_answers": [
+      "Le Marais",
+      "Saint-Germain-des-Prés",
+      "Belleville"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1587319331522-349361826cd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur est célèbre pour ses films d'horreur de zombies pionniers comme 'La Nuit des morts-vivants' ?",
+    "correct_answer": "George A. Romero",
+    "incorrect_answers": [
+      "John Carpenter",
+      "Wes Craven",
+      "Tobe Hooper"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1548913577-3d12f36c294b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel célèbre roman de Mario Puzo a été adapté au cinéma par Francis Ford Coppola, donnant naissance à un chef-d'œuvre ?",
+    "correct_answer": "Le Parrain",
+    "incorrect_answers": [
+      "Scarface",
+      "Casino",
+      "Il était une fois en Amérique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1619558545855-dd3e84e6d711?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a brillamment interprété le rôle du Joker dans 'The Dark Knight' de Christopher Nolan ?",
+    "correct_answer": "Heath Ledger",
+    "incorrect_answers": [
+      "Jack Nicholson",
+      "Joaquin Phoenix",
+      "Jared Leto"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1595272839837-801709db9fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel duo est généralement crédité de l'invention et du développement du cinématographe, appareil de prise de vue et de projection ?",
+    "correct_answer": "Les frères Lumière",
+    "incorrect_answers": [
+      "Les frères Warner",
+      "Les frères Marx",
+      "Les frères Dardenne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1623506252439-8e91eed8a993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de Christopher Nolan est connu pour sa narration inversée et le personnage de Leonard Shelby souffrant d'amnésie antérograde ?",
+    "correct_answer": "Memento",
+    "incorrect_answers": [
+      "Inception",
+      "Interstellar",
+      "Le Prestige"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1587319303796-ba11a5208840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur est le plus jeune à avoir remporté l'Oscar du meilleur acteur pour 'Le Pianiste' en 2003 ?",
+    "correct_answer": "Adrien Brody",
+    "incorrect_answers": [
+      "Leonardo DiCaprio",
+      "Eddie Redmayne",
+      "Daniel Day-Lewis"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1644229037804-04947ef2d0fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a popularisé la technique visuelle du 'bullet time', ralentissant l'action pour une perspective multidimensionnelle ?",
+    "correct_answer": "Matrix",
+    "incorrect_answers": [
+      "Terminator 2",
+      "Volte/Face",
+      "L'Arme Fatale"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1639615058024-abd22129cafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a réalisé le film d'horreur psychologique 'Get Out', oscarisé pour son scénario original en 2018 ?",
+    "correct_answer": "Jordan Peele",
+    "incorrect_answers": [
+      "Ari Aster",
+      "Robert Eggers",
+      "James Wan"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1574304904749-9d21f9d6e8b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur est célèbre pour son rôle iconique de Jack Sparrow dans la saga 'Pirates des Caraïbes' ?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": [
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Tom Hanks"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1639048655435-cd954cdc03e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

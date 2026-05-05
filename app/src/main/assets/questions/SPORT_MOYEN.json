@@ -1,93 +1,63 @@
 [
   {
-    "question": "Quelle ville a accueilli les premiers Jeux Olympiques de l'ère moderne en 1896 ?",
-    "correct_answer": "Athènes",
+    "question": "Quel athlète est le seul à avoir remporté huit médailles d'or lors d'une même édition des Jeux Olympiques d'été ?",
+    "correct_answer": "Michael Phelps",
     "incorrect_answers": [
-      "Paris",
-      "Londres",
-      "Rome"
+      "Usain Bolt",
+      "Carl Lewis",
+      "Mark Spitz"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760508737418-a7add7ee3871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1777643156041-465946d94f72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays détient le record du plus grand nombre de victoires en Coupe du Monde de football masculin ?",
-    "correct_answer": "Brésil",
+    "question": "Quelle nation a remporté la première Coupe du Monde de football en 1930 ?",
+    "correct_answer": "Uruguay",
     "incorrect_answers": [
-      "Allemagne",
+      "Brésil",
       "Italie",
       "Argentine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181887-b3b870a015c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775830195377-c0d470ef4449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel athlète est le détenteur actuel du record du monde du 100 mètres masculin ?",
-    "correct_answer": "Usain Bolt",
+    "question": "Quel joueur de tennis détient le record du plus grand nombre de titres en simple masculin à Roland Garros ?",
+    "correct_answer": "Rafael Nadal",
     "incorrect_answers": [
-      "Carl Lewis",
-      "Tyson Gay",
-      "Justin Gatlin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765915550935-578b594ac76b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quelle épreuve cycliste le coureur porte-t-il le maillot rose ?",
-    "correct_answer": "Giro d'Italia",
-    "incorrect_answers": [
-      "Tour de France",
-      "Vuelta a España",
-      "Liège-Bastogne-Liège"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775830195377-c0d470ef4449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le joueur de tennis masculin ayant remporté le plus de titres du Grand Chelem en simple ?",
-    "correct_answer": "Novak Djokovic",
-    "incorrect_answers": [
-      "Rafael Nadal",
+      "Novak Djokovic",
       "Roger Federer",
-      "Pete Sampras"
+      "Björn Borg"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1650124077853-b6fcb0231cc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1762013315117-1c8005ad2b41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Combien de points rapporte un essai transformé au rugby à XV ?",
-    "correct_answer": "7 points",
+    "question": "Quelle distance Usain Bolt a-t-il parcourue pour établir son record du monde de 9,58 secondes ?",
+    "correct_answer": "100 mètres",
     "incorrect_answers": [
-      "5 points",
-      "6 points",
-      "8 points"
+      "200 mètres",
+      "400 mètres",
+      "60 mètres"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1628428621924-56fb0924755c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1765130729127-f734df4dff3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel nageur est le sportif le plus médaillé de l'histoire des Jeux Olympiques ?",
-    "correct_answer": "Michael Phelps",
+    "question": "Quelle ville est traditionnellement le lieu d'arrivée de la dernière étape du Tour de France ?",
+    "correct_answer": "Paris",
     "incorrect_answers": [
-      "Larisa Latynina",
-      "Paavo Nurmi",
-      "Mark Spitz"
+      "Lyon",
+      "Nice",
+      "Bordeaux"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1635235914608-4523c8e1c7ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775725181743-95a508495425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle ligue est considérée comme la plus prestigieuse au monde pour le basketball professionnel ?",
-    "correct_answer": "NBA",
+    "question": "Quel joueur est surnommé 'Air Jordan' et a mené les Chicago Bulls à six championnats NBA ?",
+    "correct_answer": "Michael Jordan",
     "incorrect_answers": [
-      "EuroLeague",
-      "CBA",
-      "LNB"
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Magic Johnson"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775830195198-019937eb65e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pilote de Formule 1 détient le record du plus grand nombre de championnats du monde ?",
-    "correct_answer": "Lewis Hamilton",
-    "incorrect_answers": [
-      "Michael Schumacher",
-      "Juan Manuel Fangio",
-      "Ayrton Senna"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1577240704326-7baa9692e5c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1777643155969-b0d8f06518f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Combien d'anneaux entrelacés composent le drapeau olympique ?",
@@ -97,206 +67,236 @@
       "Six",
       "Sept"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774199786372-5467ae7bdae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775725181875-00b926f93571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel boxeur est surnommé 'The Greatest' et a allumé la flamme olympique en 1996 ?",
+    "question": "Quel pilote de Formule 1 détient le record du plus grand nombre de victoires en Grand Prix ?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": [
+      "Michael Schumacher",
+      "Max Verstappen",
+      "Ayrton Senna"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775830195198-019937eb65e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle équipe nationale de rugby est surnommée les 'All Blacks' ?",
+    "correct_answer": "Nouvelle-Zélande",
+    "incorrect_answers": [
+      "Afrique du Sud",
+      "Australie",
+      "Irlande"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767884161718-e0d34e9c15e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel boxeur est célèbre pour avoir remporté trois fois le championnat du monde des poids lourds et s'être opposé à la guerre du Vietnam ?",
     "correct_answer": "Muhammad Ali",
     "incorrect_answers": [
       "Mike Tyson",
       "George Foreman",
       "Joe Frazier"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760115338751-cc810cb0a591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1766823968084-a7b6f184fab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel événement majeur du ski alpin est surnommé 'la Streif' et est réputé pour sa difficulté ?",
-    "correct_answer": "La descente de Kitzbühel",
+    "question": "Quelle gymnaste américaine est la plus titrée de l'histoire des championnats du monde ?",
+    "correct_answer": "Simone Biles",
     "incorrect_answers": [
-      "Le Super-G de Val Gardena",
-      "Le slalom de Wengen",
-      "La descente de Bormio"
+      "Nadia Comăneci",
+      "Larisa Latynina",
+      "Olga Korbut"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767884161718-e0d34e9c15e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774600551563-4c5874150603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Combien de joueurs une équipe de handball a-t-elle sur le terrain pendant un match ?",
-    "correct_answer": "Sept",
+    "question": "Quelle ville a accueilli les Jeux Olympiques d'hiver en 1992 ?",
+    "correct_answer": "Albertville",
     "incorrect_answers": [
-      "Six",
+      "Grenoble",
+      "Chamonix",
+      "Turin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1760115338751-cc810cb0a591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle nation domine le handball masculin avec le plus grand nombre de titres mondiaux ?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "Suède",
+      "Danemark",
+      "Espagne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1577240704326-7baa9692e5c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du tournoi de golf le plus prestigieux, reconnaissable par sa veste verte remise au vainqueur ?",
+    "correct_answer": "The Masters",
+    "incorrect_answers": [
+      "L'Open Britannique",
+      "L'US Open",
+      "Le PGA Championship"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775725181732-305479bde2a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle nageuse australienne a été la première femme à descendre sous la barre des 53 secondes au 100 mètres nage libre ?",
+    "correct_answer": "Cate Campbell",
+    "incorrect_answers": [
+      "Sarah Sjöström",
+      "Penny Oleksiak",
+      "Federica Pellegrini"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1628428621924-56fb0924755c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la ligue professionnelle de baseball la plus célèbre aux États-Unis ?",
+    "correct_answer": "Major League Baseball (MLB)",
+    "incorrect_answers": [
+      "National Football League (NFL)",
+      "National Basketball Association (NBA)",
+      "National Hockey League (NHL)"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777715330092-f06fd7861c38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nombre maximum de contacts qu'une équipe de volleyball peut faire avec le ballon avant de le renvoyer de l'autre côté du filet ?",
+    "correct_answer": "Trois",
+    "incorrect_answers": [
+      "Deux",
+      "Quatre",
+      "Cinq"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775725181867-754b5f9eaa55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Combien d'épreuves un athlète doit-il réaliser pour un décathlon masculin ?",
+    "correct_answer": "Dix",
+    "incorrect_answers": [
       "Huit",
-      "Dix"
+      "Douze",
+      "Sept"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181890-7c4bc25270da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1765915550935-578b594ac76b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la discipline combinée féminine en athlétisme, disputée sur sept épreuves ?",
-    "correct_answer": "L'Heptathlon",
+    "question": "De quel pays est originaire le judo ?",
+    "correct_answer": "Japon",
     "incorrect_answers": [
-      "Le Décathlon",
-      "Le Pentathlon",
-      "Le Triathlon"
+      "Corée du Sud",
+      "Chine",
+      "Thaïlande"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181875-00b926f93571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la seule partie du corps que l'on n'a pas le droit d'utiliser pour frapper la balle au tennis de table ?",
-    "correct_answer": "La main libre",
-    "incorrect_answers": [
-      "Le bras",
-      "La raquette",
-      "La jambe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765261473063-ec862e10ba58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Combien de points vaut un touchdown au football américain avant la transformation ?",
-    "correct_answer": "6 points",
-    "incorrect_answers": [
-      "3 points",
-      "7 points",
-      "9 points"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774600551563-4c5874150603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année ont eu lieu les premiers Jeux Olympiques d'hiver ?",
-    "correct_answer": "1924",
-    "incorrect_answers": [
-      "1908",
-      "1936",
-      "1948"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181743-95a508495425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment s'appelle le score qui consiste à terminer un trou en deux coups sous le Par au golf ?",
-    "correct_answer": "Un Eagle",
-    "incorrect_answers": [
-      "Un Birdie",
-      "Un Bogey",
-      "Un Albatros"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774199444352-a86e5b71db40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le seul sport olympique où hommes et femmes concourent indifféremment dans la même catégorie ?",
-    "correct_answer": "L'Équitation",
-    "incorrect_answers": [
-      "La Voile",
-      "Le Tir",
-      "Le Badminton"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767729790212-661953ecaa90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760508737418-a7add7ee3871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Qui est considéré comme le rénovateur des Jeux Olympiques modernes ?",
     "correct_answer": "Pierre de Coubertin",
     "incorrect_answers": [
-      "Spiridon Louis",
-      "Dimitrios Vikelas",
-      "James Connolly"
+      "Spyridon Louis",
+      "Juan Antonio Samaranch",
+      "Avery Brundage"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766823968084-a7b6f184fab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774199786372-5467ae7bdae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel art martial, originaire du Japon, est célèbre pour ses ceintures de couleurs ?",
-    "correct_answer": "Le Judo",
+    "question": "Quelle équipe de la NHL a remporté le plus grand nombre de Coupes Stanley dans l'histoire de la ligue ?",
+    "correct_answer": "Canadiens de Montréal",
     "incorrect_answers": [
-      "Le Karaté",
-      "Le Taekwondo",
-      "L'Aïkido"
+      "Toronto Maple Leafs",
+      "Boston Bruins",
+      "Detroit Red Wings"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761867660758-f79bbb37ea77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775647545965-35ff62884890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle distance officielle est courue lors d'un marathon ?",
-    "correct_answer": "42,195 km",
+    "question": "Combien de disciplines sont reconnues en escrime olympique ?",
+    "correct_answer": "Trois",
     "incorrect_answers": [
-      "26,2 miles",
-      "40 km",
-      "21,1 km"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765130729127-f734df4dff3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle course automobile est réputée pour être une épreuve d'endurance de 24 heures ?",
-    "correct_answer": "Les 24 Heures du Mans",
-    "incorrect_answers": [
-      "Le Grand Prix de Monaco",
-      "Le Rallye Dakar",
-      "L'Indy 500"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1589010796595-ed85dc467e71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la nage la plus rapide en natation sportive ?",
-    "correct_answer": "Le crawl",
-    "incorrect_answers": [
-      "La brasse",
-      "Le papillon",
-      "Le dos"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776078599023-8e151b444e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Combien de joueurs de champ une équipe de hockey sur glace a-t-elle sur la patinoire simultanément ?",
-    "correct_answer": "Cinq",
-    "incorrect_answers": [
+      "Deux",
       "Quatre",
-      "Six",
-      "Sept"
+      "Cinq"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1771909713569-356610d7e192?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1759733845137-5eb942436f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle mascotte des Jeux Olympiques, un teckel, fut la première mascotte officielle des JO d'été ?",
-    "correct_answer": "Waldi (Munich 1972)",
+    "question": "Quel était le prix pour le vainqueur d'une épreuve aux Jeux Olympiques antiques ?",
+    "correct_answer": "Une couronne d'olivier",
     "incorrect_answers": [
-      "Misha (Moscou 1980)",
-      "Hodori (Séoul 1988)",
-      "Wenlock (Londres 2012)"
+      "Une médaille d'or",
+      "Une bourse d'argent",
+      "Une statue en bronze"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181867-754b5f9eaa55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1635235914608-4523c8e1c7ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel sport le système de 'Hawk-Eye' (Oeil de faucon) est-il couramment utilisé pour l'arbitrage ?",
-    "correct_answer": "Le tennis",
+    "question": "Quel est le nom du coup qui consiste à frapper la bille blanche de manière à ce qu'elle rebondisse sur une bande avant de toucher la bille objet ?",
+    "correct_answer": "Le coup de bande",
     "incorrect_answers": [
-      "Le volleyball",
-      "Le basketball",
-      "Le football"
+      "Le massé",
+      "Le rétro",
+      "Le piqué"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775647545965-35ff62884890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775725181890-7c4bc25270da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel terme désigne un point d'assurage pour un grimpeur lors d'une ascension, permettant de s'arrêter ?",
-    "correct_answer": "Un relai",
+    "question": "Quel club détient le record du plus grand nombre de victoires en Ligue des Champions de l'UEFA ?",
+    "correct_answer": "Real Madrid",
     "incorrect_answers": [
-      "Une dégaine",
-      "Un coinceur",
-      "Une lunule"
+      "FC Barcelone",
+      "Bayern Munich",
+      "AC Milan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767190937750-d6aaf8ea99d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1774199444352-a86e5b71db40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le seul pays d'Afrique à avoir remporté une médaille d'or olympique en natation ?",
-    "correct_answer": "Afrique du Sud",
+    "question": "Quel est le format de cricket le plus court et le plus dynamique, populaire pour ses matchs de quelques heures ?",
+    "correct_answer": "Twenty20 (T20)",
     "incorrect_answers": [
-      "Égypte",
-      "Algérie",
-      "Tunisie"
+      "Test Match",
+      "One Day International (ODI)",
+      "First-class cricket"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767190938283-d71ee3f63995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767729790212-661953ecaa90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sport, controversé aujourd'hui, fut une épreuve unique aux JO de Paris 1900 ?",
-    "correct_answer": "Le tir aux pigeons vivants",
+    "question": "Quelle est la longueur approximative d'un javelot masculin en compétition ?",
+    "correct_answer": "2,60 mètres",
     "incorrect_answers": [
-      "La course de chars",
-      "La joute nautique",
-      "Le duel au pistolet"
+      "2,20 mètres",
+      "2,80 mètres",
+      "3,00 mètres"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1762013315117-1c8005ad2b41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3MTEyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1776078599023-8e151b444e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle compétition est la plus célèbre pour les sports extrêmes comme le skateboard, le BMX et le surf ?",
+    "correct_answer": "X Games",
+    "incorrect_answers": [
+      "Dew Tour",
+      "Vans Triple Crown",
+      "Red Bull Rampage"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767190937750-d6aaf8ea99d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel joueur a remporté le plus grand nombre de Ballons d'Or dans l'histoire ?",
+    "correct_answer": "Lionel Messi",
+    "incorrect_answers": [
+      "Cristiano Ronaldo",
+      "Michel Platini",
+      "Johan Cruyff"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775725181887-b3b870a015c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Pourquoi la distance du marathon a-t-elle été fixée à 42,195 kilomètres ?",
+    "correct_answer": "C'est la distance entre Windsor et le stade de Londres aux JO de 1908",
+    "incorrect_answers": [
+      "C'est la distance parcourue par Phidippidès",
+      "C'est un multiple exact de 10 miles",
+      "Décision du CIO en 1896"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1589010796595-ed85dc467e71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc3OTE5NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]
