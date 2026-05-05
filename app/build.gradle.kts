@@ -31,8 +31,8 @@ android {
         applicationId = "fr.kapoue.agora"
         minSdk = 26
         targetSdk = 35
-        versionCode = 14
-        versionName = "1.4.7"
+        versionCode = 16
+        versionName = "1.5.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

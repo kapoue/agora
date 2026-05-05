@@ -29,6 +29,31 @@ import random
 
 import requests
 from google import genai
+from mistralai import Mistral as _MistralClient
+
+# ─── WRAPPERS FOURNISSEURS LLM ───────────────────────────────────────────────
+class MistralProvider:
+    def __init__(self, key: str):
+        self._client = _MistralClient(api_key=key)
+        self.label = "Mistral"
+
+    def generate(self, prompt: str) -> str:
+        resp = self._client.chat.complete(
+            model="mistral-small-latest",
+            messages=[{"role": "user", "content": prompt}],
+        )
+        return resp.choices[0].message.content
+
+
+class GeminiProvider:
+    def __init__(self, key: str, index: int):
+        self._client = genai.Client(api_key=key)
+        self.label = f"Gemini #{index}"
+
+    def generate(self, prompt: str) -> str:
+        resp = self._client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
+        return resp.text
+
 
 # ─── CHEMINS ──────────────────────────────────────────────────────────────────
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -138,39 +163,45 @@ def validate_questions(questions: list) -> list:
     return valid
 
 
-def generate_questions_for(clients, theme: str, difficulty: str) -> list:
+def generate_questions_for(providers: list, theme: str, difficulty: str) -> list:
     _, theme_desc = THEMES[theme]
     prompt = PROMPT_TEMPLATE.format(
         n=QUESTIONS_PER_COMBO,
         theme_desc=theme_desc,
         difficulty_desc=DIFFICULTIES[difficulty],
     )
-    client_index = 0
-    for attempt in range(1, MAX_RETRIES * len(clients) + 1):
-        client = clients[client_index]
+    provider_index = 0
+    retry_count = 0
+    attempt = 0
+    while provider_index < len(providers):
+        attempt += 1
+        provider = providers[provider_index]
         try:
-            print(f"    Tentative {attempt} (clé {client_index + 1}/{len(clients)})...", end=" ", flush=True)
-            response = client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
-            questions = validate_questions(extract_json(response.text))
+            print(f"    Tentative {attempt} ({provider.label})...", end=" ", flush=True)
+            text = provider.generate(prompt)
+            questions = validate_questions(extract_json(text))
             if len(questions) < 10:
                 raise ValueError(f"Seulement {len(questions)} questions valides")
             print(f"✓ {len(questions)} questions")
             return questions
         except Exception as e:
             err_str = str(e)
-            if ("429" in err_str and "GenerateRequestsPerDayPerProjectPerModel" in err_str) or "403" in err_str:
-                reason = "quota épuisé" if "429" in err_str else "clé invalide/révoquée"
-                print(f"✗ {reason} (clé {client_index + 1}), rotation...")
-                client_index = (client_index + 1) % len(clients)
-                if client_index == 0:
-                    break
+            if "429" in err_str or "403" in err_str or "401" in err_str:
+                reason = "quota/limite" if "429" in err_str else "clé invalide"
+                print(f"✗ {reason} ({provider.label}), rotation...")
+                provider_index += 1
+                retry_count = 0
                 time.sleep(2)
             else:
                 print(f"✗ {e}")
-                if attempt < MAX_RETRIES * len(clients):
-                    wait = DELAY_BETWEEN_CALLS * min(attempt, 3)
+                retry_count += 1
+                if retry_count < MAX_RETRIES:
+                    wait = DELAY_BETWEEN_CALLS * min(retry_count, 3)
                     print(f"    Attente {wait}s...")
                     time.sleep(wait)
+                else:
+                    provider_index += 1
+                    retry_count = 0
     raise RuntimeError(f"Échec pour {theme}/{difficulty}")
 
 
@@ -353,14 +384,19 @@ def main():
     print(f"  Sortie : {os.path.abspath(OUTPUT_DIR)}")
     print(f"{'='*60}\n")
 
-    # Clients Gemini (inutilisés si --images-only)
+    # Providers LLM : Mistral en premier, Gemini en fallback (inutilisés si --images-only)
     if not args.images_only:
+        providers = []
+        mistral_key = api_keys.get("MISTRAL_API_KEY", "")
+        if mistral_key:
+            providers.append(MistralProvider(mistral_key))
         gemini_keys = [v for k, v in sorted(api_keys.items()) if k.startswith("GEMINI_API_KEY_")]
-        if not gemini_keys:
-            print("⚠  Aucune clé GEMINI_API_KEY_x trouvée dans local.properties")
-        clients = [genai.Client(api_key=k) for k in gemini_keys]
+        for i, key in enumerate(gemini_keys, 1):
+            providers.append(GeminiProvider(key, i))
+        if not providers:
+            print("⚠  Aucun fournisseur LLM configuré dans local.properties")
     else:
-        clients = []
+        providers = []
 
     errors = []
 
@@ -388,8 +424,8 @@ def main():
                     if os.path.exists(filepath) and not args.force:
                         print(f"    Questions : déjà présentes (--force pour régénérer)")
                     else:
-                        print(f"    Questions : génération via Gemini...")
-                        questions_data = generate_questions_for(clients, theme, difficulty)
+                        print(f"    Questions : génération LLM...")
+                        questions_data = generate_questions_for(providers, theme, difficulty)
                         # Écriture temporaire sans images
                         with open(filepath, "w", encoding="utf-8") as f:
                             json.dump(questions_data, f, ensure_ascii=False, indent=2)
