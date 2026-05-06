@@ -1,10 +1,9 @@
 package com.kapoue.agora.domain.model
 
 enum class Difficulty(
-    val displayName: String,
-    val otdValue: String
+    val displayName: String
 ) {
-    DEBUTANT(displayName = "Débutant", otdValue = "easy"),
-    MOYEN(displayName = "Moyen", otdValue = "medium"),
-    EXPERT(displayName = "Expert", otdValue = "hard")
+    DEBUTANT(displayName = "Débutant"),
+    MOYEN(displayName = "Moyen"),
+    EXPERT(displayName = "Expert")
 }

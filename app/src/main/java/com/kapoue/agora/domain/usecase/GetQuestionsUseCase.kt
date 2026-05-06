@@ -13,8 +13,4 @@ class GetQuestionsUseCase @Inject constructor(
     operator fun invoke(theme: Theme, difficulty: Difficulty): Flow<List<Question>> {
         return questionRepository.getQuestions(theme, difficulty)
     }
-
-    suspend fun loadFromNetwork(theme: Theme, difficulty: Difficulty) {
-        questionRepository.fetchAndCacheQuestions(theme, difficulty)
-    }
 }

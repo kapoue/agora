@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel théorème affirme que tout ensemble peut être bien ordonné si l'on accepte l'Axiome du Choix ?",
-    "correct_answer": "Théorème de Zermelo",
-    "incorrect_answers": [
-      "Théorème de Goodstein",
-      "Théorème de Hartogs",
-      "Théorème de Skolem"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734565-fc8ff6e9ffcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème énonce que tout produit (même infini) d'espaces compacts est compact ?",
-    "correct_answer": "Théorème de Tychonoff",
-    "incorrect_answers": [
-      "Théorème de Stone-Weierstrass",
-      "Théorème de Heine-Borel",
-      "Théorème d'Ascoli-Arzelà"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1699679887117-253155701980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a prouvé le dernier théorème de Fermat en utilisant les courbes elliptiques et les formes modulaires ?",
+    "question": "Quel mathématicien a démontré le dernier théorème de Fermat en 1994 ?",
     "correct_answer": "Andrew Wiles",
     "incorrect_answers": [
-      "Ken Ribet",
-      "Richard Taylor",
-      "Yutaka Taniyama"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1599662195404-c76cda0436ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème de Picard indique qu'une fonction entière non constante prend toutes les valeurs complexes, sauf au plus une ?",
-    "correct_answer": "Grand théorème de Picard",
-    "incorrect_answers": [
-      "Petit théorème de Picard",
-      "Théorème de Rouché",
-      "Théorème des résidus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733897-80154016629f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'énoncé du troisième théorème de Sylow pour un groupe fini G d'ordre p^k m (p premier) ?",
-    "correct_answer": "n_p ≡ 1 (mod p)",
-    "incorrect_answers": [
-      "n_p = p^k",
-      "n_p divise k",
-      "n_p est un p-groupe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1738811744493-a060532f3971?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle notion en géométrie riemannienne généralise la courbure gaussienne aux dimensions supérieures ?",
-    "correct_answer": "Tenseur de courbure de Riemann",
-    "incorrect_answers": [
-      "Connexion de Levi-Civita",
-      "Tenseur métrique",
-      "Courbure sectionnelle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1674293924679-19e1ab501e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel système axiomatique Gödel a-t-il démontré l'existence de propositions indécidables ?",
-    "correct_answer": "Système formel récursif consistant incluant l'arithmétique de Peano.",
-    "incorrect_answers": [
-      "Arithmétique de Presburger",
-      "Géométrie euclidienne",
-      "Théorie des ensembles ZF"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734614-63fe30c18b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème assure que l'intégrale de Lebesgue d'une suite de fonctions mesurables converge si les fonctions sont dominées par une fonction intégrable ?",
-    "correct_answer": "Théorème de convergence dominée",
-    "incorrect_answers": [
-      "Théorème de convergence monotone",
-      "Lemme de Fatou",
-      "Théorème de Fubini"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848303-9fc8c37a7924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème indique qu'une application linéaire continue d'un espace de Banach sur un autre est un isomorphisme topologique si elle est bijective ?",
-    "correct_answer": "Théorème de l'application ouverte",
-    "incorrect_answers": [
-      "Théorème du graphe fermé",
-      "Théorème de Hahn-Banach",
-      "Principe de l'uniforme borne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734408-19dd0cc86d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel type de matrices complexes est unitairement diagonalisable ?",
-    "correct_answer": "Matrices normales",
-    "incorrect_answers": [
-      "Matrices hermitiennes",
-      "Matrices symétriques",
-      "Matrices unitaires"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734556-a34e35ad8c71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle condition est cruciale pour l'application du Théorème Central Limite aux sommes de variables aléatoires indépendantes et identiquement distribuées ?",
-    "correct_answer": "Variance finie",
-    "incorrect_answers": [
-      "Distribution normale",
-      "Espérance nulle",
-      "Indépendance mutuelle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733835-c90530b20bdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Pour quel type d'ensemble le théorème de point fixe de Brouwer est-il le plus souvent énoncé ?",
-    "correct_answer": "Boule unité fermée de R^n",
-    "incorrect_answers": [
-      "Cercle ouvert",
-      "Sphère",
-      "Tout ensemble compact"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848261-16a5a9e68811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'énoncé asymptotique principal du Théorème des Nombres Premiers ?",
-    "correct_answer": "π(x) ∼ x / ln(x)",
-    "incorrect_answers": [
-      "π(x) ∼ x",
-      "π(x) ∼ ln(x)",
-      "π(x) ∼ x ln(x)"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1581089778245-3ce67677f718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème fondamental relie les idéaux des anneaux de polynômes aux ensembles algébriques ?",
-    "correct_answer": "Nullstellensatz de Hilbert",
-    "incorrect_answers": [
-      "Théorème des bases de Hilbert",
-      "Théorème des syzygies",
-      "Théorème des zéros"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765410850935-d875a630d3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "À quoi servent les équations d'Euler-Lagrange ?",
-    "correct_answer": "Trouver les extrema de fonctionnelles",
-    "incorrect_answers": [
-      "Résoudre les équations différentielles linéaires",
-      "Calculer les intégrales de surface",
-      "Optimiser les fonctions à plusieurs variables"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733726-4c9a728afeb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème garantit l'existence et l'unicité locale des solutions d'équations différentielles ordinaires sous des conditions de Lipschitz ?",
-    "correct_answer": "Théorème de Picard-Lindelöf",
-    "incorrect_answers": [
-      "Théorème de Peano",
-      "Théorème de Cauchy-Kowalevski",
-      "Théorème de Frobenius"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733760-71c797cf0b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel concept est au cœur de la preuve de l'impossibilité de résoudre par radicaux l'équation générale de degré 5 ?",
-    "correct_answer": "Non-résolubilité du groupe symétrique S5",
-    "incorrect_answers": [
-      "Absence de racines rationnelles",
-      "Discriminant négatif",
-      "Théorème de Rouché"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733780-4eced3a89d98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le groupe fondamental du cercle S^1 ?",
-    "correct_answer": "ℤ",
-    "incorrect_answers": [
-      "{0} (trivial)",
-      "ℚ",
-      "ℤ_n"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845872-4edbf0e76014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème permet d'exprimer une mesure absolument continue par rapport à une autre comme l'intégrale de sa dérivée ?",
-    "correct_answer": "Théorème de Radon-Nikodym",
-    "incorrect_answers": [
-      "Théorème de Riesz",
-      "Théorème de Carathéodée",
-      "Théorème de Stone"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848521-ff7e4d136384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle méthode est couramment utilisée pour échantillonner à partir de distributions a posteriori complexes en inférence bayésienne ?",
-    "correct_answer": "Monte Carlo par chaînes de Markov (MCMC)",
-    "incorrect_answers": [
-      "Maximum de vraisemblance",
-      "Moindres carrés",
-      "Bootstrap"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733814-35d40ac8c4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a démontré l'impossibilité de la trisection de l'angle et de la duplication du cube à la règle et au compas ?",
-    "correct_answer": "Pierre Wantzel",
-    "incorrect_answers": [
-      "Hippocrate de Chios",
-      "Archimède",
-      "René Descartes"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1708011271935-3e109df56fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel type de dimension peut être non entière pour décrire la complexité de certains ensembles fractals ?",
-    "correct_answer": "Dimension de Hausdorff",
-    "incorrect_answers": [
-      "Dimension topologique",
-      "Dimension euclidienne",
-      "Dimension de Lebesgue"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848663-784d2f7051d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qu'est-ce qu'un foncteur dans la théorie des catégories ?",
-    "correct_answer": "Une application entre catégories qui préserve la structure",
-    "incorrect_answers": [
-      "Un morphisme entre deux objets",
-      "Un type spécial d'objet",
-      "Une construction algébrique interne"
+      "Grigori Perelman",
+      "Terence Tao",
+      "John Nash"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1616529927764-173a543493ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la forme générale d'une équation de Pell ?",
-    "correct_answer": "x² - D y² = 1",
+    "question": "Quel est le nom du théorème qui stipule que tout polynôme non constant à coefficients complexes admet au moins une racine complexe ?",
+    "correct_answer": "Théorème de d'Alembert-Gauss",
     "incorrect_answers": [
-      "ax + by = c",
-      "x^n + y^n = z^n",
-      "y² = x³ + ax + b"
+      "Théorème de Rolle",
+      "Théorème des valeurs intermédiaires",
+      "Théorème de Cauchy"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1608792992053-f397e328a56d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734556-a34e35ad8c71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Un espace topologique est localement compact si tout point admet une base de voisinages compacts. Quel espace n'est PAS localement compact ?",
-    "correct_answer": "Espace des nombres rationnels ℚ",
+    "question": "Quel mathématicien a introduit la notion de 'fonction génératrice' au XVIIIe siècle ?",
+    "correct_answer": "Pierre-Simon Laplace",
     "incorrect_answers": [
-      "Espace des nombres réels ℝ",
-      "Tout espace discret",
-      "Un espace compact"
+      "Leonhard Euler",
+      "Carl Friedrich Gauss",
+      "Joseph Fourier"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1694757283921-aefccec06443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734614-63fe30c18b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel cadre mathématique le \"delta de Dirac\" est-il rigoureusement défini ?",
-    "correct_answer": "Théorie des distributions",
+    "question": "Quel est le nom du théorème qui énonce que la somme des angles d'un triangle sphérique dépasse 180° ?",
+    "correct_answer": "Théorème de Girard",
     "incorrect_answers": [
-      "Analyse de Fourier classique",
-      "Calcul différentiel",
-      "Théorie des fonctions généralisées"
+      "Théorème de Gauss-Bonnet",
+      "Théorème de Menelaus",
+      "Théorème de Ceva"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733780-4eced3a89d98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé l'hypothèse de Riemann en 1859 ?",
+    "correct_answer": "Bernhard Riemann",
+    "incorrect_answers": [
+      "David Hilbert",
+      "Henri Poincaré",
+      "Emil Artin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734565-fc8ff6e9ffcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui généralise le théorème de Pythagore aux espaces euclidiens de dimension supérieure ?",
+    "correct_answer": "Théorème de Pythagore généralisé",
+    "incorrect_answers": [
+      "Théorème de Thalès",
+      "Théorème de Lagrange",
+      "Théorème de Stokes"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1581089778245-3ce67677f718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit les nombres complexes sous leur forme moderne (a + bi) ?",
+    "correct_answer": "Rafael Bombelli",
+    "incorrect_answers": [
+      "John Napier",
+      "René Descartes",
+      "Carl Friedrich Gauss"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765410850935-d875a630d3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que tout corps fini est commutatif ?",
+    "correct_answer": "Théorème de Wedderburn",
+    "incorrect_answers": [
+      "Théorème de Galois",
+      "Théorème de Fermat",
+      "Théorème de Noether"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1708011271935-3e109df56fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a développé la théorie des distributions au XXe siècle ?",
+    "correct_answer": "Laurent Schwartz",
+    "incorrect_answers": [
+      "André Weil",
+      "Alexander Grothendieck",
+      "Jean Leray"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1758685733761-da7220a410ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle propriété définit une martingale (X_n)_n≥0 par rapport à une filtration (ℰ_n)_n≥0 ?",
-    "correct_answer": "E[X_{n+1} | ℰ_n] = X_n",
+    "question": "Quel est le nom du théorème qui énonce que toute courbe algébrique projective lisse de genre g ≥ 2 sur un corps fini a un nombre fini de points rationnels ?",
+    "correct_answer": "Théorème de Mordell-Weil",
     "incorrect_answers": [
-      "X_n est indépendant de ℰ_n",
-      "E[X_n] est constant",
-      "X_n a des accroissements stationnaires"
+      "Théorème de Hodge",
+      "Théorème de Riemann-Roch",
+      "Théorème de Lefschetz"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685848303-9fc8c37a7924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'un des sept problèmes du millénaire, toujours non résolu, concernant les équations de Navier-Stokes ?",
-    "correct_answer": "Existence et régularité des solutions",
+    "question": "Quel mathématicien a introduit la notion de 'variété algébrique' au XIXe siècle ?",
+    "correct_answer": "Rudolf Clebsch",
     "incorrect_answers": [
-      "Existence d'une solution unique",
-      "Propriétés asymptotiques des solutions",
-      "Conditions aux limites pour les solutions"
+      "Évariste Galois",
+      "Niels Abel",
+      "Sophus Lie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1659506688743-4f7bd64f6a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685733814-35d40ac8c4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En géométrie hyperbolique, combien de parallèles distinctes peut-on tracer à une droite donnée passant par un point extérieur ?",
-    "correct_answer": "Une infinité",
+    "question": "Quel est le nom du théorème qui stipule que toute fonction holomorphe non constante est ouverte ?",
+    "correct_answer": "Théorème de l'application ouverte",
     "incorrect_answers": [
-      "Aucune",
-      "Une seule",
-      "Deux"
+      "Théorème de Cauchy-Riemann",
+      "Théorème de Liouville",
+      "Théorème de Picard"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848521-ff7e4d136384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a démontré le théorème des nombres premiers en 1896 ?",
+    "correct_answer": "Jacques Hadamard",
+    "incorrect_answers": [
+      "Srinivasa Ramanujan",
+      "Paul Erdős",
+      "G.H. Hardy"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733760-71c797cf0b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que tout espace métrique compact est complet et totalement borné ?",
+    "correct_answer": "Théorème de Borel-Lebesgue",
+    "incorrect_answers": [
+      "Théorème de Banach-Alaoglu",
+      "Théorème de Heine-Borel",
+      "Théorème de Baire"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1758685734463-98672a67dd1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans la théorie des nombres algébriques, qu'est-ce que le nombre de classes d'un corps de nombres ?",
-    "correct_answer": "Le cardinal du groupe des classes d'idéaux",
+    "question": "Quel mathématicien a introduit la notion de 'topologie faible' en analyse fonctionnelle ?",
+    "correct_answer": "Stefan Banach",
     "incorrect_answers": [
-      "Le degré de l'extension du corps",
-      "Le nombre d'unités",
-      "Le nombre de diviseurs premiers"
+      "John von Neumann",
+      "David Hilbert",
+      "Norbert Wiener"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733897-80154016629f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction convexe continue sur un intervalle fermé est intégrable ?",
+    "correct_answer": "Théorème de Lebesgue",
+    "incorrect_answers": [
+      "Théorème de Fubini",
+      "Théorème de Tonelli",
+      "Théorème de Riesz"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1699679887117-253155701980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé l'hypothèse du continu en 1878 ?",
+    "correct_answer": "Georg Cantor",
+    "incorrect_answers": [
+      "Kurt Gödel",
+      "Paul Cohen",
+      "Bertrand Russell"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1659506688743-4f7bd64f6a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction réelle continue sur un segment est intégrable au sens de Riemann ?",
+    "correct_answer": "Théorème de Darboux",
+    "incorrect_answers": [
+      "Théorème de Rolle",
+      "Théorème des accroissements finis",
+      "Théorème de Lagrange"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'groupe de Lie' au XIXe siècle ?",
+    "correct_answer": "Sophus Lie",
+    "incorrect_answers": [
+      "Élie Cartan",
+      "Henri Poincaré",
+      "Felix Klein"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733835-c90530b20bdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction holomorphe bornée sur le disque unité est constante ?",
+    "correct_answer": "Théorème de Liouville",
+    "incorrect_answers": [
+      "Théorème de Montel",
+      "Théorème de Vitali",
+      "Théorème de Schwarz-Pick"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848663-784d2f7051d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a démontré le théorème de la base de Hilbert en 1888 ?",
+    "correct_answer": "David Hilbert",
+    "incorrect_answers": [
+      "Emmy Noether",
+      "Felix Klein",
+      "Hermann Weyl"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1674293924679-19e1ab501e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction réelle deux fois dérivable dont la dérivée seconde est positive est convexe ?",
+    "correct_answer": "Théorème de convexité",
+    "incorrect_answers": [
+      "Théorème de Rolle",
+      "Théorème des valeurs intermédiaires",
+      "Théorème de Cauchy"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685845872-4edbf0e76014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'catégorie' en mathématiques au XXe siècle ?",
+    "correct_answer": "Samuel Eilenberg",
+    "incorrect_answers": [
+      "Alexander Grothendieck",
+      "Saunders Mac Lane",
+      "Nicolas Bourbaki"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1694757283921-aefccec06443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction réelle continue sur un compact est uniformément continue ?",
+    "correct_answer": "Théorème de Heine",
+    "incorrect_answers": [
+      "Théorème de Baire",
+      "Théorème de Banach-Steinhaus",
+      "Théorème de Stone-Weierstrass"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1608792992053-f397e328a56d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de la limite centrale en 1901 ?",
+    "correct_answer": "Jarl Waldemar Lindeberg",
+    "incorrect_answers": [
+      "Andrei Kolmogorov",
+      "Paul Lévy",
+      "Abraham de Moivre"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734408-19dd0cc86d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction réelle dérivable dont la dérivée s'annule est constante ?",
+    "correct_answer": "Théorème de Rolle",
+    "incorrect_answers": [
+      "Théorème des accroissements finis",
+      "Théorème de Lagrange",
+      "Théorème de Cauchy"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1738811744493-a060532f3971?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'surface de Riemann' au XIXe siècle ?",
+    "correct_answer": "Bernhard Riemann",
+    "incorrect_answers": [
+      "Felix Klein",
+      "Évariste Galois",
+      "Carl Friedrich Gauss"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1533709475520-a0745bba78bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction réelle continue sur un intervalle admet une primitive ?",
+    "correct_answer": "Théorème fondamental de l'analyse",
+    "incorrect_answers": [
+      "Théorème de Fubini",
+      "Théorème de Tonelli",
+      "Théorème de Lebesgue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848261-16a5a9e68811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a démontré le théorème de la récurrence de Poincaré en 1890 ?",
+    "correct_answer": "Henri Poincaré",
+    "incorrect_answers": [
+      "Jacques Hadamard",
+      "Émile Borel",
+      "Paul Painlevé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733726-4c9a728afeb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction réelle continue sur un compact est bornée et atteint ses bornes ?",
+    "correct_answer": "Théorème des bornes atteintes",
+    "incorrect_answers": [
+      "Théorème de Heine",
+      "Théorème de Baire",
+      "Théorème de Banach-Alaoglu"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1599662195404-c76cda0436ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

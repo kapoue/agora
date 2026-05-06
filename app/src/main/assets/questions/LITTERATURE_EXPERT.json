@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel personnage de 'À la recherche du temps perdu' est l'oncle de Robert de Saint-Loup, dandy homosexuel, dont la personnalité est inspirée par Robert de Montesquiou et le comte Greffulhe ?",
-    "correct_answer": "Le baron de Charlus",
+    "question": "Quel écrivain français a remporté le prix Nobel de littérature en 1921 pour son œuvre poétique, notamment pour son recueil 'Les Fleurs du Mal' ?",
+    "correct_answer": "Sully Prudhomme",
     "incorrect_answers": [
-      "Albertine Simonet",
-      "Odette de Crécy",
-      "Charles Swann"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763368230816-02f742726583?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans 'Ulysse' de James Joyce, quelle est la profession du personnage Leopold Bloom lors de la journée du 16 juin 1904 ?",
-    "correct_answer": "Agent de publicité",
-    "incorrect_answers": [
-      "Journaliste",
-      "Médecin",
-      "Professeur d'histoire"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1554900773-632f4c042da8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la particularité du métier de Josef K. au début du roman 'Le Procès' de Kafka, avant son arrestation ?",
-    "correct_answer": "Prokurist de banque",
-    "incorrect_answers": [
-      "Avocat",
-      "Ingénieur",
-      "Employé de bureau"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1605647601778-865aeff15565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le prénom du juge d'instruction qui interroge Meursault après son meurtre dans 'L'Étranger' d'Albert Camus ?",
-    "correct_answer": "Il n'est jamais nommé",
-    "incorrect_answers": [
-      "Raymond",
-      "Salamano",
-      "Céleste"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764509828407-5ecd34398e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la thématique principale du recueil de nouvelles 'Fictions' de Jorge Luis Borges, explorant l'infinitude et les labyrinthes ?",
-    "correct_answer": "Métaphysique et fantastique érudit",
-    "incorrect_answers": [
-      "Réalisme magique",
-      "Roman policier",
-      "Science-fiction dystopique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773606382007-afddea672b0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Selon Jean-Paul Sartre, quelle est la posture existentielle qui consiste à fuir sa liberté et sa responsabilité, en se cachant derrière des déterminismes ou des rôles sociaux ?",
-    "correct_answer": "La mauvaise foi",
-    "incorrect_answers": [
-      "L'engagement",
-      "L'en-soi",
-      "La contingence"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1770131749085-88272547f822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel recueil posthume d'Arthur Rimbaud, publié pour la première fois en 1886 par Paul Verlaine, est constitué principalement de poèmes en prose ?",
-    "correct_answer": "Les Illuminations",
-    "incorrect_answers": [
-      "Une saison en enfer",
-      "Poésies complètes",
-      "Le Bateau ivre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1724500307168-16a378a149ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de William Faulkner utilise la technique narrative du 'stream of consciousness' et présente l'histoire de la famille Compson à travers les perspectives de plusieurs personnages, dont Benjy, un déficient mental ?",
-    "correct_answer": "Le Bruit et la Fureur",
-    "incorrect_answers": [
-      "Absalon, Absalon !",
-      "Sanctuaire",
-      "Tandis que j'agonise"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384865-82dba88ac831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans 'L'Amant' de Marguerite Duras, quel détail précis différencie la jeune fille française du jeune homme chinois en termes de classe sociale et d'origine ?",
-    "correct_answer": "Sa pauvreté et son extraction modeste",
-    "incorrect_answers": [
-      "Son âge avancé et sa richesse",
-      "Son éducation supérieure",
-      "Sa nationalité vietnamienne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763562597716-68adb3f7f896?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année André Gide a-t-il reçu le Prix Nobel de Littérature, récompensant 'une œuvre riche et importante, qui avec une intrépidité psychologique et une perspicacité artistique a représenté les problèmes et les conditions humaines sous une forme d'intérêt grandissant' ?",
-    "correct_answer": "1947",
-    "incorrect_answers": [
-      "1937",
-      "1957",
-      "1927"
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1758279745202-79570ca2896e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le principe narratif singulier de 'Si par une nuit d'hiver un voyageur' d'Italo Calvino ?",
-    "correct_answer": "L'histoire de dix romans inachevés",
+    "question": "Dans quel roman de Marcel Proust le personnage de Swann apparaît-il comme un personnage central ?",
+    "correct_answer": "Du côté de chez Swann",
     "incorrect_answers": [
-      "Une biographie fragmentée d'un auteur",
-      "Un roman sans personnages",
-      "Une fable philosophique déconstruite"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1724501405264-945712f7f05a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel philosophe est cité et commenté longuement par Milan Kundera dans 'L'Insoutenable Légèreté de l'être', notamment sur la notion d'éternel retour ?",
-    "correct_answer": "Friedrich Nietzsche",
-    "incorrect_answers": [
-      "Martin Heidegger",
-      "Arthur Schopenhauer",
-      "Søren Kierkegaard"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1712527320820-bec5fd19d69b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans 'En attendant Godot' de Samuel Beckett, quelle est la particularité des personnages principaux Vladimir et Estragon, au-delà de leur attente ?",
-    "correct_answer": "Ils sont des clowns tragiques et philosophes",
-    "incorrect_answers": [
-      "Ils sont des espions politiques",
-      "Ils sont des hommes d'affaires ruinés",
-      "Ils sont des scientifiques déchus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1681264894057-d98d6feb6897?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de la 'Comédie humaine' de Balzac met en scène le personnage de Lucien de Rubempré et décrit son ascension sociale et sa chute dans le monde littéraire parisien ?",
-    "correct_answer": "Illusions perdues",
-    "incorrect_answers": [
-      "Le Père Goriot",
-      "La Cousine Bette",
-      "Splendeurs et misères des courtisanes"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553448540-fe069f7c95bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le titre complet et exact de l'autobiographie monumentale de François-René de Chateaubriand ?",
-    "correct_answer": "Mémoires d'outre-tombe",
-    "incorrect_answers": [
-      "Mémoires de ma vie",
-      "Souvenirs d'outre-monde",
-      "Autobiographie d'un romantique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553448539-f6063db586a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel était le véritable nom de plume utilisé par Sidonie-Gabrielle Colette pour ses premiers romans de la série 'Claudine', sous la tutelle de son premier mari ?",
-    "correct_answer": "Willy",
-    "incorrect_answers": [
-      "Sido",
-      "Claudine",
-      "Gabrielle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384873-f3cfff78beef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle nouvelle d'Edgar Allan Poe, souvent considérée comme l'acte de naissance du roman policier moderne, met en scène le détective C. Auguste Dupin ?",
-    "correct_answer": "Double assassinat dans la rue Morgue",
-    "incorrect_answers": [
-      "Le Masque de la Mort rouge",
-      "Le Scarabée d'or",
-      "La Chute de la maison Usher"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763136195121-cce9a6753213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans 'Marelle' de Julio Cortázar, quelle est la particularité structurelle qui offre plusieurs ordres de lecture au lecteur ?",
-    "correct_answer": "Deux chemins de lecture possibles",
-    "incorrect_answers": [
-      "Un prologue en neuf langues",
-      "Une absence de ponctuation",
-      "Des chapitres interchangeables à volonté"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952385357-6ff662eb61e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Pour quel roman André Malraux a-t-il reçu le Prix Goncourt en 1933, roman dont l'action se déroule lors d'une insurrection communiste à Shanghai ?",
-    "correct_answer": "La Condition humaine",
-    "incorrect_answers": [
-      "L'Espoir",
-      "Les Conquérants",
-      "La Tentation de l'Occident"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384801-079962407b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le sous-titre complet des 'Confessions' de Jean-Jacques Rousseau, spécifiant son intention de montrer un homme tel qu'il fut ?",
-    "correct_answer": "Le seul portrait d'homme qui existe",
-    "incorrect_answers": [
-      "Une vie à nu",
-      "Mes vérités",
-      "L'âme mise à jour"
+      "À la recherche du temps perdu",
+      "Le Temps retrouvé",
+      "Sodome et Gomorrhe"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1771313121019-4d0ce055b9a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la déesse qui est l'ennemie jurée d'Énée et des Troyens dans l''Énéide' de Virgile, cherchant constamment à entraver leur destin ?",
-    "correct_answer": "Junon",
+    "question": "Quel poète français du XIXe siècle est célèbre pour son recueil 'Les Châtiments', écrit en exil après le coup d'État de Louis-Napoléon Bonaparte ?",
+    "correct_answer": "Victor Hugo",
     "incorrect_answers": [
-      "Minerve",
-      "Vénus",
-      "Diane"
+      "Alfred de Musset",
+      "Gérard de Nerval",
+      "Charles Baudelaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1699523525646-ae96e089474f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1553448540-fe069f7c95bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quelle tragédie de Jean Racine le personnage de Néron est-il épris de Junie et jaloux de Britannicus, menant à un drame sanglant ?",
-    "correct_answer": "Britannicus",
+    "question": "Quel roman de Marguerite Yourcenar raconte l'histoire de l'empereur romain Hadrien à travers ses mémoires fictifs ?",
+    "correct_answer": "Mémoires d'Hadrien",
     "incorrect_answers": [
-      "Phèdre",
-      "Andromaque",
-      "Bérénice"
+      "L'Œuvre au Noir",
+      "Anna, soror...",
+      "Alexis ou le Traité du vain combat"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761207299794-2836fc5bbf69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1696952384865-82dba88ac831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le métier exact du mari d'Emma Bovary, Charles, dans le roman de Flaubert, avant qu'il ne s'installe à Yonville-l'Abbaye ?",
-    "correct_answer": "Officier de santé",
+    "question": "Quel écrivain russe a écrit 'Les Frères Karamazov', considéré comme l'un des chefs-d'œuvre de la littérature mondiale ?",
+    "correct_answer": "Fiodor Dostoïevski",
     "incorrect_answers": [
-      "Médecin",
-      "Notaire",
-      "Pharmacien"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553447977-6aee6ba02167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel recueil de Guillaume Apollinaire est célèbre pour ses poèmes visuels, où la disposition des mots sur la page forme un dessin lié au sujet du poème ?",
-    "correct_answer": "Calligrammes",
-    "incorrect_answers": [
-      "Alcools",
-      "Le Bestiaire",
-      "Ombre de mon amour"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762424361973-617839b3dc4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le sous-titre original du recueil de poèmes en prose 'Le Spleen de Paris' de Charles Baudelaire ?",
-    "correct_answer": "Petits Poèmes en prose",
-    "incorrect_answers": [
-      "Fleurs du Mal en prose",
-      "Tableaux parisiens",
-      "Proses maudites"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769093031054-a8d8846de39c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le narrateur et personnage principal du roman 'Voyage au bout de la nuit' de Louis-Ferdinand Céline ?",
-    "correct_answer": "Ferdinand Bardamu",
-    "incorrect_answers": [
-      "Léon Robinson",
-      "Corto Maltese",
-      "Anatole Latuile"
+      "Léon Tolstoï",
+      "Nikolaï Gogol",
+      "Anton Tchekhov"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1725582204998-7cb85d292e5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans la série des Rougon-Macquart d'Émile Zola, quel personnage féminin est le lien central et la mère de la branche 'maudite' des Macquart ?",
-    "correct_answer": "Adélaïde Fouque",
+    "question": "Quel poète français du XXe siècle a fondé le mouvement surréaliste avec son manifeste de 1924 ?",
+    "correct_answer": "André Breton",
     "incorrect_answers": [
-      "Gervaise Macquart",
-      "Nana",
-      "Denise Baudu"
+      "Paul Éluard",
+      "Louis Aragon",
+      "Guillaume Apollinaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1770131749085-88272547f822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Boris Vian, publié sous le pseudonyme de Vernon Sullivan, a été censuré en France pour son contenu provocateur ?",
+    "correct_answer": "J'irai cracher sur vos tombes",
+    "incorrect_answers": [
+      "L'Écume des jours",
+      "L'Automne à Pékin",
+      "Le Goûter des généraux"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763368230816-02f742726583?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain français a reçu le prix Goncourt en 1954 pour son roman 'Les Mandarins' ?",
+    "correct_answer": "Simone de Beauvoir",
+    "incorrect_answers": [
+      "Marguerite Duras",
+      "Françoise Sagan",
+      "Nathalie Sarraute"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1696952384873-f3cfff78beef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète français du XIXe siècle est l'auteur du recueil 'Les Contemplations', dédié à sa fille Léopoldine ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": [
+      "Alfred de Musset",
+      "Gérard de Nerval",
+      "Charles Baudelaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1605647601778-865aeff15565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Gabriel García Márquez raconte l'histoire de la famille Buendía sur plusieurs générations dans le village fictif de Macondo ?",
+    "correct_answer": "Cent ans de solitude",
+    "incorrect_answers": [
+      "L'Amour aux temps du choléra",
+      "Chronique d'une mort annoncée",
+      "Le Général dans son labyrinthe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763136195121-cce9a6753213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain français a écrit 'La Peste', roman allégorique publié en 1947 qui lui a valu le prix Nobel de littérature en 1957 ?",
+    "correct_answer": "Albert Camus",
+    "incorrect_answers": [
+      "Jean-Paul Sartre",
+      "André Gide",
+      "François Mauriac"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1696952384801-079962407b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète français du XXe siècle a écrit 'Capitale de la douleur', recueil emblématique du surréalisme ?",
+    "correct_answer": "Paul Éluard",
+    "incorrect_answers": [
+      "Louis Aragon",
+      "Robert Desnos",
+      "Benjamin Péret"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1696952385357-6ff662eb61e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Joris-Karl Huysmans, publié en 1884, est considéré comme un manifeste du mouvement décadent ?",
+    "correct_answer": "À rebours",
+    "incorrect_answers": [
+      "Les Diaboliques",
+      "Marthe",
+      "En ménage"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1699523525646-ae96e089474f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain américain a remporté le prix Pulitzer en 1961 pour son roman 'De sang-froid' ?",
+    "correct_answer": "Truman Capote",
+    "incorrect_answers": [
+      "Harper Lee",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761207299794-2836fc5bbf69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète français du XIXe siècle est l'auteur des 'Fleurs du Mal', recueil qui a marqué la poésie moderne ?",
+    "correct_answer": "Charles Baudelaire",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1758655254497-29163169a17f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel poète portugais est célèbre pour avoir créé de nombreux hétéronymes, chacun doté d'une biographie et d'un style littéraire distincts ?",
-    "correct_answer": "Fernando Pessoa",
+    "question": "Quel roman de Marguerite Yourcenar, publié en 1968, explore la vie d'un médecin du XVIe siècle à travers une série de portraits ?",
+    "correct_answer": "L'Œuvre au Noir",
     "incorrect_answers": [
-      "José Saramago",
-      "Luís Vaz de Camões",
-      "Eça de Queirós"
+      "Mémoires d'Hadrien",
+      "Anna, soror...",
+      "Alexis ou le Traité du vain combat"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1712527320820-bec5fd19d69b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain français a écrit 'Les Misérables', roman monumental publié en 1862 qui dépeint la société française du XIXe siècle ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": [
+      "Honoré de Balzac",
+      "Gustave Flaubert",
+      "Émile Zola"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764509828407-5ecd34398e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète français du XXe siècle a écrit 'Paroles', recueil de poèmes en prose devenu un classique de la littérature française ?",
+    "correct_answer": "Jacques Prévert",
+    "incorrect_answers": [
+      "Louis Aragon",
+      "Paul Éluard",
+      "Robert Desnos"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1769093031054-a8d8846de39c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Franz Kafka raconte l'histoire de Josef K., un homme arrêté sans savoir pourquoi, symbole de l'absurdité bureaucratique ?",
+    "correct_answer": "Le Procès",
+    "incorrect_answers": [
+      "La Métamorphose",
+      "Le Château",
+      "L'Amérique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1681264894057-d98d6feb6897?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain français a reçu le prix Nobel de littérature en 1985 pour son œuvre romanesque et ses essais, notamment 'La Place' ?",
+    "correct_answer": "Annie Ernaux",
+    "incorrect_answers": [
+      "Marguerite Duras",
+      "Françoise Sagan",
+      "Nathalie Sarraute"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1553448539-f6063db586a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète français du XIXe siècle est l'auteur des 'Poèmes saturniens', recueil marqué par un lyrisme mélancolique et symboliste ?",
+    "correct_answer": "Paul Verlaine",
+    "incorrect_answers": [
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé",
+      "Charles Baudelaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762424361973-617839b3dc4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de William Faulkner, publié en 1929, est considéré comme un chef-d'œuvre de la littérature américaine moderne ?",
+    "correct_answer": "Le Bruit et la Fureur",
+    "incorrect_answers": [
+      "Absalom, Absalom!",
+      "Lumière d'août",
+      "Sanctuaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1724500307168-16a378a149ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain français a écrit 'La Condition humaine', roman qui lui a valu le prix Goncourt en 1933 ?",
+    "correct_answer": "André Malraux",
+    "incorrect_answers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "François Mauriac"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1696952384817-3d09eb983833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel événement historique majeur est le cadre principal du roman 'Guerre et Paix' de Léon Tolstoï ?",
-    "correct_answer": "Les guerres napoléoniennes en Russie",
+    "question": "Quel poète français du XXe siècle a écrit 'Les Yeux d'Elsa', poème dédié à sa muse Elsa Triolet ?",
+    "correct_answer": "Louis Aragon",
     "incorrect_answers": [
-      "La guerre de Crimée",
-      "La révolution d'Octobre",
-      "La guerre civile russe"
+      "Paul Éluard",
+      "Jacques Prévert",
+      "Robert Desnos"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1760869028124-930873e51082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Thomas Mann, publié en 1924, explore les tensions entre l'art et la vie à travers l'histoire d'un écrivain vieillissant ?",
+    "correct_answer": "La Montagne magique",
+    "incorrect_answers": [
+      "Mort à Venise",
+      "Buddenbrooks",
+      "Le Docteur Faustus"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1724501405264-945712f7f05a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain français a reçu le prix Nobel de littérature en 1964 pour son œuvre romanesque et ses essais, notamment 'Les Racines du ciel' ?",
+    "correct_answer": "Saint-John Perse",
+    "incorrect_answers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "François Mauriac"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1770515927748-b0a68413fc80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du guide de Dante dans l'Enfer et le Purgatoire de la 'Divine Comédie' ?",
-    "correct_answer": "Virgile",
+    "question": "Quel poète français du XIXe siècle est l'auteur des 'Illuminations', recueil de poèmes en prose publié en 1886 ?",
+    "correct_answer": "Arthur Rimbaud",
     "incorrect_answers": [
-      "Béatrice",
-      "Charon",
-      "Saint Bernard"
+      "Paul Verlaine",
+      "Stéphane Mallarmé",
+      "Charles Baudelaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760869028124-930873e51082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1553447977-6aee6ba02167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Gabriel García Márquez raconte l'histoire d'un amour impossible entre Florentino Ariza et Fermina Daza ?",
+    "correct_answer": "L'Amour aux temps du choléra",
+    "incorrect_answers": [
+      "Cent ans de solitude",
+      "Chronique d'une mort annoncée",
+      "Le Général dans son labyrinthe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773606382007-afddea672b0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain français a écrit 'La Princesse de Clèves', considéré comme le premier roman psychologique de la littérature française ?",
+    "correct_answer": "Madame de Lafayette",
+    "incorrect_answers": [
+      "Molière",
+      "Jean Racine",
+      "Pierre Corneille"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1554900773-632f4c042da8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète français du XXe siècle a écrit 'Le Cimetière marin', poème célèbre pour sa structure métrique et sa profondeur philosophique ?",
+    "correct_answer": "Paul Valéry",
+    "incorrect_answers": [
+      "Guillaume Apollinaire",
+      "Saint-John Perse",
+      "Yves Bonnefoy"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763562597716-68adb3f7f896?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel est l'opérateur associé à la quantité de mouvement en mécanique quantique dans la représentation de position?",
-    "correct_answer": "-iħ∇",
+    "question": "Quel est le nom de l'enzyme responsable de la fixation du CO₂ dans le cycle de Calvin chez les plantes C3 ?",
+    "correct_answer": "RuBisCO",
     "incorrect_answers": [
-      "iħ∂/∂t",
-      "ħ²/2m",
-      "Ê"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618281228519-81136b42f6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle enzyme est responsable de la stabilisation des télomères en ajoutant des séquences répétées aux extrémités des chromosomes?",
-    "correct_answer": "Télomérase",
-    "incorrect_answers": [
-      "ADN ligase",
-      "ARN polymérase",
-      "Hélicase"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1614308457932-e16d85c5d053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle réaction permet la formation d'un éther à partir d'un alcool et d'un halogénure d'alkyle via une substitution nucléophile?",
-    "correct_answer": "Synthèse de Williamson",
-    "incorrect_answers": [
-      "Réaction de Friedel-Crafts",
-      "Réaction de Grignard",
-      "Condensation aldolique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1579256308199-873605ecd436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du paradoxe qui postule que, si l'univers est infini et rempli d'étoiles, le ciel nocturne devrait être uniformément brillant?",
-    "correct_answer": "Paradoxe d'Olbers",
-    "incorrect_answers": [
-      "Paradoxe d'Einstein",
-      "Paradoxe de Zénon",
-      "Paradoxe de Fermi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848567-a24f55473cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mécanisme d'action est principalement visé par les inhibiteurs de la HMG-CoA réductase, communément appelés statines?",
-    "correct_answer": "Réduction de la synthèse de cholestérol",
-    "incorrect_answers": [
-      "Augmentation de l'excrétion biliaire",
-      "Inhibition de la réabsorption de sodium",
-      "Blocage des canaux calciques"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel processus est la principale source d'oxygène atmosphérique sur Terre depuis le Paléoprotérozoïque?",
-    "correct_answer": "Photosynthèse des cyanobactéries",
-    "incorrect_answers": [
-      "Dégazage volcanique",
-      "Dissociation de la vapeur d'eau",
-      "Respiration des plantes"
+      "PEP carboxylase",
+      "ATP synthase",
+      "Nitrogénase"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1748261347902-451fb437e8fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle découverte majeure a été faite par Arno Penzias et Robert Wilson en 1964, confirmant le modèle du Big Bang?",
-    "correct_answer": "Le fond diffus cosmologique (CMB)",
+    "question": "Quel phénomène physique explique la formation des aurores boréales ?",
+    "correct_answer": "Interaction des particules solaires avec le champ magnétique terrestre",
     "incorrect_answers": [
-      "Les ondes gravitationnelles",
-      "Les pulsars",
-      "L'énergie sombre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556761867-50fd6cf7f0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la métrique qui décrit l'espace-temps autour d'un trou noir non rotatif et non chargé?",
-    "correct_answer": "Métrique de Schwarzschild",
-    "incorrect_answers": [
-      "Métrique de Kerr",
-      "Métrique de Friedmann-Lemaître-Robertson-Walker",
-      "Métrique de Minkowski"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1684259498786-ffaf1ec5c5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la fonction principale des cellules T auxiliaires (CD4+) dans la réponse immunitaire adaptative?",
-    "correct_answer": "Activer les cellules B et les lymphocytes T cytotoxiques",
-    "incorrect_answers": [
-      "Produire des anticorps",
-      "Phagocyter les agents pathogènes",
-      "Détruire directement les cellules infectées"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1748261347768-a32434751a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel phénomène décrit la capacité de certains matériaux à générer une charge électrique sous contrainte mécanique?",
-    "correct_answer": "Piézoélectricité",
-    "incorrect_answers": [
-      "Thermoélectricité",
-      "Ferroélectricité",
-      "Magnétostriction"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1669344319065-61282714d7ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle méthode de détection d'exoplanètes mesure les minuscules variations périodiques de la vitesse radiale d'une étoile causées par la gravité d'une planète?",
-    "correct_answer": "Méthode des vitesses radiales",
-    "incorrect_answers": [
-      "Méthode des transits",
-      "Microlentille gravitationnelle",
-      "Imagerie directe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1636721174787-850cf30bc35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le neurotransmetteur primaire inhibiteur dans le système nerveux central des mammifères?",
-    "correct_answer": "GABA (Acide gamma-aminobutyrique)",
-    "incorrect_answers": [
-      "Acétylcholine",
-      "Glutamate",
-      "Dopamine"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1636751179475-516561a802c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel concept de la thermodynamique statistique quantifie le nombre de micro-états correspondant à un macro-état donné?",
-    "correct_answer": "Entropie (formule de Boltzmann)",
-    "incorrect_answers": [
-      "Énergie libre de Gibbs",
-      "Enthalpie",
-      "Potentiel chimique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618053448748-b7251851d014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel terme décrit l'ensemble des organismes vivants (biocénose) et de leur environnement physique (biotope) interagissant dans une unité fonctionnelle?",
-    "correct_answer": "Écosystème",
-    "incorrect_answers": [
-      "Biome",
-      "Habitat",
-      "Niche écologique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1608037222022-62649819f8aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus industriel clé pour la production d'ammoniac à partir d'azote et d'hydrogène gazeux?",
-    "correct_answer": "Procédé Haber-Bosch",
-    "incorrect_answers": [
-      "Procédé Solvay",
-      "Procédé Ostwald",
-      "Procédé contact"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616046560582-41ac3c954715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel processus de fusion nucléaire est prédominant dans les étoiles de masse solaire pendant la phase de la séquence principale?",
-    "correct_answer": "Cycle proton-proton",
-    "incorrect_answers": [
-      "Cycle CNO",
-      "Triple alpha",
-      "Capture de neutrons"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1576670159805-622729b5b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle technique permet l'édition de gènes avec une précision inégalée en utilisant un ARN guide pour cibler l'ADN?",
-    "correct_answer": "CRISPR-Cas9",
-    "incorrect_answers": [
-      "PCR (Réaction en chaîne par polymérase)",
-      "Électrophorèse sur gel",
-      "Séquençage Sanger"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556760646-50241850eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel phénomène décrit la séparation de la lumière blanche en ses couleurs constitutives lors de son passage à travers un prisme?",
-    "correct_answer": "Dispersion",
-    "incorrect_answers": [
-      "Diffraction",
-      "Interférence",
-      "Réfraction"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1630959302661-0005f0bb0b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle structure cérébrale est principalement responsable de la régulation de la faim, de la soif, de la température corporelle et des cycles circadiens?",
-    "correct_answer": "Hypothalamus",
-    "incorrect_answers": [
-      "Cervelet",
-      "Thalamus",
-      "Hippocampe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556759597-96df19797d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle méthode spectroscopique est principalement utilisée pour déterminer la structure des molécules organiques en se basant sur les spins nucléaires?",
-    "correct_answer": "RMN (Résonance Magnétique Nucléaire)",
-    "incorrect_answers": [
-      "Spectroscopie IR (Infrarouge)",
-      "Spectrométrie de masse",
-      "UV-Vis (Ultraviolet-Visible)"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1581056771306-166fa643838c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du rayon autour d'un trou noir au-delà duquel rien, pas même la lumière, ne peut s'échapper?",
-    "correct_answer": "Horizon des événements",
-    "incorrect_answers": [
-      "Ergosphère",
-      "Singularité",
-      "Disque d'accrétion"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583607264434-2d8e199b3a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle maladie neurodégénérative est caractérisée par la formation d'agrégats de protéine alpha-synucléine (corps de Lewy)?",
-    "correct_answer": "Maladie de Parkinson",
-    "incorrect_answers": [
-      "Maladie d'Alzheimer",
-      "Sclérose en plaques",
-      "Maladie de Huntington"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758573467057-99f26217b2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle particule est la médiatrice de l'interaction forte, liant les quarks entre eux pour former des hadrons?",
-    "correct_answer": "Gluon",
-    "incorrect_answers": [
-      "Photon",
-      "Boson W/Z",
-      "Graviton"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1575467678971-7cd5c2937dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la fonction principale du xylème chez les plantes vasculaires?",
-    "correct_answer": "Transport de l'eau et des minéraux des racines aux feuilles",
-    "incorrect_answers": [
-      "Transport des sucres",
-      "Stockage des nutriments",
-      "Soutien mécanique primaire"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel polymère est exceptionnellement résistant à la chaleur et aux produits chimiques, souvent utilisé dans les revêtements antiadhésifs (Teflon)?",
-    "correct_answer": "Polytétrafluoroéthylène (PTFE)",
-    "incorrect_answers": [
-      "Polyéthylène",
-      "Polypropylène",
-      "Polychlorure de vinyle (PVC)"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618053448492-2b629c2c912c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel processus décrit l'accumulation progressive de matière par des collisions pour former des planètes à partir de petites particules?",
-    "correct_answer": "Accrétion",
-    "incorrect_answers": [
-      "Érosion",
-      "Subduction",
-      "Diffusion"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766297248076-2848d8d0d464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel type d'immunité est acquis naturellement après une infection et implique la production de lymphocytes mémoire?",
-    "correct_answer": "Immunité adaptative (acquise)",
-    "incorrect_answers": [
-      "Immunité innée",
-      "Immunité passive",
-      "Auto-immunité"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1676293107432-1b6753581201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'effet par lequel un matériau supraconducteur expulse complètement les champs magnétiques de son intérieur?",
-    "correct_answer": "Effet Meissner",
-    "incorrect_answers": [
-      "Effet Hall",
-      "Effet Zeeman",
-      "Effet Josephson"
+      "Réflexion de la lumière sur les nuages de glace",
+      "Décharge électrique dans l'atmosphère",
+      "Réaction chimique entre l'azote et l'oxygène"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1766297247072-93fd815afef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel gaz à effet de serre, bien que présent en plus faibles concentrations que le CO2, possède un potentiel de réchauffement global (PRG) beaucoup plus élevé sur 100 ans?",
-    "correct_answer": "Méthane (CH4)",
+    "question": "Quel est le principal gaz responsable de l'effet de serre additionnel depuis l'ère industrielle ?",
+    "correct_answer": "CO₂",
     "incorrect_answers": [
-      "Oxyde nitreux (N2O)",
-      "Vapeur d'eau (H2O)",
-      "Dioxyde de soufre (SO2)"
+      "CH₄",
+      "N₂O",
+      "O₃"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1614308457932-e16d85c5d053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel organisme modèle est couramment utilisé en génétique pour étudier l'apoptose ?",
+    "correct_answer": "Caenorhabditis elegans",
+    "incorrect_answers": [
+      "Drosophila melanogaster",
+      "Mus musculus",
+      "Arabidopsis thaliana"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel une cellule eucaryote digère ses propres composants ?",
+    "correct_answer": "Autophagie",
+    "incorrect_answers": [
+      "Mitose",
+      "Endocytose",
+      "Exocytose"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1669344319065-61282714d7ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel élément chimique possède la plus haute température de fusion parmi les métaux purs ?",
+    "correct_answer": "Tungstène",
+    "incorrect_answers": [
+      "Rhénium",
+      "Osmium",
+      "Tantale"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631556760646-50241850eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que deux électrons dans un atome ne peuvent pas avoir les quatre mêmes nombres quantiques ?",
+    "correct_answer": "Principe d'exclusion de Pauli",
+    "incorrect_answers": [
+      "Règle de Hund",
+      "Principe d'incertitude de Heisenberg",
+      "Loi de Coulomb"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631556759597-96df19797d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du mécanisme par lequel les bactéries échangent du matériel génétique via un phage ?",
+    "correct_answer": "Transduction",
+    "incorrect_answers": [
+      "Conjugaison",
+      "Transformation",
+      "Mutation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616046560582-41ac3c954715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la particule subatomique prédite par le modèle standard et découverte en 2012 au CERN ?",
+    "correct_answer": "Boson de Higgs",
+    "incorrect_answers": [
+      "Graviton",
+      "Neutrino stérile",
+      "Axions"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631556761867-50fd6cf7f0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel une étoile massive s'effondre en un objet extrêmement dense après une supernova ?",
+    "correct_answer": "Formation d'un trou noir",
+    "incorrect_answers": [
+      "Formation d'une naine blanche",
+      "Formation d'une étoile à neutrons",
+      "Formation d'un quasar"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1581056771306-166fa643838c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la maladie génétique causée par une mutation du gène CFTR, affectant les poumons et le pancréas ?",
+    "correct_answer": "Mucoviscidose",
+    "incorrect_answers": [
+      "Drépanocytose",
+      "Hémophilie",
+      "Maladie de Huntington"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618281228519-81136b42f6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du phénomène par lequel un matériau devient supraconducteur à haute température critique ?",
+    "correct_answer": "Supraconductivité à haute température",
+    "incorrect_answers": [
+      "Effet Meissner",
+      "Effet Josephson",
+      "Effet Hall quantique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1748261347768-a32434751a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'invention de Nikola Tesla permettant la transmission sans fil d'énergie électrique ?",
+    "correct_answer": "Bobine de Tesla",
+    "incorrect_answers": [
+      "Transformateur",
+      "Alternateur",
+      "Moteur à induction"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1576670159805-622729b5b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel les plantes convertissent la lumière en énergie chimique dans les chloroplastes ?",
+    "correct_answer": "Photosynthèse",
+    "incorrect_answers": [
+      "Respiration cellulaire",
+      "Fermentation",
+      "Glycolyse"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1676293107432-1b6753581201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la théorie qui décrit l'expansion accélérée de l'Univers ?",
+    "correct_answer": "Énergie noire",
+    "incorrect_answers": [
+      "Matière noire",
+      "Constante cosmologique",
+      "Big Bang"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1608037222022-62649819f8aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'enzyme qui catalyse la réaction de fixation de l'azote atmosphérique en ammoniac ?",
+    "correct_answer": "Nitrogénase",
+    "incorrect_answers": [
+      "Nitrification",
+      "Dénitrification",
+      "Ammonification"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1636721174787-850cf30bc35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du phénomène par lequel un corps céleste dévie la lumière d'une étoile en arrière-plan ?",
+    "correct_answer": "Effet de lentille gravitationnelle",
+    "incorrect_answers": [
+      "Aberration stellaire",
+      "Redshift gravitationnel",
+      "Parallaxe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la maladie neurodégénérative causée par l'accumulation de plaques amyloïdes dans le cerveau ?",
+    "correct_answer": "Maladie d'Alzheimer",
+    "incorrect_answers": [
+      "Maladie de Parkinson",
+      "Sclérose latérale amyotrophique",
+      "Maladie de Creutzfeldt-Jakob"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618053448492-2b629c2c912c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel un atome ou une molécule perd un ou plusieurs électrons ?",
+    "correct_answer": "Oxydation",
+    "incorrect_answers": [
+      "Réduction",
+      "Dissociation",
+      "Ionisation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1636751179475-516561a802c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la loi qui décrit la relation entre la pression et le volume d'un gaz à température constante ?",
+    "correct_answer": "Loi de Boyle-Mariotte",
+    "incorrect_answers": [
+      "Loi de Charles",
+      "Loi de Gay-Lussac",
+      "Loi des gaz parfaits"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618053448748-b7251851d014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'invention de Alexander Fleming qui a révolutionné la médecine en 1928 ?",
+    "correct_answer": "Pénicilline",
+    "incorrect_answers": [
+      "Insuline",
+      "Aspirine",
+      "Vaccin contre la variole"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734160-3a2f6f73f3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du mécanisme par lequel les cellules cancéreuses échappent à l'apoptose ?",
+    "correct_answer": "Mutation de p53",
+    "incorrect_answers": [
+      "Surexpression de Bcl-2",
+      "Défaut de réparation de l'ADN",
+      "Activation de la télomérase"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1631816290138-9f0f79cada3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle structure bactérienne est responsable de l'adhésion aux surfaces et aux cellules hôtes, et non de la motilité?",
-    "correct_answer": "Pili (Fimbriae)",
+    "question": "Quel est le nom du phénomène par lequel un fluide en mouvement crée une zone de basse pression perpendiculaire à l'écoulement ?",
+    "correct_answer": "Effet Venturi",
     "incorrect_answers": [
-      "Flagelle",
-      "Capsule",
-      "Spore"
+      "Effet Magnus",
+      "Effet Coandă",
+      "Effet Doppler"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734160-3a2f6f73f3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1575467678971-7cd5c2937dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la théorie qui décrit l'origine de l'Univers à partir d'une singularité initiale ?",
+    "correct_answer": "Big Bang",
+    "incorrect_answers": [
+      "Théorie de l'état stationnaire",
+      "Théorie des cordes",
+      "Théorie du multivers"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1630959302661-0005f0bb0b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'enzyme qui dégrade l'ADN en fragments lors de l'apoptose ?",
+    "correct_answer": "Caspases",
+    "incorrect_answers": [
+      "Endonucléases",
+      "DNases",
+      "Topoisomérases"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1579256308199-873605ecd436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel une cellule eucaryote se divise pour donner deux cellules filles génétiquement identiques ?",
+    "correct_answer": "Mitose",
+    "incorrect_answers": [
+      "Méiose",
+      "Fission binaire",
+      "Cytokinèse"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1583607264434-2d8e199b3a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la particule subatomique qui transporte l'interaction forte entre les quarks ?",
+    "correct_answer": "Gluon",
+    "incorrect_answers": [
+      "Photon",
+      "W boson",
+      "Z boson"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1684259498786-ffaf1ec5c5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du phénomène par lequel un matériau émet de la lumière après avoir absorbé de l'énergie ?",
+    "correct_answer": "Fluorescence",
+    "incorrect_answers": [
+      "Phosphorescence",
+      "Incandescence",
+      "Luminescence"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758573467057-99f26217b2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la maladie génétique causée par une mutation du gène HTT, entraînant des troubles moteurs et cognitifs ?",
+    "correct_answer": "Maladie de Huntington",
+    "incorrect_answers": [
+      "Maladie de Parkinson",
+      "Sclérose en plaques",
+      "Dystrophie musculaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766297248076-2848d8d0d464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel les plantes perdent de l'eau par évaporation au niveau des stomates ?",
+    "correct_answer": "Transpiration",
+    "incorrect_answers": [
+      "Photosynthèse",
+      "Respiration",
+      "Guttation"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848567-a24f55473cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc3OTE5MjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

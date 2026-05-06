@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quelle technique contrapuntique Jean-Sébastien Bach a-t-il magistralement perfectionnée, caractérisée par une imitation stricte d'un même motif par différentes voix ?",
-    "correct_answer": "La fugue",
+    "question": "Quel compositeur a écrit l'opéra 'Tristan et Isolde' en utilisant pour la première fois l'accord de Tristan ?",
+    "correct_answer": "Richard Wagner",
     "incorrect_answers": [
-      "Le canon",
-      "L'invention",
-      "La passacaille"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1585278979907-2e6539703c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pianiste emblématique du bebop est connu pour son utilisation avant-gardiste de la dissonance et son phrasé anguleux, souvent décrit comme 'géométrique' ?",
-    "correct_answer": "Thelonious Monk",
-    "incorrect_answers": [
-      "Bud Powell",
-      "Oscar Peterson",
-      "Art Tatum"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776149266330-4cf2abaf9ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a expérimenté le 'Gesamtkunstwerk' électroacoustique avec son 'Poème électronique' pour le pavillon Philips à l'Expo 58 ?",
-    "correct_answer": "Edgard Varèse",
-    "incorrect_answers": [
-      "Karlheinz Stockhausen",
-      "Iannis Xenakis",
-      "Pierre Schaeffer"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730875654198-15757310fcb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument à cordes frottées est historiquement muni d'une chanterelle, une corde supplémentaire en métal vibrant par sympathie ?",
-    "correct_answer": "La viole d'amour",
-    "incorrect_answers": [
-      "La viole de gambe",
-      "Le baryton",
-      "Le nyckelharpa"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1760160741479-22e894be4296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel album de Pink Floyd, sorti en 1975, est souvent interprété comme un hommage à Syd Barrett et une critique de l'industrie musicale ?",
-    "correct_answer": "Wish You Were Here",
-    "incorrect_answers": [
-      "Animals",
-      "The Wall",
-      "Meddle"
+      "Richard Strauss",
+      "Giuseppe Verdi",
+      "Hector Berlioz"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1619447794111-9364808dfbdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel terme décrit une succession d'accords ne progressant pas vers une tonalité donnée, mais plutôt vers une dissonance ou une consonance instable ?",
-    "correct_answer": "La non-résolution",
+    "question": "Quel groupe de rock progressif britannique a sorti l'album 'Thick as a Brick' en 1972 ?",
+    "correct_answer": "Jethro Tull",
     "incorrect_answers": [
-      "L'enchaînement parfait",
-      "La cadence rompue",
-      "L'accord de neuvième"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1694464074595-9e4b8a82b2a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "D'où est originaire le balafon, un instrument de percussion mélodique de la famille des xylophones, très répandu en Afrique de l'Ouest ?",
-    "correct_answer": "Le Mali",
-    "incorrect_answers": [
-      "Le Ghana",
-      "Le Nigeria",
-      "L'Éthiopie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1731316130722-dfb690e5d64d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur autrichien est le pionnier de la technique dodécaphonique ou sérielle, où les douze notes de la gamme chromatique sont utilisées sans répétition ?",
-    "correct_answer": "Arnold Schönberg",
-    "incorrect_answers": [
-      "Alban Berg",
-      "Anton Webern",
-      "Igor Stravinsky"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777730933589-754048c25864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel album de Miles Davis, enregistré en 1969, est souvent cité comme l'acte de naissance du jazz fusion, mélangeant jazz, rock et funk ?",
-    "correct_answer": "Bitches Brew",
-    "incorrect_answers": [
-      "Kind of Blue",
-      "In a Silent Way",
-      "A Love Supreme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776183876957-893cb7426229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sous-genre du heavy metal est caractérisé par une virtuosité technique, des structures musicales non-linéaires et des tempos et signatures rythmiques complexes ?",
-    "correct_answer": "Le metal progressif",
-    "incorrect_answers": [
-      "Le doom metal",
-      "Le speed metal",
-      "Le stoner rock"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767216398625-84529a6c5f68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur de la Renaissance est célèbre pour sa 'Missa Papae Marcelli', qui aurait sauvé la polyphonie de l'interdiction par le Concile de Trente ?",
-    "correct_answer": "Giovanni Pierluigi da Palestrina",
-    "incorrect_answers": [
-      "Josquin des Prez",
-      "Orlando di Lasso",
-      "William Byrd"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777010650647-459d76e7579a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle variante de la flûte traversière en bois, populaire à l'époque baroque, se distingue par l'absence de clefs ou par une seule clef ?",
-    "correct_answer": "Le traverso",
-    "incorrect_answers": [
-      "Le piccolo",
-      "La flûte irlandaise",
-      "L'octobasse"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762158008148-855723e3971a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel producteur américain est célèbre pour avoir développé la technique du 'Wall of Sound', caractérisée par une forte réverbération et la superposition de nombreuses pistes instrumentales ?",
-    "correct_answer": "Phil Spector",
-    "incorrect_answers": [
-      "George Martin",
-      "Quincy Jones",
-      "Rick Rubin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777186598748-b39a2df0678c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel ballet de Stravinsky a provoqué un scandale mémorable lors de sa première représentation à Paris en 1913 en raison de sa rythmique primitive et de ses harmonies dissonantes ?",
-    "correct_answer": "Le Sacre du printemps",
-    "incorrect_answers": [
-      "L'Oiseau de feu",
-      "Petrouchka",
-      "Pulcinella"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774488004460-202b934da3da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrumentiste de jazz est célèbre pour avoir été le pionnier de l'utilisation du cor d'harmonie dans le jazz moderne, notamment avec Thelonious Monk et Miles Davis ?",
-    "correct_answer": "Julius Watkins",
-    "incorrect_answers": [
-      "John Clark",
-      "Vincent Chancey",
-      "David Amram"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1625193284483-65ce340f9278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sous-genre de la musique électronique, né à Detroit, est caractérisé par des lignes de basse hypnotiques, des rythmes mécaniques et une atmosphère futuriste ?",
-    "correct_answer": "La techno",
-    "incorrect_answers": [
-      "La house",
-      "Le drum and bass",
-      "La trance"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1644281024308-22c1b18cb3da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument à clavier à cordes pincées, populaire à la Renaissance et au Baroque, est caractérisé par un plectre en plume d'oie ou en plastique pour produire le son ?",
-    "correct_answer": "Le clavecin",
-    "incorrect_answers": [
-      "Le clavicorde",
-      "Le virginal",
-      "L'épinette"
+      "Pink Floyd",
+      "Yes",
+      "Genesis"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1776149266533-00e0b89c7d70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel opéra de Richard Wagner, dont le prélude dure une quinzaine de minutes, est entièrement basé sur le leitmotiv de la 'Transfiguration' et explore les thèmes de l'amour et de la mort ?",
-    "correct_answer": "Tristan et Isolde",
+    "question": "Quel instrument de musique est traditionnellement utilisé dans la musique classique indienne pour accompagner le chant ?",
+    "correct_answer": "Sitar",
     "incorrect_answers": [
-      "Parsifal",
-      "Le Vaisseau fantôme",
-      "Lohengrin"
+      "Violon",
+      "Piano",
+      "Guitare"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1731316130639-a6263f45b84b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1694464074595-9e4b8a82b2a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel album des Beach Boys, sorti en 1966 et considéré comme une étape majeure dans l'histoire de la pop, a été entièrement produit et arrangé par Brian Wilson sans participation scénique du groupe ?",
-    "correct_answer": "Pet Sounds",
+    "question": "Quel compositeur français du XIXe siècle est célèbre pour ses 'Préludes' et 'Nocturnes' pour piano ?",
+    "correct_answer": "Frédéric Chopin",
     "incorrect_answers": [
-      "Good Vibrations",
-      "Smile",
-      "Surfin' USA"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776611669342-2320f3019bef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel musicien et compositeur est souvent crédité comme le 'père du blues delta' pour son utilisation distinctive du bottleneck et ses paroles introspectives ?",
-    "correct_answer": "Robert Johnson",
-    "incorrect_answers": [
-      "Muddy Waters",
-      "John Lee Hooker",
-      "Son House"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758800624806-7bf1baa68e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel terme, popularisé par Pierre Boulez, désigne un mode de composition où les paramètres musicaux (hauteur, durée, intensité, timbre) sont organisés en séries selon des principes mathématiques ?",
-    "correct_answer": "Le sérialisme intégral",
-    "incorrect_answers": [
-      "Le dodécaphonisme",
-      "La musique aléatoire",
-      "Le minimalisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1629881653355-2872fddc067e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle technique de jeu au luth, populaire durant la Renaissance avant l'avènement du jeu aux doigts, consistait à utiliser un plectre pour pincer les cordes ?",
-    "correct_answer": "Le plectre",
-    "incorrect_answers": [
-      "Le jeu aux doigts",
-      "Le buté",
-      "Le trémolo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764805336220-587b7b100467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste est connu pour sa collaboration avec Brian Eno sur des albums emblématiques de sa période berlinoise, explorant l'ambient et l'expérimental ?",
-    "correct_answer": "David Bowie",
-    "incorrect_answers": [
-      "Lou Reed",
-      "Iggy Pop",
-      "Peter Gabriel"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1569765947671-bc8231687939?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle réforme liturgique majeure a standardisé le chant grégorien à travers l'Europe au IXe siècle sous l'impulsion de Charlemagne ?",
-    "correct_answer": "La réforme carolingienne",
-    "incorrect_answers": [
-      "Le concile de Trente",
-      "La réforme protestante",
-      "L'édit de Milan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1770155374365-1b7d15906ac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical, né dans les années 1970, est caractérisé par un rythme régulier à quatre temps, une basse funky, des cordes luxuriantes et des vocaux souvent soul ou gospel ?",
-    "correct_answer": "Le disco",
-    "incorrect_answers": [
-      "Le funk",
-      "Le soul",
-      "Le R&B"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774488004441-886ddcec4b00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle forme musicale est emblématique des sonates pour clavier de Domenico Scarlatti, caractérisées par une structure binaire souvent en un seul mouvement continu ?",
-    "correct_answer": "La sonate en un mouvement",
-    "incorrect_answers": [
-      "La sonate da chiesa",
-      "La fugue",
-      "Le concerto grosso"
+      "Camille Saint-Saëns",
+      "Érik Satie",
+      "Maurice Ravel"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1694464074645-1a2112a3eb12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Comment s'appelle le phénomène physique où un corps vibrant (corde, colonne d'air) peut entraîner la vibration d'un autre corps à une fréquence similaire, même sans contact direct ?",
-    "correct_answer": "La résonance sympathique",
+    "question": "Quel groupe de metal a sorti l'album 'Master of Puppets' en 1986 ?",
+    "correct_answer": "Metallica",
     "incorrect_answers": [
-      "L'harmonique",
-      "La dissonance",
-      "La diffraction"
+      "Megadeth",
+      "Slayer",
+      "Anthrax"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1768739538840-9c6d88d38656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1760160741479-22e894be4296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de rock allemand pionnier est souvent crédité pour son influence sur l'ambient, la techno et le post-rock grâce à ses sonorités expérimentales et répétitives ?",
-    "correct_answer": "Can",
+    "question": "Quel compositeur autrichien est considéré comme le père de la symphonie moderne ?",
+    "correct_answer": "Joseph Haydn",
     "incorrect_answers": [
-      "Neu!",
-      "Faust",
-      "Kraftwerk"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770224654899-1ecf1efec4cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1731316130722-dfb690e5d64d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel traité musical majeur du XVIe siècle par Gioseffo Zarlino a codifié les principes de l'harmonie et du contrepoint, influençant des générations de compositeurs ?",
-    "correct_answer": "Le Istitutioni harmoniche",
+    "question": "Quel instrument à cordes pincées est souvent associé à la musique flamenco ?",
+    "correct_answer": "Guitare classique",
     "incorrect_answers": [
-      "Le Micrologus",
-      "L'Ars nova",
-      "Le Gradus ad Parnassum"
+      "Harpe",
+      "Luth",
+      "Mandoline"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1694464075262-fd5e6dfd5325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel album d'Ornette Coleman, sorti en 1960, a donné son nom à un mouvement radical du jazz caractérisé par l'abandon des structures harmoniques et des formes conventionnelles ?",
-    "correct_answer": "Free Jazz: A Collective Improvisation",
+    "question": "Quel groupe de rock a sorti l'album 'The Dark Side of the Moon' en 1973 ?",
+    "correct_answer": "Pink Floyd",
     "incorrect_answers": [
-      "The Shape of Jazz to Come",
-      "Ascension",
-      "Love Call"
+      "Led Zeppelin",
+      "The Rolling Stones",
+      "Queen"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777186598748-b39a2df0678c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur russe a écrit le ballet 'Le Sacre du printemps' en 1913 ?",
+    "correct_answer": "Igor Stravinsky",
+    "incorrect_answers": [
+      "Sergei Rachmaninoff",
+      "Pyotr Ilyich Tchaikovsky",
+      "Dmitri Chostakovitch"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1585278979907-2e6539703c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument de musique est traditionnellement utilisé dans le jazz pour improviser des solos ?",
+    "correct_answer": "Saxophone",
+    "incorrect_answers": [
+      "Trompette",
+      "Piano",
+      "Contrebasse"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1731316130639-a6263f45b84b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'Sgt. Pepper's Lonely Hearts Club Band' en 1967 ?",
+    "correct_answer": "The Beatles",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "The Who",
+      "Cream"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1770155374365-1b7d15906ac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur allemand a écrit la 'Passion selon Saint Matthieu' ?",
+    "correct_answer": "Johann Sebastian Bach",
+    "incorrect_answers": [
+      "Ludwig van Beethoven",
+      "Georg Friedrich Haendel",
+      "Felix Mendelssohn"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768739538840-9c6d88d38656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à vent est souvent utilisé dans les orchestres symphoniques pour jouer des mélodies lyriques ?",
+    "correct_answer": "Flûte traversière",
+    "incorrect_answers": [
+      "Trombone",
+      "Clarinette",
+      "Hautbois"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1770224654899-1ecf1efec4cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de metal a sorti l'album 'Paranoid' en 1970 ?",
+    "correct_answer": "Black Sabbath",
+    "incorrect_answers": [
+      "Deep Purple",
+      "Led Zeppelin",
+      "AC/DC"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1730875654742-1eaaac5b8a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur autrichien a écrit l'opéra 'La Flûte enchantée' ?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "incorrect_answers": [
+      "Ludwig van Beethoven",
+      "Richard Wagner",
+      "Gioachino Rossini"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774488004441-886ddcec4b00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument de musique est traditionnellement utilisé dans la musique traditionnelle japonaise ?",
+    "correct_answer": "Koto",
+    "incorrect_answers": [
+      "Violon",
+      "Piano",
+      "Guitare"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762158008148-855723e3971a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'Led Zeppelin IV' en 1971 ?",
+    "correct_answer": "Led Zeppelin",
+    "incorrect_answers": [
+      "Cream",
+      "The Who",
+      "Pink Floyd"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777010650647-459d76e7579a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur français a écrit le 'Boléro' en 1928 ?",
+    "correct_answer": "Maurice Ravel",
+    "incorrect_answers": [
+      "Claude Debussy",
+      "Erik Satie",
+      "Francis Poulenc"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774488004460-202b934da3da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à cordes frottées est souvent utilisé dans les orchestres pour jouer des parties mélodiques ?",
+    "correct_answer": "Violon",
+    "incorrect_answers": [
+      "Alto",
+      "Violoncelle",
+      "Contrebasse"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1629881653355-2872fddc067e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'Nevermind' en 1991 ?",
+    "correct_answer": "Nirvana",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1644281024308-22c1b18cb3da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur allemand a écrit la 'Neuvième Symphonie' avec le 'Choral de la Joie' ?",
+    "correct_answer": "Ludwig van Beethoven",
+    "incorrect_answers": [
+      "Johannes Brahms",
+      "Felix Mendelssohn",
+      "Robert Schumann"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758800624806-7bf1baa68e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument de musique est traditionnellement utilisé dans la musique bluegrass américaine ?",
+    "correct_answer": "Banjo",
+    "incorrect_answers": [
+      "Harmonica",
+      "Mandoline",
+      "Fiddle"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777730933589-754048c25864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'The Joshua Tree' en 1987 ?",
+    "correct_answer": "U2",
+    "incorrect_answers": [
+      "The Police",
+      "Dire Straits",
+      "R.E.M."
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1625193284483-65ce340f9278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur russe a écrit le ballet 'Casse-Noisette' en 1892 ?",
+    "correct_answer": "Pyotr Ilyich Tchaikovsky",
+    "incorrect_answers": [
+      "Igor Stravinsky",
+      "Sergei Prokofiev",
+      "Alexander Borodin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776183876957-893cb7426229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument de musique est traditionnellement utilisé dans la musique traditionnelle irlandaise ?",
+    "correct_answer": "Fiddle",
+    "incorrect_answers": [
+      "Cornemuse",
+      "Harpe",
+      "Flûte"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1569765947671-bc8231687939?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'Back in Black' en 1980 ?",
+    "correct_answer": "AC/DC",
+    "incorrect_answers": [
+      "Van Halen",
+      "Guns N' Roses",
+      "Def Leppard"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764805336220-587b7b100467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur autrichien a écrit la 'Symphonie n°41 Jupiter' ?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "incorrect_answers": [
+      "Joseph Haydn",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776611669342-2320f3019bef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument de musique est traditionnellement utilisé dans la musique traditionnelle africaine pour créer des rythmes complexes ?",
+    "correct_answer": "Djembé",
+    "incorrect_answers": [
+      "Kalimba",
+      "Kora",
+      "Balafon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1730875654198-15757310fcb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'Appetite for Destruction' en 1987 ?",
+    "correct_answer": "Guns N' Roses",
+    "incorrect_answers": [
+      "Mötley Crüe",
+      "Poison",
+      "Bon Jovi"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776149266330-4cf2abaf9ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur allemand a écrit l'opéra 'Les Noces de Figaro' ?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "incorrect_answers": [
+      "Ludwig van Beethoven",
+      "Richard Wagner",
+      "Carl Maria von Weber"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767216398625-84529a6c5f68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

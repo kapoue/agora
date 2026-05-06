@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel langage de programmation, développé par Ole-Johan Dahl et Kristen Nygaard au Centre Norvégien de Calcul dans les années 1960, est souvent cité comme le premier à introduire les concepts de la programmation orientée objet ?",
-    "correct_answer": "Simula",
+    "question": "Quel langage de programmation a été créé par Dennis Ritchie en 1972 et est à la base de systèmes d'exploitation comme Unix ?",
+    "correct_answer": "C",
     "incorrect_answers": [
-      "Smalltalk",
-      "C++",
-      "Lisp"
+      "Pascal",
+      "Fortran",
+      "COBOL"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel numéro de port UDP est traditionnellement associé au protocole DHCP pour les requêtes client, distinguant ainsi le trafic client du trafic serveur ?",
-    "correct_answer": "68",
+    "question": "Quel algorithme de tri, basé sur la technique 'diviser pour régner', a été inventé par John von Neumann en 1945 ?",
+    "correct_answer": "Tri fusion",
     "incorrect_answers": [
-      "67",
-      "53",
-      "80"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258429-b3c7634a764d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle figure emblématique de l'informatique est réputée pour avoir popularisé le terme 'bug' informatique après la découverte d'un insecte dans le Mark II Aiken Relay Calculator en 1947 ?",
-    "correct_answer": "Grace Hopper",
-    "incorrect_answers": [
-      "Ada Lovelace",
-      "Alan Turing",
-      "John von Neumann"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258844-b31a923568b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans le modèle d'acteur, une approche de concurrence, quelle propriété garantit qu'un acteur ne peut pas modifier l'état interne d'un autre acteur sans passer par l'envoi de messages ?",
-    "correct_answer": "Encapsulation",
-    "incorrect_answers": [
-      "Immuabilité",
-      "Isolement",
-      "Asynchronicité"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Avant de devenir une entité distincte, quelle division de Remington Rand a été responsable de la commercialisation du premier ordinateur électronique commercial, l'UNIVAC I ?",
-    "correct_answer": "UNIVAC",
-    "incorrect_answers": [
-      "IBM",
-      "Honeywell",
-      "Burroughs"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258449-44718bd82b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel RFC décrit le protocole IP (Internet Protocol) version 4, établissant les bases de l'adressage et du routage sur Internet, et est toujours fondamental aujourd'hui ?",
-    "correct_answer": "RFC 791",
-    "incorrect_answers": [
-      "RFC 793",
-      "RFC 821",
-      "RFC 1180"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258343-cdf1306baa2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle structure de données auto-équilibrée est une généralisation des arbres AVL, où chaque nœud peut contenir plusieurs clés et avoir plus de deux enfants, optimisée pour les accès disque ?",
-    "correct_answer": "B-tree",
-    "incorrect_answers": [
-      "Red-Black tree",
-      "Splay tree",
-      "Heap"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1584949091708-0a21d38ab8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel ingénieur allemand est crédité d'avoir construit le Z3 en 1941, souvent considéré comme le premier ordinateur entièrement automatique et programmable au monde utilisant des relais électromécaniques ?",
-    "correct_answer": "Konrad Zuse",
-    "incorrect_answers": [
-      "Howard Aiken",
-      "John von Neumann",
-      "Charles Babbage"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1532522953890-ccc87dfeb0b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans un contexte de programmation fonctionnelle, quel terme décrit une fonction qui prend une ou plusieurs fonctions comme arguments ou renvoie une fonction comme résultat ?",
-    "correct_answer": "Fonction d'ordre supérieur",
-    "incorrect_answers": [
-      "Fonction pure",
-      "Currying",
-      "Lambda"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1683813479742-4730f91fa3ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel type d'enregistrement DNS est spécifiquement utilisé pour désigner les serveurs de messagerie responsables de la réception d'e-mails pour un domaine donné ?",
-    "correct_answer": "MX record",
-    "incorrect_answers": [
-      "A record",
-      "CNAME record",
-      "NS record"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894896813-652ff5aa8146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel système d'exploitation, développé aux Bell Labs à partir de 1969, a introduit des concepts fondamentaux comme le système de fichiers hiérarchique, les pipes et les utilitaires modulaires en ligne de commande ?",
-    "correct_answer": "Unix",
-    "incorrect_answers": [
-      "Multics",
-      "CP/M",
-      "MS-DOS"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618477371303-b2a56f422d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle technique d'ingénierie logicielle vise à évaluer la sécurité d'une application en lui fournissant des entrées de données malformées ou inattendues pour découvrir des vulnérabilités ou des plantages ?",
-    "correct_answer": "Fuzzing",
-    "incorrect_answers": [
-      "Pentesting",
-      "Code review",
-      "Static analysis"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258314-24ef37bb52e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle entreprise est principalement connue pour ses systèmes d'exploitation embarqués et son rôle précoce dans le développement de l'Internet des Objets (IoT) avec des technologies comme VxWorks ?",
-    "correct_answer": "Wind River Systems",
-    "incorrect_answers": [
-      "ARM Holdings",
-      "MIPS Technologies",
-      "Qualcomm"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258492-7c006595375a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans le protocole BGP (Border Gateway Protocol), quel attribut est spécifiquement utilisé pour influencer le chemin de retour du trafic vers un système autonome voisin, et non le chemin sortant ?",
-    "correct_answer": "MED (Multi-Exit Discriminator)",
-    "incorrect_answers": [
-      "AS_PATH",
-      "LOCAL_PREF",
-      "ORIGIN"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258205-3cbcf3ac56c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la complexité temporelle moyenne et, plus important encore, dans le pire des cas d'un algorithme de tri par fusion (Merge Sort) ?",
-    "correct_answer": "O(n log n)",
-    "incorrect_answers": [
-      "O(n^2)",
-      "O(n)",
-      "O(log n)"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774620396033-18782cda8242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle entreprise a développé et commercialisé le premier disque dur en 1956, connu sous le nom de RAMAC (Random Access Method of Accounting and Control) ?",
-    "correct_answer": "IBM",
-    "incorrect_answers": [
-      "Western Digital",
-      "Seagate",
-      "Hitachi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258143-904ea924ac53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans un langage comme C ou C++, quelle est la principale fonction des opérateurs `new` et `delete` ou des fonctions `malloc` et `free` ?",
-    "correct_answer": "Allocation dynamique de mémoire sur le tas (heap)",
-    "incorrect_answers": [
-      "Allocation statique sur la pile (stack)",
-      "Gestion des registres CPU",
-      "Optimisation du cache"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258557-515962e11f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel navigateur web, développé par Marc Andreessen et Eric Bina au NCSA en 1993, a popularisé le World Wide Web en étant le premier à afficher des images directement dans les pages HTML ?",
-    "correct_answer": "Mosaic",
-    "incorrect_answers": [
-      "Netscape Navigator",
-      "Internet Explorer",
-      "Lynx"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel programme d'IA, créé par Joseph Weizenbaum au MIT en 1966, a simulé un psychothérapeute rogerien et a démontré les limites d'une simple analyse lexicale pour la compréhension du langage ?",
-    "correct_answer": "ELIZA",
-    "incorrect_answers": [
-      "SHRDLU",
-      "Deep Blue",
-      "HAL 9000"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1581472723648-909f4851d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans le contexte des systèmes distribués, quel théorème stipule qu'un système ne peut pas garantir simultanément la Cohérence, la Disponibilité et la Tolérance aux partitions ?",
-    "correct_answer": "Théorème CAP",
-    "incorrect_answers": [
-      "Théorème de Brewer",
-      "Loi de Amdahl",
-      "Loi de Moore"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1524690217307-5214e9eecf56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle personnalité est connue pour avoir co-fondé Intel Corporation en 1968 avec Robert Noyce et est également crédité d'avoir formulé la célèbre 'Loi de Moore' ?",
-    "correct_answer": "Gordon Moore",
-    "incorrect_answers": [
-      "Andy Grove",
-      "Bill Gates",
-      "Steve Wozniak"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258311-8da2b4233921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel algorithme de hachage cryptographique, largement utilisé dans les signatures numériques et la vérification d'intégrité, a été significativement compromis par des vulnérabilités de collision théoriques et pratiques documentées par Google en 2017 ?",
-    "correct_answer": "SHA-1",
-    "incorrect_answers": [
-      "MD5",
-      "SHA-256",
-      "AES"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777132732614-6115ab88fa79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle phase d'un compilateur est responsable de la transformation du code source en un flux de jetons (tokens) reconnaissables par le compilateur, sans analyser la structure grammaticale du programme ?",
-    "correct_answer": "Analyse lexicale",
-    "incorrect_answers": [
-      "Analyse syntaxique",
-      "Génération de code",
-      "Optimisation"
+      "Tri rapide",
+      "Tri à bulles",
+      "Tri par insertion"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel appareil, inventé par Douglas Engelbart en 1964 et présenté lors de 'The Mother of All Demos', a révolutionné l'interaction homme-machine en permettant une manipulation directe des éléments à l'écran ?",
-    "correct_answer": "La souris informatique",
+    "question": "Quel protocole réseau, développé par Vinton Cerf et Robert Kahn, est le fondement d'Internet ?",
+    "correct_answer": "TCP/IP",
     "incorrect_answers": [
-      "Le clavier QWERTY",
-      "L'écran tactile",
-      "La tablette graphique"
+      "HTTP",
+      "FTP",
+      "SMTP"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258208-a5af30d5a31b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le rôle principal d'un serveur DNS récursif dans le processus de résolution de noms de domaine, distinct de celui d'un serveur DNS autoritaire ?",
-    "correct_answer": "Il interroge d'autres serveurs DNS pour trouver l'adresse IP d'un nom de domaine",
+    "question": "Quel langage de programmation a été conçu par Guido van Rossum en 1991 et est connu pour sa lisibilité ?",
+    "correct_answer": "Python",
     "incorrect_answers": [
-      "Il stocke tous les enregistrements DNS du monde",
-      "Il est l'autorité pour un domaine spécifique",
-      "Il convertit les adresses IP en noms de domaine"
+      "Ruby",
+      "Perl",
+      "PHP"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258429-b3c7634a764d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel inventeur a conçu le premier ordinateur programmable, l'Analytical Engine, au XIXe siècle ?",
+    "correct_answer": "Charles Babbage",
+    "incorrect_answers": [
+      "Alan Turing",
+      "Konrad Zuse",
+      "John von Neumann"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618477371303-b2a56f422d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel système d'exploitation, développé par Linus Torvalds en 1991, est basé sur le noyau Linux ?",
+    "correct_answer": "GNU/Linux",
+    "incorrect_answers": [
+      "Windows",
+      "macOS",
+      "FreeBSD"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258314-24ef37bb52e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par James Gosling chez Sun Microsystems en 1995 ?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "C#",
+      "Scala",
+      "Kotlin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1581472723648-909f4851d4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole sécurisé est utilisé pour crypter les communications sur Internet, développé par Netscape en 1995 ?",
+    "correct_answer": "SSL/TLS",
+    "incorrect_answers": [
+      "SSH",
+      "VPN",
+      "PGP"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1773349807434-374473797148?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans le contexte de la métaprogrammation, quel concept permet à un programme d'examiner et de modifier sa propre structure ou son comportement à l'exécution, souvent en manipulant des types ou des objets ?",
-    "correct_answer": "Réflexion (Reflection)",
+    "question": "Quel algorithme de compression sans perte a été développé par Abraham Lempel et Jacob Ziv en 1977 ?",
+    "correct_answer": "LZ77",
     "incorrect_answers": [
-      "Polymorphisme",
-      "Héritage",
-      "Abstraction"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776521796613-564c9f7d02e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel cryptanalyste britannique est célèbre pour son rôle dans le déchiffrement des codes Enigma pendant la Seconde Guerre mondiale et est considéré comme le père de l'informatique théorique et de l'intelligence artificielle ?",
-    "correct_answer": "Alan Turing",
-    "incorrect_answers": [
-      "Claude Shannon",
-      "John von Neumann",
-      "Norbert Wiener"
+      "Huffman",
+      "Run-length",
+      "Arithmetic coding"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1763568258482-c45010ae3528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle entreprise a acquis YouTube en 2006, faisant d'elle le leader incontesté du partage de vidéos en ligne et l'une des plateformes les plus visitées au monde ?",
-    "correct_answer": "Google",
+    "question": "Quel langage de programmation a été créé par Bjarne Stroustrup en 1985 comme extension du C ?",
+    "correct_answer": "C++",
     "incorrect_answers": [
-      "Microsoft",
-      "Apple",
-      "Meta (Facebook)"
+      "Objective-C",
+      "D",
+      "Rust"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707927438677-592d30e1262a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763568258449-44718bd82b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans les langages supportant les 'coroutines', quelle caractéristique distingue une coroutine d'une simple fonction ou d'un thread par sa capacité à suspendre son exécution et à la reprendre ultérieurement à partir du même point ?",
-    "correct_answer": "Yielding (point de suspension/reprise)",
+    "question": "Quel inventeur a conçu le premier ordinateur électronique programmable, l'ENIAC, en 1945 ?",
+    "correct_answer": "John Mauchly et J. Presper Eckert",
     "incorrect_answers": [
-      "Multithreading",
-      "Asynchronicité",
-      "Parallelisation"
+      "Alan Turing",
+      "Konrad Zuse",
+      "Howard Aiken"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258492-7c006595375a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de balisage a été créé par Tim Berners-Lee pour le World Wide Web en 1990 ?",
+    "correct_answer": "HTML",
+    "incorrect_answers": [
+      "XML",
+      "SGML",
+      "XHTML"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258205-3cbcf3ac56c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole est utilisé pour transférer des fichiers entre un client et un serveur sur Internet ?",
+    "correct_answer": "FTP",
+    "incorrect_answers": [
+      "HTTP",
+      "SMTP",
+      "SSH"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1763568258239-d3b5c95019af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel protocole de routage extérieur (EGP) est le protocole de routage de facto sur Internet, utilisé pour échanger des informations d'accessibilité entre les systèmes autonomes ?",
-    "correct_answer": "BGP (Border Gateway Protocol)",
+    "question": "Quel langage de programmation a été créé par Yukihiro Matsumoto en 1995 et est connu pour sa flexibilité ?",
+    "correct_answer": "Ruby",
     "incorrect_answers": [
-      "OSPF",
-      "RIP",
-      "EIGRP"
+      "Python",
+      "Perl",
+      "PHP"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1777132732614-6115ab88fa79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de cryptographie asymétrique a été inventé par Ron Rivest, Adi Shamir et Leonard Adleman en 1977 ?",
+    "correct_answer": "RSA",
+    "incorrect_answers": [
+      "AES",
+      "DES",
+      "ECC"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258844-b31a923568b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Anders Hejlsberg chez Microsoft en 2000 ?",
+    "correct_answer": "C#",
+    "incorrect_answers": [
+      "Java",
+      "Scala",
+      "Kotlin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1524690217307-5214e9eecf56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole est utilisé pour envoyer des emails sur Internet ?",
+    "correct_answer": "SMTP",
+    "incorrect_answers": [
+      "POP3",
+      "IMAP",
+      "HTTP"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580894896813-652ff5aa8146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Larry Wall en 1987 et est connu pour ses expressions régulières ?",
+    "correct_answer": "Perl",
+    "incorrect_answers": [
+      "Python",
+      "Ruby",
+      "PHP"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1683813479742-4730f91fa3ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de tri, basé sur le principe 'diviser pour régner', a été inventé par Tony Hoare en 1959 ?",
+    "correct_answer": "Tri rapide",
+    "incorrect_answers": [
+      "Tri fusion",
+      "Tri à bulles",
+      "Tri par insertion"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774620396033-18782cda8242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Graydon Hoare chez Mozilla en 2010 ?",
+    "correct_answer": "Rust",
+    "incorrect_answers": [
+      "Go",
+      "Swift",
+      "Dart"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1532522953890-ccc87dfeb0b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole est utilisé pour résoudre les noms de domaine en adresses IP ?",
+    "correct_answer": "DNS",
+    "incorrect_answers": [
+      "DHCP",
+      "HTTP",
+      "FTP"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258557-515962e11f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Rasmus Lerdorf en 1994 pour le développement web ?",
+    "correct_answer": "PHP",
+    "incorrect_answers": [
+      "Python",
+      "Ruby",
+      "Perl"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de compression avec perte a été développé par David Huffman en 1952 ?",
+    "correct_answer": "Codage de Huffman",
+    "incorrect_answers": [
+      "LZW",
+      "Run-length",
+      "Arithmetic coding"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258343-cdf1306baa2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Ken Thompson et Dennis Ritchie en 1973 pour le système Unix ?",
+    "correct_answer": "C",
+    "incorrect_answers": [
+      "Pascal",
+      "Fortran",
+      "COBOL"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1584949091708-0a21d38ab8de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole est utilisé pour sécuriser les connexions réseau via un tunnel chiffré ?",
+    "correct_answer": "VPN",
+    "incorrect_answers": [
+      "SSL",
+      "SSH",
+      "PGP"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1707927438677-592d30e1262a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Martin Odersky en 2003 comme extension de Java ?",
+    "correct_answer": "Scala",
+    "incorrect_answers": [
+      "Kotlin",
+      "Groovy",
+      "Clojure"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de recherche est utilisé pour trouver un élément dans une liste triée en O(log n) ?",
+    "correct_answer": "Recherche binaire",
+    "incorrect_answers": [
+      "Recherche linéaire",
+      "Recherche par interpolation",
+      "Recherche en largeur"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258311-8da2b4233921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Apple en 2014 pour développer des applications iOS ?",
+    "correct_answer": "Swift",
+    "incorrect_answers": [
+      "Objective-C",
+      "Kotlin",
+      "Dart"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776521796613-564c9f7d02e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole est utilisé pour gérer les adresses IP dynamiquement dans un réseau ?",
+    "correct_answer": "DHCP",
+    "incorrect_answers": [
+      "DNS",
+      "ARP",
+      "ICMP"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258143-904ea924ac53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Microsoft en 2009 pour remplacer C# ?",
+    "correct_answer": "Pas de remplacement",
+    "incorrect_answers": [
+      "TypeScript",
+      "F#",
+      "VB.NET"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258208-a5af30d5a31b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

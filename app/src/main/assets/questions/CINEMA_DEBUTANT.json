@@ -1,302 +1,302 @@
 [
   {
-    "question": "Qui est le réalisateur du film à succès mondial 'Titanic' ?",
-    "correct_answer": "James Cameron",
+    "question": "Quel réalisateur français a tourné 'Le Fabuleux Destin d'Amélie Poulain' ?",
+    "correct_answer": "Jean-Pierre Jeunet",
     "incorrect_answers": [
-      "Steven Spielberg",
-      "George Lucas",
-      "Quentin Tarantino"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1515975375753-7ea7401d0898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du célèbre sorcier à lunettes qui étudie à Poudlard ?",
-    "correct_answer": "Harry Potter",
-    "incorrect_answers": [
-      "Frodon Sacquet",
-      "Luke Skywalker",
-      "Indiana Jones"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1614030126544-b79b92e29e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle récompense cinématographique est la plus célèbre aux États-Unis ?",
-    "correct_answer": "L'Oscar",
-    "incorrect_answers": [
-      "Le César",
-      "La Palme d'Or",
-      "Le Lion d d'Or"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1654257649889-556ac8ad947d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel film Leonardo DiCaprio prononce-t-il la phrase mythique 'Je suis le roi du monde !' ?",
-    "correct_answer": "Titanic",
-    "incorrect_answers": [
-      "Inception",
-      "Le Loup de Wall Street",
-      "Romeo + Juliette"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-9f8cfca5d944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel studio d'animation est célèbre pour des films comme 'Le Roi Lion' et 'La Reine des Neiges' ?",
-    "correct_answer": "Disney",
-    "incorrect_answers": [
-      "DreamWorks",
-      "Pixar",
-      "Studio Ghibli"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553166272-e69910ab5ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui sont considérés comme les inventeurs du cinématographe ?",
-    "correct_answer": "Les frères Lumière",
-    "incorrect_answers": [
-      "Les frères Warner",
-      "Les frères Marx",
-      "Les frères Dardenne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1614368052447-c0d6f3f0052b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur français est célèbre pour ses rôles comiques comme le Gendarme Cruchot ?",
-    "correct_answer": "Louis de Funès",
-    "incorrect_answers": [
-      "Jean Gabin",
-      "Alain Delon",
-      "Gérard Depardieu"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1685838885743-0f059251d573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le titre du premier film de la saga 'Star Wars' sorti en 1977 ?",
-    "correct_answer": "Un nouvel espoir",
-    "incorrect_answers": [
-      "L'Empire contre-attaque",
-      "Le Retour du Jedi",
-      "La Menace fantôme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1620981503602-37a9d8bf9d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel film un gentil extraterrestre tente-t-il de rentrer chez lui grâce à un petit garçon ?",
-    "correct_answer": "E.T. l'extraterrestre",
-    "incorrect_answers": [
-      "Alien",
-      "Star Wars",
-      "Avatar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595270542459-2ec51c109e48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel festival de cinéma décerne la prestigieuse Palme d'Or en France ?",
-    "correct_answer": "Le Festival de Cannes",
-    "incorrect_answers": [
-      "Le Festival de Berlin",
-      "La Mostra de Venise",
-      "Le Festival de Deauville"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574882559683-c27d3f9ab471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne l'agent secret James Bond dans les films récents comme 'Mourir peut attendre' ?",
-    "correct_answer": "Daniel Craig",
-    "incorrect_answers": [
-      "Sean Connery",
-      "Pierce Brosnan",
-      "Roger Moore"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1654881192428-074e3d27ef55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film d'animation met en scène des jouets qui prennent vie quand les humains ne sont pas là ?",
-    "correct_answer": "Toy Story",
-    "incorrect_answers": [
-      "Cars",
-      "Monstres & Cie",
-      "Shrek"
+      "Luc Besson",
+      "François Truffaut",
+      "Jacques Tati"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1532800783378-1bed60adaf58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur est connu pour des films de science-fiction comme 'Jurassic Park' et 'E.T.' ?",
-    "correct_answer": "Steven Spielberg",
+    "question": "Quel acteur incarne Harry Potter dans la saga éponyme ?",
+    "correct_answer": "Daniel Radcliffe",
     "incorrect_answers": [
-      "Christopher Nolan",
-      "Ridley Scott",
-      "Tim Burton"
+      "Tom Holland",
+      "Robert Pattinson",
+      "Rupert Grint"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1650060176005-884bbe9f499a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1595270542459-2ec51c109e48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du petit bonhomme doré remis lors de la cérémonie des Oscars ?",
-    "correct_answer": "La statuette de l'Oscar",
+    "question": "Quel film de 1994 raconte l'histoire d'un lionceau roi de la savane ?",
+    "correct_answer": "Le Roi Lion",
     "incorrect_answers": [
-      "Le Golden Globe",
-      "Le BAFTA",
-      "Le César"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1572925140875-d30aebb64ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film français raconte l'amitié entre un homme d'affaires handicapé et son auxiliaire de vie ?",
-    "correct_answer": "Intouchables",
-    "incorrect_answers": [
-      "Le Dîner de Cons",
-      "Bienvenue chez les Ch'tis",
-      "La Chèvre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1622829118151-1cfabdf11a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle actrice est célèbre pour avoir joué Amélie Poulain dans 'Le Fabuleux Destin d'Amélie Poulain' ?",
-    "correct_answer": "Audrey Tautou",
-    "incorrect_answers": [
-      "Marion Cotillard",
-      "Isabelle Huppert",
-      "Catherine Deneuve"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1622829118131-27ab20ded438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du genre de films qui cherchent à faire peur aux spectateurs ?",
-    "correct_answer": "L'horreur",
-    "incorrect_answers": [
-      "La comédie",
-      "Le drame",
-      "La science-fiction"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1620981478761-3e5589cb09ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a joué le rôle principal dans le film 'Forrest Gump' ?",
-    "correct_answer": "Tom Hanks",
-    "incorrect_answers": [
-      "Brad Pitt",
-      "George Clooney",
-      "Robert De Niro"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514076529215-03662283365b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quelle ville américaine se trouve le célèbre quartier du cinéma, Hollywood ?",
-    "correct_answer": "Los Angeles",
-    "incorrect_answers": [
-      "New York",
-      "Miami",
-      "San Francisco"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1613908137518-06348dea40e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du bâton que le réalisateur claque pour synchroniser l'image et le son ?",
-    "correct_answer": "Le clap",
-    "incorrect_answers": [
-      "Le micro",
-      "La caméra",
-      "La perche"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1678655538413-b0f9623b0f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel célèbre dinosaure est au centre des films 'Jurassic Park' ?",
-    "correct_answer": "Le Tyrannosaure Rex (T-Rex)",
-    "incorrect_answers": [
-      "Le Tricératops",
-      "Le Vélociraptor",
-      "Le Stégosaure"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1655734335178-c51d9e048677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'agent secret britannique créé par Ian Fleming ?",
-    "correct_answer": "James Bond",
-    "incorrect_answers": [
-      "Jason Bourne",
-      "Ethan Hunt",
-      "John Wick"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514078156858-22cfc7e23147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel prix récompense le meilleur film français chaque année ?",
-    "correct_answer": "Le César",
-    "incorrect_answers": [
-      "Le Goya",
-      "Le BAFTA",
-      "L'Oscar"
+      "Tarzan",
+      "Bambi",
+      "La Belle et la Bête"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1548607634-e47cdc7a6b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quand a eu lieu la première projection publique de cinéma par les frères Lumière ?",
-    "correct_answer": "Fin du XIXe siècle",
+    "question": "Quel réalisateur a signé 'Titanic' et 'Avatar' ?",
+    "correct_answer": "James Cameron",
     "incorrect_answers": [
-      "Début du XXe siècle",
-      "Milieu du XXe siècle",
-      "Fin du XVIIIe siècle"
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "Quentin Tarantino"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-45f82016c7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1553166272-e69910ab5ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel super-héros est capable de voler et possède une cape rouge ?",
-    "correct_answer": "Superman",
+    "question": "Quel acteur joue le rôle de Tony Stark dans les films Marvel ?",
+    "correct_answer": "Robert Downey Jr",
     "incorrect_answers": [
-      "Batman",
-      "Spider-Man",
-      "Iron Man"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1596765961658-7f8e7d129a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur français a souvent partagé l'affiche avec Louis de Funès dans des comédies ?",
-    "correct_answer": "Bourvil",
-    "incorrect_answers": [
-      "Fernandel",
-      "Jean-Paul Belmondo",
-      "Pierre Richard"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1607276159787-9ef4db5c0d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du grand studio de Los Angeles connu pour son logo avec un lion rugissant ?",
-    "correct_answer": "Metro-Goldwyn-Mayer (MGM)",
-    "incorrect_answers": [
-      "Paramount Pictures",
-      "Universal Pictures",
-      "20th Century Fox"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595270308058-9768eb05862c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film d'animation Pixar met en scène une famille de super-héros ?",
-    "correct_answer": "Les Indestructibles",
-    "incorrect_answers": [
-      "Moi, moche et méchant",
-      "Toy Story",
-      "Coco"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574712255203-2400beeb4bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur est souvent associé aux rôles d'aventurier comme Indiana Jones ?",
-    "correct_answer": "Harrison Ford",
-    "incorrect_answers": [
-      "Bruce Willis",
-      "Sylvester Stallone",
-      "Arnold Schwarzenegger"
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1647534605086-2a788fe5ad12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du célèbre réalisateur connu pour ses films muets et son personnage de Charlot ?",
-    "correct_answer": "Charlie Chaplin",
+    "question": "Quel film de 2010 met en scène un groupe de super-héros ?",
+    "correct_answer": "Les Avengers",
     "incorrect_answers": [
-      "Buster Keaton",
+      "X-Men : Le Commencement",
+      "Watchmen",
+      "The Dark Knight"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1622829118151-1cfabdf11a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur français a tourné 'Intouchables' ?",
+    "correct_answer": "Olivier Nakache et Éric Toledano",
+    "incorrect_answers": [
+      "Jean-Luc Godard",
+      "Luc Besson",
+      "Dany Boon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1654881192428-074e3d27ef55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne le Joker dans 'The Dark Knight' ?",
+    "correct_answer": "Heath Ledger",
+    "incorrect_answers": [
+      "Joaquin Phoenix",
+      "Jack Nicholson",
+      "Tom Hardy"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1650060176005-884bbe9f499a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de 1982 raconte l'histoire d'un extraterrestre perdu ?",
+    "correct_answer": "E.T. l'extra-terrestre",
+    "incorrect_answers": [
+      "Star Wars",
+      "Rencontres du troisième type",
+      "Alien"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-45f82016c7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Pulp Fiction' ?",
+    "correct_answer": "Quentin Tarantino",
+    "incorrect_answers": [
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Christopher Nolan"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1574712255203-2400beeb4bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Forrest Gump ?",
+    "correct_answer": "Tom Hanks",
+    "incorrect_answers": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Matt Damon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1596765961658-7f8e7d129a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de 1999 met en scène un groupe de lycéens en guerre ?",
+    "correct_answer": "Fight Club",
+    "incorrect_answers": [
+      "Matrix",
+      "Sixième Sens",
+      "American History X"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-9f8cfca5d944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'La La Land' ?",
+    "correct_answer": "Damien Chazelle",
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "Woody Allen",
+      "Martin Scorsese"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1614030126544-b79b92e29e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne Neo dans 'Matrix' ?",
+    "correct_answer": "Keanu Reeves",
+    "incorrect_answers": [
+      "Tom Cruise",
+      "Will Smith",
+      "Bruce Willis"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1515975375753-7ea7401d0898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de 2001 raconte l'histoire d'un homme qui vit le même jour en boucle ?",
+    "correct_answer": "Un jour sans fin",
+    "incorrect_answers": [
+      "Inception",
+      "Shutter Island",
+      "The Truman Show"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1607276159787-9ef4db5c0d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Parrain' ?",
+    "correct_answer": "Francis Ford Coppola",
+    "incorrect_answers": [
+      "Martin Scorsese",
       "Alfred Hitchcock",
-      "Fritz Lang"
+      "Stanley Kubrick"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1655734335178-c51d9e048677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Jack Dawson dans 'Titanic' ?",
+    "correct_answer": "Leonardo DiCaprio",
+    "incorrect_answers": [
+      "Brad Pitt",
+      "Johnny Depp",
+      "Matt Damon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1514078156858-22cfc7e23147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de 1975 met en scène un requin géant ?",
+    "correct_answer": "Les Dents de la mer",
+    "incorrect_answers": [
+      "Godzilla",
+      "Jurassic Park",
+      "Deep Blue Sea"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1572925140875-d30aebb64ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Inception' ?",
+    "correct_answer": "Christopher Nolan",
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "David Fincher"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1514076529215-03662283365b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne Indiana Jones ?",
+    "correct_answer": "Harrison Ford",
+    "incorrect_answers": [
+      "Tom Cruise",
+      "Sean Connery",
+      "Mel Gibson"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1620981503602-37a9d8bf9d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de 1999 met en scène un groupe de héros de comics ?",
+    "correct_answer": "X-Men",
+    "incorrect_answers": [
+      "Spider-Man",
+      "Batman",
+      "Les 4 Fantastiques"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1654257649889-556ac8ad947d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Silence des agneaux' ?",
+    "correct_answer": "Jonathan Demme",
+    "incorrect_answers": [
+      "Alfred Hitchcock",
+      "Stanley Kubrick",
+      "David Lynch"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1622829118131-27ab20ded438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Rocky Balboa ?",
+    "correct_answer": "Sylvester Stallone",
+    "incorrect_answers": [
+      "Arnold Schwarzenegger",
+      "Dolph Lundgren",
+      "Jean-Claude Van Damme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1614368052447-c0d6f3f0052b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de 2004 raconte l'histoire d'un homme qui rêve de voler ?",
+    "correct_answer": "Le Voyage de Chihiro",
+    "incorrect_answers": [
+      "Le Château ambulant",
+      "Mon Voisin Totoro",
+      "Princesse Mononoké"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1574882559683-c27d3f9ab471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Psychose' ?",
+    "correct_answer": "Alfred Hitchcock",
+    "incorrect_answers": [
+      "Stanley Kubrick",
+      "Steven Spielberg",
+      "Martin Scorsese"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1613908137518-06348dea40e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne James Bond dans 'GoldenEye' ?",
+    "correct_answer": "Pierce Brosnan",
+    "incorrect_answers": [
+      "Sean Connery",
+      "Roger Moore",
+      "Daniel Craig"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1678655538413-b0f9623b0f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de 1985 met en scène un voyage dans le temps ?",
+    "correct_answer": "Retour vers le futur",
+    "incorrect_answers": [
+      "Terminator",
+      "La Machine à explorer le temps",
+      "Looper"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1595270308058-9768eb05862c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Seigneur des Anneaux' ?",
+    "correct_answer": "Peter Jackson",
+    "incorrect_answers": [
+      "George Lucas",
+      "Steven Spielberg",
+      "James Cameron"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1685838885743-0f059251d573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Tony Montana dans 'Scarface' ?",
+    "correct_answer": "Al Pacino",
+    "incorrect_answers": [
+      "Robert De Niro",
+      "Joe Pesci",
+      "James Caan"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1610899633400-4fd20fba13fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3NzkxOTI0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de 1993 met en scène un dinosaure cloné ?",
+    "correct_answer": "Jurassic Park",
+    "incorrect_answers": [
+      "Godzilla",
+      "King Kong",
+      "Le Monde perdu"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1620981478761-3e5589cb09ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzc5MTkyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

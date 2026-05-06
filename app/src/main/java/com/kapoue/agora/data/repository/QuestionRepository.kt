@@ -8,10 +8,8 @@ import kotlinx.coroutines.flow.Flow
 
 interface QuestionRepository {
     fun getQuestions(theme: Theme, difficulty: Difficulty): Flow<List<Question>>
-    suspend fun fetchAndCacheQuestions(theme: Theme, difficulty: Difficulty)
     suspend fun syncFromAssets(theme: Theme, difficulty: Difficulty)
     suspend fun markAnsweredCorrectly(id: Long)
-    suspend fun incrementAttempts(id: Long)
     suspend fun getQuestionCount(theme: Theme, difficulty: Difficulty): Int
     suspend fun getProgress(theme: Theme, difficulty: Difficulty): Progress?
     suspend fun saveProgress(progress: Progress)

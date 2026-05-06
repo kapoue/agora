@@ -1,302 +1,312 @@
 [
   {
-    "question": "Quel est le nom du système d'exploitation le plus répandu pour les ordinateurs personnels ?",
-    "correct_answer": "Windows",
+    "question": "Quel langage de programmation est souvent utilisé pour créer des pages web interactives ?",
+    "correct_answer": "JavaScript",
     "incorrect_answers": [
-      "Android",
-      "iOS",
-      "macOS"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1584949091882-158ebf933cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est considéré comme l'un des co-fondateurs d'Apple, avec Steve Wozniak ?",
-    "correct_answer": "Steve Jobs",
-    "incorrect_answers": [
-      "Bill Gates",
-      "Mark Zuckerberg",
-      "Elon Musk"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1632251141959-40b21a6c118c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le rôle principal d'un moteur de recherche sur internet ?",
-    "correct_answer": "Trouver des informations sur le web",
-    "incorrect_answers": [
-      "Écrire des courriers électroniques",
-      "Créer des documents texte",
-      "Regarder des films en streaming"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1675495666589-94cdafbcfcc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est l'unité de base de l'information en informatique, représentée par 0 ou 1 ?",
-    "correct_answer": "Le bit",
-    "incorrect_answers": [
-      "Le pixel",
-      "L'octet",
-      "Le gigaoctet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1683813479742-4730f91fa3ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment appelle-t-on le logiciel qui permet de consulter des pages web ?",
-    "correct_answer": "Un navigateur internet",
-    "incorrect_answers": [
-      "Un antivirus",
-      "Un traitement de texte",
-      "Un tableur"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1745789888513-e9b4a2e1be6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel accessoire d'ordinateur est utilisé pour saisir du texte et des commandes ?",
-    "correct_answer": "Le clavier",
-    "incorrect_answers": [
-      "La souris",
-      "L'écran",
-      "L'imprimante"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1669054626218-f0b57b8ec632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle entreprise est principalement connue pour son système d'exploitation Android ?",
-    "correct_answer": "Google",
-    "incorrect_answers": [
-      "Microsoft",
-      "Apple",
-      "Samsung"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258535-fa1066506571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'inventeur britannique du World Wide Web (WWW) ?",
-    "correct_answer": "Tim Berners-Lee",
-    "incorrect_answers": [
-      "Bill Gates",
-      "Steve Jobs",
-      "Mark Zuckerberg"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1635775017492-1eb935a082a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Parmi ces entreprises, laquelle est connue pour avoir popularisé le smartphone iPhone ?",
-    "correct_answer": "Apple",
-    "incorrect_answers": [
-      "Sony",
-      "Huawei",
-      "Nintendo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1715967635831-f5a1f9658880?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du service permettant d'envoyer et de recevoir des messages électroniques ?",
-    "correct_answer": "L'e-mail",
-    "incorrect_answers": [
-      "Le chat",
-      "La visioconférence",
-      "Le SMS"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1624298696100-a6aae4884881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qu'est-ce qu'un \"algorithme\" en informatique ?",
-    "correct_answer": "Une série d'instructions pour résoudre un problème",
-    "incorrect_answers": [
-      "Un type de virus informatique",
-      "Un programme de retouche photo",
-      "Une machine à calculer ancienne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258226-3e3f67a6577e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le composant principal d'un ordinateur qui exécute les calculs et les instructions ?",
-    "correct_answer": "Le processeur (CPU)",
-    "incorrect_answers": [
-      "Le disque dur",
-      "La carte graphique",
-      "La mémoire RAM"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761123044903-1671e0edc3f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année approximativement l'internet a-t-il commencé à être accessible au grand public ?",
-    "correct_answer": "Dans les années 1990",
-    "incorrect_answers": [
-      "Dans les années 1950",
-      "Dans les années 2010",
-      "Dans les années 1970"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Comment s'appelle le petit curseur que l'on déplace à l'écran avec une souris ?",
-    "correct_answer": "Le pointeur",
-    "incorrect_answers": [
-      "Le curseur texte",
-      "L'icône",
-      "Le pixel"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258612-0ae7f6eb1422?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la fonction principale d'une clé USB ?",
-    "correct_answer": "Stocker et transporter des données",
-    "incorrect_answers": [
-      "Imprimer des documents",
-      "Connecter l'ordinateur à internet",
-      "Écouter de la musique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610758758803-e97eb9837638?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le terme pour un programme malveillant qui peut endommager un ordinateur ?",
-    "correct_answer": "Un virus",
-    "incorrect_answers": [
-      "Un algorithme",
-      "Un navigateur",
-      "Un système d'exploitation"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258752-fe55f4ab7267?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la principale différence entre un ordinateur portable et un ordinateur de bureau ?",
-    "correct_answer": "Sa capacité à être transporté facilement",
-    "incorrect_answers": [
-      "Sa vitesse de calcul",
-      "Le type de système d'exploitation",
-      "Sa capacité de stockage"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1544847558-3ccacb31ee7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du fondateur de Microsoft ?",
-    "correct_answer": "Bill Gates",
-    "incorrect_answers": [
-      "Steve Jobs",
-      "Larry Page",
-      "Jeff Bezos"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Que signifie l'acronyme \"Wi-Fi\" ?",
-    "correct_answer": "Une technologie de connexion sans fil",
-    "incorrect_answers": [
-      "Un format de fichier image",
-      "Une marque d'ordinateur portable",
-      "Un type de navigateur internet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610758758876-0680d8c2247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le rôle d'un pare-feu (firewall) sur un ordinateur ?",
-    "correct_answer": "Protéger contre les accès non autorisés",
-    "incorrect_answers": [
-      "Accélérer la vitesse d'internet",
-      "Afficher les pages web",
-      "Formater le disque dur"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel langage de programmation est souvent introduit l'apprentissage du code pour les débutants ?",
-    "correct_answer": "Scratch",
-    "incorrect_answers": [
-      "C++",
-      "Java",
-      "Assembleur"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894897591-ff1e18c89183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'entreprise qui a créé le réseau social Facebook ?",
-    "correct_answer": "Meta",
-    "incorrect_answers": [
-      "Twitter",
-      "Google",
-      "LinkedIn"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1638202677704-b74690bb8fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la fonction principale d'une imprimante ?",
-    "correct_answer": "Produire des documents papier",
-    "incorrect_answers": [
-      "Numériser des images",
-      "Afficher des vidéos",
-      "Stocker des fichiers"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595623654300-b27329804025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la machine à calculer mécanique inventée par Blaise Pascal ?",
-    "correct_answer": "La Pascaline",
-    "incorrect_answers": [
-      "L'ENIAC",
-      "Le Colossus",
-      "La Machine Analytique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767817099805-d79e31fb968c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Que représente le \"HTTPS\" dans l'adresse d'un site web ?",
-    "correct_answer": "Une connexion sécurisée",
-    "incorrect_answers": [
-      "Une page web archivée",
-      "Un type de fichier audio",
-      "Une base de données locale"
+      "HTML",
+      "CSS",
+      "Python"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel appareil numérique permet principalement de passer des appels, envoyer des messages et naviguer sur internet en mobilité ?",
-    "correct_answer": "Le smartphone",
+    "question": "Quel est le nom du premier ordinateur électronique programmable ?",
+    "correct_answer": "ENIAC",
     "incorrect_answers": [
-      "La tablette graphique",
-      "La montre connectée",
-      "La console de jeux"
+      "IBM PC",
+      "Apple I",
+      "Colossus"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258612-0ae7f6eb1422?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant de la tech a été fondé par Steve Jobs ?",
+    "correct_answer": "Apple",
+    "incorrect_answers": [
+      "Microsoft",
+      "Google",
+      "Amazon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1654375408506-382720d3e05f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole permet de naviguer sur internet de manière sécurisée ?",
+    "correct_answer": "HTTPS",
+    "incorrect_answers": [
+      "HTTP",
+      "FTP",
+      "SMTP"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1763568258439-de52f4b4e7f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qu'est-ce qu'un \"cloud\" en informatique ?",
-    "correct_answer": "Un espace de stockage de données en ligne",
+    "question": "Quel est le nom du système d'exploitation créé par Microsoft ?",
+    "correct_answer": "Windows",
     "incorrect_answers": [
-      "Un type de processeur graphique",
-      "Un logiciel de montage vidéo",
-      "Un système d'exploitation mobile"
+      "Linux",
+      "MacOS",
+      "Android"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1669052700037-db884b37b2d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1683813479742-4730f91fa3ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du géant du e-commerce fondé par Jeff Bezos ?",
-    "correct_answer": "Amazon",
+    "question": "Quel langage de programmation est principalement utilisé pour l'analyse de données ?",
+    "correct_answer": "Python",
     "incorrect_answers": [
-      "Alibaba",
-      "eBay",
-      "Rakuten"
+      "Java",
+      "C++",
+      "Ruby"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763568258445-70fecf4e78af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1595623654300-b27329804025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la fonction d'une webcam ?",
-    "correct_answer": "Capturer des images et vidéos en direct",
+    "question": "Quel inventeur a créé le premier algorithme destiné à être exécuté par une machine ?",
+    "correct_answer": "Ada Lovelace",
     "incorrect_answers": [
-      "Améliorer la qualité sonore",
-      "Projecter des images sur un mur",
-      "Accélérer le démarrage de l'ordinateur"
+      "Alan Turing",
+      "Charles Babbage",
+      "Grace Hopper"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1584949091882-158ebf933cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel service de messagerie instantanée a été racheté par Microsoft en 2011 ?",
+    "correct_answer": "Skype",
+    "incorrect_answers": [
+      "WhatsApp",
+      "Telegram",
+      "Viber"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1632251141959-40b21a6c118c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier micro-ordinateur commercialisé ?",
+    "correct_answer": "Altair 8800",
+    "incorrect_answers": [
+      "Apple I",
+      "Commodore PET",
+      "IBM PC"
     ],
     "imageUrl": "https://images.unsplash.com/photo-1651609236271-b7d6f8f52ef6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Que signifie l'expression \"télécharger\" un fichier ?",
-    "correct_answer": "Copier un fichier depuis internet vers son appareil",
+    "question": "Quel protocole permet d'envoyer des emails ?",
+    "correct_answer": "SMTP",
     "incorrect_answers": [
-      "Supprimer un fichier de son appareil",
-      "Partager un fichier avec un ami",
-      "Créer un nouveau fichier sur internet"
+      "HTTP",
+      "FTP",
+      "POP3"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1654375408506-382720d3e05f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1610758758876-0680d8c2247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+    "correct_answer": "Python",
+    "incorrect_answers": [
+      "Java",
+      "C#",
+      "PHP"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258226-3e3f67a6577e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier navigateur web graphique ?",
+    "correct_answer": "Mosaic",
+    "incorrect_answers": [
+      "Internet Explorer",
+      "Netscape",
+      "Chrome"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1669054626218-f0b57b8ec632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant de la tech a été fondé par Larry Page et Sergey Brin ?",
+    "correct_answer": "Google",
+    "incorrect_answers": [
+      "Facebook",
+      "Apple",
+      "Microsoft"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier virus informatique connu ?",
+    "correct_answer": "Creeper",
+    "incorrect_answers": [
+      "ILOVEYOU",
+      "Melissa",
+      "Stuxnet"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610758758803-e97eb9837638?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation est utilisé pour créer des applications Android ?",
+    "correct_answer": "Kotlin",
+    "incorrect_answers": [
+      "Swift",
+      "Java",
+      "C#"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1669052700037-db884b37b2d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur personnel grand public ?",
+    "correct_answer": "Apple II",
+    "incorrect_answers": [
+      "IBM PC",
+      "Commodore 64",
+      "Atari 800"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1635775017492-1eb935a082a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole permet de transférer des fichiers sur internet ?",
+    "correct_answer": "FTP",
+    "incorrect_answers": [
+      "HTTP",
+      "SMTP",
+      "DNS"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258445-70fecf4e78af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Dennis Ritchie ?",
+    "correct_answer": "C",
+    "incorrect_answers": [
+      "Java",
+      "Python",
+      "Pascal"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767817099805-d79e31fb968c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant de la tech a été fondé par Mark Zuckerberg ?",
+    "correct_answer": "Meta",
+    "incorrect_answers": [
+      "Twitter",
+      "Snapchat",
+      "TikTok"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258535-fa1066506571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier système d'exploitation graphique grand public ?",
+    "correct_answer": "MacOS",
+    "incorrect_answers": [
+      "Windows",
+      "Linux",
+      "DOS"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580894897591-ff1e18c89183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation est utilisé pour créer des sites web statiques ?",
+    "correct_answer": "HTML",
+    "incorrect_answers": [
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel inventeur a créé le premier ordinateur programmable ?",
+    "correct_answer": "Charles Babbage",
+    "incorrect_answers": [
+      "Alan Turing",
+      "Konrad Zuse",
+      "John von Neumann"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1675495666589-94cdafbcfcc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel service de stockage en ligne a été racheté par Microsoft en 2012 ?",
+    "correct_answer": "SkyDrive",
+    "incorrect_answers": [
+      "Dropbox",
+      "Google Drive",
+      "iCloud"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1745789888513-e9b4a2e1be6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier microprocesseur commercialisé ?",
+    "correct_answer": "Intel 4004",
+    "incorrect_answers": [
+      "AMD Ryzen",
+      "Motorola 68000",
+      "Zilog Z80"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1544847558-3ccacb31ee7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3Nzk1MjYzMnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole permet de résoudre les noms de domaine en adresses IP ?",
+    "correct_answer": "DNS",
+    "incorrect_answers": [
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761123044903-1671e0edc3f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par James Gosling ?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "C++",
+      "Python",
+      "Ruby"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1715967635831-f5a1f9658880?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant de la tech a été fondé par Jeff Bezos ?",
+    "correct_answer": "Amazon",
+    "incorrect_answers": [
+      "eBay",
+      "Alibaba",
+      "Etsy"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1638202677704-b74690bb8fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur personnel à succès commercial ?",
+    "correct_answer": "Commodore PET",
+    "incorrect_answers": [
+      "Apple I",
+      "IBM PC",
+      "TRS-80"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation est utilisé pour créer des applications iOS ?",
+    "correct_answer": "Swift",
+    "incorrect_answers": [
+      "Kotlin",
+      "Java",
+      "C#"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1624298696100-a6aae4884881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel inventeur a créé le premier ordinateur électronique ?",
+    "correct_answer": "Konrad Zuse",
+    "incorrect_answers": [
+      "Alan Turing",
+      "John von Neumann",
+      "Thomas Edison"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763568258752-fe55f4ab7267?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzc5NTI2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel service de streaming a été fondé par Reed Hastings ?",
+    "correct_answer": "Netflix",
+    "incorrect_answers": [
+      "Disney+",
+      "HBO Max",
+      "Amazon Prime Video"
+    ],
+    "imageUrl": null
   }
 ]

@@ -1,302 +1,302 @@
 [
   {
-    "question": "Quel album de Pink Floyd, sorti en 1973, est célèbre pour sa pochette représentant un prisme et un spectre lumineux ?",
-    "correct_answer": "The Dark Side of the Moon",
-    "incorrect_answers": [
-      "Wish You Were Here",
-      "The Wall",
-      "Animals"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801825575-8025cc6fac5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste est considéré comme l'un des pionniers du mouvement reggae en Jamaïque et le symbole international de ce genre ?",
-    "correct_answer": "Bob Marley",
-    "incorrect_answers": [
-      "Fela Kuti",
-      "James Brown",
-      "Jimi Hendrix"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801820195-8b231d79d5c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument à vent est connu pour sa forme conique, sa sonorité riche et son utilisation fréquente dans le jazz et la musique classique ?",
-    "correct_answer": "Le saxophone",
-    "incorrect_answers": [
-      "La clarinette",
-      "La flûte traversière",
-      "Le hautbois"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801826700-b2be1481af3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur autrichien du début du romantisme est célèbre pour ses nombreuses lieder (mélodies) et sa symphonie n°8 surnommée 'L'Inachevée' ?",
-    "correct_answer": "Franz Schubert",
+    "question": "Quel compositeur a écrit la célèbre 'Symphonie n°5' surnommée 'Le Destin' ?",
+    "correct_answer": "Ludwig van Beethoven",
     "incorrect_answers": [
       "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johannes Brahms"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1712961167075-5afda269be72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical électronique est caractérisé par un tempo rapide, des percussions intenses et des lignes de basse hypnotiques, ayant émergé dans les années 80 à Detroit ?",
-    "correct_answer": "La techno",
-    "incorrect_answers": [
-      "La house",
-      "Le drum and bass",
-      "Le trance"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730875655057-4cb31eab8220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle chanson de Queen est un opéra rock épique sans refrain traditionnel, célèbre pour ses multiples sections et sa complexité, sortie en 1975 ?",
-    "correct_answer": "Bohemian Rhapsody",
-    "incorrect_answers": [
-      "We Will Rock You",
-      "Don't Stop Me Now",
-      "Killer Queen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574282866353-011f9136ba9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel guitariste légendaire est connu pour avoir joué de la guitare électrique avec les dents et l'avoir incendiée sur scène, notamment au festival de Monterey Pop ?",
-    "correct_answer": "Jimi Hendrix",
-    "incorrect_answers": [
-      "Eric Clapton",
-      "Jimmy Page",
-      "Carlos Santana"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1580151649962-51562d10c70a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel terme désigne l'art de combiner plusieurs mélodies simultanément de manière indépendante, créant une texture musicale complexe ?",
-    "correct_answer": "La polyphonie",
-    "incorrect_answers": [
-      "L'homophonie",
-      "L'harmonie",
-      "L'unisson"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583258189197-4320a4955ce0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel chanteur américain a sorti l'album 'Thriller' en 1982, qui est devenu l'un des albums les plus vendus de tous les temps ?",
-    "correct_answer": "Michael Jackson",
-    "incorrect_answers": [
-      "Stevie Wonder",
-      "Prince",
-      "Lionel Richie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1629881791869-94616d7f1b26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sous-genre du jazz, né dans les années 1940, est caractérisé par des tempos rapides, des improvisations virtuoses et une harmonie sophistiquée ?",
-    "correct_answer": "Le bebop",
-    "incorrect_answers": [
-      "Le swing",
-      "Le cool jazz",
-      "Le free jazz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776611669342-2320f3019bef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur allemand du XVIIIe siècle est célèbre pour ses cantates, ses concertos brandebourgeois et sa 'Passion selon Saint Matthieu' ?",
-    "correct_answer": "Jean-Sébastien Bach",
-    "incorrect_answers": [
-      "Georg Friedrich Haendel",
-      "Joseph Haydn",
-      "Antonio Vivaldi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1760084459381-f811a73c3801?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle comédie musicale, inspirée de 'Roméo et Juliette', met en scène des gangs rivaux à New York sur une musique de Leonard Bernstein ?",
-    "correct_answer": "West Side Story",
-    "incorrect_answers": [
-      "Les Misérables",
-      "Cats",
-      "Phantom of the Opera"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769812343936-fb9fc21f99c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de rock britannique est souvent cité comme un pionnier du hard rock et du heavy metal avec des albums comme 'Led Zeppelin IV' et des morceaux tels que 'Stairway to Heaven' ?",
-    "correct_answer": "Led Zeppelin",
-    "incorrect_answers": [
-      "Deep Purple",
-      "Black Sabbath",
-      "The Rolling Stones"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766844931800-cbabc144f9cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel type d'orchestre trouve-t-on le plus souvent des instruments traditionnels comme le shamisen (luth), le koto (cithare) et le shakuhachi (flûte) ?",
-    "correct_answer": "Un orchestre traditionnel japonais",
-    "incorrect_answers": [
-      "Un orchestre symphonique",
-      "Un ensemble de gamelan",
-      "Un orchestre africain"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1629881791820-faba21d26e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel album de The Beatles, sorti en 1967, est souvent considéré comme l'un des premiers et plus influents albums conceptuels de l'histoire du rock ?",
-    "correct_answer": "Sgt. Pepper's Lonely Hearts Club Band",
-    "incorrect_answers": [
-      "Revolver",
-      "Abbey Road",
-      "Rubber Soul"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1629881653093-db84297ff24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "De quelle ville américaine est originaire le genre musical 'grunge', popularisé par des groupes comme Nirvana et Pearl Jam dans les années 90 ?",
-    "correct_answer": "Seattle",
-    "incorrect_answers": [
-      "Los Angeles",
-      "New York",
-      "Chicago"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758358043171-64ad04ced0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur italien est célèbre pour ses opéras réalistes comme 'La Traviata', 'Rigoletto' et 'Aida' ?",
-    "correct_answer": "Giuseppe Verdi",
-    "incorrect_answers": [
-      "Giacomo Puccini",
-      "Gioachino Rossini",
-      "Wolfgang Amadeus Mozart"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1772597228321-59163b583b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Sous quel nom de scène le musicien David Robert Jones est-il devenu une icône du rock, célèbre pour ses transformations artistiques et ses personnages comme Ziggy Stardust ?",
-    "correct_answer": "David Bowie",
-    "incorrect_answers": [
-      "Elton John",
-      "Freddy Mercury",
-      "Prince"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1679039324734-ea40aca53440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "À quelle famille d'instruments symphoniques appartient le contrebasson, un instrument à anche double et au son grave ?",
-    "correct_answer": "Les bois",
-    "incorrect_answers": [
-      "Les cuivres",
-      "Les cordes",
-      "Les percussions"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1608728786215-8234c575dc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur franco-flamand est une figure majeure de la musique de la Renaissance, connu pour ses messes et motets polyphoniques ?",
-    "correct_answer": "Josquin des Prez",
-    "incorrect_answers": [
-      "Guillaume de Machaut",
-      "Claudio Monteverdi",
-      "Giovanni Pierluigi da Palestrina"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762943627642-0f191e765ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical brésilien est indissociable d'une danse de couple entraînante, et a été popularisé dans le monde entier par des artistes comme Antônio Carlos Jobim et João Gilberto ?",
-    "correct_answer": "La bossa nova",
-    "incorrect_answers": [
-      "Le forró",
-      "Le samba",
-      "Le choro"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774174384438-6c7a3bf0bad6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel album de Miles Davis, sorti en 1959, est souvent cité comme l'un des albums les plus influents et les plus vendus de l'histoire du jazz modal ?",
-    "correct_answer": "Kind of Blue",
-    "incorrect_answers": [
-      "A Love Supreme",
-      "Bitches Brew",
-      "Giant Steps"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777730864372-c8d57f01d0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quelle ville française se déroule annuellement le festival des Vieilles Charrues, l'un des plus grands festivals de musique en France ?",
-    "correct_answer": "Carhaix-Plouguer",
-    "incorrect_answers": [
-      "Arles",
-      "La Rochelle",
-      "Clermont-Ferrand"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1630353174795-92c3a0b3e8ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe irlandais, célèbre pour des tubes comme 'With or Without You' et 'Sunday Bloody Sunday', est mené par le charismatique chanteur Bono ?",
-    "correct_answer": "U2",
-    "incorrect_answers": [
-      "The Cranberries",
-      "Oasis",
-      "Coldplay"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590026821754-7075cf10626e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le compositeur de l'opéra 'Carmen', l'une des œuvres lyriques françaises les plus jouées au monde ?",
-    "correct_answer": "Georges Bizet",
-    "incorrect_answers": [
-      "Jacques Offenbach",
-      "Claude Debussy",
-      "Camille Saint-Saëns"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1768264229589-51bc8e8c9124?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la pièce métallique ou en os, située à l'extrémité du manche d'une guitare, qui maintient les cordes à la bonne hauteur au-dessus des frettes près de la tête ?",
-    "correct_answer": "Le sillet",
-    "incorrect_answers": [
-      "Le chevalet",
-      "La touche",
-      "Le manche"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730875646247-86a25efbdcba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel duo français est mondialement connu pour ses casques de robot iconiques et des albums novateurs comme 'Discovery' et 'Random Access Memories' ?",
-    "correct_answer": "Daft Punk",
-    "incorrect_answers": [
-      "Justice",
-      "Air",
-      "Phoenix"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1603230305244-0503a0c36a05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur italien de la période baroque est célèbre pour ses nombreux concertos pour violon, notamment le cycle 'Les Quatre Saisons' ?",
-    "correct_answer": "Antonio Vivaldi",
-    "incorrect_answers": [
-      "Arcangelo Corelli",
       "Johann Sebastian Bach",
-      "Georg Philipp Telemann"
+      "Franz Schubert"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1629881653030-89bf76f4bafa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767216398625-84529a6c5f68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle chanteuse américaine est surnommée la 'Reine de la Soul' et est célèbre pour des chansons emblématiques comme 'Respect' et '(You Make Me Feel Like) A Natural Woman' ?",
-    "correct_answer": "Aretha Franklin",
-    "incorrect_answers": [
-      "Etta James",
-      "Diana Ross",
-      "Tina Turner"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1580151755089-075031f569b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe britannique est à l'origine de l'album 'Abbey Road', célèbre pour sa pochette montrant les quatre membres traversant un passage piéton à Londres ?",
-    "correct_answer": "The Beatles",
+    "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' en 1973 ?",
+    "correct_answer": "Pink Floyd",
     "incorrect_answers": [
       "Led Zeppelin",
       "The Rolling Stones",
       "Queen"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764805354913-953132e82086?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc3OTE5NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1776611669342-2320f3019bef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est traditionnellement utilisé dans la musique classique indienne ?",
+    "correct_answer": "Sitar",
+    "incorrect_answers": [
+      "Violon",
+      "Piano",
+      "Guitare électrique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1679039324734-ea40aca53440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel artiste est surnommé 'Le Roi de la Pop' ?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Elvis Presley",
+      "Prince",
+      "Madonna"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580151755089-075031f569b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est originaire de la région du Mississippi et lié au blues ?",
+    "correct_answer": "Rock 'n' roll",
+    "incorrect_answers": [
+      "Jazz",
+      "Country",
+      "Folk"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1590026821754-7075cf10626e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit l'opéra 'La Flûte enchantée' ?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "incorrect_answers": [
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Giacomo Puccini"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1629881791869-94616d7f1b26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au cœur de la musique flamenco ?",
+    "correct_answer": "Guitare espagnole",
+    "incorrect_answers": [
+      "Violon",
+      "Piano",
+      "Accordéon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762943627642-0f191e765ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a popularisé le mouvement punk dans les années 1970 ?",
+    "correct_answer": "The Sex Pistols",
+    "incorrect_answers": [
+      "The Beatles",
+      "The Who",
+      "The Doors"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1712961167075-5afda269be72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Le Boléro' en 1928 ?",
+    "correct_answer": "Maurice Ravel",
+    "incorrect_answers": [
+      "Igor Stravinsky",
+      "Sergeï Prokofiev",
+      "Claude Debussy"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764805354913-953132e82086?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est le plus ancien parmi ces quatre ?",
+    "correct_answer": "Flûte de Divje Babe",
+    "incorrect_answers": [
+      "Violon",
+      "Piano",
+      "Harpe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777730864372-c8d57f01d0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel artiste a sorti l'album 'Thriller' en 1982 ?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Prince",
+      "Madonna",
+      "Bruce Springsteen"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774174384438-6c7a3bf0bad6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est associé à des artistes comme Miles Davis et John Coltrane ?",
+    "correct_answer": "Jazz",
+    "incorrect_answers": [
+      "Blues",
+      "Rock",
+      "Classique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1629881791820-faba21d26e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'La Traviata' ?",
+    "correct_answer": "Giuseppe Verdi",
+    "incorrect_answers": [
+      "Giacomo Puccini",
+      "Richard Wagner",
+      "Georges Bizet"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1583258189197-4320a4955ce0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est joué avec un archet et a quatre cordes ?",
+    "correct_answer": "Violon",
+    "incorrect_answers": [
+      "Guitare",
+      "Piano",
+      "Harpe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1625801826700-b2be1481af3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'Abbey Road' en 1969 ?",
+    "correct_answer": "The Beatles",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1625801820195-8b231d79d5c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Le Sacre du printemps' ?",
+    "correct_answer": "Igor Stravinsky",
+    "incorrect_answers": [
+      "Sergeï Prokofiev",
+      "Dmitri Chostakovitch",
+      "Modeste Moussorgski"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1630353174795-92c3a0b3e8ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est traditionnellement utilisé dans la musique country ?",
+    "correct_answer": "Banjo",
+    "incorrect_answers": [
+      "Violon",
+      "Piano",
+      "Guitare électrique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1629881653093-db84297ff24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel artiste est connu pour ses performances scéniques extravagantes et son alter ego Ziggy Stardust ?",
+    "correct_answer": "David Bowie",
+    "incorrect_answers": [
+      "Freddie Mercury",
+      "Elton John",
+      "Prince"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1580151649962-51562d10c70a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est né dans les années 1950 aux États-Unis avec des artistes comme Chuck Berry ?",
+    "correct_answer": "Rock 'n' roll",
+    "incorrect_answers": [
+      "Blues",
+      "Jazz",
+      "Folk"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1574282866353-011f9136ba9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Les Quatre Saisons' ?",
+    "correct_answer": "Antonio Vivaldi",
+    "incorrect_answers": [
+      "Johann Sebastian Bach",
+      "Georg Friedrich Haendel",
+      "Henry Purcell"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1603230305244-0503a0c36a05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au cœur de la musique baroque ?",
+    "correct_answer": "Clavecin",
+    "incorrect_answers": [
+      "Piano",
+      "Violon",
+      "Flûte traversière"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766844931800-cbabc144f9cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a popularisé le mouvement grunge dans les années 1990 ?",
+    "correct_answer": "Nirvana",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1730875646247-86a25efbdcba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'La Symphonie du Nouveau Monde' ?",
+    "correct_answer": "Antonín Dvořák",
+    "incorrect_answers": [
+      "Bedřich Smetana",
+      "Piotr Ilitch Tchaïkovski",
+      "Modeste Moussorgski"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1730875655057-4cb31eab8220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est joué avec des baguettes et fait partie d'une batterie ?",
+    "correct_answer": "Caisse claire",
+    "incorrect_answers": [
+      "Guitare basse",
+      "Clarinette",
+      "Trompette"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1760084459381-f811a73c3801?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel artiste a sorti l'album 'Nevermind' en 1991 ?",
+    "correct_answer": "Nirvana",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Red Hot Chili Peppers"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768264229589-51bc8e8c9124?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est associé à des artistes comme Bob Marley et Peter Tosh ?",
+    "correct_answer": "Reggae",
+    "incorrect_answers": [
+      "Ska",
+      "Calypso",
+      "Salsa"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1625801825575-8025cc6fac5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'La Flûte enchantée' ?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "incorrect_answers": [
+      "Ludwig van Beethoven",
+      "Richard Wagner",
+      "Giacomo Puccini"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1772597228321-59163b583b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est traditionnellement utilisé dans la musique celtique ?",
+    "correct_answer": "Cornemuse",
+    "incorrect_answers": [
+      "Violon",
+      "Piano",
+      "Guitare"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758358043171-64ad04ced0ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel artiste est connu pour ses chansons engagées comme 'Imagine' et 'Give Peace a Chance' ?",
+    "correct_answer": "John Lennon",
+    "incorrect_answers": [
+      "Bob Dylan",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1629881653030-89bf76f4bafa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est né en Jamaïque dans les années 1960 et a influencé le reggae ?",
+    "correct_answer": "Ska",
+    "incorrect_answers": [
+      "Rocksteady",
+      "Dub",
+      "Dancehall"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1769812343936-fb9fc21f99c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc4MDQ3NzE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

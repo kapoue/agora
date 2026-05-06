@@ -35,7 +35,6 @@ data class GameUiState(
     val theme: Theme = Theme.HISTOIRE,
     val difficulty: Difficulty = Difficulty.DEBUTANT,
     val error: String? = null,
-    val firstTryCount: Int = 0,
     val totalInSession: Int = 0,
     val errorCount: Int = 0
 )
@@ -60,15 +59,11 @@ class GameViewModel @Inject constructor(
     private var lastTheme: Theme = Theme.HISTOIRE
     private var lastDifficulty: Difficulty = Difficulty.DEBUTANT
 
-    private val sessionAttemptsMap: MutableMap<Long, Int> = mutableMapOf()
-    private var sessionFirstTryCount: Int = 0
     private var sessionErrorCount: Int = 0
 
     fun initialize(theme: Theme, difficulty: Difficulty) {
         lastTheme = theme
         lastDifficulty = difficulty
-        sessionAttemptsMap.clear()
-        sessionFirstTryCount = 0
         sessionErrorCount = 0
         _uiState.value = GameUiState(isLoading = true, theme = theme, difficulty = difficulty)
         viewModelScope.launch {
@@ -102,8 +97,7 @@ class GameViewModel @Inject constructor(
                         isCompleted = true,
                         allDifficultiesCompleted = allDone,
                         currentLevel = savedLevel,
-                        totalInSession = 0,
-                        firstTryCount = 0
+                        totalInSession = 0
                     )
                     return@let
                 }
@@ -143,9 +137,6 @@ class GameViewModel @Inject constructor(
         val newLevel = if (isCorrect) state.currentLevel + 1 else state.currentLevel
         lastAnswerCorrect = isCorrect
 
-        val tryCount = (sessionAttemptsMap[question.id] ?: 0) + 1
-        sessionAttemptsMap[question.id] = tryCount
-        if (isCorrect && tryCount == 1) sessionFirstTryCount++
         if (!isCorrect) sessionErrorCount++
 
         _uiState.value = state.copy(
@@ -164,7 +155,6 @@ class GameViewModel @Inject constructor(
         )
 
         viewModelScope.launch {
-            questionRepository.incrementAttempts(question.id)
             if (isCorrect) {
                 questionRepository.markAnsweredCorrectly(question.id)
                 saveProgressUseCase(
@@ -189,7 +179,6 @@ class GameViewModel @Inject constructor(
                     allDifficultiesCompleted = allDone,
                     currentQuestion = null,
                     showNext = false,
-                    firstTryCount = sessionFirstTryCount,
                     errorCount = sessionErrorCount
                 )
             }
