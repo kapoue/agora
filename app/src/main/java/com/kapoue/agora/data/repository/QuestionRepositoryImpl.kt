@@ -43,6 +43,9 @@ class QuestionRepositoryImpl @Inject constructor(
             .mapIndexed { index, entity -> entity.copy(positionInPool = existingCount + index) }
         if (toInsert.isNotEmpty()) {
             questionDao.insertQuestions(toInsert)
+            // Nouvelles questions détectées → remise à zéro du combo pour repartir de 0
+            questionDao.resetDifficultyQuestions(theme.name, difficulty.name)
+            progressDao.deleteProgress(theme.name, difficulty.name)
         }
 
         newEntities

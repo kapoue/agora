@@ -40,6 +40,9 @@ interface QuestionDao {
     @Query("SELECT COUNT(*) FROM questions WHERE theme = :theme AND difficulty = :difficulty AND isAnsweredCorrectly = 1")
     suspend fun countAnsweredCorrectly(theme: String, difficulty: String): Int
 
+    @Query("UPDATE questions SET isAnsweredCorrectly = 0 WHERE theme = :theme AND difficulty = :difficulty")
+    suspend fun resetDifficultyQuestions(theme: String, difficulty: String)
+
     @Query("UPDATE questions SET isAnsweredCorrectly = 0, attempts = 0 WHERE theme = :theme")
     suspend fun resetThemeQuestions(theme: String)
 
