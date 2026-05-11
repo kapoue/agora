@@ -119,11 +119,16 @@ class GameViewModel @Inject constructor(
 
     private fun initializeCultureGenerale(difficulty: Difficulty) {
         viewModelScope.launch {
-            val loadedQuestions = getRandomQuestionsUseCase(difficulty, limit = 20)
+            Theme.entries
+                .filter { it != Theme.CULTURE_GENERALE }
+                .forEach { theme ->
+                    try { questionRepository.syncFromAssets(theme, difficulty) } catch (_: Exception) {}
+                }
+            val loadedQuestions = getRandomQuestionsUseCase(difficulty, limit = 30)
             if (loadedQuestions.isEmpty()) {
                 _uiState.value = _uiState.value.copy(
                     isLoading = false,
-                    error = "Aucune question disponible. Lance d'abord quelques thèmes pour alimenter la base."
+                    error = "Aucune question disponible."
                 )
                 return@launch
             }
@@ -181,7 +186,7 @@ class GameViewModel @Inject constructor(
         )
 
         viewModelScope.launch {
-            if (isCorrect) {
+            if (isCorrect && lastTheme != Theme.CULTURE_GENERALE) {
                 questionRepository.markAnsweredCorrectly(question.id)
                 saveProgressUseCase(
                     theme = state.theme,
