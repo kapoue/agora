@@ -31,13 +31,21 @@ class HomeViewModel @Inject constructor(
 
     private fun loadThemeData() {
         viewModelScope.launch {
-            // Images lues directement depuis les assets JSON — disponibles dès le premier lancement
             val imageMap = Theme.entries.map { theme ->
-                async { theme to assetQuestionLoader.getFirstImageUrl(theme) }
+                async {
+                    val url = if (theme == Theme.CULTURE_GENERALE) {
+                        questionRepository.getRandomImageUrl()
+                    } else {
+                        assetQuestionLoader.getFirstImageUrl(theme)
+                    }
+                    theme to url
+                }
             }.awaitAll().toMap()
             _themeImages.value = imageMap
 
-            val seriesMap = Theme.entries.map { theme ->
+            val seriesMap = Theme.entries
+                .filter { it != Theme.CULTURE_GENERALE }
+                .map { theme ->
                 async { theme to questionRepository.getSeriesCount(theme) }
             }.awaitAll().toMap()
             _seriesCounts.value = seriesMap

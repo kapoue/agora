@@ -62,6 +62,7 @@ class AssetQuestionLoader @Inject constructor(
     }
 
     fun getFirstImageUrl(theme: Theme): String? {
+        if (theme == Theme.CULTURE_GENERALE) return null
         for (difficulty in Difficulty.entries) {
             val filename = "questions/${theme.name}_${difficulty.name}.json"
             try {

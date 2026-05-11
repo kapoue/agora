@@ -11,6 +11,7 @@ import com.kapoue.agora.domain.model.Question
 import com.kapoue.agora.domain.model.Theme
 import com.kapoue.agora.domain.usecase.GetProgressUseCase
 import com.kapoue.agora.domain.usecase.GetQuestionsUseCase
+import com.kapoue.agora.domain.usecase.GetRandomQuestionsUseCase
 import com.kapoue.agora.domain.usecase.SaveProgressUseCase
 import com.kapoue.agora.ui.components.AnswerState
 import dagger.hilt.android.lifecycle.HiltViewModel
@@ -44,6 +45,7 @@ class GameViewModel @Inject constructor(
     @ApplicationContext private val context: Context,
     private val questionRepository: QuestionRepository,
     private val getQuestionsUseCase: GetQuestionsUseCase,
+    private val getRandomQuestionsUseCase: GetRandomQuestionsUseCase,
     private val saveProgressUseCase: SaveProgressUseCase,
     private val getProgressUseCase: GetProgressUseCase,
     private val imageLoader: ImageLoader
@@ -66,6 +68,12 @@ class GameViewModel @Inject constructor(
         lastDifficulty = difficulty
         sessionErrorCount = 0
         _uiState.value = GameUiState(isLoading = true, theme = theme, difficulty = difficulty)
+
+        if (theme == Theme.CULTURE_GENERALE) {
+            initializeCultureGenerale(difficulty)
+            return
+        }
+
         viewModelScope.launch {
             val progress = getProgressUseCase(theme, difficulty)
             val savedLevel = progress?.currentLevel ?: 0
@@ -106,6 +114,24 @@ class GameViewModel @Inject constructor(
                 showCurrentQuestion(savedLevel)
                 prefetchImages()
             }
+        }
+    }
+
+    private fun initializeCultureGenerale(difficulty: Difficulty) {
+        viewModelScope.launch {
+            val loadedQuestions = getRandomQuestionsUseCase(difficulty, limit = 20)
+            if (loadedQuestions.isEmpty()) {
+                _uiState.value = _uiState.value.copy(
+                    isLoading = false,
+                    error = "Aucune question disponible. Lance d'abord quelques thèmes pour alimenter la base."
+                )
+                return@launch
+            }
+            questions = loadedQuestions
+            pendingQueue = ArrayDeque(loadedQuestions)
+            _uiState.value = _uiState.value.copy(totalInSession = pendingQueue.size)
+            showCurrentQuestion(0)
+            prefetchImages()
         }
     }
 

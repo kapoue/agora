@@ -19,4 +19,6 @@ interface QuestionRepository {
     suspend fun getSeriesCount(theme: Theme): Int
     suspend fun incrementSeriesCount(theme: Theme)
     suspend fun getFirstImageUrl(theme: Theme): String?
+    suspend fun getRandomQuestionsForAllThemes(difficulty: Difficulty, limit: Int): List<Question>
+    suspend fun getRandomImageUrl(): String?
 }

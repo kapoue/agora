@@ -71,5 +71,10 @@ enum class Theme(
         displayName = "Véhicules",
         unsplashQuery = "vehicles cars transportation",
         placeholderRes = R.drawable.placeholder_vehicules
+    ),
+    CULTURE_GENERALE(
+        displayName = "Culture Générale",
+        unsplashQuery = "knowledge culture library",
+        placeholderRes = R.drawable.placeholder_culture_generale
     )
 }

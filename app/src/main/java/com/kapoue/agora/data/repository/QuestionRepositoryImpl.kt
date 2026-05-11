@@ -90,6 +90,7 @@ class QuestionRepositoryImpl @Inject constructor(
     }
 
     override suspend fun isAllDifficultiesCompleted(theme: Theme): Boolean {
+        if (theme == Theme.CULTURE_GENERALE) return false
         return Difficulty.entries.all { difficulty ->
             val total = questionDao.countQuestions(theme.name, difficulty.name)
             val answered = questionDao.countAnsweredCorrectly(theme.name, difficulty.name)
@@ -115,6 +116,30 @@ class QuestionRepositoryImpl @Inject constructor(
 
     override suspend fun getFirstImageUrl(theme: Theme): String? {
         return questionDao.getFirstImageUrl(theme.name)
+    }
+
+    override suspend fun getRandomQuestionsForAllThemes(
+        difficulty: Difficulty,
+        limit: Int
+    ): List<Question> {
+        val excluded = listOf("CULTURE_GENERALE")
+        val unanswered = questionDao.getRandomUnansweredQuestionsAllThemes(
+            difficulty.name, excluded, limit
+        )
+        return if (unanswered.size >= limit) {
+            unanswered.map { it.toDomain() }
+        } else {
+            val remaining = limit - unanswered.size
+            val answeredIds = unanswered.map { it.id }.toSet()
+            val extra = questionDao.getRandomQuestionsAllThemes(
+                difficulty.name, excluded, limit
+            ).filter { it.id !in answeredIds }.take(remaining)
+            (unanswered + extra).map { it.toDomain() }
+        }
+    }
+
+    override suspend fun getRandomImageUrl(): String? {
+        return questionDao.getRandomImageUrl()
     }
 
 }
