@@ -2,13 +2,19 @@ package com.kapoue.agora.ui.screens.about
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawing
 import androidx.compose.foundation.layout.windowInsetsPadding
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -38,7 +44,17 @@ fun AboutScreen(
             .padding(horizontal = 32.dp),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Spacer(modifier = Modifier.height(80.dp))
+        Row(modifier = Modifier.fillMaxWidth()) {
+            IconButton(onClick = onBackClick) {
+                Icon(
+                    imageVector = Icons.AutoMirrored.Filled.ArrowBack,
+                    contentDescription = "Retour",
+                    tint = AgoraStone
+                )
+            }
+        }
+
+        Spacer(modifier = Modifier.height(24.dp))
 
             Text(
                 text = "AGORA",
@@ -86,7 +102,7 @@ fun AboutScreen(
             Spacer(modifier = Modifier.height(4.dp))
 
             Text(
-                text = "github.com/kapoue/agora",
+                text = "codeberg.org/kapoue/agora",
                 fontFamily = LatoFamily,
                 fontWeight = FontWeight.Normal,
                 fontSize = 12.sp,
@@ -104,7 +120,7 @@ fun AboutScreen(
             Spacer(modifier = Modifier.height(24.dp))
 
             Text(
-                text = "Questions : Gemini AI (Google)",
+                text = "Questions : Mistral AI",
                 fontFamily = LatoFamily,
                 fontWeight = FontWeight.Normal,
                 fontSize = 12.sp,

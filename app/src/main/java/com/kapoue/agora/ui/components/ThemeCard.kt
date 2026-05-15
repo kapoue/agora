@@ -2,6 +2,7 @@ package com.kapoue.agora.ui.components
 
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -64,7 +65,8 @@ fun ThemeCard(
                 isPressed = true
                 onClick()
             },
-        colors = CardDefaults.cardColors(containerColor = Color(0xFF1A1A1A))
+        colors = CardDefaults.cardColors(containerColor = Color(0xFF1A1A1A)),
+        border = BorderStroke(1.dp, AgoraGold.copy(alpha = 0.35f))
     ) {
         Box(modifier = Modifier.fillMaxSize()) {
             if (imageUrl != null) {

@@ -1,6 +1,8 @@
 ﻿package com.kapoue.agora.ui.screens.game
 
 import android.content.Context
+import android.os.VibrationEffect
+import android.os.Vibrator
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import coil3.ImageLoader
@@ -168,7 +170,11 @@ class GameViewModel @Inject constructor(
         val newLevel = if (isCorrect) state.currentLevel + 1 else state.currentLevel
         lastAnswerCorrect = isCorrect
 
-        if (!isCorrect) sessionErrorCount++
+        if (!isCorrect) {
+            sessionErrorCount++
+            val vibrator = context.getSystemService(Vibrator::class.java)
+            vibrator?.vibrate(VibrationEffect.createOneShot(50, VibrationEffect.DEFAULT_AMPLITUDE))
+        }
 
         _uiState.value = state.copy(
             answersWithState = state.answersWithState.map { (ans, _) ->
