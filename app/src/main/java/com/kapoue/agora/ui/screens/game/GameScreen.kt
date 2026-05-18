@@ -145,7 +145,7 @@ fun GameScreen(
                         color = AgoraGold
                     )
                     Text(
-                        text = "Félicitations !",
+                        text = if (uiState.hasMoreQuestions) "Bien joué !" else "Félicitations !",
                         fontFamily = CinzelFamily,
                         fontWeight = FontWeight.Bold,
                         fontSize = 26.sp,
@@ -153,19 +153,17 @@ fun GameScreen(
                         textAlign = TextAlign.Center
                     )
                     Text(
-                        text = "Toutes les questions répondues correctement.",
+                        text = if (uiState.hasMoreQuestions)
+                            "Série terminée ! La suite t'attend."
+                        else if (uiState.allDifficultiesCompleted)
+                            "Toutes les difficultés de ce thème sont terminées !"
+                        else
+                            "Toutes les questions de ce niveau ont été répondues.\nDe nouvelles questions arrivent bientôt. En attendant, essaie un autre niveau ou un autre thème !",
                         fontFamily = LatoFamily,
                         fontSize = 15.sp,
                         color = AgoraStone,
                         textAlign = TextAlign.Center,
                         lineHeight = 22.sp
-                    )
-                    Text(
-                        text = "Score : ${uiState.currentLevel}",
-                        fontFamily = CinzelFamily,
-                        fontSize = 18.sp,
-                        color = AgoraWhite,
-                        fontStyle = FontStyle.Italic
                     )
                     if (uiState.totalInSession > 0) {
                         val errorMessage = when {
@@ -182,38 +180,67 @@ fun GameScreen(
                             textAlign = TextAlign.Center
                         )
                     }
-                    if (uiState.allDifficultiesCompleted) {
+                    if (uiState.hasMoreQuestions) {
                         Button(
-                            onClick = {
-                                viewModel.onReplay()
-                                onReplayClick()
-                            },
+                            onClick = { viewModel.onNextSession() },
                             colors = ButtonDefaults.buttonColors(containerColor = AgoraGold),
                             shape = RoundedCornerShape(8.dp),
                             modifier = Modifier.fillMaxWidth()
                         ) {
                             Text(
-                                text = "Rejouer",
+                                text = "Nouvelles questions",
                                 fontFamily = CinzelFamily,
                                 color = Color.Black,
                                 fontSize = 16.sp
                             )
                         }
-                    }
-                    Button(
-                        onClick = onHomeClick,
-                        colors = ButtonDefaults.buttonColors(
-                            containerColor = if (uiState.allDifficultiesCompleted) AgoraSurface else AgoraGold
-                        ),
-                        shape = RoundedCornerShape(8.dp),
-                        modifier = Modifier.fillMaxWidth()
-                    ) {
-                        Text(
-                            text = "Accueil",
-                            fontFamily = CinzelFamily,
-                            color = if (uiState.allDifficultiesCompleted) AgoraWhite else Color.Black,
-                            fontSize = 16.sp
-                        )
+                        Button(
+                            onClick = onHomeClick,
+                            colors = ButtonDefaults.buttonColors(containerColor = AgoraSurface),
+                            shape = RoundedCornerShape(8.dp),
+                            modifier = Modifier.fillMaxWidth()
+                        ) {
+                            Text(
+                                text = "Accueil",
+                                fontFamily = CinzelFamily,
+                                color = AgoraWhite,
+                                fontSize = 16.sp
+                            )
+                        }
+                    } else {
+                        if (uiState.allDifficultiesCompleted) {
+                            Button(
+                                onClick = {
+                                    viewModel.onReplay()
+                                    onReplayClick()
+                                },
+                                colors = ButtonDefaults.buttonColors(containerColor = AgoraGold),
+                                shape = RoundedCornerShape(8.dp),
+                                modifier = Modifier.fillMaxWidth()
+                            ) {
+                                Text(
+                                    text = "Rejouer",
+                                    fontFamily = CinzelFamily,
+                                    color = Color.Black,
+                                    fontSize = 16.sp
+                                )
+                            }
+                        }
+                        Button(
+                            onClick = onHomeClick,
+                            colors = ButtonDefaults.buttonColors(
+                                containerColor = if (uiState.allDifficultiesCompleted) AgoraSurface else AgoraGold
+                            ),
+                            shape = RoundedCornerShape(8.dp),
+                            modifier = Modifier.fillMaxWidth()
+                        ) {
+                            Text(
+                                text = "Accueil",
+                                fontFamily = CinzelFamily,
+                                color = if (uiState.allDifficultiesCompleted) AgoraWhite else Color.Black,
+                                fontSize = 16.sp
+                            )
+                        }
                     }
                 }
             }

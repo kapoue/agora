@@ -28,6 +28,7 @@ data class GameUiState(
     val isLoading: Boolean = true,
     val isCompleted: Boolean = false,
     val allDifficultiesCompleted: Boolean = false,
+    val hasMoreQuestions: Boolean = false,
     val currentQuestion: Question? = null,
     val answersWithState: List<Pair<String, AnswerState>> = emptyList(),
     val selectedAnswer: String? = null,
@@ -64,6 +65,11 @@ class GameViewModel @Inject constructor(
     private var lastDifficulty: Difficulty = Difficulty.DEBUTANT
 
     private var sessionErrorCount: Int = 0
+    private var sessionHasMore: Boolean = false
+
+    companion object {
+        private const val SESSION_SIZE = 20
+    }
 
     fun initialize(theme: Theme, difficulty: Difficulty) {
         lastTheme = theme
@@ -97,7 +103,9 @@ class GameViewModel @Inject constructor(
 
             getQuestionsUseCase(theme, difficulty).first { it.isNotEmpty() }.let { loadedQuestions ->
                 questions = loadedQuestions
-                pendingQueue = ArrayDeque(questions.filter { !it.isAnsweredCorrectly })
+                val allUnanswered = questions.filter { !it.isAnsweredCorrectly }
+                sessionHasMore = allUnanswered.size > SESSION_SIZE
+                pendingQueue = ArrayDeque(allUnanswered.take(SESSION_SIZE))
                 val totalInSession = pendingQueue.size
 
                 if (pendingQueue.isEmpty()) {
@@ -143,6 +151,10 @@ class GameViewModel @Inject constructor(
     }
 
     fun retry() {
+        initialize(lastTheme, lastDifficulty)
+    }
+
+    fun onNextSession() {
         initialize(lastTheme, lastDifficulty)
     }
 
@@ -214,6 +226,7 @@ class GameViewModel @Inject constructor(
                 _uiState.value = _uiState.value.copy(
                     isCompleted = true,
                     allDifficultiesCompleted = allDone,
+                    hasMoreQuestions = sessionHasMore,
                     currentQuestion = null,
                     showNext = false,
                     errorCount = sessionErrorCount

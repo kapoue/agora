@@ -63,7 +63,7 @@ LOCAL_PROPERTIES = os.path.join(PROJECT_ROOT, "local.properties")
 BUILD_GRADLE = os.path.join(PROJECT_ROOT, "app", "build.gradle.kts")
 
 # ─── CONFIGURATION QUESTIONS ──────────────────────────────────────────────────
-QUESTIONS_PER_COMBO = 30
+QUESTIONS_PER_COMBO = 60
 DELAY_BETWEEN_CALLS = 5
 MAX_RETRIES = 3
 
