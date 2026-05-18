@@ -4,240 +4,30 @@
     "correct_answer": "Traité de Versailles",
     "incorrect_answers": [
       "Traité de Paris",
-      "Traité de Vienne",
-      "Traité de Rome"
+      "Traité de Rome",
+      "Traité de Londres"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773016976783-7438406107cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1768890347865-4d3396f6feaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui était le dirigeant de l'URSS lors de la crise des missiles de Cuba en 1962 ?",
-    "correct_answer": "Nikita Khrouchtchev",
-    "incorrect_answers": [
-      "Léonid Brejnev",
-      "Joseph Staline",
-      "Mikhaïl Gorbatchev"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763734546251-cdc4d465ce4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-    "correct_answer": "1989",
-    "incorrect_answers": [
-      "1987",
-      "1991",
-      "1993"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761347604361-297ef9a75f5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel empereur romain a divisé l'Empire en deux parties en 395 ?",
-    "correct_answer": "Théodose Ier",
+    "question": "Qui était le premier empereur de la dynastie romaine des Julio-Claudiens ?",
+    "correct_answer": "Auguste",
     "incorrect_answers": [
       "Néron",
-      "Auguste",
-      "Constantin"
+      "Caligula",
+      "Tibère"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1762259506644-4087d4e9ef46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1729083070929-a3e07ad6cec1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a mené la révolte des esclaves contre Rome en 73 av. J.-C. ?",
-    "correct_answer": "Spartacus",
-    "incorrect_answers": [
-      "Hannibal",
-      "Jules César",
-      "Attila"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759136513068-46b72dfa57e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel événement marque le début de la Révolution française en 1789 ?",
-    "correct_answer": "Prise de la Bastille",
-    "incorrect_answers": [
-      "Serment du Jeu de Paume",
-      "Exécution de Louis XVI",
-      "Chute de la monarchie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776040106733-54beb73abf67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays a été le premier à reconnaître l'indépendance des États-Unis en 1778 ?",
-    "correct_answer": "France",
-    "incorrect_answers": [
-      "Espagne",
-      "Pays-Bas",
-      "Russie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129893691-1738a89cb921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a découvert l'Amérique en 1492 ?",
-    "correct_answer": "Christophe Colomb",
-    "incorrect_answers": [
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Jacques Cartier"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129840823-99f061586a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel empire a été vaincu lors de la bataille de Lépante en 1571 ?",
-    "correct_answer": "Empire ottoman",
-    "incorrect_answers": [
-      "Empire romain",
-      "Empire mongol",
-      "Empire perse"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761920365490-87667b46b6e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année a eu lieu la bataille de Waterloo ?",
-    "correct_answer": "1815",
-    "incorrect_answers": [
-      "1805",
-      "1820",
-      "1830"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761923350888-333fe22fede0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a été le premier président des États-Unis ?",
-    "correct_answer": "George Washington",
-    "incorrect_answers": [
-      "Thomas Jefferson",
-      "Abraham Lincoln",
-      "John Adams"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765219711338-05c3e4db2d22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité a mis fin à la guerre de Sept Ans en 1763 ?",
-    "correct_answer": "Traité de Paris",
-    "incorrect_answers": [
-      "Traité de Vienne",
-      "Traité de Versailles",
-      "Traité de Rome"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775649134690-8a616cd3974c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Le Prince', un traité politique de la Renaissance ?",
-    "correct_answer": "Nicolas Machiavel",
-    "incorrect_answers": [
-      "Léonard de Vinci",
-      "Galilée",
-      "Érasme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775832683448-7f5d0847cefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel événement a déclenché la Première Guerre mondiale en 1914 ?",
-    "correct_answer": "Assassinat de François-Ferdinand",
-    "incorrect_answers": [
-      "Invasion de la Pologne",
-      "Traité de Versailles",
-      "Révolution russe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767724942096-5c49620ca599?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a mené la Révolution industrielle en Angleterre au XVIIIe siècle ?",
-    "correct_answer": "James Watt",
-    "incorrect_answers": [
-      "Isaac Newton",
-      "Charles Darwin",
-      "Alexander Graham Bell"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777846553385-638593cebbef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année a eu lieu la chute de Constantinople ?",
+    "question": "En quelle année a eu lieu la chute de Constantinople, marquant la fin de l'Empire byzantin ?",
     "correct_answer": "1453",
     "incorrect_answers": [
       "1350",
       "1500",
-      "1600"
+      "1400"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1762762901720-a1fa7273844d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roi de France a été guillotiné pendant la Révolution française ?",
-    "correct_answer": "Louis XVI",
-    "incorrect_answers": [
-      "Louis XIV",
-      "Louis XV",
-      "Napoléon Bonaparte"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766999708586-daf201963934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a découvert la route maritime vers l'Inde en 1498 ?",
-    "correct_answer": "Vasco de Gama",
-    "incorrect_answers": [
-      "Christophe Colomb",
-      "Fernand de Magellan",
-      "Bartolomeu Dias"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767037447555-9a6b100ce724?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel empire a dominé l'Europe centrale au XIXe siècle sous Bismarck ?",
-    "correct_answer": "Empire allemand",
-    "incorrect_answers": [
-      "Empire austro-hongrois",
-      "Empire russe",
-      "Empire français"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758683683791-c0efafbc4471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année a eu lieu la révolution russe ?",
-    "correct_answer": "1917",
-    "incorrect_answers": [
-      "1905",
-      "1920",
-      "1930"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767766790812-3322a548dd08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a été le dernier empereur de Chine, renversé en 1912 ?",
-    "correct_answer": "Puyi",
-    "incorrect_answers": [
-      "Sun Yat-sen",
-      "Mao Zedong",
-      "Deng Xiaoping"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763374005345-34bf974e2b8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité a mis fin à la guerre de Trente Ans en 1648 ?",
-    "correct_answer": "Traité de Westphalie",
-    "incorrect_answers": [
-      "Traité de Paris",
-      "Traité de Vienne",
-      "Traité d'Utrecht"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761143471911-1d343db5d5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a mené la résistance française contre l'occupation nazie pendant la Seconde Guerre mondiale ?",
-    "correct_answer": "Charles de Gaulle",
-    "incorrect_answers": [
-      "Philippe Pétain",
-      "Pierre Laval",
-      "Jean Moulin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1626270732473-54ff3d1cf636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année a eu lieu la bataille d'Austerlitz ?",
-    "correct_answer": "1805",
-    "incorrect_answers": [
-      "1799",
-      "1812",
-      "1815"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764686621196-adfb23afb1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1777879993286-ca7910657070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel explorateur a réalisé le premier tour du monde en 1522 ?",
@@ -247,47 +37,237 @@
       "Vasco de Gama",
       "Jacques Cartier"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1771245463034-f96caf4392e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1767766790812-3322a548dd08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a été le premier empereur de la dynastie Ming en Chine ?",
-    "correct_answer": "Hongwu",
+    "question": "Quel événement a déclenché la Révolution française en 1789 ?",
+    "correct_answer": "Prise de la Bastille",
     "incorrect_answers": [
-      "Kangxi",
-      "Qianlong",
-      "Yongle"
+      "Assassinat de Louis XVI",
+      "Déclaration d'indépendance",
+      "Guerre de Sept Ans"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767724942061-f20dbae90d13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1776040106733-54beb73abf67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui était le dirigeant de l'URSS pendant la Seconde Guerre mondiale ?",
+    "correct_answer": "Joseph Staline",
+    "incorrect_answers": [
+      "Lénine",
+      "Nikita Khrouchtchev",
+      "Mikhaïl Gorbatchev"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775129840823-99f061586a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empire a dominé le Moyen-Orient et l'Afrique du Nord au XIIe siècle ?",
+    "correct_answer": "Empire almohade",
+    "incorrect_answers": [
+      "Empire ottoman",
+      "Empire abbasside",
+      "Empire seldjoukide"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761143471911-1d343db5d5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la bataille de Waterloo, mettant fin aux guerres napoléoniennes ?",
+    "correct_answer": "1815",
+    "incorrect_answers": [
+      "1805",
+      "1821",
+      "1830"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764686621196-adfb23afb1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe des Lumières a écrit 'Candide' ?",
+    "correct_answer": "Voltaire",
+    "incorrect_answers": [
+      "Rousseau",
+      "Montesquieu",
+      "Diderot"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761923350888-333fe22fede0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays a été le premier à abolir officiellement l'esclavage en 1794 ?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "Royaume-Uni",
+      "États-Unis",
+      "Espagne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775129841064-ef8e44301781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui était le dernier pharaon d'Égypte avant la conquête romaine ?",
+    "correct_answer": "Cléopâtre VII",
+    "incorrect_answers": [
+      "Ramsès II",
+      "Toutânkhamon",
+      "Akhenaton"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767724942096-5c49620ca599?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité a mis fin à la guerre de Trente Ans en 1648 ?",
+    "correct_answer": "Traité de Westphalie",
+    "incorrect_answers": [
+      "Traité de Paris",
+      "Traité de Vienne",
+      "Traité d'Utrecht"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1626270732473-54ff3d1cf636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel explorateur a découvert l'Amérique en 1492 ?",
+    "correct_answer": "Christophe Colomb",
+    "incorrect_answers": [
+      "Amerigo Vespucci",
+      "Hernán Cortés",
+      "Francisco Pizarro"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1778022840861-6020c43edb5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+    "correct_answer": "1989",
+    "incorrect_answers": [
+      "1985",
+      "1991",
+      "1979"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1778005690535-b2e8d21516a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empereur romain a divisé l'Empire en deux parties en 395 ?",
+    "correct_answer": "Théodose Ier",
+    "incorrect_answers": [
+      "Constantin",
+      "Auguste",
+      "Néron"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764686619135-365852a08dcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a mené la révolte des esclaves à Saint-Domingue en 1791 ?",
+    "correct_answer": "Toussaint Louverture",
+    "incorrect_answers": [
+      "Jean-Jacques Dessalines",
+      "Henri Christophe",
+      "François Mackandal"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775649134690-8a616cd3974c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel événement a marqué le début de la guerre froide en 1947 ?",
     "correct_answer": "Doctrine Truman",
     "incorrect_answers": [
       "Chute du mur de Berlin",
-      "Blocus de Berlin",
-      "Guerre de Corée"
+      "Guerre de Corée",
+      "Blocus de Berlin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758915464817-1ced97e87e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1778410731297-7225b6962d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année a eu lieu la bataille de Stalingrad ?",
+    "question": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+    "correct_answer": "Louis XVI",
+    "incorrect_answers": [
+      "Louis XIV",
+      "Louis XV",
+      "Napoléon Bonaparte"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764687145657-411a693839e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la bataille de Stalingrad pendant la Seconde Guerre mondiale ?",
     "correct_answer": "1942",
     "incorrect_answers": [
-      "1940",
+      "1941",
       "1943",
-      "1945"
+      "1944"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773813080538-8568cce37c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758811489552-a75d4e44d49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a été le principal architecte de l'unification italienne au XIXe siècle ?",
-    "correct_answer": "Camillo Cavour",
+    "question": "Quel philosophe a écrit 'Le Contrat social' ?",
+    "correct_answer": "Jean-Jacques Rousseau",
     "incorrect_answers": [
-      "Giuseppe Garibaldi",
-      "Victor-Emmanuel II",
-      "Giuseppe Mazzini"
+      "Voltaire",
+      "Montesquieu",
+      "Diderot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758389934152-447c53bd1aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1773017825019-b8d05f7eac4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empire a conquis la majeure partie de l'Europe au IXe siècle ?",
+    "correct_answer": "Empire carolingien",
+    "incorrect_answers": [
+      "Empire romain",
+      "Empire byzantin",
+      "Empire ottoman"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758389934152-447c53bd1aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui était le chef des Spartiates lors de la bataille des Thermopyles en 480 av. J.-C. ?",
+    "correct_answer": "Léonidas Ier",
+    "incorrect_answers": [
+      "Périclès",
+      "Thémistocle",
+      "Xerxès Ier"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763734546251-cdc4d465ce4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité a mis fin à la guerre de Sept Ans en 1763 ?",
+    "correct_answer": "Traité de Paris",
+    "incorrect_answers": [
+      "Traité de Versailles",
+      "Traité d'Utrecht",
+      "Traité de Vienne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1779018400727-3fa0e97760dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel explorateur a découvert la route maritime vers l'Inde en 1498 ?",
+    "correct_answer": "Vasco de Gama",
+    "incorrect_answers": [
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Ferdinand Magellan"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777830801475-e012c3249afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la révolution russe qui a renversé le tsar Nicolas II ?",
+    "correct_answer": "1917",
+    "incorrect_answers": [
+      "1905",
+      "1923",
+      "1939"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766999708586-daf201963934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empereur romain a fait construire le Colisée ?",
+    "correct_answer": "Vespasien",
+    "incorrect_answers": [
+      "Néron",
+      "Auguste",
+      "Trajan"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758683683791-c0efafbc4471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a dirigé la résistance française pendant la Seconde Guerre mondiale ?",
+    "correct_answer": "Charles de Gaulle",
+    "incorrect_answers": [
+      "Philippe Pétain",
+      "Pierre Laval",
+      "Jean Moulin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775129893691-1738a89cb921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel traité a mis fin à la guerre de Succession d'Espagne en 1713 ?",
@@ -297,6 +277,296 @@
       "Traité de Versailles",
       "Traité de Vienne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763374046991-632df3a66127?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzgwNDc1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1764069488964-28d1563ed710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la bataille d'Austerlitz, aussi appelée 'bataille des Trois Empereurs' ?",
+    "correct_answer": "1805",
+    "incorrect_answers": [
+      "1812",
+      "1799",
+      "1806"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1770364145395-9adae58620ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe a écrit 'L'Esprit des lois' ?",
+    "correct_answer": "Montesquieu",
+    "incorrect_answers": [
+      "Voltaire",
+      "Rousseau",
+      "Diderot"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763374005345-34bf974e2b8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empire a dominé l'Inde du XVIe au XIXe siècle ?",
+    "correct_answer": "Empire moghol",
+    "incorrect_answers": [
+      "Empire britannique",
+      "Empire ottoman",
+      "Empire perse"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763374046991-632df3a66127?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a été le premier président des États-Unis ?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766999708541-e450f6fe0c67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la chute de l'Empire romain d'Occident ?",
+    "correct_answer": "476",
+    "incorrect_answers": [
+      "395",
+      "527",
+      "622"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761056920622-94346373099e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité a mis fin à la guerre de Crimée en 1856 ?",
+    "correct_answer": "Traité de Paris",
+    "incorrect_answers": [
+      "Traité de Vienne",
+      "Traité de Berlin",
+      "Traité de Londres"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1770129481042-c7e7c213ffff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a découvert la pénicilline en 1928 ?",
+    "correct_answer": "Alexander Fleming",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1776139053129-6e7b7a707859?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roi de France a été surnommé 'le Roi-Soleil' ?",
+    "correct_answer": "Louis XIV",
+    "incorrect_answers": [
+      "Louis XIII",
+      "Louis XV",
+      "François Ier"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1774306949863-1ea075e2a342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la bataille de Gettysburg pendant la guerre de Sécession américaine ?",
+    "correct_answer": "1863",
+    "incorrect_answers": [
+      "1861",
+      "1865",
+      "1870"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762762901720-a1fa7273844d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe a écrit 'Le Capital' ?",
+    "correct_answer": "Karl Marx",
+    "incorrect_answers": [
+      "Friedrich Engels",
+      "Vladimir Lénine",
+      "Max Weber"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1759136513068-46b72dfa57e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empire a conquis la Chine au XIIIe siècle ?",
+    "correct_answer": "Empire mongol",
+    "incorrect_answers": [
+      "Empire ottoman",
+      "Empire perse",
+      "Empire romain"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773016976783-7438406107cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a dirigé la Révolution française après la chute de la monarchie ?",
+    "correct_answer": "Robespierre",
+    "incorrect_answers": [
+      "Danton",
+      "Marat",
+      "Napoléon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1775832683448-7f5d0847cefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la découverte de l'Amérique par Christophe Colomb ?",
+    "correct_answer": "1492",
+    "incorrect_answers": [
+      "1453",
+      "1521",
+      "1500"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767037447555-9a6b100ce724?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité a mis fin à la guerre de la Ligue d'Augsbourg en 1697 ?",
+    "correct_answer": "Traité de Ryswick",
+    "incorrect_answers": [
+      "Traité de Paris",
+      "Traité d'Utrecht",
+      "Traité de Vienne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767907574571-d56ce70981e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a été le premier empereur du Saint-Empire romain germanique en 800 ?",
+    "correct_answer": "Charlemagne",
+    "incorrect_answers": [
+      "Othon Ier",
+      "Frédéric Barberousse",
+      "Napoléon Bonaparte"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764503702782-99676e315a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la bataille de Verdun pendant la Première Guerre mondiale ?",
+    "correct_answer": "1916",
+    "incorrect_answers": [
+      "1914",
+      "1915",
+      "1917"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777752896317-cc4b2809e2bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe a écrit 'Ainsi parlait Zarathoustra' ?",
+    "correct_answer": "Friedrich Nietzsche",
+    "incorrect_answers": [
+      "Arthur Schopenhauer",
+      "Jean-Paul Sartre",
+      "Albert Camus"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1771245463034-f96caf4392e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empire a dominé le bassin méditerranéen au Ier siècle av. J.-C. ?",
+    "correct_answer": "Empire romain",
+    "incorrect_answers": [
+      "Empire perse",
+      "Empire grec",
+      "Empire byzantin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773813080538-8568cce37c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a mené la révolte des Boxers en Chine à la fin du XIXe siècle ?",
+    "correct_answer": "Société des Boxers",
+    "incorrect_answers": [
+      "Dynastie Qing",
+      "Tongmenghui",
+      "Guomindang"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764863455595-bc3d67c3b3ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la chute de l'Empire aztèque ?",
+    "correct_answer": "1521",
+    "incorrect_answers": [
+      "1492",
+      "1500",
+      "1550"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1554111954-66a45f3de9b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité a mis fin à la guerre de Succession d'Autriche en 1748 ?",
+    "correct_answer": "Traité d'Aix-la-Chapelle",
+    "incorrect_answers": [
+      "Traité de Paris",
+      "Traité de Vienne",
+      "Traité d'Utrecht"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765570019796-cd7c46af802e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a découvert la gravitation universelle au XVIIe siècle ?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": [
+      "Galilée",
+      "Johannes Kepler",
+      "Albert Einstein"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764685762015-64e977de2be6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empereur romain a fait construire le Panthéon de Rome ?",
+    "correct_answer": "Hadrien",
+    "incorrect_answers": [
+      "Auguste",
+      "Néron",
+      "Trajan"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767938072282-f2701a577eff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la révolution de Juillet en France ?",
+    "correct_answer": "1830",
+    "incorrect_answers": [
+      "1848",
+      "1870",
+      "1815"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777924986718-4b648755f5ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe a écrit 'Le Prince' ?",
+    "correct_answer": "Nicolas Machiavel",
+    "incorrect_answers": [
+      "Thomas Hobbes",
+      "John Locke",
+      "Jean-Jacques Rousseau"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758915464817-1ced97e87e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empire a dominé le Moyen-Orient du VIe au XIe siècle ?",
+    "correct_answer": "Empire abbasside",
+    "incorrect_answers": [
+      "Empire seldjoukide",
+      "Empire ottoman",
+      "Empire perse"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764145798489-5150f7d574df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Qui a dirigé la résistance italienne contre le fascisme au XXe siècle ?",
+    "correct_answer": "Antonio Gramsci",
+    "incorrect_answers": [
+      "Benito Mussolini",
+      "Giuseppe Garibaldi",
+      "Giovanni Giolitti"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1761920365490-87667b46b6e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "En quelle année a eu lieu la bataille de Salamine pendant les guerres médiques ?",
+    "correct_answer": "-480",
+    "incorrect_answers": [
+      "-490",
+      "-479",
+      "-500"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1767794704750-51f5638331ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité a mis fin à la guerre de Corée en 1953 ?",
+    "correct_answer": "Armistice de Panmunjom",
+    "incorrect_answers": [
+      "Traité de Paris",
+      "Traité de San Francisco",
+      "Traité de Genève"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758915464698-33dc91375ffb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

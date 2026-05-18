@@ -5,298 +5,558 @@
     "incorrect_answers": [
       "Pablo Picasso",
       "Salvador Dalí",
-      "Henri Matisse"
+      "Claude Monet"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1713183236695-e62346194863?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1573512168318-97f8b3daecc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel mouvement artistique se situe l'œuvre 'La Nuit étoilée' ?",
-    "correct_answer": "Postimpressionnisme",
+    "question": "Dans quel mouvement artistique le tableau 'La Joconde' a-t-il été peint ?",
+    "correct_answer": "Renaissance",
     "incorrect_answers": [
-      "Cubisme",
+      "Impressionnisme",
       "Surréalisme",
-      "Renaissance"
+      "Cubisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758186130795-48b58cbc44c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763792334906-70a24d373140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée abrite la Joconde ?",
-    "correct_answer": "Le Louvre",
-    "incorrect_answers": [
-      "Le British Museum",
-      "Le Prado",
-      "La Galerie des Offices"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758380388480-6f329811c09b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sculpteur a réalisé 'Le Penseur' ?",
+    "question": "Quel artiste a sculpté 'Le Penseur' ?",
     "correct_answer": "Auguste Rodin",
     "incorrect_answers": [
       "Michel-Ange",
       "Donatello",
       "Bernini"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1573512168318-97f8b3daecc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1772987020530-4ceac482c95a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mouvement artistique est associé à Salvador Dalí ?",
-    "correct_answer": "Surréalisme",
+    "question": "Quel musée abrite la Vénus de Milo ?",
+    "correct_answer": "Le Louvre",
     "incorrect_answers": [
-      "Impressionnisme",
-      "Fauvisme",
-      "Pointillisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775598178913-0ca79bcae616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste a peint 'La Jeune Fille à la perle' ?",
-    "correct_answer": "Johannes Vermeer",
-    "incorrect_answers": [
-      "Rembrandt",
-      "Frans Hals",
-      "Jan Steen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1599140427277-7cbcb58180a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le style architectural de la cathédrale Notre-Dame de Paris ?",
-    "correct_answer": "Gothique",
-    "incorrect_answers": [
-      "Roman",
-      "Baroque",
-      "Renaissance"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759846779524-6042d32d487d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel peintre est connu pour ses 'Nymphéas' ?",
-    "correct_answer": "Claude Monet",
-    "incorrect_answers": [
-      "Édouard Manet",
-      "Pierre-Auguste Renoir",
-      "Camille Pissarro"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1606819717115-9159c900370b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3OTUyNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel musée se trouve à Bilbao ?",
-    "correct_answer": "Le Guggenheim",
-    "incorrect_answers": [
+      "Le British Museum",
       "Le Prado",
-      "Le MoMA",
-      "Le Rijksmuseum"
+      "Le MoMA"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773474352672-452579bdfe40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3OTUyNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1768988799464-0a00ab1e89e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel artiste a peint 'Guernica' ?",
-    "correct_answer": "Pablo Picasso",
+    "question": "Quel mouvement artistique est associé à Monet et Renoir ?",
+    "correct_answer": "Impressionnisme",
     "incorrect_answers": [
-      "Diego Rivera",
-      "Frida Kahlo",
-      "Joan Miró"
+      "Romantisme",
+      "Surréalisme",
+      "Baroque"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643105123699-371e51d0d0d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1762766768566-8a709b129fc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mouvement artistique est associé à la couleur bleue ?",
-    "correct_answer": "Fauvisme",
+    "question": "Quel artiste a peint 'La Nuit étoilée' ?",
+    "correct_answer": "Vincent van Gogh",
     "incorrect_answers": [
-      "Expressionnisme",
-      "Cubisme",
-      "Néoclassicisme"
+      "Edvard Munch",
+      "Henri de Toulouse-Lautrec",
+      "Gustav Klimt"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1768982417072-34a75ca5d6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1773474352672-452579bdfe40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sculpteur a créé 'David' ?",
+    "question": "Quel bâtiment est emblématique de l'architecture gothique ?",
+    "correct_answer": "Notre-Dame de Paris",
+    "incorrect_answers": [
+      "Le Colisée",
+      "Le Parthénon",
+      "Le Taj Mahal"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773474200110-c69c3accf229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a réalisé 'David' en marbre ?",
     "correct_answer": "Michel-Ange",
     "incorrect_answers": [
       "Donatello",
       "Bernini",
       "Rodin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1654120547425-ee909f906ea2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1650835222564-c869b03803ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre est célèbre pour ses 'Tournesols' ?",
-    "correct_answer": "Vincent van Gogh",
+    "question": "Quel musée est situé à Bilbao et abrite des œuvres modernes ?",
+    "correct_answer": "Guggenheim",
     "incorrect_answers": [
-      "Paul Gauguin",
-      "Henri de Toulouse-Lautrec",
-      "Georges Seurat"
+      "Louvre",
+      "Prado",
+      "British Museum"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1610589672715-28289f2165d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3OTUyNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775283267270-2046f4103ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le style architectural de la tour Eiffel ?",
-    "correct_answer": "Art nouveau",
+    "question": "Quel peintre est connu pour ses 'Nymphéas' ?",
+    "correct_answer": "Claude Monet",
     "incorrect_answers": [
-      "Gothique",
-      "Baroque",
-      "Moderne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1621760681857-215258afbbee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste a peint 'La Persistance de la mémoire' ?",
-    "correct_answer": "Salvador Dalí",
-    "incorrect_answers": [
-      "René Magritte",
-      "Max Ernst",
-      "Yves Tanguy"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766289496802-6a8b6977ca55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel musée se trouve à Amsterdam ?",
-    "correct_answer": "Le Rijksmuseum",
-    "incorrect_answers": [
-      "Le Louvre",
-      "Le Prado",
-      "La Tate Modern"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1621094130265-7a8f96ca3fb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3OTUyNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel peintre est connu pour ses 'Bouquets' ?",
-    "correct_answer": "Henri Fantin-Latour",
-    "incorrect_answers": [
+      "Pierre-Auguste Renoir",
       "Édouard Manet",
-      "Gustave Courbet",
-      "Jean-Auguste-Dominique Ingres"
+      "Paul Cézanne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1639756075000-45ca63e978fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1635172562604-3ba8826afc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mouvement artistique est associé à Georges Seurat ?",
-    "correct_answer": "Pointillisme",
+    "question": "Quel mouvement artistique est associé à Salvador Dalí ?",
+    "correct_answer": "Surréalisme",
     "incorrect_answers": [
-      "Impressionnisme",
       "Cubisme",
-      "Surréalisme"
+      "Futurisme",
+      "Dadaïsme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773828044180-961501778fec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1600673772664-6b6f98ccbc5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sculpteur a réalisé 'La Vénus de Milo' ?",
+    "question": "Quel tableau représente une femme avec une pipe ?",
+    "correct_answer": "La Femme à la pipe",
+    "incorrect_answers": [
+      "Guernica",
+      "Les Demoiselles d'Avignon",
+      "La Persistance de la mémoire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1621094130265-7a8f96ca3fb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu la Sagrada Familia ?",
+    "correct_answer": "Antoni Gaudí",
+    "incorrect_answers": [
+      "Le Corbusier",
+      "Frank Lloyd Wright",
+      "Mies van der Rohe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1769117619995-78fc971f041b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée est célèbre pour sa pyramide de verre ?",
+    "correct_answer": "Le Louvre",
+    "incorrect_answers": [
+      "Le British Museum",
+      "Le Prado",
+      "Le MoMA"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1762117863713-ee3dde87c020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre est associé à la période bleue ?",
+    "correct_answer": "Pablo Picasso",
+    "incorrect_answers": [
+      "Henri Matisse",
+      "Paul Gauguin",
+      "Georges Braque"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764214918507-3938f17df7ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a créé 'La Vénus de Milo' ?",
     "correct_answer": "Alexandros d'Antioche",
     "incorrect_answers": [
       "Phidias",
       "Myron",
       "Praxitèle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1636307268087-82fea49c541e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3OTUyNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1763337590334-8cb68521fae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel artiste a peint 'Le Déjeuner sur l'herbe' ?",
-    "correct_answer": "Édouard Manet",
+    "question": "Quel mouvement artistique est associé à Pablo Picasso ?",
+    "correct_answer": "Cubisme",
     "incorrect_answers": [
-      "Claude Monet",
-      "Pierre-Auguste Renoir",
-      "Camille Pissarro"
+      "Romantisme",
+      "Surréalisme",
+      "Impressionnisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1762766768566-8a709b129fc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1700411281367-1e10ac1c320a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le style architectural du château de Versailles ?",
-    "correct_answer": "Classique",
+    "question": "Quel tableau représente une jeune fille avec une perle ?",
+    "correct_answer": "La Jeune Fille à la perle",
     "incorrect_answers": [
-      "Gothique",
-      "Baroque",
-      "Renaissance"
+      "La Joconde",
+      "Le Déjeuner des canotiers",
+      "Les Tournesols"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602019768076-56d5095faa2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3OTUyNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1606819717115-9159c900370b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc5MTA0MjExfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre est célèbre pour ses 'Coquelicots' ?",
-    "correct_answer": "Claude Monet",
+    "question": "Quel architecte a conçu le Panthéon de Paris ?",
+    "correct_answer": "Jacques-Germain Soufflot",
     "incorrect_answers": [
-      "Berthe Morisot",
-      "Mary Cassatt",
-      "Eva Gonzalès"
+      "Victor Horta",
+      "Charles Garnier",
+      "Gustave Eiffel"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1635172562604-3ba8826afc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1775598178913-0ca79bcae616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée se trouve à New York ?",
-    "correct_answer": "Le MoMA",
+    "question": "Quel peintre est célèbre pour ses 'Tour Eiffel' ?",
+    "correct_answer": "Robert Delaunay",
     "incorrect_answers": [
-      "Le Louvre",
-      "Le Prado",
-      "La Galerie des Offices"
+      "Henri Rousseau",
+      "Fernand Léger",
+      "Marc Chagall"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1650835222564-c869b03803ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758186130795-48b58cbc44c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel artiste a peint 'La Jeune Fille à la fenêtre' ?",
-    "correct_answer": "Salvador Dalí",
+    "question": "Quel musée abrite 'Le Cri' d'Edvard Munch ?",
+    "correct_answer": "Musée Munch",
     "incorrect_answers": [
-      "Pablo Picasso",
-      "Joan Miró",
-      "René Magritte"
+      "Musée du Prado",
+      "Musée d'Orsay",
+      "Musée du Louvre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1772987020530-4ceac482c95a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3OTUyNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1732566249941-8f6fe9695bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Georges Seurat ?",
+    "correct_answer": "Pointillisme",
+    "incorrect_answers": [
+      "Fauvisme",
+      "Expressionnisme",
+      "Minimalisme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773474273205-6c60227490df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a réalisé 'La Victoire de Samothrace' ?",
+    "correct_answer": "Inconnu (école rhodienne)",
+    "incorrect_answers": [
+      "Phidias",
+      "Praxitèle",
+      "Myron"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1597489420377-e23d4a080346?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc5MTA0MjExfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel tableau représente une femme avec un chapeau ?",
+    "correct_answer": "Femme au chapeau",
+    "incorrect_answers": [
+      "La Danse",
+      "Les Baigneuses",
+      "La Chambre bleue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763772426662-bbb5045392d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu le Centre Pompidou ?",
+    "correct_answer": "Renzo Piano et Richard Rogers",
+    "incorrect_answers": [
+      "Le Corbusier",
+      "Frank Gehry",
+      "Norman Foster"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766289496802-6a8b6977ca55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre est connu pour ses 'Tournesols' ?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": [
+      "Paul Gauguin",
+      "Henri de Toulouse-Lautrec",
+      "Pierre Bonnard"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1643105019861-623039e70e64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc5MTA0MjExfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée abrite 'Guernica' de Picasso ?",
+    "correct_answer": "Musée Reina Sofía",
+    "incorrect_answers": [
+      "Musée du Louvre",
+      "Musée d'Orsay",
+      "Musée du Prado"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1769117620065-577bcb26c185?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mouvement artistique est associé à Henri Matisse ?",
     "correct_answer": "Fauvisme",
     "incorrect_answers": [
       "Cubisme",
-      "Surréalisme",
-      "Impressionnisme"
+      "Dadaïsme",
+      "Surréalisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1597489420377-e23d4a080346?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3OTUyNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1582481426757-274f94eecb72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc5MTA0MjExfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sculpteur a créé 'La Victoire de Samothrace' ?",
-    "correct_answer": "Inconnu",
+    "question": "Quel tableau représente une femme avec un sourire mystérieux ?",
+    "correct_answer": "La Joconde",
     "incorrect_answers": [
-      "Phidias",
-      "Praxitèle",
-      "Lysippe"
+      "La Nuit étoilée",
+      "Le Déjeuner sur l'herbe",
+      "Les Tournesols"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1768988799464-0a00ab1e89e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1654120547425-ee909f906ea2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre est connu pour ses 'Autoportraits' ?",
-    "correct_answer": "Rembrandt",
+    "question": "Quel architecte a conçu la Tour Eiffel ?",
+    "correct_answer": "Gustave Eiffel",
     "incorrect_answers": [
-      "Frans Hals",
-      "Johannes Vermeer",
-      "Jan Steen"
+      "Le Corbusier",
+      "Victor Horta",
+      "Antoni Gaudí"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764922168474-8048361bc764?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1713183236695-e62346194863?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le style architectural de la Sagrada Família ?",
-    "correct_answer": "Modernisme",
-    "incorrect_answers": [
-      "Gothique",
-      "Roman",
-      "Baroque"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1677427410535-6175fe615d99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste a peint 'Les Grandes Baigneuses' ?",
-    "correct_answer": "Paul Cézanne",
+    "question": "Quel peintre est célèbre pour ses 'Nymphéas' ?",
+    "correct_answer": "Claude Monet",
     "incorrect_answers": [
       "Pierre-Auguste Renoir",
-      "Camille Pissarro",
-      "Georges Seurat"
+      "Édouard Manet",
+      "Paul Cézanne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1623446488855-cffadd8075ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc3OTUyNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1559841096-8739e2b7dc57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée se trouve à Florence ?",
-    "correct_answer": "La Galerie des Offices",
+    "question": "Quel musée abrite 'La Naissance de Vénus' de Botticelli ?",
+    "correct_answer": "Galerie des Offices",
     "incorrect_answers": [
-      "Le Louvre",
-      "Le Prado",
-      "Le Rijksmuseum"
+      "Musée du Louvre",
+      "Musée du Prado",
+      "Musée d'Orsay"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763772426662-bbb5045392d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3Nzk1Mjc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1759846779524-6042d32d487d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Wassily Kandinsky ?",
+    "correct_answer": "Abstraction",
+    "incorrect_answers": [
+      "Surréalisme",
+      "Futurisme",
+      "Dadaïsme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1765153885305-85e56c2efe92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a créé 'Le Baiser' ?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": [
+      "Michel-Ange",
+      "Donatello",
+      "Bernini"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1643105123699-371e51d0d0d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc5MTA0MjExfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel tableau représente une femme avec un chapeau rouge ?",
+    "correct_answer": "Femme au chapeau rouge",
+    "incorrect_answers": [
+      "La Persistance de la mémoire",
+      "Les Demoiselles d'Avignon",
+      "La Chambre bleue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1572116618753-98d395f2d48f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc5MTA0MjExfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu la cathédrale Saint-Basile à Moscou ?",
+    "correct_answer": "Postnik Yakovlev",
+    "incorrect_answers": [
+      "Antoni Gaudí",
+      "Le Corbusier",
+      "Frank Lloyd Wright"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1636307268087-82fea49c541e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc5MTA0MjExfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre est connu pour ses 'Coquelicots' ?",
+    "correct_answer": "Claude Monet",
+    "incorrect_answers": [
+      "Pierre-Auguste Renoir",
+      "Édouard Manet",
+      "Paul Gauguin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758380388480-6f329811c09b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée abrite 'Les Demoiselles d'Avignon' ?",
+    "correct_answer": "Musée d'Art moderne de New York",
+    "incorrect_answers": [
+      "Musée du Louvre",
+      "Musée du Prado",
+      "Musée d'Orsay"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1764922168474-8048361bc764?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Marcel Duchamp ?",
+    "correct_answer": "Dadaïsme",
+    "incorrect_answers": [
+      "Surréalisme",
+      "Futurisme",
+      "Cubisme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1677427410535-6175fe615d99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel tableau représente une femme avec un chapeau à plumes ?",
+    "correct_answer": "Femme au chapeau à plumes",
+    "incorrect_answers": [
+      "La Danse",
+      "Les Baigneuses",
+      "La Chambre bleue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1621760681857-215258afbbee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc5MTA0MjExfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu la pyramide du Louvre ?",
+    "correct_answer": "Ieoh Ming Pei",
+    "incorrect_answers": [
+      "Frank Gehry",
+      "Norman Foster",
+      "Zaha Hadid"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610589672715-28289f2165d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre est célèbre pour ses 'Bouquets' ?",
+    "correct_answer": "Henri Fantin-Latour",
+    "incorrect_answers": [
+      "Paul Gauguin",
+      "Vincent van Gogh",
+      "Pierre Bonnard"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1707259783407-c448c6a72372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée abrite 'Le Radeau de la Méduse' ?",
+    "correct_answer": "Musée du Louvre",
+    "incorrect_answers": [
+      "Musée d'Orsay",
+      "Musée du Prado",
+      "British Museum"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768982417072-34a75ca5d6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à René Magritte ?",
+    "correct_answer": "Surréalisme",
+    "incorrect_answers": [
+      "Cubisme",
+      "Fauvisme",
+      "Pointillisme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1766972501562-5f5acc13ece5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel tableau représente une femme avec une pomme ?",
+    "correct_answer": "Ève ou la pomme",
+    "incorrect_answers": [
+      "La Persistance de la mémoire",
+      "Les Demoiselles d'Avignon",
+      "La Chambre bleue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1760174205716-ddef54f0dc59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu l'Opéra de Sydney ?",
+    "correct_answer": "Jørn Utzon",
+    "incorrect_answers": [
+      "Frank Lloyd Wright",
+      "Le Corbusier",
+      "Antoni Gaudí"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1760281853829-05d55988423a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre est connu pour ses 'Bateaux' ?",
+    "correct_answer": "Claude Monet",
+    "incorrect_answers": [
+      "Pierre-Auguste Renoir",
+      "Édouard Manet",
+      "Paul Cézanne"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1623446488855-cffadd8075ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée abrite 'Le Déjeuner sur l'herbe' ?",
+    "correct_answer": "Musée d'Orsay",
+    "incorrect_answers": [
+      "Musée du Louvre",
+      "Musée du Prado",
+      "British Museum"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1773304292149-1d721aa70346?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Jackson Pollock ?",
+    "correct_answer": "Expressionnisme abstrait",
+    "incorrect_answers": [
+      "Surréalisme",
+      "Fauvisme",
+      "Cubisme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1778770215133-dbb56e311af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel tableau représente une femme avec une ombrelle ?",
+    "correct_answer": "La Dame à l'ombrelle",
+    "incorrect_answers": [
+      "La Danse",
+      "Les Baigneuses",
+      "La Chambre bleue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1602019768076-56d5095faa2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxwYWludGluZyUyMGFydCUyMG11c2V1bSUyMGdhbGxlcnl8ZW58MHx8fHwxNzc5MTA0MjExfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu la Casa Batlló ?",
+    "correct_answer": "Antoni Gaudí",
+    "incorrect_answers": [
+      "Le Corbusier",
+      "Frank Lloyd Wright",
+      "Mies van der Rohe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1763854021249-b85ae8427125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre est célèbre pour ses 'Nus bleus' ?",
+    "correct_answer": "Henri Matisse",
+    "incorrect_answers": [
+      "Pablo Picasso",
+      "Paul Gauguin",
+      "Pierre Bonnard"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1759194772480-19ab385e354f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée abrite 'Les Ménines' de Velázquez ?",
+    "correct_answer": "Musée du Prado",
+    "incorrect_answers": [
+      "Musée du Louvre",
+      "Musée d'Orsay",
+      "British Museum"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1768366778536-f4e32064cc2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Frida Kahlo ?",
+    "correct_answer": "Surréalisme",
+    "incorrect_answers": [
+      "Cubisme",
+      "Fauvisme",
+      "Pointillisme"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1769117618434-8a4b22697936?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel tableau représente une femme avec un collier de perles ?",
+    "correct_answer": "La Dame aux perles",
+    "incorrect_answers": [
+      "La Persistance de la mémoire",
+      "Les Demoiselles d'Avignon",
+      "La Chambre bleue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1639756075000-45ca63e978fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu la Villa Savoye ?",
+    "correct_answer": "Le Corbusier",
+    "incorrect_answers": [
+      "Frank Lloyd Wright",
+      "Antoni Gaudí",
+      "Mies van der Rohe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1732566268069-63c1a5c516ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

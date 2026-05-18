@@ -7,17 +7,17 @@
       "Émile Zola",
       "Honoré de Balzac"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761207299610-12a4d8735be0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1677535919240-446f9ac5a7cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans quel roman trouve-t-on le personnage de Jean Valjean ?",
     "correct_answer": "Les Misérables",
     "incorrect_answers": [
       "Madame Bovary",
-      "Germinal",
-      "Le Père Goriot"
+      "Le Père Goriot",
+      "Germinal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769962929240-24f4c2a69b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1585521549926-ca6526bda09e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel poète a écrit 'Les Fleurs du Mal' ?",
@@ -27,37 +27,27 @@
       "Arthur Rimbaud",
       "Stéphane Mallarmé"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773394184308-4452aaf03492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1590598687530-581406de2262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel prix littéraire récompense chaque année un auteur francophone ?",
-    "correct_answer": "Prix Goncourt",
+    "question": "Quel est le premier roman de la série 'Harry Potter' ?",
+    "correct_answer": "Harry Potter à l'école des sorciers",
     "incorrect_answers": [
-      "Prix Nobel de littérature",
-      "Prix Pulitzer",
-      "Prix Femina"
+      "Harry Potter et la Chambre des secrets",
+      "Harry Potter et le Prisonnier d'Azkaban",
+      "Harry Potter et la Coupe de feu"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764345608021-25cc35653f7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1550399105-05c4a7641b02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Marcel Proust est célèbre pour sa madeleine ?",
-    "correct_answer": "À la recherche du temps perdu",
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 2014 ?",
+    "correct_answer": "Patrick Modiano",
     "incorrect_answers": [
-      "Le Côté de Guermantes",
-      "Sodome et Gomorrhe",
-      "La Prisonnière"
+      "J.M.G. Le Clézio",
+      "Albert Camus",
+      "Jean-Marie Gustave Le Clézio"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1776533696375-e5c29673e751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel auteur a écrit 'L'Étranger' ?",
-    "correct_answer": "Albert Camus",
-    "incorrect_answers": [
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir",
-      "Boris Vian"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773352520531-3b2917e8efc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1549675584-91f19337af3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel roman de George Orwell décrit une dystopie totalitaire ?",
@@ -65,9 +55,29 @@
     "incorrect_answers": [
       "Le Meilleur des mondes",
       "Fahrenheit 451",
-      "Le Zéro et l'Infini"
+      "La Ferme des animaux"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765547683192-bdb17a698c21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1648061557966-8e30f972f0be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a écrit 'À la recherche du temps perdu' ?",
+    "correct_answer": "Marcel Proust",
+    "incorrect_answers": [
+      "André Gide",
+      "Jean-Paul Sartre",
+      "Albert Camus"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1533669955142-6a73332af4db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Victor Hugo met en scène Quasimodo ?",
+    "correct_answer": "Notre-Dame de Paris",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Les Travailleurs de la mer",
+      "L'Homme qui rit"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1529473814998-077b4fec6770?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel poète a écrit 'Le Lac' ?",
@@ -77,97 +87,97 @@
       "Alfred de Vigny",
       "Gérard de Nerval"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767634924490-2e48dccf8019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1709924168698-620ea32c3488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur a reçu le Prix Nobel de littérature en 2014 ?",
-    "correct_answer": "Patrick Modiano",
-    "incorrect_answers": [
-      "J.M.G. Le Clézio",
-      "Jean-Marie Le Clézio",
-      "Albert Camus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1748207397062-02440ad9f034?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Victor Hugo met en scène Quasimodo ?",
-    "correct_answer": "Notre-Dame de Paris",
-    "incorrect_answers": [
-      "Les Travailleurs de la mer",
-      "Les Contemplations",
-      "La Légende des siècles"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765969934422-077ccae29246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel auteur a écrit 'À rebours' ?",
-    "correct_answer": "Joris-Karl Huysmans",
-    "incorrect_answers": [
-      "Guy de Maupassant",
-      "Marcel Proust",
-      "Émile Zola"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777401005650-0eed57a9a121?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Gustave Flaubert est une satire de la bourgeoisie ?",
-    "correct_answer": "Madame Bovary",
-    "incorrect_answers": [
-      "Salammbô",
-      "L'Éducation sentimentale",
-      "Bouvard et Pécuchet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1648905755287-b5c721ab36c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel poète surréaliste a écrit 'Capitale de la douleur' ?",
-    "correct_answer": "Paul Éluard",
-    "incorrect_answers": [
-      "André Breton",
-      "Louis Aragon",
-      "Robert Desnos"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775430766307-da6ed6641bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel auteur a écrit 'Le Petit Prince' ?",
-    "correct_answer": "Antoine de Saint-Exupéry",
-    "incorrect_answers": [
-      "Marcel Aymé",
-      "Boris Vian",
-      "Jean de La Fontaine"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769962920122-fe86f53a31e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Marguerite Yourcenar est une autobiographie fictive ?",
-    "correct_answer": "Mémoires d'Hadrien",
-    "incorrect_answers": [
-      "L'Œuvre au Noir",
-      "Anna, soror...",
-      "Alexis ou le Traité du vain combat"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1698943083652-6213d825bab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel auteur a écrit 'La Peste' ?",
+    "question": "Quel écrivain a écrit 'L'Étranger' ?",
     "correct_answer": "Albert Camus",
     "incorrect_answers": [
       "Jean-Paul Sartre",
       "Simone de Beauvoir",
       "Boris Vian"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773266109454-765e229ccc4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1599488059863-ac95a7f49193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Boris Vian est une satire de la société de consommation ?",
-    "correct_answer": "L'Écume des jours",
+    "question": "Quel roman de Mary Shelley met en scène un savant et sa créature ?",
+    "correct_answer": "Frankenstein",
     "incorrect_answers": [
-      "J'irai cracher sur vos tombes",
-      "Le Goûter des généraux",
-      "Les Fourmis"
+      "Dracula",
+      "Le Portrait de Dorian Gray",
+      "L'Île au trésor"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1777828631919-6a9749831b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1613324765334-7f4a413b8bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a écrit 'Le Petit Prince' ?",
+    "correct_answer": "Antoine de Saint-Exupéry",
+    "incorrect_answers": [
+      "Marcel Aymé",
+      "Jean de La Fontaine",
+      "Boris Vian"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1533478684236-61e1192879e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Gustave Flaubert est centré sur Emma Bovary ?",
+    "correct_answer": "Madame Bovary",
+    "incorrect_answers": [
+      "L'Éducation sentimentale",
+      "Salammbô",
+      "Bouvard et Pécuchet"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1496104679561-38d3af73f9b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Le Dormeur du val' ?",
+    "correct_answer": "Arthur Rimbaud",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Charles Baudelaire",
+      "Stéphane Mallarmé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1618414952052-289dab88b409?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Goncourt en 2020 ?",
+    "correct_answer": "Hervé Le Tellier",
+    "incorrect_answers": [
+      "Michel Houellebecq",
+      "Leïla Slimani",
+      "Édouard Louis"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1464865885825-be7cd16fad8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de J.R.R. Tolkien raconte l'histoire de la Terre du Milieu ?",
+    "correct_answer": "Le Seigneur des Anneaux",
+    "incorrect_answers": [
+      "Le Hobbit",
+      "Bilbo le Hobbit",
+      "Les Enfants de Húrin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1595123336219-5eedd543bc4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a écrit 'Les Mains sales' ?",
+    "correct_answer": "Jean-Paul Sartre",
+    "incorrect_answers": [
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "Boris Vian"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1502485019198-a625bd53ceb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Daniel Defoe met en scène Robinson Crusoé ?",
+    "correct_answer": "Robinson Crusoé",
+    "incorrect_answers": [
+      "L'Île mystérieuse",
+      "Le Vieil Homme et la Mer",
+      "L'Île au trésor"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1473755504818-b72b6dfdc226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel poète a écrit 'Les Châtiments' ?",
@@ -177,77 +187,177 @@
       "Alfred de Vigny",
       "Gérard de Nerval"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1595123550441-d377e017de6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1619641554018-8351f85d3e20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur a reçu le Prix Goncourt en 2020 ?",
-    "correct_answer": "Hervé Le Tellier",
+    "question": "Quel écrivain a écrit 'La Peste' ?",
+    "correct_answer": "Albert Camus",
     "incorrect_answers": [
-      "Leïla Slimani",
-      "Éric Vuillard",
-      "Mathias Énard"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1698943083667-e6edf53c778a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Émile Zola fait partie des 'Rougon-Macquart' ?",
-    "correct_answer": "Germinal",
-    "incorrect_answers": [
-      "Thérèse Raquin",
-      "La Bête humaine",
-      "L'Assommoir"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1647696945040-56de84f73f5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel auteur a écrit 'Les Mots' ?",
-    "correct_answer": "Jean-Paul Sartre",
-    "incorrect_answers": [
-      "Albert Camus",
+      "Jean-Paul Sartre",
       "Simone de Beauvoir",
       "Boris Vian"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1553448539-76016c055738?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1447023029226-ef8f6b52e3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Mary Shelley met en scène un savant fou ?",
-    "correct_answer": "Frankenstein",
+    "question": "Quel roman de Jane Austen met en scène Elizabeth Bennet ?",
+    "correct_answer": "Orgueil et Préjugés",
     "incorrect_answers": [
-      "Dracula",
-      "Le Horla",
-      "L'Étrange Cas du Dr Jekyll et de Mr Hyde"
+      "Raison et Sentiments",
+      "Emma",
+      "Persuasion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1724500307191-a4f2f7351334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1642160428828-334bf07023ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel poète a écrit 'Le Bateau ivre' ?",
     "correct_answer": "Arthur Rimbaud",
     "incorrect_answers": [
       "Paul Verlaine",
-      "Stéphane Mallarmé",
-      "Charles Baudelaire"
+      "Charles Baudelaire",
+      "Stéphane Mallarmé"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761474909212-21b511bd3eb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1625053376622-e462848c453f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur a écrit 'La Nausée' ?",
-    "correct_answer": "Jean-Paul Sartre",
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 1921 ?",
+    "correct_answer": "Anatole France",
     "incorrect_answers": [
-      "Albert Camus",
-      "Simone de Beauvoir",
-      "Boris Vian"
+      "Romain Rolland",
+      "André Gide",
+      "Albert Camus"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774320536102-1d883b09ac46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1648061557740-b9a0998f8a18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Jules Verne décrit un voyage autour du monde ?",
-    "correct_answer": "Le Tour du monde en quatre-vingts jours",
+    "question": "Quel roman de George Orwell dénonce la propagande totalitaire ?",
+    "correct_answer": "La Ferme des animaux",
     "incorrect_answers": [
-      "Vingt mille lieues sous les mers",
-      "De la Terre à la Lune",
-      "L'Île mystérieuse"
+      "1984",
+      "Le Meilleur des mondes",
+      "Fahrenheit 451"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764728671420-d88d4734e2fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1525358180237-7399f908a1d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a écrit 'Les Trois Mousquetaires' ?",
+    "correct_answer": "Alexandre Dumas",
+    "incorrect_answers": [
+      "Victor Hugo",
+      "Honoré de Balzac",
+      "Émile Zola"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1536965764833-5971e0abed7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Fiodor Dostoïevski met en scène Raskolnikov ?",
+    "correct_answer": "Crime et Châtiment",
+    "incorrect_answers": [
+      "Les Frères Karamazov",
+      "L'Idiot",
+      "Les Démons"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1623771702313-39dc4f71d275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Le Cimetière marin' ?",
+    "correct_answer": "Paul Valéry",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Charles Baudelaire",
+      "Stéphane Mallarmé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1598640960622-f51a8bdf8231?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a écrit 'L'Éducation sentimentale' ?",
+    "correct_answer": "Gustave Flaubert",
+    "incorrect_answers": [
+      "Honoré de Balzac",
+      "Émile Zola",
+      "Guy de Maupassant"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1647288020413-dc15f04ce1a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Jules Verne met en scène le capitaine Nemo ?",
+    "correct_answer": "Vingt mille lieues sous les mers",
+    "incorrect_answers": [
+      "Le Tour du monde en quatre-vingts jours",
+      "L'Île mystérieuse",
+      "De la Terre à la Lune"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1600181982553-ce7d36051c01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a écrit 'Les Mains libres' ?",
+    "correct_answer": "Paul Éluard",
+    "incorrect_answers": [
+      "Louis Aragon",
+      "André Breton",
+      "Robert Desnos"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1535905748047-14b2415c77d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Boris Vian met en scène un anti-héros nommé Colin ?",
+    "correct_answer": "L'Écume des jours",
+    "incorrect_answers": [
+      "L'Arrache-cœur",
+      "Le Goûter des généraux",
+      "Les Morts ont tous la même peau"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1595123550384-b81222e23cf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Regrets' ?",
+    "correct_answer": "Joachim du Bellay",
+    "incorrect_answers": [
+      "Pierre de Ronsard",
+      "Jean de La Fontaine",
+      "Molière"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1548048026-5a1a941d93d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Goncourt en 2019 ?",
+    "correct_answer": "Jean-Paul Dubois",
+    "incorrect_answers": [
+      "Leïla Slimani",
+      "Édouard Louis",
+      "Michel Houellebecq"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1583526241256-cb18e8635e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de J.D. Salinger met en scène Holden Caulfield ?",
+    "correct_answer": "L'Attrape-cœurs",
+    "incorrect_answers": [
+      "Franny et Zooey",
+      "Un jour parfait pour le poisson-banane",
+      "Seymour : une introduction"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1533327325824-76bc4e62d560?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a écrit 'Les Paradis artificiels' ?",
+    "correct_answer": "Charles Baudelaire",
+    "incorrect_answers": [
+      "Arthur Rimbaud",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1463320726281-696a485928c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Herman Melville met en scène le capitaine Achab ?",
+    "correct_answer": "Moby Dick",
+    "incorrect_answers": [
+      "Bartleby le scribe",
+      "Billy Budd",
+      "Le Grand Escroc"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1462392627162-2baa2b3518a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel poète a écrit 'Les Contemplations' ?",
@@ -257,17 +367,127 @@
       "Alfred de Vigny",
       "Gérard de Nerval"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774270115093-58d6eb433fb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1508060793788-7d5f1c40c4ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur a reçu le Prix Nobel de littérature en 2016 ?",
-    "correct_answer": "Bob Dylan",
+    "question": "Quel écrivain a écrit 'La Nausée' ?",
+    "correct_answer": "Jean-Paul Sartre",
     "incorrect_answers": [
-      "Svetlana Alexievitch",
-      "Mario Vargas Llosa",
-      "Patrick Modiano"
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "Boris Vian"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1768332491203-d95985191057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1604967941346-f1b8097cf97e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Gabriel García Márquez raconte l'histoire de la famille Buendía ?",
+    "correct_answer": "Cent ans de solitude",
+    "incorrect_answers": [
+      "L'Amour aux temps du choléra",
+      "Chronique d'une mort annoncée",
+      "Le Général dans son labyrinthe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1578511161102-485cc0775c6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Chansons de Bilitis' ?",
+    "correct_answer": "Pierre Louÿs",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Charles Baudelaire",
+      "Stéphane Mallarmé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1595123550441-d377e017de6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 1957 ?",
+    "correct_answer": "Albert Camus",
+    "incorrect_answers": [
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
+      "Boris Vian"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1476081718509-d5d0b661a376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Franz Kafka met en scène Josef K. ?",
+    "correct_answer": "Le Procès",
+    "incorrect_answers": [
+      "Le Château",
+      "L'Amérique",
+      "La Métamorphose"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1601330676094-f67a35e167db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a écrit 'Les Fleurs de mal' ?",
+    "correct_answer": "Charles Baudelaire",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1607957333562-c760eee665ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Virginia Woolf suit une journée dans la vie de Clarissa Dalloway ?",
+    "correct_answer": "Mrs Dalloway",
+    "incorrect_answers": [
+      "Orlando",
+      "Les Vagues",
+      "Vers le phare"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1526285759904-71d1170ed2ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Le Pont Mirabeau' ?",
+    "correct_answer": "Guillaume Apollinaire",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Charles Baudelaire",
+      "Stéphane Mallarmé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1587397070638-81d3cce10435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a écrit 'L'Écume des jours' ?",
+    "correct_answer": "Boris Vian",
+    "incorrect_answers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1652259432747-2adff09254a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Leo Tolstoï met en scène Natacha Rostova ?",
+    "correct_answer": "Guerre et Paix",
+    "incorrect_answers": [
+      "Anna Karénine",
+      "La Sonate à Kreutzer",
+      "Résurrection"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1585521550659-64a7cafb39e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Illuminations' ?",
+    "correct_answer": "Arthur Rimbaud",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Charles Baudelaire",
+      "Stéphane Mallarmé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1747792607295-ada93d1b320c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Goncourt en 2018 ?",
+    "correct_answer": "Nicolas Mathieu",
+    "incorrect_answers": [
+      "Leïla Slimani",
+      "Édouard Louis",
+      "Michel Houellebecq"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel roman de Albert Camus met en scène Meursault ?",
@@ -277,26 +497,86 @@
       "Le Mythe de Sisyphe",
       "Caligula"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1699359104598-9e1c62031af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1601469090980-fc95e8d95544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur a écrit 'Les Paradis artificiels' ?",
-    "correct_answer": "Charles Baudelaire",
+    "question": "Quel auteur a écrit 'Les Mots' ?",
+    "correct_answer": "Jean-Paul Sartre",
     "incorrect_answers": [
-      "Paul Verlaine",
-      "Arthur Rimbaud",
-      "Stéphane Mallarmé"
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "Boris Vian"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384833-4d788d9fe476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1571193161738-deaba9b6cc26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de George Sand est un conte philosophique ?",
-    "correct_answer": "La Mare au diable",
+    "question": "Quel roman de Haruki Murakami met en scène un chat nommé Torakichi ?",
+    "correct_answer": "Kafka sur le rivage",
     "incorrect_answers": [
-      "Indiana",
-      "Lélia",
-      "Le Compagnon du Tour de France"
+      "1Q84",
+      "La Ballade de l'impossible",
+      "Au sud de la frontière, à l'ouest du soleil"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1777144159742-a138f0f7f7dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1491841651911-c44c30c34548?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Chansons des rues et des bois' ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": [
+      "Alfred de Musset",
+      "Alfred de Vigny",
+      "Gérard de Nerval"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1683871268982-a19153dbb35d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a écrit 'La Condition humaine' ?",
+    "correct_answer": "André Malraux",
+    "incorrect_answers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1431608660976-4fe5bcc2112c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de George Sand met en scène une femme indépendante nommée Indiana ?",
+    "correct_answer": "Indiana",
+    "incorrect_answers": [
+      "La Mare au diable",
+      "La Petite Fadette",
+      "François le Champi"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1492539438225-2666b2a98f93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 1964 ?",
+    "correct_answer": "Jean-Paul Sartre",
+    "incorrect_answers": [
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "Boris Vian"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1481415004805-b5b5c1e19e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Milan Kundera explore les thèmes de l'amour et de la trahison ?",
+    "correct_answer": "L'Insoutenable Légèreté de l'être",
+    "incorrect_answers": [
+      "La Plaisanterie",
+      "Le Livre du rire et de l'oubli",
+      "L'Immortalité"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1535058489223-1331b20fa114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a écrit 'Les Raisins de la colère' ?",
+    "correct_answer": "John Steinbeck",
+    "incorrect_answers": [
+      "Ernest Hemingway",
+      "William Faulkner",
+      "F. Scott Fitzgerald"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1579370318443-8da816457e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

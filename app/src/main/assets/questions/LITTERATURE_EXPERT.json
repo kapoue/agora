@@ -1,302 +1,582 @@
 [
   {
-    "question": "Quel écrivain français a remporté le prix Nobel de littérature en 1921 pour son œuvre poétique, notamment pour son recueil 'Les Fleurs du Mal' ?",
-    "correct_answer": "Sully Prudhomme",
-    "incorrect_answers": [
-      "Paul Verlaine",
-      "Arthur Rimbaud",
-      "Stéphane Mallarmé"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758279745202-79570ca2896e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel roman de Marcel Proust le personnage de Swann apparaît-il comme un personnage central ?",
-    "correct_answer": "Du côté de chez Swann",
-    "incorrect_answers": [
-      "À la recherche du temps perdu",
-      "Le Temps retrouvé",
-      "Sodome et Gomorrhe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771313121019-4d0ce055b9a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel poète français du XIXe siècle est célèbre pour son recueil 'Les Châtiments', écrit en exil après le coup d'État de Louis-Napoléon Bonaparte ?",
+    "question": "Quel poète français a écrit le recueil 'Les Châtiments', satire politique publiée en 1853 ?",
     "correct_answer": "Victor Hugo",
     "incorrect_answers": [
       "Alfred de Musset",
       "Gérard de Nerval",
       "Charles Baudelaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1553448540-fe069f7c95bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1607957333562-c760eee665ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Marguerite Yourcenar raconte l'histoire de l'empereur romain Hadrien à travers ses mémoires fictifs ?",
-    "correct_answer": "Mémoires d'Hadrien",
+    "question": "Quel roman de Marcel Proust s'ouvre par la phrase 'Longtemps, je me suis couché de bonne heure' ?",
+    "correct_answer": "Du côté de chez Swann",
     "incorrect_answers": [
-      "L'Œuvre au Noir",
-      "Anna, soror...",
-      "Alexis ou le Traité du vain combat"
+      "À la recherche du temps perdu",
+      "Le Temps retrouvé",
+      "La Prisonnière"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384865-82dba88ac831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1620130674275-d709994ed7c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel écrivain russe a écrit 'Les Frères Karamazov', considéré comme l'un des chefs-d'œuvre de la littérature mondiale ?",
-    "correct_answer": "Fiodor Dostoïevski",
+    "question": "Quel auteur a reçu le prix Nobel de littérature en 1921 pour son œuvre poétique ?",
+    "correct_answer": "Anatole France",
     "incorrect_answers": [
-      "Léon Tolstoï",
-      "Nikolaï Gogol",
-      "Anton Tchekhov"
+      "Paul Valéry",
+      "André Gide",
+      "Romain Rolland"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1725582204998-7cb85d292e5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1520545255830-2511979f3636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel poète français du XXe siècle a fondé le mouvement surréaliste avec son manifeste de 1924 ?",
-    "correct_answer": "André Breton",
+    "question": "Dans quel roman de Gustave Flaubert Emma Bovary se suicide-t-elle en avalant de l'arsenic ?",
+    "correct_answer": "Madame Bovary",
     "incorrect_answers": [
-      "Paul Éluard",
-      "Louis Aragon",
-      "Guillaume Apollinaire"
+      "L'Éducation sentimentale",
+      "Salammbô",
+      "Bouvard et Pécuchet"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770131749085-88272547f822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1492539438225-2666b2a98f93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Boris Vian, publié sous le pseudonyme de Vernon Sullivan, a été censuré en France pour son contenu provocateur ?",
-    "correct_answer": "J'irai cracher sur vos tombes",
+    "question": "Quel poète symboliste a écrit 'Le Bateau ivre' à l'âge de 16 ans ?",
+    "correct_answer": "Arthur Rimbaud",
     "incorrect_answers": [
-      "L'Écume des jours",
-      "L'Automne à Pékin",
-      "Le Goûter des généraux"
+      "Stéphane Mallarmé",
+      "Paul Verlaine",
+      "Jules Laforgue"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763368230816-02f742726583?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1642160428828-334bf07023ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel écrivain français a reçu le prix Goncourt en 1954 pour son roman 'Les Mandarins' ?",
+    "question": "Quel écrivain a publié 'Les Misérables' en 1862 sous forme de feuilleton ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": [
+      "Honoré de Balzac",
+      "Émile Zola",
+      "Alexandre Dumas"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1524401597352-ec4463663233?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Albert Camus met en scène Meursault, un homme indifférent au meurtre ?",
+    "correct_answer": "L'Étranger",
+    "incorrect_answers": [
+      "La Peste",
+      "Le Mythe de Sisyphe",
+      "La Chute"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1542713504-03db5fb21c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a remporté le prix Goncourt en 1954 pour 'Les Mandarins' ?",
     "correct_answer": "Simone de Beauvoir",
     "incorrect_answers": [
       "Marguerite Duras",
       "Françoise Sagan",
       "Nathalie Sarraute"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384873-f3cfff78beef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1648061557966-8e30f972f0be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel poète français du XIXe siècle est l'auteur du recueil 'Les Contemplations', dédié à sa fille Léopoldine ?",
+    "question": "Quel poète a écrit 'Les Fleurs du Mal', recueil censuré pour outrage à la morale ?",
+    "correct_answer": "Charles Baudelaire",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Stéphane Mallarmé",
+      "Arthur Rimbaud"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1491841651911-c44c30c34548?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Boris Vian raconte l'histoire d'un homme qui découvre un objet mystérieux ?",
+    "correct_answer": "L'Écume des jours",
+    "incorrect_answers": [
+      "L'Arrache-cœur",
+      "Le Goûter des généraux",
+      "J'irai cracher sur vos tombes"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1709924168698-620ea32c3488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a publié 'À rebours' en 1884, manifeste du décadentisme ?",
+    "correct_answer": "Joris-Karl Huysmans",
+    "incorrect_answers": [
+      "Oscar Wilde",
+      "Marcel Proust",
+      "André Gide"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1521824243451-25d32715584a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Marguerite Yourcenar explore la vie de l'empereur romain Hadrien ?",
+    "correct_answer": "Mémoires d'Hadrien",
+    "incorrect_answers": [
+      "L'Œuvre au Noir",
+      "Nouvelles orientales",
+      "Anna, soror..."
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1583920230213-bdd2d6e7bd50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Contemplations', dédié à sa fille Léopoldine ?",
     "correct_answer": "Victor Hugo",
     "incorrect_answers": [
       "Alfred de Musset",
       "Gérard de Nerval",
-      "Charles Baudelaire"
+      "Alphonse de Lamartine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1605647601778-865aeff15565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1613324766451-2d03b2ea8190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Gabriel García Márquez raconte l'histoire de la famille Buendía sur plusieurs générations dans le village fictif de Macondo ?",
-    "correct_answer": "Cent ans de solitude",
+    "question": "Quel auteur a reçu le prix Nobel de littérature en 1964 pour son œuvre poétique et dramatique ?",
+    "correct_answer": "Jean-Paul Sartre",
     "incorrect_answers": [
-      "L'Amour aux temps du choléra",
-      "Chronique d'une mort annoncée",
-      "Le Général dans son labyrinthe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763136195121-cce9a6753213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel écrivain français a écrit 'La Peste', roman allégorique publié en 1947 qui lui a valu le prix Nobel de littérature en 1957 ?",
-    "correct_answer": "Albert Camus",
-    "incorrect_answers": [
-      "Jean-Paul Sartre",
+      "Albert Camus",
       "André Gide",
-      "François Mauriac"
+      "Samuel Beckett"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384801-079962407b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1677461517422-e9aab797f7b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel poète français du XXe siècle a écrit 'Capitale de la douleur', recueil emblématique du surréalisme ?",
-    "correct_answer": "Paul Éluard",
+    "question": "Dans quel roman de Stendhal Fabrice del Dongo est-il emprisonné à la tour Farnèse ?",
+    "correct_answer": "La Chartreuse de Parme",
     "incorrect_answers": [
-      "Louis Aragon",
-      "Robert Desnos",
-      "Benjamin Péret"
+      "Le Rouge et le Noir",
+      "Lucien Leuwen",
+      "Armance"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952385357-6ff662eb61e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1587397070638-81d3cce10435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Joris-Karl Huysmans, publié en 1884, est considéré comme un manifeste du mouvement décadent ?",
-    "correct_answer": "À rebours",
+    "question": "Quel écrivain a publié 'Les Choses' en 1965, roman primé par le prix Renaudot ?",
+    "correct_answer": "Georges Perec",
     "incorrect_answers": [
-      "Les Diaboliques",
-      "Marthe",
-      "En ménage"
+      "Patrick Modiano",
+      "Michel Houellebecq",
+      "Jean-Philippe Toussaint"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1699523525646-ae96e089474f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1601330676094-f67a35e167db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel écrivain américain a remporté le prix Pulitzer en 1961 pour son roman 'De sang-froid' ?",
-    "correct_answer": "Truman Capote",
-    "incorrect_answers": [
-      "Harper Lee",
-      "William Faulkner",
-      "John Steinbeck"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761207299794-2836fc5bbf69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel poète français du XIXe siècle est l'auteur des 'Fleurs du Mal', recueil qui a marqué la poésie moderne ?",
-    "correct_answer": "Charles Baudelaire",
-    "incorrect_answers": [
-      "Paul Verlaine",
-      "Arthur Rimbaud",
-      "Stéphane Mallarmé"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758655254497-29163169a17f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Marguerite Yourcenar, publié en 1968, explore la vie d'un médecin du XVIe siècle à travers une série de portraits ?",
-    "correct_answer": "L'Œuvre au Noir",
-    "incorrect_answers": [
-      "Mémoires d'Hadrien",
-      "Anna, soror...",
-      "Alexis ou le Traité du vain combat"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1712527320820-bec5fd19d69b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel écrivain français a écrit 'Les Misérables', roman monumental publié en 1862 qui dépeint la société française du XIXe siècle ?",
-    "correct_answer": "Victor Hugo",
-    "incorrect_answers": [
-      "Honoré de Balzac",
-      "Gustave Flaubert",
-      "Émile Zola"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764509828407-5ecd34398e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel poète français du XXe siècle a écrit 'Paroles', recueil de poèmes en prose devenu un classique de la littérature française ?",
-    "correct_answer": "Jacques Prévert",
-    "incorrect_answers": [
-      "Louis Aragon",
-      "Paul Éluard",
-      "Robert Desnos"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769093031054-a8d8846de39c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Franz Kafka raconte l'histoire de Josef K., un homme arrêté sans savoir pourquoi, symbole de l'absurdité bureaucratique ?",
-    "correct_answer": "Le Procès",
-    "incorrect_answers": [
-      "La Métamorphose",
-      "Le Château",
-      "L'Amérique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1681264894057-d98d6feb6897?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel écrivain français a reçu le prix Nobel de littérature en 1985 pour son œuvre romanesque et ses essais, notamment 'La Place' ?",
-    "correct_answer": "Annie Ernaux",
-    "incorrect_answers": [
-      "Marguerite Duras",
-      "Françoise Sagan",
-      "Nathalie Sarraute"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553448539-f6063db586a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel poète français du XIXe siècle est l'auteur des 'Poèmes saturniens', recueil marqué par un lyrisme mélancolique et symboliste ?",
-    "correct_answer": "Paul Verlaine",
-    "incorrect_answers": [
-      "Arthur Rimbaud",
-      "Stéphane Mallarmé",
-      "Charles Baudelaire"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762424361973-617839b3dc4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de William Faulkner, publié en 1929, est considéré comme un chef-d'œuvre de la littérature américaine moderne ?",
-    "correct_answer": "Le Bruit et la Fureur",
-    "incorrect_answers": [
-      "Absalom, Absalom!",
-      "Lumière d'août",
-      "Sanctuaire"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1724500307168-16a378a149ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel écrivain français a écrit 'La Condition humaine', roman qui lui a valu le prix Goncourt en 1933 ?",
-    "correct_answer": "André Malraux",
-    "incorrect_answers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "François Mauriac"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1696952384817-3d09eb983833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel poète français du XXe siècle a écrit 'Les Yeux d'Elsa', poème dédié à sa muse Elsa Triolet ?",
-    "correct_answer": "Louis Aragon",
-    "incorrect_answers": [
-      "Paul Éluard",
-      "Jacques Prévert",
-      "Robert Desnos"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1760869028124-930873e51082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Thomas Mann, publié en 1924, explore les tensions entre l'art et la vie à travers l'histoire d'un écrivain vieillissant ?",
-    "correct_answer": "La Montagne magique",
-    "incorrect_answers": [
-      "Mort à Venise",
-      "Buddenbrooks",
-      "Le Docteur Faustus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1724501405264-945712f7f05a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel écrivain français a reçu le prix Nobel de littérature en 1964 pour son œuvre romanesque et ses essais, notamment 'Les Racines du ciel' ?",
-    "correct_answer": "Saint-John Perse",
-    "incorrect_answers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "François Mauriac"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1770515927748-b0a68413fc80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel poète français du XIXe siècle est l'auteur des 'Illuminations', recueil de poèmes en prose publié en 1886 ?",
+    "question": "Quel poète a écrit 'Les Illuminations', recueil en prose poétique publié en 1886 ?",
     "correct_answer": "Arthur Rimbaud",
     "incorrect_answers": [
       "Paul Verlaine",
       "Stéphane Mallarmé",
+      "Jules Laforgue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1511721511189-ca0a98b3229e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Louis-Ferdinand Céline décrit la vie misérable de Ferdinand Bardamu ?",
+    "correct_answer": "Voyage au bout de la nuit",
+    "incorrect_answers": [
+      "Mort à crédit",
+      "Bagatelles pour un massacre",
+      "Nord"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1534774592507-488885376ad3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a remporté le prix Goncourt en 1985 pour 'La Place' ?",
+    "correct_answer": "Annie Ernaux",
+    "incorrect_answers": [
+      "Patrick Modiano",
+      "J.M.G. Le Clézio",
+      "Michel Tournier"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1647288020655-6b3e2fc5916b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Regrets', recueil publié en 1558 ?",
+    "correct_answer": "Joachim du Bellay",
+    "incorrect_answers": [
+      "Pierre de Ronsard",
+      "Jean de La Fontaine",
+      "François Rabelais"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1502485019198-a625bd53ceb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Marguerite Duras raconte une histoire d'amour dans l'Indochine coloniale ?",
+    "correct_answer": "L'Amant",
+    "incorrect_answers": [
+      "Moderato cantabile",
+      "La Douleur",
+      "Un barrage contre le Pacifique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1545875133-4105af0f122f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a publié 'Les Mots' en 1964, autobiographie de son enfance ?",
+    "correct_answer": "Jean-Paul Sartre",
+    "incorrect_answers": [
+      "Albert Camus",
+      "André Gide",
+      "Marcel Proust"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1677535919240-446f9ac5a7cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Chansons de Bilitis', recueil érotique publié en 1894 ?",
+    "correct_answer": "Pierre Louÿs",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Stéphane Mallarmé",
+      "Charles Cros"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1462392627162-2baa2b3518a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Patrick Modiano met en scène un homme en quête de son passé ?",
+    "correct_answer": "Rue des Boutiques Obscures",
+    "incorrect_answers": [
+      "Dora Bruder",
+      "Dans le café de la jeunesse perdue",
+      "L'Horizon"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1475243907012-e01b4e4b0a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a reçu le prix Nobel de littérature en 2014 pour son œuvre narrative ?",
+    "correct_answer": "Patrick Modiano",
+    "incorrect_answers": [
+      "J.M.G. Le Clézio",
+      "Jean-Marie Gustave Le Clézio",
+      "Albert Camus"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1564316912292-de44e84f8fc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Émile Zola décrit la grève des mineurs dans le Nord de la France ?",
+    "correct_answer": "Germinal",
+    "incorrect_answers": [
+      "L'Assommoir",
+      "La Bête humaine",
+      "Thérèse Raquin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1550842605-92ad35330694?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Paradis artificiels', essai sur les drogues en 1860 ?",
+    "correct_answer": "Charles Baudelaire",
+    "incorrect_answers": [
+      "Arthur Rimbaud",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1631891256090-0042b3784a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a publié 'La Condition humaine' en 1933, roman sur la révolution chinoise ?",
+    "correct_answer": "André Malraux",
+    "incorrect_answers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Gide"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1623031345438-387dd3c45e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Boris Vian met en scène un jazzman noir dans l'Amérique ségrégationniste ?",
+    "correct_answer": "J'irai cracher sur vos tombes",
+    "incorrect_answers": [
+      "L'Écume des jours",
+      "L'Arrache-cœur",
+      "Le Goûter des généraux"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1677461404789-1faafbd934e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Poèmes saturniens', son premier recueil en 1866 ?",
+    "correct_answer": "Paul Verlaine",
+    "incorrect_answers": [
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé",
+      "Jules Laforgue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1647288020413-dc15f04ce1a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Marcel Proust décrit la vie mondaine et artistique de la Belle Époque ?",
+    "correct_answer": "Le Côté de Guermantes",
+    "incorrect_answers": [
+      "Sodome et Gomorrhe",
+      "La Prisonnière",
+      "Albertine disparue"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1521633313183-bee6321ae965?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a remporté le prix Goncourt en 1932 pour 'Les Thibault' ?",
+    "correct_answer": "Roger Martin du Gard",
+    "incorrect_answers": [
+      "André Gide",
+      "François Mauriac",
+      "Henri Troyat"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1431608660976-4fe5bcc2112c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Trophées', recueil publié en 1893 ?",
+    "correct_answer": "José-Maria de Heredia",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Stéphane Mallarmé",
+      "Arthur Rimbaud"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1508060793788-7d5f1c40c4ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Albert Camus décrit une épidémie ravageant une ville algérienne ?",
+    "correct_answer": "La Peste",
+    "incorrect_answers": [
+      "L'Étranger",
+      "Le Mythe de Sisyphe",
+      "La Chute"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1747792607295-ada93d1b320c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a publié 'Les Mémoires de deux jeunes mariées' en 1841 ?",
+    "correct_answer": "Honoré de Balzac",
+    "incorrect_answers": [
+      "Stendhal",
+      "Gustave Flaubert",
+      "Guy de Maupassant"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1571193161738-deaba9b6cc26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Chansons de la longue attente', recueil publié en 1946 ?",
+    "correct_answer": "René Char",
+    "incorrect_answers": [
+      "Paul Éluard",
+      "Louis Aragon",
+      "Guillaume Apollinaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1648061557740-b9a0998f8a18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Joris-Karl Huysmans décrit la conversion d'un dandy au catholicisme ?",
+    "correct_answer": "Là-Bas",
+    "incorrect_answers": [
+      "À rebours",
+      "En rade",
+      "Marthe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1627340067228-14a5222671a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a reçu le prix Nobel de littérature en 1947 pour son œuvre lyrique ?",
+    "correct_answer": "André Gide",
+    "incorrect_answers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "François Mauriac"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1600431972041-fb45a99be8e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Gustave Flaubert met en scène Frédéric Moreau et son amour pour Mme Arnoux ?",
+    "correct_answer": "L'Éducation sentimentale",
+    "incorrect_answers": [
+      "Madame Bovary",
+      "Salammbô",
+      "Bouvard et Pécuchet"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1601073283537-f246319362b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Chants de Maldoror', œuvre surréaliste avant l'heure ?",
+    "correct_answer": "Comte de Lautréamont",
+    "incorrect_answers": [
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé",
       "Charles Baudelaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1553447977-6aee6ba02167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1595123550384-b81222e23cf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Gabriel García Márquez raconte l'histoire d'un amour impossible entre Florentino Ariza et Fermina Daza ?",
-    "correct_answer": "L'Amour aux temps du choléra",
+    "question": "Quel roman de Marguerite Yourcenar explore la vie d'un médecin humaniste au XVIe siècle ?",
+    "correct_answer": "L'Œuvre au Noir",
     "incorrect_answers": [
-      "Cent ans de solitude",
-      "Chronique d'une mort annoncée",
-      "Le Général dans son labyrinthe"
+      "Mémoires d'Hadrien",
+      "Nouvelles orientales",
+      "Anna, soror..."
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773606382007-afddea672b0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1677461517419-221eb098ea99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel écrivain français a écrit 'La Princesse de Clèves', considéré comme le premier roman psychologique de la littérature française ?",
-    "correct_answer": "Madame de Lafayette",
+    "question": "Quel écrivain a publié 'Les Nourritures terrestres' en 1897, manifeste de la quête spirituelle ?",
+    "correct_answer": "André Gide",
     "incorrect_answers": [
-      "Molière",
-      "Jean Racine",
-      "Pierre Corneille"
+      "Paul Valéry",
+      "Marcel Proust",
+      "Paul Claudel"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1554900773-632f4c042da8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1595123336219-5eedd543bc4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel poète français du XXe siècle a écrit 'Le Cimetière marin', poème célèbre pour sa structure métrique et sa profondeur philosophique ?",
-    "correct_answer": "Paul Valéry",
+    "question": "Quel poète a écrit 'Les Yeux d'Elsa', poème dédié à sa muse ?",
+    "correct_answer": "Aragon",
     "incorrect_answers": [
-      "Guillaume Apollinaire",
-      "Saint-John Perse",
-      "Yves Bonnefoy"
+      "Paul Éluard",
+      "Louis Aragon",
+      "Guillaume Apollinaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763562597716-68adb3f7f896?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzc5NTIxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1468273519810-d3fe4c125cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Boris Pasternak raconte la vie d'un médecin pendant la révolution russe ?",
+    "correct_answer": "Le Docteur Jivago",
+    "incorrect_answers": [
+      "La Fuite",
+      "Sœur de mon cœur",
+      "L'Année 1917"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1505664063603-28e48ca204eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a remporté le prix Goncourt en 1929 pour 'Les Faux-Monnayeurs' ?",
+    "correct_answer": "André Gide",
+    "incorrect_answers": [
+      "Marcel Proust",
+      "André Malraux",
+      "François Mauriac"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Calligrammes', poèmes visuels publiés en 1918 ?",
+    "correct_answer": "Guillaume Apollinaire",
+    "incorrect_answers": [
+      "Blaise Cendrars",
+      "Pierre Reverdy",
+      "Tristan Tzara"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1473755504818-b72b6dfdc226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Albert Camus met en scène un professeur qui se rebelle contre l'absurdité ?",
+    "correct_answer": "La Chute",
+    "incorrect_answers": [
+      "L'Étranger",
+      "La Peste",
+      "Le Mythe de Sisyphe"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1652259432747-2adff09254a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a publié 'Les Thibault', fresque familiale en 8 volumes ?",
+    "correct_answer": "Roger Martin du Gard",
+    "incorrect_answers": [
+      "André Gide",
+      "François Mauriac",
+      "Henri Troyat"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1684347417284-1271ef9b078c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Fleurs de Tarbes', essai sur la poésie moderne en 1936 ?",
+    "correct_answer": "Jean Cocteau",
+    "incorrect_answers": [
+      "Paul Éluard",
+      "Louis Aragon",
+      "René Char"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1567988122319-039d80fafc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Marguerite Duras décrit une femme en deuil après la Seconde Guerre mondiale ?",
+    "correct_answer": "La Douleur",
+    "incorrect_answers": [
+      "L'Amant",
+      "Moderato cantabile",
+      "Un barrage contre le Pacifique"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1600181982553-ce7d36051c01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a reçu le prix Nobel de littérature en 1952 pour son œuvre poétique ?",
+    "correct_answer": "François Mauriac",
+    "incorrect_answers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Gide"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1548048026-5a1a941d93d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Stendhal met en scène Julien Sorel, ambitieux dans la société de la Restauration ?",
+    "correct_answer": "Le Rouge et le Noir",
+    "incorrect_answers": [
+      "La Chartreuse de Parme",
+      "Lucien Leuwen",
+      "Armance"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1533478684236-61e1192879e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Chants de Maldoror', texte fondateur du surréalisme ?",
+    "correct_answer": "Comte de Lautréamont",
+    "incorrect_answers": [
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé",
+      "Charles Baudelaire"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1447023029226-ef8f6b52e3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a publié 'Les Mémoires d'outre-tombe', autobiographie en 1849 ?",
+    "correct_answer": "François-René de Chateaubriand",
+    "incorrect_answers": [
+      "Victor Hugo",
+      "Alphonse de Lamartine",
+      "Alfred de Vigny"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1677461404800-55ba48012cce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de J.M.G. Le Clézio raconte l'histoire d'un enfant solitaire dans le désert ?",
+    "correct_answer": "Le Procès-verbal",
+    "incorrect_answers": [
+      "Désert",
+      "La Quarantaine",
+      "Le Chercheur d'or"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1524311583145-d5593bd3502a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Chansons de Bilitis', poèmes érotiques publiés en 1894 ?",
+    "correct_answer": "Pierre Louÿs",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Stéphane Mallarmé",
+      "Charles Cros"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1598640960622-f51a8bdf8231?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a remporté le prix Goncourt en 1960 pour 'La Modification' ?",
+    "correct_answer": "Michel Butor",
+    "incorrect_answers": [
+      "Alain Robbe-Grillet",
+      "Nathalie Sarraute",
+      "Marguerite Duras"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1585521551675-e6e4e4d441f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fGJvb2tzJTIwbGlicmFyeSUyMGxpdGVyYXR1cmV8ZW58MHx8fHwxNzc5MTA0MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman de Boris Vian décrit un monde où la musique est une arme politique ?",
+    "correct_answer": "L'Arrache-cœur",
+    "incorrect_answers": [
+      "L'Écume des jours",
+      "J'irai cracher sur vos tombes",
+      "Le Goûter des généraux"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1481415004805-b5b5c1e19e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

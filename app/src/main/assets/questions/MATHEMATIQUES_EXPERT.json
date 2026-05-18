@@ -1,302 +1,582 @@
 [
   {
-    "question": "Quel mathématicien a démontré le dernier théorème de Fermat en 1994 ?",
-    "correct_answer": "Andrew Wiles",
+    "question": "Quel mathématicien a démontré le théorème de Fermat pour n=5 en 1825 ?",
+    "correct_answer": "Adrien-Marie Legendre",
     "incorrect_answers": [
-      "Grigori Perelman",
-      "Terence Tao",
-      "John Nash"
+      "Carl Friedrich Gauss",
+      "Joseph-Louis Lagrange",
+      "Leonhard Euler"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616529927764-173a543493ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685733897-80154016629f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du théorème qui stipule que tout polynôme non constant à coefficients complexes admet au moins une racine complexe ?",
     "correct_answer": "Théorème de d'Alembert-Gauss",
     "incorrect_answers": [
       "Théorème de Rolle",
-      "Théorème des valeurs intermédiaires",
-      "Théorème de Cauchy"
+      "Théorème de Cauchy-Lipschitz",
+      "Théorème de Brouwer"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734556-a34e35ad8c71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1599662195404-c76cda0436ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a introduit la notion de 'fonction génératrice' au XVIIIe siècle ?",
-    "correct_answer": "Pierre-Simon Laplace",
+    "question": "Quel mathématicien a introduit la notion de 'variété' en géométrie différentielle au XIXe siècle ?",
+    "correct_answer": "Bernhard Riemann",
     "incorrect_answers": [
-      "Leonhard Euler",
-      "Carl Friedrich Gauss",
-      "Joseph Fourier"
+      "Élie Cartan",
+      "Henri Poincaré",
+      "Felix Klein"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734614-63fe30c18b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui énonce que la somme des angles d'un triangle sphérique dépasse 180° ?",
-    "correct_answer": "Théorème de Girard",
+    "question": "Quel est le nom du théorème qui énonce que la somme des angles d'un triangle hyperbolique est strictement inférieure à 180° ?",
+    "correct_answer": "Théorème de Gauss-Bolyai-Lobachevski",
     "incorrect_answers": [
-      "Théorème de Gauss-Bonnet",
-      "Théorème de Menelaus",
-      "Théorème de Ceva"
+      "Théorème de Pythagore",
+      "Théorème de Thalès",
+      "Théorème de Menelaus"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733780-4eced3a89d98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685733835-c90530b20bdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mathématicien a formulé l'hypothèse de Riemann en 1859 ?",
     "correct_answer": "Bernhard Riemann",
     "incorrect_answers": [
+      "Georg Friedrich Bernhard Riemann",
       "David Hilbert",
-      "Henri Poincaré",
-      "Emil Artin"
+      "Felix Klein"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734565-fc8ff6e9ffcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685847747-597ce085906e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du théorème qui généralise le théorème de Pythagore aux espaces euclidiens de dimension supérieure ?",
     "correct_answer": "Théorème de Pythagore généralisé",
     "incorrect_answers": [
-      "Théorème de Thalès",
       "Théorème de Lagrange",
-      "Théorème de Stokes"
+      "Théorème de Stokes",
+      "Théorème de Green"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1581089778245-3ce67677f718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a introduit les nombres complexes sous leur forme moderne (a + bi) ?",
-    "correct_answer": "Rafael Bombelli",
-    "incorrect_answers": [
-      "John Napier",
-      "René Descartes",
-      "Carl Friedrich Gauss"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765410850935-d875a630d3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui stipule que tout corps fini est commutatif ?",
-    "correct_answer": "Théorème de Wedderburn",
-    "incorrect_answers": [
-      "Théorème de Galois",
-      "Théorème de Fermat",
-      "Théorème de Noether"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1708011271935-3e109df56fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1533709475520-a0745bba78bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mathématicien a développé la théorie des distributions au XXe siècle ?",
     "correct_answer": "Laurent Schwartz",
     "incorrect_answers": [
       "André Weil",
-      "Alexander Grothendieck",
-      "Jean Leray"
+      "Jean-Pierre Serre",
+      "Alexandre Grothendieck"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733761-da7220a410ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1773489753005-dba9bf8d72bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui énonce que toute courbe algébrique projective lisse de genre g ≥ 2 sur un corps fini a un nombre fini de points rationnels ?",
-    "correct_answer": "Théorème de Mordell-Weil",
+    "question": "Quel est le nom du théorème qui stipule que toute fonction continue sur un segment fermé est uniformément continue ?",
+    "correct_answer": "Théorème de Heine",
     "incorrect_answers": [
-      "Théorème de Hodge",
-      "Théorème de Riemann-Roch",
-      "Théorème de Lefschetz"
+      "Théorème de Bolzano-Weierstrass",
+      "Théorème de Weierstrass",
+      "Théorème de Stone-Weierstrass"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848303-9fc8c37a7924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1765410850935-d875a630d3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a introduit la notion de 'variété algébrique' au XIXe siècle ?",
-    "correct_answer": "Rudolf Clebsch",
+    "question": "Quel mathématicien a introduit les nombres hypercomplexes appelés 'quaternions' en 1843 ?",
+    "correct_answer": "William Rowan Hamilton",
     "incorrect_answers": [
-      "Évariste Galois",
-      "Niels Abel",
-      "Sophus Lie"
+      "Arthur Cayley",
+      "James Joseph Sylvester",
+      "George Boole"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733814-35d40ac8c4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734614-63fe30c18b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui stipule que toute fonction holomorphe non constante est ouverte ?",
+    "question": "Quel est le nom du théorème qui énonce que toute matrice carrée complexe est triangulable ?",
+    "correct_answer": "Théorème de Schur",
+    "incorrect_answers": [
+      "Théorème de Cayley-Hamilton",
+      "Théorème de Jordan",
+      "Théorème de Perron-Frobenius"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1579823730815-0291253396b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le problème des quatre couleurs en 1852 ?",
+    "correct_answer": "Francis Guthrie",
+    "incorrect_answers": [
+      "Augustus De Morgan",
+      "Arthur Cayley",
+      "William Rowan Hamilton"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1777639629775-d4de6fe6a666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que tout groupe fini d'ordre impair est résoluble ?",
+    "correct_answer": "Théorème de Feit-Thompson",
+    "incorrect_answers": [
+      "Théorème de Sylow",
+      "Théorème de Lagrange",
+      "Théorème de Burnside"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734556-a34e35ad8c71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'topologie' en mathématiques modernes ?",
+    "correct_answer": "Johann Benedict Listing",
+    "incorrect_answers": [
+      "Felix Hausdorff",
+      "Henri Poincaré",
+      "Luitzen Egbertus Jan Brouwer"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848521-ff7e4d136384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction holomorphe non constante est ouverte ?",
     "correct_answer": "Théorème de l'application ouverte",
     "incorrect_answers": [
-      "Théorème de Cauchy-Riemann",
+      "Théorème de Cauchy",
       "Théorème de Liouville",
-      "Théorème de Picard"
+      "Théorème de Montel"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848521-ff7e4d136384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1754304342490-2fa390075d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a démontré le théorème des nombres premiers en 1896 ?",
-    "correct_answer": "Jacques Hadamard",
-    "incorrect_answers": [
-      "Srinivasa Ramanujan",
-      "Paul Erdős",
-      "G.H. Hardy"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733760-71c797cf0b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui énonce que tout espace métrique compact est complet et totalement borné ?",
-    "correct_answer": "Théorème de Borel-Lebesgue",
-    "incorrect_answers": [
-      "Théorème de Banach-Alaoglu",
-      "Théorème de Heine-Borel",
-      "Théorème de Baire"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734463-98672a67dd1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a introduit la notion de 'topologie faible' en analyse fonctionnelle ?",
-    "correct_answer": "Stefan Banach",
-    "incorrect_answers": [
-      "John von Neumann",
-      "David Hilbert",
-      "Norbert Wiener"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733897-80154016629f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui stipule que toute fonction convexe continue sur un intervalle fermé est intégrable ?",
-    "correct_answer": "Théorème de Lebesgue",
-    "incorrect_answers": [
-      "Théorème de Fubini",
-      "Théorème de Tonelli",
-      "Théorème de Riesz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1699679887117-253155701980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a formulé l'hypothèse du continu en 1878 ?",
-    "correct_answer": "Georg Cantor",
-    "incorrect_answers": [
-      "Kurt Gödel",
-      "Paul Cohen",
-      "Bertrand Russell"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1659506688743-4f7bd64f6a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui énonce que toute fonction réelle continue sur un segment est intégrable au sens de Riemann ?",
-    "correct_answer": "Théorème de Darboux",
-    "incorrect_answers": [
-      "Théorème de Rolle",
-      "Théorème des accroissements finis",
-      "Théorème de Lagrange"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a introduit la notion de 'groupe de Lie' au XIXe siècle ?",
-    "correct_answer": "Sophus Lie",
-    "incorrect_answers": [
-      "Élie Cartan",
-      "Henri Poincaré",
-      "Felix Klein"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733835-c90530b20bdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui stipule que toute fonction holomorphe bornée sur le disque unité est constante ?",
-    "correct_answer": "Théorème de Liouville",
-    "incorrect_answers": [
-      "Théorème de Montel",
-      "Théorème de Vitali",
-      "Théorème de Schwarz-Pick"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848663-784d2f7051d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a démontré le théorème de la base de Hilbert en 1888 ?",
-    "correct_answer": "David Hilbert",
-    "incorrect_answers": [
-      "Emmy Noether",
-      "Felix Klein",
-      "Hermann Weyl"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1674293924679-19e1ab501e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui énonce que toute fonction réelle deux fois dérivable dont la dérivée seconde est positive est convexe ?",
-    "correct_answer": "Théorème de convexité",
-    "incorrect_answers": [
-      "Théorème de Rolle",
-      "Théorème des valeurs intermédiaires",
-      "Théorème de Cauchy"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845872-4edbf0e76014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a introduit la notion de 'catégorie' en mathématiques au XXe siècle ?",
+    "question": "Quel mathématicien a développé la théorie des catégories au XXe siècle ?",
     "correct_answer": "Samuel Eilenberg",
     "incorrect_answers": [
       "Alexander Grothendieck",
       "Saunders Mac Lane",
-      "Nicolas Bourbaki"
+      "Daniel Kan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1694757283921-aefccec06443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1699679887117-253155701980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui stipule que toute fonction réelle continue sur un compact est uniformément continue ?",
-    "correct_answer": "Théorème de Heine",
+    "question": "Quel est le nom du théorème qui stipule que toute fonction convexe continue sur un intervalle est différentiable presque partout ?",
+    "correct_answer": "Théorème de Rademacher",
     "incorrect_answers": [
-      "Théorème de Baire",
-      "Théorème de Banach-Steinhaus",
-      "Théorème de Stone-Weierstrass"
+      "Théorème de Lebesgue",
+      "Théorème de Fubini",
+      "Théorème de Sard"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1608792992053-f397e328a56d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734408-19dd0cc86d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a formulé le théorème de la limite centrale en 1901 ?",
-    "correct_answer": "Jarl Waldemar Lindeberg",
+    "question": "Quel mathématicien a formulé le théorème des nombres premiers en 1896 ?",
+    "correct_answer": "Jacques Hadamard",
     "incorrect_answers": [
-      "Andrei Kolmogorov",
-      "Paul Lévy",
-      "Abraham de Moivre"
+      "Charles-Jean de la Vallée Poussin",
+      "Bernhard Riemann",
+      "Edmund Landau"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734408-19dd0cc86d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1608792992053-f397e328a56d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui énonce que toute fonction réelle dérivable dont la dérivée s'annule est constante ?",
-    "correct_answer": "Théorème de Rolle",
+    "question": "Quel est le nom du théorème qui énonce que toute fonction entière bornée est constante ?",
+    "correct_answer": "Théorème de Liouville",
     "incorrect_answers": [
-      "Théorème des accroissements finis",
-      "Théorème de Lagrange",
-      "Théorème de Cauchy"
+      "Théorème de Picard",
+      "Théorème de Weierstrass",
+      "Théorème de Mittag-Leffler"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1738811744493-a060532f3971?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1754304342501-54bad0a6d195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a introduit la notion de 'surface de Riemann' au XIXe siècle ?",
-    "correct_answer": "Bernhard Riemann",
+    "question": "Quel mathématicien a introduit les nombres p-adiques en 1897 ?",
+    "correct_answer": "Kurt Hensel",
     "incorrect_answers": [
-      "Felix Klein",
-      "Évariste Galois",
-      "Carl Friedrich Gauss"
+      "Ernst Kummer",
+      "Leopold Kronecker",
+      "Richard Dedekind"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1533709475520-a0745bba78bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1711200638943-45583a90b397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui stipule que toute fonction réelle continue sur un intervalle admet une primitive ?",
-    "correct_answer": "Théorème fondamental de l'analyse",
+    "question": "Quel est le nom du théorème qui stipule que toute fonction mesurable positive est l'intégrale de sa dérivée ?",
+    "correct_answer": "Théorème de Lebesgue",
     "incorrect_answers": [
       "Théorème de Fubini",
       "Théorème de Tonelli",
-      "Théorème de Lebesgue"
+      "Théorème de Radon-Nikodym"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848261-16a5a9e68811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1758685734463-98672a67dd1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a démontré le théorème de la récurrence de Poincaré en 1890 ?",
-    "correct_answer": "Henri Poincaré",
+    "question": "Quel mathématicien a développé la théorie des idéaux en algèbre commutative ?",
+    "correct_answer": "Richard Dedekind",
     "incorrect_answers": [
-      "Jacques Hadamard",
+      "Emmy Noether",
+      "David Hilbert",
+      "Emil Artin"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685845906-6f705cde4fb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction holomorphe sur un domaine simplement connexe est une primitive d'une fonction holomorphe ?",
+    "correct_answer": "Théorème de Morera",
+    "incorrect_answers": [
+      "Théorème de Cauchy-Goursat",
+      "Théorème de Runge",
+      "Théorème de Hartogs"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734565-fc8ff6e9ffcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'variété algébrique' en géométrie algébrique ?",
+    "correct_answer": "Oscar Zariski",
+    "incorrect_answers": [
+      "André Weil",
+      "Alexander Grothendieck",
+      "Jean-Pierre Serre"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1754304342484-3256d59778e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction convexe sur un espace de Hilbert est différentiable presque partout ?",
+    "correct_answer": "Théorème de Mazur",
+    "incorrect_answers": [
+      "Théorème de Banach-Steinhaus",
+      "Théorème de Hahn-Banach",
+      "Théorème de Krein-Milman"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848303-9fc8c37a7924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de la limite centrale en 1920 ?",
+    "correct_answer": "George Pólya",
+    "incorrect_answers": [
+      "Paul Lévy",
+      "Andrei Kolmogorov",
+      "Norbert Wiener"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685845872-4edbf0e76014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction entière non constante prend chaque valeur complexe une infinité de fois ?",
+    "correct_answer": "Théorème de Picard (petit)",
+    "incorrect_answers": [
+      "Théorème de Montel",
+      "Théorème de Schottky",
+      "Théorème de Bloch"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1593090747194-4ac83bbc93e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'fibré vectoriel' en topologie différentielle ?",
+    "correct_answer": "Hassler Whitney",
+    "incorrect_answers": [
+      "John Milnor",
+      "Stephen Smale",
+      "René Thom"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733886-446c5baf2cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction holomorphe sur un domaine borné est bornée ?",
+    "correct_answer": "Théorème de Liouville (version bornée)",
+    "incorrect_answers": [
+      "Théorème de Cauchy",
+      "Théorème de Schwarz-Pick",
+      "Théorème de Montel"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1708011271954-c0d2b3155ded?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a développé la théorie des groupes de Lie au XIXe siècle ?",
+    "correct_answer": "Sophus Lie",
+    "incorrect_answers": [
+      "Élie Cartan",
+      "Ferdinand Georg Frobenius",
+      "Wilhelm Killing"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1754304342371-29b232189f05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction mesurable positive est l'intégrale de sa dérivée symétrique ?",
+    "correct_answer": "Théorème de Lebesgue (version symétrique)",
+    "incorrect_answers": [
+      "Théorème de Fubini",
+      "Théorème de Tonelli",
+      "Théorème de Radon-Nikodym"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848663-784d2f7051d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'distribution' en analyse fonctionnelle ?",
+    "correct_answer": "Sergei Sobolev",
+    "incorrect_answers": [
+      "Laurent Schwartz",
+      "Jean Leray",
+      "Alexander Grothendieck"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1659506688665-374cca31221e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction holomorphe sur un domaine convexe est une primitive d'une fonction holomorphe ?",
+    "correct_answer": "Théorème de Poincaré",
+    "incorrect_answers": [
+      "Théorème de Cauchy",
+      "Théorème de Morera",
+      "Théorème de Runge"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848261-16a5a9e68811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de l'incomplétude en 1931 ?",
+    "correct_answer": "Kurt Gödel",
+    "incorrect_answers": [
+      "David Hilbert",
+      "Bertrand Russell",
+      "Alfred Tarski"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848783-90477ba42678?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction entière non constante prend chaque valeur complexe sauf au plus une ?",
+    "correct_answer": "Théorème de Picard (grand)",
+    "incorrect_answers": [
+      "Théorème de Montel",
+      "Théorème de Schottky",
+      "Théorème de Bloch"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734555-a0e7f15ea33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'surface de Riemann' en analyse complexe ?",
+    "correct_answer": "Bernhard Riemann",
+    "incorrect_answers": [
+      "Karl Weierstrass",
+      "Felix Klein",
+      "Henri Poincaré"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848342-b5c350727ff5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction convexe sur un espace de Banach est différentiable sur un ensemble dense ?",
+    "correct_answer": "Théorème de Mazur (version Banach)",
+    "incorrect_answers": [
+      "Théorème de Banach-Steinhaus",
+      "Théorème de Hahn-Banach",
+      "Théorème de Krein-Milman"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1738811744493-a060532f3971?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a développé la théorie des formes modulaires au XXe siècle ?",
+    "correct_answer": "Emil Artin",
+    "incorrect_answers": [
+      "André Weil",
+      "Alexander Grothendieck",
+      "John Tate"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1564894854959-2aa61a943fd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction entière périodique est constante ?",
+    "correct_answer": "Théorème de Liouville (version périodique)",
+    "incorrect_answers": [
+      "Théorème de Cauchy",
+      "Théorème de Schwarz",
+      "Théorème de Montel"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1614495262942-3138c3994209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'topologie faible' en analyse fonctionnelle ?",
+    "correct_answer": "John von Neumann",
+    "incorrect_answers": [
+      "Stefan Banach",
+      "Marshall Stone",
+      "Alfréd Haar"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1694757283921-aefccec06443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction mesurable positive est l'intégrale de sa dérivée faible ?",
+    "correct_answer": "Théorème de Lebesgue (version faible)",
+    "incorrect_answers": [
+      "Théorème de Fubini",
+      "Théorème de Tonelli",
+      "Théorème de Radon-Nikodym"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1581089778245-3ce67677f718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de la progression arithmétique en 1837 ?",
+    "correct_answer": "Peter Gustav Lejeune Dirichlet",
+    "incorrect_answers": [
+      "Carl Friedrich Gauss",
+      "Bernhard Riemann",
+      "Adrien-Marie Legendre"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1616529927764-173a543493ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction holomorphe sur un domaine simplement connexe est une fonction univalente ?",
+    "correct_answer": "Théorème de Riemann (version univalente)",
+    "incorrect_answers": [
+      "Théorème de Cauchy",
+      "Théorème de Morera",
+      "Théorème de Runge"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733874-3a8c2b202446?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a développé la théorie des algèbres de Lie au XXe siècle ?",
+    "correct_answer": "Élie Cartan",
+    "incorrect_answers": [
+      "Wilhelm Killing",
+      "Ferdinand Georg Frobenius",
+      "Sophus Lie"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848001-0396a85ba84f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction convexe sur un espace de Hilbert est différentiable en un point ?",
+    "correct_answer": "Théorème de Asplund",
+    "incorrect_answers": [
+      "Théorème de Mazur",
+      "Théorème de Banach-Steinhaus",
+      "Théorème de Hahn-Banach"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848368-7ff986985e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'mesure de Haar' en théorie des groupes ?",
+    "correct_answer": "Alfréd Haar",
+    "incorrect_answers": [
+      "John von Neumann",
+      "Marshall Stone",
+      "Stefan Banach"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848440-1ba62a19154e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction entière non constante prend chaque valeur complexe une infinité de fois, sauf éventuellement une ?",
+    "correct_answer": "Théorème de Picard (version générale)",
+    "incorrect_answers": [
+      "Théorème de Montel",
+      "Théorème de Schottky",
+      "Théorème de Bloch"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848437-6c4346d15af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de la base de Hilbert en 1890 ?",
+    "correct_answer": "David Hilbert",
+    "incorrect_answers": [
+      "Emmy Noether",
+      "Richard Dedekind",
+      "Felix Klein"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1674928067186-1d65aaff8cec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction holomorphe sur un domaine borné est bornée en module ?",
+    "correct_answer": "Théorème de Cauchy (version bornée)",
+    "incorrect_answers": [
+      "Théorème de Liouville",
+      "Théorème de Schwarz-Pick",
+      "Théorème de Montel"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733780-4eced3a89d98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'courbure de Ricci' en géométrie différentielle ?",
+    "correct_answer": "Gregorio Ricci-Curbastro",
+    "incorrect_answers": [
+      "Tullio Levi-Civita",
+      "Élie Cartan",
+      "Bernhard Riemann"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848270-16e64139fe0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction mesurable positive est l'intégrale de sa dérivée symétrique faible ?",
+    "correct_answer": "Théorème de Lebesgue (version symétrique faible)",
+    "incorrect_answers": [
+      "Théorème de Fubini",
+      "Théorème de Tonelli",
+      "Théorème de Radon-Nikodym"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733737-71f8945decf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fG1hdGhlbWF0aWNzJTIwZm9ybXVsYSUyMGJsYWNrYm9hcmR8ZW58MHx8fHwxNzc5MTA0MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a développé la théorie des espaces de Sobolev au XXe siècle ?",
+    "correct_answer": "Sergei Sobolev",
+    "incorrect_answers": [
+      "Laurent Schwartz",
+      "Jean Leray",
+      "Alexander Grothendieck"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733761-da7220a410ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction convexe sur un espace de Banach est différentiable presque partout ?",
+    "correct_answer": "Théorème de Phelps",
+    "incorrect_answers": [
+      "Théorème de Mazur",
+      "Théorème de Banach-Steinhaus",
+      "Théorème de Hahn-Banach"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733760-71c797cf0b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'fibré principal' en topologie différentielle ?",
+    "correct_answer": "Élie Cartan",
+    "incorrect_answers": [
+      "Hassler Whitney",
+      "John Milnor",
+      "René Thom"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1708011271935-3e109df56fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui énonce que toute fonction entière non constante prend chaque valeur complexe une infinité de fois, sauf exactement une ?",
+    "correct_answer": "Théorème de Picard (version exacte)",
+    "incorrect_answers": [
+      "Théorème de Montel",
+      "Théorème de Schottky",
+      "Théorème de Bloch"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685848006-1bc450061624?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de la décomposition de Jordan en 1870 ?",
+    "correct_answer": "Camille Jordan",
+    "incorrect_answers": [
+      "Ferdinand Georg Frobenius",
+      "Wilhelm Killing",
+      "Sophus Lie"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685734414-951a86561065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du théorème qui stipule que toute fonction holomorphe sur un domaine convexe est une fonction univalente ?",
+    "correct_answer": "Théorème de Carathéodory",
+    "incorrect_answers": [
+      "Théorème de Cauchy",
+      "Théorème de Morera",
+      "Théorème de Runge"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1758685733814-35d40ac8c4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit la notion de 'mesure de Lebesgue' en théorie de l'intégration ?",
+    "correct_answer": "Henri Lebesgue",
+    "incorrect_answers": [
       "Émile Borel",
-      "Paul Painlevé"
+      "René Baire",
+      "Paul Lévy"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733726-4c9a728afeb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1777639629833-49b027b5480e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui énonce que toute fonction réelle continue sur un compact est bornée et atteint ses bornes ?",
-    "correct_answer": "Théorème des bornes atteintes",
+    "question": "Quel est le nom du théorème qui énonce que toute fonction mesurable positive est l'intégrale de sa dérivée approximative ?",
+    "correct_answer": "Théorème de Lebesgue (version approximative)",
     "incorrect_answers": [
-      "Théorème de Heine",
-      "Théorème de Baire",
-      "Théorème de Banach-Alaoglu"
+      "Théorème de Fubini",
+      "Théorème de Tonelli",
+      "Théorème de Radon-Nikodym"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1599662195404-c76cda0436ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzc5NTMwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "imageUrl": "https://images.unsplash.com/photo-1659506688743-4f7bd64f6a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

@@ -101,10 +101,16 @@ RÈGLES STRICTES :
 - Toutes les questions et réponses doivent être rédigées en français
 - Chaque question a exactement 1 bonne réponse et 3 mauvaises réponses
 - Les mauvaises réponses doivent être plausibles mais clairement incorrectes
-- Les questions doivent être variées (pas de répétitions, pas de formulations similaires)
 - Respecte scrupuleusement le niveau de difficulté
 - Ne mets pas de numérotation dans les questions
 - Les réponses ne doivent pas dépasser 80 caractères chacune
+
+RÈGLES ANTI-DOUBLONS (OBLIGATOIRES) :
+- Chaque question doit porter sur un sujet, événement, personnage, œuvre ou concept STRICTEMENT DIFFÉRENT des autres
+- Il est INTERDIT de poser deux questions sur le même sujet, même formulées différemment
+- Il est INTERDIT de mentionner la même personne, œuvre ou lieu dans plus d'une question
+- Varie au maximum les angles : dates, lieux, personnes, œuvres, définitions, records, anecdotes, étymologies...
+- Si le thème est pointu, élargis aux sous-domaines connexes plutôt que de répéter les mêmes sujets
 
 Réponds UNIQUEMENT avec un tableau JSON valide, sans texte avant ou après, sans balises markdown :
 [
@@ -207,12 +213,23 @@ def generate_questions_for(providers: list, theme: str, difficulty: str) -> list
 
 # ─── RÉCUPÉRATION IMAGES ──────────────────────────────────────────────────────
 def fetch_image_urls(query: str, count: int, page: int, api_keys: dict) -> list:
-    """Essaie Unsplash → Pexels → Pixabay. Retourne une liste mélangée de `count` URLs."""
-    urls = _try_unsplash(query, count, page, api_keys.get("UNSPLASH_API_KEY", ""))
-    if not urls:
-        urls = _try_pexels(query, count, page, api_keys.get("PEXELS_API_KEY", ""))
-    if not urls:
-        urls = _try_pixabay(query, count, page, api_keys.get("PIXABAY_API_KEY", ""))
+    """Accumule Unsplash (multi-pages) → complète avec Pexels → Pixabay."""
+    urls: list = []
+    unsplash_key = api_keys.get("UNSPLASH_API_KEY", "")
+    # Unsplash : plan gratuit limite à ~10 résultats par requête, donc on pagine
+    for p in [page, page + 1, page + 2]:
+        if len(urls) >= count:
+            break
+        batch = _try_unsplash(query, 30, p, unsplash_key)
+        urls += [u for u in batch if u not in urls]
+    # Compléter avec Pexels si pas assez
+    if len(urls) < count:
+        pexels = _try_pexels(query, count - len(urls), page, api_keys.get("PEXELS_API_KEY", ""))
+        urls += [u for u in pexels if u not in urls]
+    # Compléter avec Pixabay si toujours pas assez
+    if len(urls) < count:
+        pixabay = _try_pixabay(query, count - len(urls), page, api_keys.get("PIXABAY_API_KEY", ""))
+        urls += [u for u in pixabay if u not in urls]
     random.shuffle(urls)
     return urls[:count]
 
@@ -223,7 +240,7 @@ def _try_unsplash(query: str, count: int, page: int, key: str) -> list:
     try:
         r = requests.get(
             "https://api.unsplash.com/search/photos",
-            params={"query": query, "per_page": count, "page": page},
+            params={"query": query, "per_page": min(count, 30), "page": page},
             headers={"Authorization": f"Client-ID {key}"},
             timeout=15,
         )
@@ -426,6 +443,18 @@ def main():
                     else:
                         print(f"    Questions : génération LLM...")
                         questions_data = generate_questions_for(providers, theme, difficulty)
+                        # Déduplication par texte exact
+                        seen = set()
+                        unique = []
+                        for q in questions_data:
+                            key = q["question"].strip().lower()
+                            if key not in seen:
+                                seen.add(key)
+                                unique.append(q)
+                        removed = len(questions_data) - len(unique)
+                        if removed:
+                            print(f"    Questions : {removed} doublon(s) supprimé(s)")
+                        questions_data = unique
                         # Écriture temporaire sans images
                         with open(filepath, "w", encoding="utf-8") as f:
                             json.dump(questions_data, f, ensure_ascii=False, indent=2)
