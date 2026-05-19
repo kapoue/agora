@@ -6,6 +6,7 @@ import com.kapoue.agora.data.local.db.entity.MultiplayerSessionEntity
 import com.kapoue.agora.domain.model.MultiplayerQuestion
 import com.kapoue.agora.domain.model.PlayerResult
 import com.kapoue.agora.domain.model.QrPayload
+import com.kapoue.agora.domain.model.WrongAnswer
 import com.kapoue.agora.ui.util.QrPayloadEncoder
 import dagger.hilt.android.scopes.ActivityRetainedScoped
 import java.util.UUID

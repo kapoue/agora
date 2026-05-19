@@ -24,7 +24,7 @@ import androidx.core.content.ContextCompat
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.journeyapps.barcodescanner.BarcodeCallback
 import com.journeyapps.barcodescanner.BarcodeResult
-import com.journeyapps.barcodescanner.CompactBarcodeView
+import com.journeyapps.barcodescanner.BarcodeView
 import com.kapoue.agora.ui.theme.*
 
 @Composable
@@ -85,7 +85,7 @@ fun OrganizerScanScreen(
             ) {
                 AndroidView(
                     factory = { ctx ->
-                        CompactBarcodeView(ctx).apply {
+                        BarcodeView(ctx).apply {
                             decodeContinuous(object : BarcodeCallback {
                                 override fun barcodeResult(result: BarcodeResult) {
                                     viewModel.onQrScanned(result.text)

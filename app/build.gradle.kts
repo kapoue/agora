@@ -113,9 +113,12 @@ dependencies {
     // Coroutines
     implementation(libs.coroutines.android)
 
+    // Material Icons Extended (Group, Person, etc.)
+    implementation("androidx.compose.material:material-icons-extended")
+
     // ZXing (QR code generation + scan)
     implementation(libs.zxing.core)
-    implementation(libs.zxing.android.embedded)
+    implementation(libs.zxing.android.embedded) { isTransitive = false }
 }
 
 kapt {
