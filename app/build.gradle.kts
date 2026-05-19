@@ -31,8 +31,8 @@ android {
         applicationId = "fr.kapoue.agora"
         minSdk = 26
         targetSdk = 35
-        versionCode = 22
-        versionName = "1.7.0"
+        versionCode = 23
+        versionName = "2.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -112,6 +112,10 @@ dependencies {
 
     // Coroutines
     implementation(libs.coroutines.android)
+
+    // ZXing (QR code generation + scan)
+    implementation(libs.zxing.core)
+    implementation(libs.zxing.android.embedded)
 }
 
 kapt {

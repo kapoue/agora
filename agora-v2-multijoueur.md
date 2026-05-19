@@ -158,8 +158,8 @@ object QrPayloadEncoder {
 }
 ```
 
-**Test obligatoire avant validation** : tester la taille du payload pour 10, 20 et 30 questions.  
-Si 30 questions dépasse la capacité : générer 2 QR codes ("QR 1/2" et "QR 2/2") affichés en séquence.
+**Test obligatoire avant validation** : tester la taille du payload pour 10 et 20 questions.
+Avec 20 questions, le payload gzip+base64 est estimé à ~1 150 chars — largement sous la capacité QR (~3 000 chars). **Maximum fixé à 20 questions par manche** — pas de QR multi-pages nécessaire.
 
 ---
 
@@ -284,7 +284,7 @@ Ajouter une icône groupe (`Icons.Outlined.Group`) dans le header, à gauche de 
 ## 10. Flux organisateur (résumé)
 
 1. **MultiplayerHomeScreen** → card "Organiser une partie" → `OrganizerSetupScreen`
-2. **OrganizerSetupScreen** : prénom (DataStore, pré-rempli), choix 10/20/30 questions, choix 1/2/3 manches → génère UUID session + sélectionne questions depuis Room (DEBUTANT+MOYEN, toutes catégories sauf CULTURE_GENERALE) → sauvegarde en Room
+2. **OrganizerSetupScreen** : prénom (DataStore, pré-rempli), choix **10/20 questions** par manche, choix 1/2/3 manches → génère UUID session + sélectionne questions depuis Room (DEBUTANT+MOYEN, toutes catégories sauf CULTURE_GENERALE) → sauvegarde en Room
 3. **OrganizerQrScreen** : QR code affiché fond blanc, "Manche N / T" → bouton "Je suis prêt à jouer"
 4. **OrganizerGameScreen** : jeu identique à `ParticipantGameScreen` — chrono démarre au clic "Démarrer", s'arrête à la dernière réponse
 5. **OrganizerScanScreen** : son propre score affiché immédiatement (ajouté au tableau en 1ère position), bouton "+" pour scanner QR codes résultats participants, tableau mis à jour en temps réel, bouton "Fin des scans"
@@ -322,12 +322,14 @@ Ajouter une icône groupe (`Icons.Outlined.Group`) dans le header, à gauche de 
 
 ## 13. Gestion des éliminés
 
-Un participant est éliminé si :
-1. Il ne scanne pas le QR code d'une manche
+Un participant est éliminé **définitivement** si :
+1. Il ne scanne pas le QR code d'une manche (l'organisateur clique "Fin des scans" sans lui)
 2. Il abandonne en cours de manche (pas de QR résultat présenté)
 
-Affichage : nom en gris `AgoraStone`, texte barré, listé en bas des tableaux.  
-Le bouton "Fin des scans" clôture la collecte — les non-scannés sont automatiquement éliminés.
+**Option B retenue** : élimination définitive. Un participant éliminé ne figure pas au podium final, même s'il revient pour des manches ultérieures. S'il revient et scanne le QR d'une manche suivante, l'app lui indique qu'il est hors-classement — il peut jouer pour s'amuser mais son score n'est pas collecté.
+
+Affichage dans les tableaux intermédiaires (manches non-finales) : nom en gris `AgoraStone`, texte barré, listé en bas.  
+Le bouton "Fin des scans" clôture la collecte — les non-scannés sont automatiquement marqués éliminés.
 
 ---
 

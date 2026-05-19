@@ -11,6 +11,7 @@ import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.outlined.Group
 import androidx.compose.material.icons.outlined.Info
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -40,6 +41,7 @@ import androidx.compose.foundation.layout.windowInsetsPadding
 fun HomeScreen(
     onThemeClick: (Theme) -> Unit,
     onAboutClick: () -> Unit,
+    onMultiplayerClick: () -> Unit,
     viewModel: HomeViewModel = hiltViewModel()
 ) {
     val themeImages by viewModel.themeImages.collectAsState()
@@ -70,12 +72,24 @@ fun HomeScreen(
                 fontSize = 28.sp,
                 color = AgoraGold
             )
-            IconButton(onClick = onAboutClick) {
-                Icon(
-                    imageVector = Icons.Outlined.Info,
-                    contentDescription = "À propos",
-                    tint = AgoraStone
-                )
+            Row(
+                horizontalArrangement = Arrangement.spacedBy(0.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                IconButton(onClick = onMultiplayerClick) {
+                    Icon(
+                        imageVector = Icons.Outlined.Group,
+                        contentDescription = "Multijoueur",
+                        tint = AgoraStone
+                    )
+                }
+                IconButton(onClick = onAboutClick) {
+                    Icon(
+                        imageVector = Icons.Outlined.Info,
+                        contentDescription = "À propos",
+                        tint = AgoraStone
+                    )
+                }
             }
         }
 

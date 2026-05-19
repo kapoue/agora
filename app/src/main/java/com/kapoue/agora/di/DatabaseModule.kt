@@ -3,6 +3,7 @@
 import android.content.Context
 import androidx.room.Room
 import com.kapoue.agora.data.local.db.AgoraDatabase
+import com.kapoue.agora.data.local.db.dao.MultiplayerSessionDao
 import com.kapoue.agora.data.local.db.dao.ProgressDao
 import com.kapoue.agora.data.local.db.dao.QuestionDao
 import com.kapoue.agora.data.local.db.dao.ThemeProgressDao
@@ -25,7 +26,7 @@ object DatabaseModule {
             AgoraDatabase::class.java,
             "agora_database"
         )
-            .addMigrations(AgoraDatabase.MIGRATION_1_2)
+            .addMigrations(AgoraDatabase.MIGRATION_1_2, AgoraDatabase.MIGRATION_2_3)
             .build()
     }
 
@@ -37,4 +38,7 @@ object DatabaseModule {
 
     @Provides
     fun provideThemeProgressDao(database: AgoraDatabase): ThemeProgressDao = database.themeProgressDao()
+
+    @Provides
+    fun provideMultiplayerSessionDao(database: AgoraDatabase): MultiplayerSessionDao = database.multiplayerSessionDao()
 }
