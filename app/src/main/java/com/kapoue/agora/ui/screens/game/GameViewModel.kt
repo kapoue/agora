@@ -27,7 +27,6 @@ import javax.inject.Inject
 data class GameUiState(
     val isLoading: Boolean = true,
     val isCompleted: Boolean = false,
-    val allDifficultiesCompleted: Boolean = false,
     val hasMoreQuestions: Boolean = false,
     val currentQuestion: Question? = null,
     val answersWithState: List<Pair<String, AnswerState>> = emptyList(),
@@ -109,11 +108,9 @@ class GameViewModel @Inject constructor(
                 val totalInSession = pendingQueue.size
 
                 if (pendingQueue.isEmpty()) {
-                    val allDone = questionRepository.isAllDifficultiesCompleted(theme)
                     _uiState.value = _uiState.value.copy(
                         isLoading = false,
                         isCompleted = true,
-                        allDifficultiesCompleted = allDone,
                         currentLevel = savedLevel,
                         totalInSession = 0
                     )
@@ -221,17 +218,13 @@ class GameViewModel @Inject constructor(
         if (!lastAnswerCorrect) pendingQueue.addLast(answered)
 
         if (pendingQueue.isEmpty()) {
-            viewModelScope.launch {
-                val allDone = questionRepository.isAllDifficultiesCompleted(lastTheme)
-                _uiState.value = _uiState.value.copy(
-                    isCompleted = true,
-                    allDifficultiesCompleted = allDone,
-                    hasMoreQuestions = sessionHasMore,
-                    currentQuestion = null,
-                    showNext = false,
-                    errorCount = sessionErrorCount
-                )
-            }
+            _uiState.value = _uiState.value.copy(
+                isCompleted = true,
+                hasMoreQuestions = sessionHasMore,
+                currentQuestion = null,
+                showNext = false,
+                errorCount = sessionErrorCount
+            )
             return
         }
 
@@ -247,13 +240,6 @@ class GameViewModel @Inject constructor(
             correctAnswerText = ""
         )
         prefetchImages()
-    }
-
-    fun onReplay() {
-        viewModelScope.launch {
-            questionRepository.resetTheme(lastTheme)
-            questionRepository.incrementSeriesCount(lastTheme)
-        }
     }
 
     private fun prefetchImages() {

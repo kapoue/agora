@@ -14,7 +14,6 @@ interface QuestionRepository {
     suspend fun getProgress(theme: Theme, difficulty: Difficulty): Progress?
     suspend fun saveProgress(progress: Progress)
     suspend fun deleteProgress(theme: Theme, difficulty: Difficulty)
-    suspend fun isAllDifficultiesCompleted(theme: Theme): Boolean
     suspend fun resetTheme(theme: Theme)
     suspend fun getSeriesCount(theme: Theme): Int
     suspend fun incrementSeriesCount(theme: Theme)

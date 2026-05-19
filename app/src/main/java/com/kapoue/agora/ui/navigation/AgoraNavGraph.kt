@@ -75,11 +75,6 @@ fun AgoraNavGraph() {
                     navController.navigate(Screen.Home.route) {
                         popUpTo(Screen.Home.route) { inclusive = false }
                     }
-                },
-                onReplayClick = {
-                    navController.navigate(Screen.Difficulty.createRoute(theme.name)) {
-                        popUpTo(Screen.Difficulty.createRoute(theme.name)) { inclusive = true }
-                    }
                 }
             )
         }

@@ -89,14 +89,6 @@ class QuestionRepositoryImpl @Inject constructor(
         progressDao.deleteProgress(theme.name, difficulty.name)
     }
 
-    override suspend fun isAllDifficultiesCompleted(theme: Theme): Boolean {
-        if (theme == Theme.CULTURE_GENERALE) return false
-        return Difficulty.entries.all { difficulty ->
-            val total = questionDao.countQuestions(theme.name, difficulty.name)
-            val answered = questionDao.countAnsweredCorrectly(theme.name, difficulty.name)
-            total > 0 && answered >= total
-        }
-    }
 
     override suspend fun resetTheme(theme: Theme) {
         questionDao.resetThemeQuestions(theme.name)
