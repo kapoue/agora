@@ -11,7 +11,7 @@
 ### Projet de base
 - Application : **Agora** — quiz culturel Android natif
 - Package : `com.kapoue.agora` (**NB : le prompt initial indiquait incorrectement `fr.kapoue.agora`**)
-- Version de départ : **1.5.x** (la 14ème catégorie "Culture Générale" a été ajoutée en v1.6.x)
+- Version de départ : **1.7.0** (versionCode 22) — 14 catégories dont "Culture Générale" (v1.6.0), sessions de 20 questions (v1.6.2), 60 questions/thème/difficulté avec images (v1.7.0)
 - Stack : Kotlin 2.0.0 + Jetpack Compose + Material3 + Hilt + Room 2.6.1
 - Référence complète : voir `CLAUDE.md` à la racine du projet
 
@@ -49,6 +49,8 @@ La session est sauvegardée en Room dès sa création. Si l'organisateur ferme l
 ### 2.3 Questions multijoueur
 - Source : Room, toutes catégories confondues **sauf `CULTURE_GENERALE`**
 - Difficultés : `DEBUTANT` + `MOYEN` uniquement (pas `EXPERT`)
+- Pool disponible : **60 questions** par thème × difficulté (2230 questions au total dans les assets)
+- Le mode solo utilise des sessions de 20 questions sur ce pool (bouton "Nouvelles questions") — ce mécanisme **ne s'applique pas** en multijoueur : toutes les questions de la manche sont jouées d'un coup sans pagination
 - Méthode DAO déjà disponible depuis v1.6.x : `getRandomUnansweredQuestionsAllThemes()`
 
 ### 2.4 Images
@@ -75,7 +77,7 @@ zxing-android-embedded = { group = "com.journeyapps", name = "zxing-android-embe
 Permissions dans `AndroidManifest.xml` :
 ```xml
 <uses-permission android:name="android.permission.CAMERA" />
-<uses-permission android:name="android.permission.VIBRATE" />
+<!-- VIBRATE déjà présente depuis v1.6.1, ne pas dupliquer -->
 ```
 
 ---
@@ -393,7 +395,7 @@ Pour chaque question ratée :
 | `HomeScreen.kt` | Ajouter `onMultiplayerClick`, icône groupe dans header |
 | `AgoraNavGraph.kt` | Ajouter toutes les nouvelles routes |
 | `Screen.kt` | Ajouter les nouveaux objets Screen |
-| `AgoraDatabase.kt` | Ajouter `MultiplayerSessionEntity`, migration version 3 |
+| `AgoraDatabase.kt` | Ajouter `MultiplayerSessionEntity`, migration version **3** (la DB est déjà en version 2 depuis v1.x) |
 | `DatabaseModule.kt` | Ajouter `MultiplayerSessionDao` |
 
 **Ne pas modifier** : GameViewModel, QuestionRepository, logique solo existante.
