@@ -2,6 +2,7 @@ package com.kapoue.agora.ui.screens.multiplayer.organizer
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.kapoue.agora.data.local.AssetQuestionLoader
 import com.kapoue.agora.data.local.datastore.UserPreferencesDataStore
 import com.kapoue.agora.data.local.db.dao.QuestionDao
 import com.kapoue.agora.domain.model.Difficulty
@@ -23,6 +24,7 @@ data class OrganizerSetupUiState(
     val questionsPerRound: Int = 10,
     val totalRounds: Int = 1,
     val isLoading: Boolean = false,
+    val loadingMessage: String = "",
     val isReady: Boolean = false,
     val error: String? = null
 )
@@ -31,6 +33,7 @@ data class OrganizerSetupUiState(
 class OrganizerSetupViewModel @Inject constructor(
     private val sessionManager: MultiplayerSessionManager,
     private val questionDao: QuestionDao,
+    private val assetQuestionLoader: AssetQuestionLoader,
     private val dataStore: UserPreferencesDataStore
 ) : ViewModel() {
 
@@ -81,18 +84,32 @@ class OrganizerSetupViewModel @Inject constructor(
             sessionManager.totalRounds = state.totalRounds
             sessionManager.questionsPerRound = state.questionsPerRound
 
-            // Charger les questions pour toutes les manches
+            // Synchroniser les assets vers la DB (no-op si déjà fait)
+            _uiState.value = _uiState.value.copy(loadingMessage = "Chargement des questions…")
+            Theme.entries
+                .filter { it != Theme.CULTURE_GENERALE }
+                .forEach { theme ->
+                    listOf(Difficulty.DEBUTANT, Difficulty.MOYEN).forEach { diff ->
+                        try {
+                            val entities = assetQuestionLoader.loadQuestions(theme, diff)
+                            if (entities.isNotEmpty()) questionDao.insertQuestions(entities)
+                        } catch (_: Exception) {}
+                    }
+                }
+
+            // Charger les questions pour toutes les manches (Débutant + Moyen mélangés)
             val totalNeeded = state.questionsPerRound * state.totalRounds
-            val entities = questionDao.getRandomQuestionsAllThemes(
-                difficulty = DIFFICULTIES.random(),
+            val entities = questionDao.getRandomQuestionsMultipleDifficulties(
+                difficulties = DIFFICULTIES,
                 excludedThemes = EXCLUDED_THEMES,
                 limit = totalNeeded
             )
 
-            if (entities.size < state.questionsPerRound) {
+            if (entities.size < totalNeeded) {
                 _uiState.value = _uiState.value.copy(
                     isLoading = false,
-                    error = "Pas assez de questions disponibles. Joue d'abord en solo pour en charger."
+                    loadingMessage = "",
+                    error = "Pas assez de questions disponibles dans les assets."
                 )
                 return@launch
             }
@@ -116,7 +133,7 @@ class OrganizerSetupViewModel @Inject constructor(
 
             sessionManager.persistSession()
 
-            _uiState.value = _uiState.value.copy(isLoading = false, isReady = true)
+            _uiState.value = _uiState.value.copy(isLoading = false, loadingMessage = "", isReady = true)
         }
     }
 }

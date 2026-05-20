@@ -76,7 +76,7 @@ fun ParticipantScanScreen(
             Box(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .height(320.dp)
+                    .fillMaxHeight(0.55f)
             ) {
                 AndroidView(
                     factory = { ctx ->

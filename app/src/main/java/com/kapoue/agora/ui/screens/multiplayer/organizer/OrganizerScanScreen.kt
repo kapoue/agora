@@ -81,7 +81,7 @@ fun OrganizerScanScreen(
             Box(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .height(220.dp)
+                    .fillMaxHeight(0.45f)
             ) {
                 AndroidView(
                     factory = { ctx ->

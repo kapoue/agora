@@ -66,6 +66,7 @@ fun ParticipantRoundResultScreen(
     wrongAnswers: List<WrongAnswer>,
     onSeeWrongAnswers: () -> Unit,
     onScanNextRound: () -> Unit,
+    onHomeClick: () -> Unit,
     viewModel: ParticipantRoundResultViewModel = hiltViewModel()
 ) {
     val sm = viewModel.sessionManager
@@ -122,7 +123,7 @@ fun ParticipantRoundResultScreen(
         Spacer(Modifier.height(16.dp))
 
         Card(
-            modifier = Modifier.size(250.dp),
+            modifier = Modifier.size(300.dp),
             shape = RoundedCornerShape(8.dp),
             colors = CardDefaults.cardColors(containerColor = Color.White),
             elevation = CardDefaults.cardElevation(8.dp)
@@ -183,6 +184,20 @@ fun ParticipantRoundResultScreen(
                     textAlign = TextAlign.Center,
                     modifier = Modifier.fillMaxWidth()
                 )
+                Spacer(Modifier.height(8.dp))
+                Button(
+                    onClick = onHomeClick,
+                    modifier = Modifier.fillMaxWidth(),
+                    shape = RoundedCornerShape(8.dp),
+                    colors = ButtonDefaults.buttonColors(containerColor = AgoraGold)
+                ) {
+                    Text(
+                        "Retour à l'accueil",
+                        fontFamily = CinzelFamily,
+                        color = AgoraBackground,
+                        fontSize = 15.sp
+                    )
+                }
             }
         }
     }

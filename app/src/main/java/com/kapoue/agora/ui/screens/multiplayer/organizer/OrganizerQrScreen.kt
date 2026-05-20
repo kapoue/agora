@@ -3,6 +3,8 @@ package com.kapoue.agora.ui.screens.multiplayer.organizer
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.outlined.ArrowBack
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -31,6 +33,7 @@ class OrganizerQrViewModel @Inject constructor(
 @Composable
 fun OrganizerQrScreen(
     onReadyToPlay: () -> Unit,
+    onBackClick: () -> Unit,
     viewModel: OrganizerQrViewModel = hiltViewModel()
 ) {
     val sm = viewModel.sessionManager
@@ -45,7 +48,20 @@ fun OrganizerQrScreen(
             .windowInsetsPadding(WindowInsets.safeDrawing),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Spacer(Modifier.height(32.dp))
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(horizontal = 4.dp, vertical = 4.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            IconButton(onClick = onBackClick) {
+                Icon(
+                    Icons.AutoMirrored.Outlined.ArrowBack,
+                    contentDescription = "Retour",
+                    tint = AgoraStone
+                )
+            }
+        }
 
         Text(
             text = "MANCHE ${sm.currentRound} / ${sm.totalRounds}",
@@ -79,7 +95,7 @@ fun OrganizerQrScreen(
         // QR code sur fond blanc
         Card(
             modifier = Modifier
-                .size(280.dp)
+                .size(320.dp)
                 .padding(8.dp),
             shape = RoundedCornerShape(8.dp),
             colors = CardDefaults.cardColors(containerColor = Color.White),

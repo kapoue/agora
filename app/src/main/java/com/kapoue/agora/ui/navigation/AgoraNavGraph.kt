@@ -120,7 +120,8 @@ fun AgoraNavGraph() {
                     navController.navigate(Screen.OrganizerGame.route) {
                         popUpTo(Screen.OrganizerQr.route) { inclusive = true }
                     }
-                }
+                },
+                onBackClick = { navController.popBackStack() }
             )
         }
 
@@ -219,6 +220,11 @@ fun AgoraNavGraph() {
                 onScanNextRound = {
                     navController.navigate(Screen.ParticipantScan.route) {
                         popUpTo(Screen.ParticipantRoundResult.route) { inclusive = true }
+                    }
+                },
+                onHomeClick = {
+                    navController.navigate(Screen.Home.route) {
+                        popUpTo(Screen.Home.route) { inclusive = false }
                     }
                 }
             )

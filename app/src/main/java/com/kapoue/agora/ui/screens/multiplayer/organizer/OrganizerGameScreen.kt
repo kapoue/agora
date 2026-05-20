@@ -32,7 +32,6 @@ fun OrganizerGameScreen(
 
     LaunchedEffect(uiState.isCompleted) {
         if (uiState.isCompleted) {
-            // Enregistrer le résultat de l'organisateur
             sm.addRoundResult(
                 playerName = sm.organizerName,
                 score = uiState.score,
@@ -40,7 +39,7 @@ fun OrganizerGameScreen(
                 timeMillis = uiState.elapsedMillis,
                 wrongAnswers = uiState.wrongAnswers
             )
-            onRoundComplete()
+            // Navigation déclenchée par le bouton dans l'écran de résultats
         }
     }
 
@@ -82,7 +81,100 @@ fun OrganizerGameScreen(
             )
         }
 
-        if (!uiState.isStarted) {
+        if (uiState.isCompleted) {
+            // Écran de résultats de l'organisateur
+            Column(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .verticalScroll(rememberScrollState())
+                    .padding(24.dp),
+                horizontalAlignment = Alignment.CenterHorizontally
+            ) {
+                Spacer(Modifier.height(16.dp))
+
+                Text(
+                    text = "MANCHE ${sm.currentRound}/${sm.totalRounds} TERMINÉE",
+                    fontFamily = CinzelFamily,
+                    fontSize = 16.sp,
+                    color = AgoraGold
+                )
+
+                Spacer(Modifier.height(8.dp))
+
+                Text(
+                    text = "${uiState.score} / ${uiState.totalQuestions}",
+                    fontFamily = CinzelFamily,
+                    fontWeight = FontWeight.Bold,
+                    fontSize = 40.sp,
+                    color = AgoraWhite
+                )
+
+                Text(
+                    text = "${uiState.elapsedMillis / 1000}s",
+                    fontFamily = LatoFamily,
+                    fontSize = 16.sp,
+                    color = AgoraStone
+                )
+
+                if (uiState.wrongAnswers.isNotEmpty()) {
+                    Spacer(Modifier.height(24.dp))
+                    Text(
+                        text = "Mes erreurs (${uiState.wrongAnswers.size})",
+                        fontFamily = CinzelFamily,
+                        fontSize = 15.sp,
+                        color = AgoraWrongLight,
+                        modifier = Modifier.fillMaxWidth()
+                    )
+                    Spacer(Modifier.height(8.dp))
+                    uiState.wrongAnswers.forEach { wrong ->
+                        Card(
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .padding(vertical = 4.dp),
+                            shape = RoundedCornerShape(8.dp),
+                            colors = CardDefaults.cardColors(containerColor = AgoraSurface)
+                        ) {
+                            Column(modifier = Modifier.padding(12.dp)) {
+                                Text(
+                                    text = wrong.questionText,
+                                    fontFamily = LatoFamily,
+                                    fontSize = 13.sp,
+                                    color = AgoraWhite
+                                )
+                                Text(
+                                    text = "✗  ${wrong.givenAnswer}",
+                                    fontFamily = LatoFamily,
+                                    fontSize = 12.sp,
+                                    color = AgoraWrongLight
+                                )
+                                Text(
+                                    text = "✓  ${wrong.correctAnswer}",
+                                    fontFamily = LatoFamily,
+                                    fontSize = 12.sp,
+                                    color = AgoraCorrectLight
+                                )
+                            }
+                        }
+                    }
+                }
+
+                Spacer(Modifier.height(24.dp))
+
+                Button(
+                    onClick = onRoundComplete,
+                    modifier = Modifier.fillMaxWidth(),
+                    shape = RoundedCornerShape(8.dp),
+                    colors = ButtonDefaults.buttonColors(containerColor = AgoraGold)
+                ) {
+                    Text(
+                        "Scanner les résultats des joueurs",
+                        fontFamily = CinzelFamily,
+                        color = AgoraBackground,
+                        fontSize = 15.sp
+                    )
+                }
+            }
+        } else if (!uiState.isStarted) {
             // Écran de démarrage
             Column(
                 modifier = Modifier

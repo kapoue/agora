@@ -72,6 +72,17 @@ interface QuestionDao {
         limit: Int
     ): List<QuestionEntity>
 
+    @Query("""
+        SELECT * FROM questions
+        WHERE difficulty IN (:difficulties) AND theme NOT IN (:excludedThemes)
+        ORDER BY RANDOM() LIMIT :limit
+    """)
+    suspend fun getRandomQuestionsMultipleDifficulties(
+        difficulties: List<String>,
+        excludedThemes: List<String>,
+        limit: Int
+    ): List<QuestionEntity>
+
     @Query("SELECT imageUrl FROM questions WHERE theme != 'CULTURE_GENERALE' AND imageUrl IS NOT NULL ORDER BY RANDOM() LIMIT 1")
     suspend fun getRandomImageUrl(): String?
 }

@@ -11,6 +11,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.input.KeyboardCapitalization
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -159,6 +160,17 @@ fun OrganizerSetupScreen(
                         fontSize = 16.sp
                     )
                 }
+            }
+
+            if (uiState.isLoading && uiState.loadingMessage.isNotEmpty()) {
+                Text(
+                    text = uiState.loadingMessage,
+                    fontFamily = LatoFamily,
+                    fontSize = 12.sp,
+                    color = AgoraStone,
+                    textAlign = TextAlign.Center,
+                    modifier = Modifier.fillMaxWidth()
+                )
             }
         }
     }
