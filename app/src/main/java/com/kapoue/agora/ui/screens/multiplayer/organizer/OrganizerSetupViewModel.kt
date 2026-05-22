@@ -136,4 +136,8 @@ class OrganizerSetupViewModel @Inject constructor(
             _uiState.value = _uiState.value.copy(isLoading = false, loadingMessage = "", isReady = true)
         }
     }
+
+    fun onReadyConsumed() {
+        _uiState.value = _uiState.value.copy(isReady = false)
+    }
 }

@@ -27,7 +27,10 @@ fun OrganizerSetupScreen(
     val uiState by viewModel.uiState.collectAsState()
 
     LaunchedEffect(uiState.isReady) {
-        if (uiState.isReady) onReady()
+        if (uiState.isReady) {
+            viewModel.onReadyConsumed()
+            onReady()
+        }
     }
 
     Column(

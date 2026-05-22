@@ -1,6 +1,7 @@
 package com.kapoue.agora.ui.screens.about
 
 import androidx.compose.foundation.background
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -19,6 +20,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalUriHandler
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
@@ -36,6 +38,7 @@ import com.kapoue.agora.ui.theme.LatoFamily
 fun AboutScreen(
     onBackClick: () -> Unit
 ) {
+    val uriHandler = LocalUriHandler.current
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -108,6 +111,9 @@ fun AboutScreen(
                 fontSize = 12.sp,
                 color = AgoraGoldLight,
                 textAlign = TextAlign.Center,
+                modifier = Modifier.clickable {
+                    uriHandler.openUri("https://codeberg.org/kapoue/agora")
+                },
                 style = androidx.compose.ui.text.TextStyle(
                     fontFamily = LatoFamily,
                     fontSize = 12.sp,

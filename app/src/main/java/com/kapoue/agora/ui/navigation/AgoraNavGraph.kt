@@ -179,7 +179,8 @@ fun AgoraNavGraph() {
         // ── Participant ───────────────────────────────────────────────────────
         composable(Screen.ParticipantScan.route) {
             ParticipantScanScreen(
-                onSessionReady = { navController.navigate(Screen.ParticipantSetup.route) }
+                onSessionReady = { navController.navigate(Screen.ParticipantSetup.route) },
+                onBackClick = { navController.popBackStack() }
             )
         }
 
