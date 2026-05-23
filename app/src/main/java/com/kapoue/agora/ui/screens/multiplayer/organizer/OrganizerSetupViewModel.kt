@@ -17,12 +17,14 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
+import kotlin.random.Random
 import javax.inject.Inject
 
 data class OrganizerSetupUiState(
     val name: String = "",
-    val questionsPerRound: Int = 10,
+    val questionsPerRound: Int = 20,
     val totalRounds: Int = 1,
+    val selectedThemes: Set<Theme> = emptySet(), // vide = tous les thèmes
     val isLoading: Boolean = false,
     val loadingMessage: String = "",
     val isReady: Boolean = false,
@@ -42,7 +44,6 @@ class OrganizerSetupViewModel @Inject constructor(
 
     companion object {
         val KEY_PLAYER_NAME = stringPreferencesKey("player_name")
-        private val EXCLUDED_THEMES = listOf(Theme.CULTURE_GENERALE.name)
         private val DIFFICULTIES = listOf(Difficulty.DEBUTANT.name, Difficulty.MOYEN.name)
     }
 
@@ -78,41 +79,57 @@ class OrganizerSetupViewModel @Inject constructor(
             // Sauvegarder le prénom
             dataStore.dataStore.edit { it[KEY_PLAYER_NAME] = state.name.trim() }
 
+            // Thèmes actifs selon la sélection de l'organisateur
+            val activeThemes = if (state.selectedThemes.isEmpty()) {
+                Theme.entries.filter { it != Theme.CULTURE_GENERALE }
+            } else {
+                state.selectedThemes.toList()
+            }
+            val excludedThemes = (Theme.entries.filter { it != Theme.CULTURE_GENERALE }.toSet() - activeThemes.toSet())
+                .map { it.name } + Theme.CULTURE_GENERALE.name
+
             // Initialiser le session manager
             sessionManager.reset()
             sessionManager.organizerName = state.name.trim()
             sessionManager.totalRounds = state.totalRounds
             sessionManager.questionsPerRound = state.questionsPerRound
+            sessionManager.difficulties = DIFFICULTIES
+            sessionManager.excludedThemes = excludedThemes
+
+            // Générer le seed déterministe
+            val seed = System.currentTimeMillis()
+            sessionManager.seed = seed
 
             // Synchroniser les assets vers la DB (no-op si déjà fait)
             _uiState.value = _uiState.value.copy(loadingMessage = "Chargement des questions…")
-            Theme.entries
-                .filter { it != Theme.CULTURE_GENERALE }
-                .forEach { theme ->
-                    listOf(Difficulty.DEBUTANT, Difficulty.MOYEN).forEach { diff ->
-                        try {
-                            val entities = assetQuestionLoader.loadQuestions(theme, diff)
-                            if (entities.isNotEmpty()) questionDao.insertQuestions(entities)
-                        } catch (_: Exception) {}
-                    }
-                }
+            activeThemes.forEach { theme ->
+                listOf(Difficulty.DEBUTANT, Difficulty.MOYEN).forEach { diff ->
+                    try {
+                    val entities = assetQuestionLoader.loadQuestions(theme, diff)
+                    if (entities.isNotEmpty()) questionDao.insertQuestions(entities)
+                } catch (_: Exception) {}
+            }
+        }
 
-            // Charger les questions pour toutes les manches (Débutant + Moyen mélangés)
+            // Sélection déterministe des questions par seed
             val totalNeeded = state.questionsPerRound * state.totalRounds
-            val entities = questionDao.getRandomQuestionsMultipleDifficulties(
+            val allIds = questionDao.getQuestionIdsByDifficultiesAndThemes(
                 difficulties = DIFFICULTIES,
-                excludedThemes = EXCLUDED_THEMES,
-                limit = totalNeeded
+                excludedThemes = excludedThemes
             )
 
-            if (entities.size < totalNeeded) {
+            if (allIds.size < totalNeeded) {
                 _uiState.value = _uiState.value.copy(
                     isLoading = false,
                     loadingMessage = "",
-                    error = "Pas assez de questions disponibles dans les assets."
+                    error = "Pas assez de questions disponibles (${allIds.size} / $totalNeeded)."
                 )
                 return@launch
             }
+
+            val selectedIds = allIds.sorted().shuffled(Random(seed)).take(totalNeeded)
+            val idToEntity = questionDao.getQuestionsByIds(selectedIds).associateBy { it.id }
+            val entities = selectedIds.mapNotNull { idToEntity[it] }
 
             val allQuestions = entities.map {
                 MultiplayerQuestion(
@@ -135,6 +152,17 @@ class OrganizerSetupViewModel @Inject constructor(
 
             _uiState.value = _uiState.value.copy(isLoading = false, loadingMessage = "", isReady = true)
         }
+    }
+
+    fun onThemeToggle(theme: Theme) {
+        val current = _uiState.value.selectedThemes
+        _uiState.value = _uiState.value.copy(
+            selectedThemes = if (theme in current) current - theme else current + theme
+        )
+    }
+
+    fun onSelectAllThemes() {
+        _uiState.value = _uiState.value.copy(selectedThemes = emptySet())
     }
 
     fun onReadyConsumed() {

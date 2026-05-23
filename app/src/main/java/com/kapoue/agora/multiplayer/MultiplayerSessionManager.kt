@@ -1,13 +1,13 @@
 package com.kapoue.agora.multiplayer
 
 import com.kapoue.agora.data.local.db.dao.MultiplayerSessionDao
-import com.kapoue.agora.data.local.db.dao.QuestionDao
 import com.kapoue.agora.data.local.db.entity.MultiplayerSessionEntity
 import com.kapoue.agora.domain.model.MultiplayerQuestion
 import com.kapoue.agora.domain.model.PlayerResult
 import com.kapoue.agora.domain.model.QrPayload
 import com.kapoue.agora.domain.model.WrongAnswer
 import com.kapoue.agora.ui.util.QrPayloadEncoder
+import com.kapoue.agora.BuildConfig
 import dagger.hilt.android.scopes.ActivityRetainedScoped
 import java.util.UUID
 import javax.inject.Inject
@@ -18,8 +18,7 @@ import javax.inject.Inject
  */
 @ActivityRetainedScoped
 class MultiplayerSessionManager @Inject constructor(
-    private val sessionDao: MultiplayerSessionDao,
-    private val questionDao: QuestionDao
+    private val sessionDao: MultiplayerSessionDao
 ) {
     // État en mémoire
     var sessionId: String = ""
@@ -27,6 +26,9 @@ class MultiplayerSessionManager @Inject constructor(
     var totalRounds: Int = 1
     var questionsPerRound: Int = 10
     var currentRound: Int = 1
+    var seed: Long = 0L
+    var difficulties: List<String> = listOf("DEBUTANT", "MOYEN")
+    var excludedThemes: List<String> = listOf("CULTURE_GENERALE")
 
     // Questions de la session courante (indexées par numéro de manche)
     private val roundQuestions: MutableMap<Int, List<MultiplayerQuestion>> = mutableMapOf()
@@ -50,7 +52,11 @@ class MultiplayerSessionManager @Inject constructor(
         roundNumber = currentRound,
         totalRounds = totalRounds,
         questionsPerRound = questionsPerRound,
-        questions = getQuestionsForRound(currentRound)
+        seed = seed,
+        difficulties = difficulties,
+        excludedThemes = excludedThemes,
+        appVersionCode = BuildConfig.VERSION_CODE,
+        appVersionName = BuildConfig.VERSION_NAME
     )
 
     fun addRoundResult(result: PlayerResult) {
@@ -151,6 +157,9 @@ class MultiplayerSessionManager @Inject constructor(
         totalRounds = 1
         questionsPerRound = 10
         currentRound = 1
+        seed = 0L
+        difficulties = listOf("DEBUTANT", "MOYEN")
+        excludedThemes = listOf("CULTURE_GENERALE")
         roundQuestions.clear()
         allResults.clear()
         eliminatedPlayers.clear()

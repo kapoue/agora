@@ -1,6 +1,5 @@
 package com.kapoue.agora.ui.screens.multiplayer.participant
 
-import android.content.Context
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -24,14 +23,12 @@ import com.kapoue.agora.ui.util.QrCodeGenerator
 import com.kapoue.agora.ui.util.QrPayloadEncoder
 import com.kapoue.agora.ui.util.VibrationHelper
 import dagger.hilt.android.lifecycle.HiltViewModel
-import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
 import androidx.compose.foundation.Image
 import androidx.compose.ui.graphics.Color
 
 @HiltViewModel
 class ParticipantRoundResultViewModel @Inject constructor(
-    @ApplicationContext private val context: Context,
     val sessionManager: MultiplayerSessionManager
 ) : ViewModel() {
 
@@ -49,10 +46,9 @@ class ParticipantRoundResultViewModel @Inject constructor(
             score = score,
             totalQuestions = totalQuestions,
             timeMillis = timeMillis,
-            wrongAnswers = wrongAnswers
+            wrongAnswers = emptyList() // non embarqués dans le QR, consultables localement
         )
         val encoded = QrPayloadEncoder.encodeResult(result)
-        VibrationHelper.vibrateOnResult(context)
         return QrCodeGenerator.generate(encoded)
     }
 }
@@ -70,10 +66,15 @@ fun ParticipantRoundResultScreen(
     viewModel: ParticipantRoundResultViewModel = hiltViewModel()
 ) {
     val sm = viewModel.sessionManager
+    val context = LocalContext.current
     val bitmap = remember {
         viewModel.buildResultQrCode(playerName, score, totalQuestions, timeMillis, wrongAnswers)
     }
     val isLastRound = sm.currentRound >= sm.totalRounds
+
+    LaunchedEffect(Unit) {
+        VibrationHelper.vibrateOnResult(context)
+    }
 
     Column(
         modifier = Modifier

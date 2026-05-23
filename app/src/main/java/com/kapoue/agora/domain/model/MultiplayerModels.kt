@@ -22,5 +22,9 @@ data class QrPayload(
     val roundNumber: Int,
     val totalRounds: Int,
     val questionsPerRound: Int,
-    val questions: List<MultiplayerQuestion>
+    val seed: Long,
+    val difficulties: List<String>,
+    val excludedThemes: List<String>,
+    val appVersionCode: Int,
+    val appVersionName: String
 )

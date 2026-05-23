@@ -1,6 +1,9 @@
 package com.kapoue.agora.ui.screens.multiplayer.organizer
 
 import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardOptions
@@ -16,8 +19,10 @@ import androidx.compose.ui.text.input.KeyboardCapitalization
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
+import com.kapoue.agora.domain.model.Theme
 import com.kapoue.agora.ui.theme.*
 
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
 fun OrganizerSetupScreen(
     onReady: () -> Unit,
@@ -61,6 +66,7 @@ fun OrganizerSetupScreen(
         Column(
             modifier = Modifier
                 .fillMaxWidth()
+                .verticalScroll(rememberScrollState())
                 .padding(24.dp),
             verticalArrangement = Arrangement.spacedBy(24.dp)
         ) {
@@ -89,7 +95,7 @@ fun OrganizerSetupScreen(
                     color = AgoraWhite
                 )
                 Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
-                    listOf(10, 20).forEach { count ->
+                    listOf(10, 20, 30).forEach { count ->
                         val selected = uiState.questionsPerRound == count
                         OutlinedButton(
                             onClick = { viewModel.onQuestionsChange(count) },
@@ -135,6 +141,47 @@ fun OrganizerSetupScreen(
                             Text("$count", fontFamily = CinzelFamily, fontWeight = FontWeight.Bold)
                         }
                     }
+                }
+            }
+
+            // Thèmes
+            Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                Text(
+                    text = "Thèmes",
+                    fontFamily = CinzelFamily,
+                    fontSize = 14.sp,
+                    color = AgoraWhite
+                )
+                FlowRow(
+                    horizontalArrangement = Arrangement.spacedBy(8.dp),
+                    verticalArrangement = Arrangement.spacedBy(4.dp)
+                ) {
+                    FilterChip(
+                        selected = uiState.selectedThemes.isEmpty(),
+                        onClick = viewModel::onSelectAllThemes,
+                        label = { Text("Tous", fontFamily = LatoFamily, fontSize = 12.sp) },
+                        colors = FilterChipDefaults.filterChipColors(
+                            selectedContainerColor = AgoraGold,
+                            selectedLabelColor = AgoraBackground,
+                            containerColor = AgoraSurface,
+                            labelColor = AgoraStone
+                        )
+                    )
+                    Theme.entries
+                        .filter { it != Theme.CULTURE_GENERALE }
+                        .forEach { theme ->
+                            FilterChip(
+                                selected = theme in uiState.selectedThemes,
+                                onClick = { viewModel.onThemeToggle(theme) },
+                                label = { Text(theme.displayName, fontFamily = LatoFamily, fontSize = 12.sp) },
+                                colors = FilterChipDefaults.filterChipColors(
+                                    selectedContainerColor = AgoraGold,
+                                    selectedLabelColor = AgoraBackground,
+                                    containerColor = AgoraSurface,
+                                    labelColor = AgoraStone
+                                )
+                            )
+                        }
                 }
             }
 

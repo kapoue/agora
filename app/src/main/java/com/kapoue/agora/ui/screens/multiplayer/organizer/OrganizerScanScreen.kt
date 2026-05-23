@@ -22,6 +22,7 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
 import androidx.core.content.ContextCompat
 import androidx.hilt.navigation.compose.hiltViewModel
+import kotlinx.coroutines.delay
 import com.journeyapps.barcodescanner.BarcodeCallback
 import com.journeyapps.barcodescanner.BarcodeResult
 import com.journeyapps.barcodescanner.BarcodeView
@@ -46,6 +47,14 @@ fun OrganizerScanScreen(
 
     LaunchedEffect(Unit) {
         if (!hasCameraPermission) permissionLauncher.launch(Manifest.permission.CAMERA)
+    }
+
+    // Auto-dismiss des erreurs après 3s
+    LaunchedEffect(uiState.duplicateError, uiState.invalidQrError) {
+        if (uiState.duplicateError != null || uiState.invalidQrError != null) {
+            delay(3000)
+            viewModel.dismissError()
+        }
     }
 
     Column(
@@ -94,6 +103,7 @@ fun OrganizerScanScreen(
                             resume()
                         }
                     },
+                    onRelease = { it.pause() },
                     modifier = Modifier.fillMaxSize()
                 )
             }

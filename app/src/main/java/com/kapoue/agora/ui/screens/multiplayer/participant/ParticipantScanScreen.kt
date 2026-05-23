@@ -100,12 +100,15 @@ fun ParticipantScanScreen(
                             decodeContinuous(object : BarcodeCallback {
                                 override fun barcodeResult(result: BarcodeResult) {
                                     viewModel.onQrScanned(result.text)
-                                    pause()
+                                    // pause uniquement si le chargement a démarré (scan valide)
+                                    // en cas d'erreur, on laisse la caméra active pour retry
+                                    if (viewModel.uiState.value.isLoading) pause()
                                 }
                             })
                             resume()
                         }
                     },
+                    onRelease = { it.pause() },
                     modifier = Modifier.fillMaxSize()
                 )
             }
@@ -128,6 +131,23 @@ fun ParticipantScanScreen(
                 color = AgoraWrongLight,
                 textAlign = TextAlign.Center,
                 modifier = Modifier.padding(top = 16.dp, start = 32.dp, end = 32.dp)
+            )
+        }
+
+        if (uiState.isLoading) {
+            Spacer(Modifier.height(16.dp))
+            CircularProgressIndicator(
+                color = AgoraGold,
+                modifier = Modifier.size(32.dp),
+                strokeWidth = 3.dp
+            )
+            Spacer(Modifier.height(8.dp))
+            Text(
+                text = "Chargement des questions…",
+                fontFamily = LatoFamily,
+                fontSize = 13.sp,
+                color = AgoraStone,
+                textAlign = TextAlign.Center
             )
         }
     }
