@@ -23,6 +23,7 @@ import com.journeyapps.barcodescanner.BarcodeCallback
 import com.journeyapps.barcodescanner.BarcodeResult
 import com.journeyapps.barcodescanner.BarcodeView
 import com.kapoue.agora.ui.theme.*
+import com.kapoue.agora.ui.util.VibrationHelper
 
 @Composable
 fun ParticipantScanScreen(
@@ -48,6 +49,10 @@ fun ParticipantScanScreen(
 
     LaunchedEffect(uiState.sessionLoaded) {
         if (uiState.sessionLoaded) onSessionReady()
+    }
+
+    LaunchedEffect(uiState.isLoading) {
+        if (uiState.isLoading) VibrationHelper.vibrateOnScan(context)
     }
 
     Column(

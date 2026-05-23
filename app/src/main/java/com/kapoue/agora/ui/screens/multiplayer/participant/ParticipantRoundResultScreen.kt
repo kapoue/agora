@@ -8,7 +8,6 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.asImageBitmap
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
@@ -21,7 +20,6 @@ import com.kapoue.agora.multiplayer.MultiplayerSessionManager
 import com.kapoue.agora.ui.theme.*
 import com.kapoue.agora.ui.util.QrCodeGenerator
 import com.kapoue.agora.ui.util.QrPayloadEncoder
-import com.kapoue.agora.ui.util.VibrationHelper
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 import androidx.compose.foundation.Image
@@ -66,15 +64,10 @@ fun ParticipantRoundResultScreen(
     viewModel: ParticipantRoundResultViewModel = hiltViewModel()
 ) {
     val sm = viewModel.sessionManager
-    val context = LocalContext.current
     val bitmap = remember {
         viewModel.buildResultQrCode(playerName, score, totalQuestions, timeMillis, wrongAnswers)
     }
     val isLastRound = sm.currentRound >= sm.totalRounds
-
-    LaunchedEffect(Unit) {
-        VibrationHelper.vibrateOnResult(context)
-    }
 
     Column(
         modifier = Modifier
