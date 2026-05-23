@@ -1,5 +1,25 @@
 import java.util.Properties
 
+// ── Version automatique depuis le tag Git ─────────────────────────────────
+// versionCode  = nombre total de commits (monotone croissant)
+// versionName  = tag exact sur HEAD (ex: "2.2.1"), ou description relative sinon
+// ⚠️  Après un nouveau tag : utiliser ./gradlew clean bundleRelease
+//     pour forcer l'invalidation du cache de configuration Gradle.
+fun gitExec(vararg args: String): String = try {
+    ProcessBuilder(args.toList())
+        .directory(rootProject.projectDir)
+        .redirectErrorStream(true)
+        .start()
+        .inputStream.bufferedReader().readLine()?.trim() ?: ""
+} catch (_: Exception) { "" }
+
+val gitVersionName: String = gitExec("git", "describe", "--tags", "--exact-match", "HEAD")
+    .removePrefix("v")
+    .ifEmpty {
+        gitExec("git", "describe", "--tags", "--always").removePrefix("v").ifEmpty { "dev" }
+    }
+val gitVersionCode: Int = gitExec("git", "rev-list", "--count", "HEAD").toIntOrNull() ?: 1
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -31,8 +51,8 @@ android {
         applicationId = "fr.kapoue.agora"
         minSdk = 26
         targetSdk = 35
-        versionCode = 27
-        versionName = "2.2.1"
+        versionCode = gitVersionCode
+        versionName = gitVersionName
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
