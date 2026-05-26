@@ -1,4 +1,4 @@
-﻿package com.kapoue.agora.data.repository
+package com.kapoue.agora.data.repository
 
 import com.kapoue.agora.data.local.AssetQuestionLoader
 import com.kapoue.agora.data.local.db.dao.ProgressDao
@@ -11,6 +11,7 @@ import com.kapoue.agora.domain.model.Difficulty
 import com.kapoue.agora.domain.model.Progress
 import com.kapoue.agora.domain.model.Question
 import com.kapoue.agora.domain.model.Theme
+import com.kapoue.agora.ui.util.AppLogger
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 import javax.inject.Inject
@@ -21,8 +22,13 @@ class QuestionRepositoryImpl @Inject constructor(
     private val questionDao: QuestionDao,
     private val progressDao: ProgressDao,
     private val themeProgressDao: ThemeProgressDao,
-    private val assetQuestionLoader: AssetQuestionLoader
+    private val assetQuestionLoader: AssetQuestionLoader,
+    private val logger: AppLogger
 ) : QuestionRepository {
+
+    companion object {
+        private const val TAG = "QuestionRepository"
+    }
 
     override fun getQuestions(theme: Theme, difficulty: Difficulty): Flow<List<Question>> {
         return questionDao.getQuestions(theme.name, difficulty.name).map { entities ->
@@ -41,11 +47,14 @@ class QuestionRepositoryImpl @Inject constructor(
         val toInsert = newEntities
             .filter { it.questionText !in existingTexts }
             .mapIndexed { index, entity -> entity.copy(positionInPool = existingCount + index) }
+
+        logger.i(TAG, "syncFromAssets ${theme.name}/${difficulty.name} — assets=${newEntities.size} DB=$existingCount àInsérer=${toInsert.size}")
+
         if (toInsert.isNotEmpty()) {
             questionDao.insertQuestions(toInsert)
-            // Nouvelles questions détectées → remise à zéro du combo pour repartir de 0
             questionDao.resetDifficultyQuestions(theme.name, difficulty.name)
             progressDao.deleteProgress(theme.name, difficulty.name)
+            logger.w(TAG, "syncFromAssets ${theme.name}/${difficulty.name} — ${toInsert.size} nouvelles questions → reset isAnsweredCorrectly + suppression progression")
         }
 
         newEntities
@@ -89,12 +98,12 @@ class QuestionRepositoryImpl @Inject constructor(
         progressDao.deleteProgress(theme.name, difficulty.name)
     }
 
-
     override suspend fun resetTheme(theme: Theme) {
         questionDao.resetThemeQuestions(theme.name)
         Difficulty.entries.forEach { difficulty ->
             progressDao.deleteProgress(theme.name, difficulty.name)
         }
+        logger.i(TAG, "resetTheme ${theme.name} — isAnsweredCorrectly remis à 0 + progressions supprimées")
     }
 
     override suspend fun getSeriesCount(theme: Theme): Int {
@@ -118,6 +127,7 @@ class QuestionRepositoryImpl @Inject constructor(
         val unanswered = questionDao.getRandomUnansweredQuestionsAllThemes(
             difficulty.name, excluded, limit
         )
+        logger.d(TAG, "getRandomQuestionsForAllThemes ${difficulty.name} — nonRépondues=${unanswered.size} limite=$limit")
         return if (unanswered.size >= limit) {
             unanswered.map { it.toDomain() }
         } else {
@@ -126,6 +136,7 @@ class QuestionRepositoryImpl @Inject constructor(
             val extra = questionDao.getRandomQuestionsAllThemes(
                 difficulty.name, excluded, limit
             ).filter { it.id !in answeredIds }.take(remaining)
+            logger.d(TAG, "getRandomQuestionsForAllThemes — complément=${extra.size} questions déjà répondues ajoutées")
             (unanswered + extra).map { it.toDomain() }
         }
     }
@@ -133,7 +144,6 @@ class QuestionRepositoryImpl @Inject constructor(
     override suspend fun getRandomImageUrl(): String? {
         return questionDao.getRandomImageUrl()
     }
-
 }
 
 private fun QuestionEntity.toDomain(): Question {

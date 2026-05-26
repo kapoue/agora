@@ -1,4 +1,4 @@
-﻿package com.kapoue.agora.ui.screens.game
+package com.kapoue.agora.ui.screens.game
 
 import android.content.Context
 import android.os.VibrationEffect
@@ -16,6 +16,7 @@ import com.kapoue.agora.domain.usecase.GetQuestionsUseCase
 import com.kapoue.agora.domain.usecase.GetRandomQuestionsUseCase
 import com.kapoue.agora.domain.usecase.SaveProgressUseCase
 import com.kapoue.agora.ui.components.AnswerState
+import com.kapoue.agora.ui.util.AppLogger
 import dagger.hilt.android.lifecycle.HiltViewModel
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -50,7 +51,8 @@ class GameViewModel @Inject constructor(
     private val getRandomQuestionsUseCase: GetRandomQuestionsUseCase,
     private val saveProgressUseCase: SaveProgressUseCase,
     private val getProgressUseCase: GetProgressUseCase,
-    private val imageLoader: ImageLoader
+    private val imageLoader: ImageLoader,
+    private val logger: AppLogger
 ) : ViewModel() {
 
     private val _uiState = MutableStateFlow(GameUiState())
@@ -68,6 +70,7 @@ class GameViewModel @Inject constructor(
 
     companion object {
         private const val SESSION_SIZE = 20
+        private const val TAG = "GameViewModel"
     }
 
     fun initialize(theme: Theme, difficulty: Difficulty) {
@@ -75,6 +78,7 @@ class GameViewModel @Inject constructor(
         lastDifficulty = difficulty
         sessionErrorCount = 0
         _uiState.value = GameUiState(isLoading = true, theme = theme, difficulty = difficulty)
+        logger.i(TAG, "initialize — thème=${theme.name} difficulté=${difficulty.name}")
 
         if (theme == Theme.CULTURE_GENERALE) {
             initializeCultureGenerale(difficulty)
@@ -84,15 +88,19 @@ class GameViewModel @Inject constructor(
         viewModelScope.launch {
             val progress = getProgressUseCase(theme, difficulty)
             val savedLevel = progress?.currentLevel ?: 0
+            logger.d(TAG, "progression chargée — niveau=$savedLevel")
 
             try {
                 questionRepository.syncFromAssets(theme, difficulty)
             } catch (e: Exception) {
-                // Continue si la DB a deja des questions
+                logger.w(TAG, "syncFromAssets ignoré (DB déjà à jour) — ${e.message}")
             }
 
             val count = questionRepository.getQuestionCount(theme, difficulty)
+            logger.i(TAG, "questions en DB — total=$count")
+
             if (count == 0) {
+                logger.e(TAG, "aucune question disponible pour ${theme.name}/${difficulty.name}")
                 _uiState.value = _uiState.value.copy(
                     isLoading = false,
                     error = "Aucune question disponible pour ce theme et ce niveau."
@@ -106,8 +114,10 @@ class GameViewModel @Inject constructor(
                 sessionHasMore = allUnanswered.size > SESSION_SIZE
                 pendingQueue = ArrayDeque(allUnanswered.take(SESSION_SIZE))
                 val totalInSession = pendingQueue.size
+                logger.i(TAG, "questions chargées — total=${questions.size} nonRépondues=${allUnanswered.size} session=$totalInSession hasMore=$sessionHasMore")
 
                 if (pendingQueue.isEmpty()) {
+                    logger.i(TAG, "toutes les questions ont été répondues — session terminée")
                     _uiState.value = _uiState.value.copy(
                         isLoading = false,
                         isCompleted = true,
@@ -126,13 +136,28 @@ class GameViewModel @Inject constructor(
 
     private fun initializeCultureGenerale(difficulty: Difficulty) {
         viewModelScope.launch {
+            logger.i(TAG, "initializeCultureGenerale — difficulté=${difficulty.name}")
             Theme.entries
                 .filter { it != Theme.CULTURE_GENERALE }
                 .forEach { theme ->
-                    try { questionRepository.syncFromAssets(theme, difficulty) } catch (_: Exception) {}
+                    val count = questionRepository.getQuestionCount(theme, difficulty)
+                    if (count == 0) {
+                        try {
+                            questionRepository.syncFromAssets(theme, difficulty)
+                            logger.d(TAG, "sync CG — ${theme.name}/${difficulty.name} inséré depuis assets")
+                        } catch (_: Exception) {
+                            logger.w(TAG, "sync CG — ${theme.name}/${difficulty.name} ignoré")
+                        }
+                    } else {
+                        logger.d(TAG, "sync CG — ${theme.name}/${difficulty.name} déjà en DB ($count questions), sync ignoré")
+                    }
                 }
-            val loadedQuestions = getRandomQuestionsUseCase(difficulty, limit = 30)
+
+            val loadedQuestions = getRandomQuestionsUseCase(difficulty, limit = SESSION_SIZE)
+            logger.i(TAG, "CG — questions piochées=${loadedQuestions.size} (limit=$SESSION_SIZE)")
+
             if (loadedQuestions.isEmpty()) {
+                logger.e(TAG, "CG — aucune question disponible")
                 _uiState.value = _uiState.value.copy(
                     isLoading = false,
                     error = "Aucune question disponible."
@@ -152,6 +177,7 @@ class GameViewModel @Inject constructor(
     }
 
     fun onNextSession() {
+        logger.i(TAG, "onNextSession — thème=${lastTheme.name} difficulté=${lastDifficulty.name}")
         initialize(lastTheme, lastDifficulty)
     }
 
@@ -178,6 +204,8 @@ class GameViewModel @Inject constructor(
         val isCorrect = answer == question.correctAnswer
         val newLevel = if (isCorrect) state.currentLevel + 1 else state.currentLevel
         lastAnswerCorrect = isCorrect
+
+        logger.d(TAG, "réponse — question=\"${question.questionText.take(50)}\" correct=$isCorrect niveau=$newLevel")
 
         if (!isCorrect) {
             sessionErrorCount++
@@ -218,6 +246,7 @@ class GameViewModel @Inject constructor(
         if (!lastAnswerCorrect) pendingQueue.addLast(answered)
 
         if (pendingQueue.isEmpty()) {
+            logger.i(TAG, "session terminée — erreurs=$sessionErrorCount")
             _uiState.value = _uiState.value.copy(
                 isCompleted = true,
                 hasMoreQuestions = sessionHasMore,

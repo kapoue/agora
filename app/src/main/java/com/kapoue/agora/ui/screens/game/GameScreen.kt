@@ -248,7 +248,10 @@ fun GameScreen(
                         }
                         Spacer(modifier = Modifier.weight(1f))
                         Text(
-                            text = "Niveau ${uiState.currentLevel}",
+                            text = run {
+                                val n = uiState.currentLevel
+                                if (n >= 2) "$n bonnes réponses" else "$n bonne réponse"
+                            },
                             fontFamily = CinzelFamily,
                             fontWeight = FontWeight.Normal,
                             fontSize = 18.sp,

@@ -135,13 +135,15 @@ fun DifficultyScreen(
                                     fontSize = 20.sp,
                                     color = AgoraWhite
                                 )
-                                Text(
-                                    text = "Niveau $level",
-                                    fontFamily = LatoFamily,
-                                    fontWeight = FontWeight.Normal,
-                                    fontSize = 14.sp,
-                                    color = AgoraStone
-                                )
+                                if (theme != Theme.CULTURE_GENERALE) {
+                                    Text(
+                                        text = "Niveau $level",
+                                        fontFamily = LatoFamily,
+                                        fontWeight = FontWeight.Normal,
+                                        fontSize = 14.sp,
+                                        color = AgoraStone
+                                    )
+                                }
                             }
                         }
                     }
