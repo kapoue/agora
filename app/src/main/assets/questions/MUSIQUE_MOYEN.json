@@ -1,13 +1,25 @@
 [
   {
-    "question": "Quel compositeur a écrit la suite 'Le Carnaval des animaux' ?",
-    "correct_answer": "Camille Saint-Saëns",
+    "question": "Quel compositeur a écrit la 'Symphonie Fantastique' en 1830 ?",
+    "correct_answer": "Hector Berlioz",
     "incorrect_answers": [
-      "Georges Bizet",
-      "Maurice Ravel",
-      "Igor Stravinsky"
+      "Frédéric Chopin",
+      "Franz Liszt",
+      "Robert Schumann"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1671079654265-72bb8e210856?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Berlioz a composé cette œuvre programmatique inspirée par son amour pour Harriet Smithson.",
+    "imageUrl": "https://images.unsplash.com/photo-1603212037284-afe470c5fb08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est traditionnellement utilisé dans la musique flamenco ?",
+    "correct_answer": "Guitare classique",
+    "incorrect_answers": [
+      "Violon",
+      "Piano",
+      "Harpe"
+    ],
+    "explanation": "La guitare classique est l'instrument emblématique du flamenco, souvent accompagnée de chant et de danse.",
+    "imageUrl": "https://images.unsplash.com/photo-1546367791-e7447b431084?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' en 1973 ?",
@@ -17,87 +29,173 @@
       "The Rolling Stones",
       "Queen"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1636367581920-d3468e1d220a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album conceptuel est l'un des plus vendus de l'histoire avec plus de 45 millions d'exemplaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1571299866831-6bba2904270b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est traditionnellement associé au jazz Nouvelle-Orléans ?",
-    "correct_answer": "Trompette",
+    "question": "Quel compositeur a vécu au XVIIIe siècle et est surnommé le 'père de la symphonie' ?",
+    "correct_answer": "Joseph Haydn",
     "incorrect_answers": [
-      "Violon",
-      "Piano",
-      "Guitare électrique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730098106588-3629086606ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur est célèbre pour ses 'Concertos brandebourgeois' ?",
-    "correct_answer": "Johann Sebastian Bach",
-    "incorrect_answers": [
-      "Ludwig van Beethoven",
       "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
       "Antonio Vivaldi"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1584535428906-f1d9fd96d45b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Haydn a composé 104 symphonies et a influencé Mozart et Beethoven.",
+    "imageUrl": "https://images.unsplash.com/photo-1522776203873-e4961ae6e07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe a popularisé le mouvement 'grunge' dans les années 1990 ?",
+    "question": "Quel instrument est au centre de la musique baroque italienne ?",
+    "correct_answer": "Violon",
+    "incorrect_answers": [
+      "Clavecin",
+      "Flûte traversière",
+      "Luth"
+    ],
+    "explanation": "Vivaldi, Corelli et d'autres compositeurs baroques ont écrit des concertos pour violon.",
+    "imageUrl": "https://images.unsplash.com/photo-1544427920-c49ccfb85579?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel artiste a popularisé le 'moog synthesizer' dans les années 1970 ?",
+    "correct_answer": "Wendy Carlos",
+    "incorrect_answers": [
+      "Jean-Michel Jarre",
+      "Keith Emerson",
+      "Herbie Hancock"
+    ],
+    "explanation": "Son album 'Switched-On Bach' a démontré le potentiel du synthétiseur Moog.",
+    "imageUrl": "https://images.unsplash.com/photo-1573057325922-17b61e0dc4d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur russe a écrit 'Le Lac des cygnes' ?",
+    "correct_answer": "Piotr Ilitch Tchaïkovski",
+    "incorrect_answers": [
+      "Modeste Moussorgski",
+      "Nikolaï Rimski-Korsakov",
+      "Alexandre Borodine"
+    ],
+    "explanation": "Cette œuvre de ballet a été créée en 1877 et reste un pilier du répertoire classique.",
+    "imageUrl": "https://images.unsplash.com/photo-1619467533662-ed8c255242c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est caractérisé par des rythmes syncopés et des instruments comme le banjo ?",
+    "correct_answer": "Ragtime",
+    "incorrect_answers": [
+      "Blues",
+      "Country",
+      "Gospel"
+    ],
+    "explanation": "Le ragtime, popularisé par Scott Joplin, a influencé le jazz et le piano stride.",
+    "imageUrl": "https://images.unsplash.com/photo-1416273567255-8abe875affcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est traditionnellement joué avec un 'plectre' ?",
+    "correct_answer": "Luth",
+    "incorrect_answers": [
+      "Violon",
+      "Harpe",
+      "Guitare"
+    ],
+    "explanation": "Le plectre, souvent en plume ou en plastique, sert à pincer les cordes du luth.",
+    "imageUrl": "https://images.unsplash.com/photo-1730355893106-f96cb49cf4cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe britannique a sorti l'album 'Sgt. Pepper's Lonely Hearts Club Band' en 1967 ?",
+    "correct_answer": "The Beatles",
+    "incorrect_answers": [
+      "The Who",
+      "The Kinks",
+      "Cream"
+    ],
+    "explanation": "Cet album conceptuel marque l'apogée de la période psychédélique des Beatles.",
+    "imageUrl": "https://images.unsplash.com/photo-1598300023303-a7af0627557c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'La Flûte enchantée' en 1791 ?",
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "incorrect_answers": [
+      "Ludwig van Beethoven",
+      "Christoph Willibald Gluck",
+      "Carl Maria von Weber"
+    ],
+    "explanation": "Cet opéra en deux actes est l'un des plus joués au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1713592231622-34097be8e1e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au cœur de la musique traditionnelle irlandaise ?",
+    "correct_answer": "Fiddle",
+    "incorrect_answers": [
+      "Cornemuse",
+      "Harpe celtique",
+      "Tin whistle"
+    ],
+    "explanation": "Le fiddle est un violon joué dans le style traditionnel irlandais.",
+    "imageUrl": "https://images.unsplash.com/photo-1590026821754-7075cf10626e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est né dans le Mississippi et est caractérisé par des 'blue notes' ?",
+    "correct_answer": "Blues",
+    "incorrect_answers": [
+      "Jazz",
+      "Gospel",
+      "R&B"
+    ],
+    "explanation": "Le blues utilise des notes légèrement abaissées (blue notes) pour exprimer l'émotion.",
+    "imageUrl": "https://images.unsplash.com/photo-1519139116361-2ea84d04a4aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'La Mer' en 1905 ?",
+    "correct_answer": "Claude Debussy",
+    "incorrect_answers": [
+      "Maurice Ravel",
+      "Erik Satie",
+      "Gabriel Fauré"
+    ],
+    "explanation": "Cette œuvre orchestrale impressionniste évoque les paysages marins.",
+    "imageUrl": "https://images.unsplash.com/photo-1613412140788-9ed674d57c41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est traditionnellement joué avec un 'shofar' ?",
+    "correct_answer": "Corne de bélier",
+    "incorrect_answers": [
+      "Flûte en bois",
+      "Tambourin",
+      "Harpe"
+    ],
+    "explanation": "Le shofar est un instrument rituel juif utilisé lors de Rosh Hashana et Yom Kippur.",
+    "imageUrl": "https://images.unsplash.com/photo-1708333070773-de4605777541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a popularisé le 'grunge' dans les années 1990 ?",
     "correct_answer": "Nirvana",
     "incorrect_answers": [
       "Pearl Jam",
       "Soundgarden",
       "Alice in Chains"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1708333070773-de4605777541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Nirvana, avec Kurt Cobain, a défini le son et l'esthétique du grunge.",
+    "imageUrl": "https://images.unsplash.com/photo-1518251030019-42bb0ce5f409?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est au cœur de la musique classique indienne ?",
+    "question": "Quel compositeur a écrit 'Le Boléro' en 1928 ?",
+    "correct_answer": "Maurice Ravel",
+    "incorrect_answers": [
+      "Igor Stravinsky",
+      "Sergeï Prokofiev",
+      "Francis Poulenc"
+    ],
+    "explanation": "Cette œuvre orchestrale est célèbre pour son rythme répétitif et son crescendo.",
+    "imageUrl": "https://images.unsplash.com/photo-1512404871764-1cf03a297841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au centre de la musique classique indienne ?",
     "correct_answer": "Sitar",
     "incorrect_answers": [
-      "Violon",
-      "Flûte traversière",
-      "Piano"
+      "Tabla",
+      "Flûte bansuri",
+      "Veena"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1619467533662-ed8c255242c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit l'opéra 'La Flûte enchantée' ?",
-    "correct_answer": "Wolfgang Amadeus Mozart",
-    "incorrect_answers": [
-      "Giuseppe Verdi",
-      "Richard Wagner",
-      "Georges Bizet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1629276301581-a04e16fc0c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est né dans les communautés afro-américaines du Sud des États-Unis au début du XXe siècle ?",
-    "correct_answer": "Blues",
-    "incorrect_answers": [
-      "Rock",
-      "Country",
-      "Rap"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1511220043390-e929fe0edf55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste est surnommé 'Le Roi de la Pop' ?",
-    "correct_answer": "Michael Jackson",
-    "incorrect_answers": [
-      "Prince",
-      "Elvis Presley",
-      "Freddie Mercury"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1601333057443-bc2b6e684bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est le plus ancien connu de l'humanité ?",
-    "correct_answer": "Flûte",
-    "incorrect_answers": [
-      "Violon",
-      "Piano",
-      "Tambour"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1598300023303-a7af0627557c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le sitar, avec ses cordes sympathiques, est emblématique de la musique hindoustanie.",
+    "imageUrl": "https://images.unsplash.com/photo-1563726351554-179049599895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel groupe a sorti l'album 'Abbey Road' en 1969 ?",
@@ -105,99 +203,252 @@
     "incorrect_answers": [
       "The Rolling Stones",
       "The Who",
-      "The Doors"
+      "Pink Floyd"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1740708191679-422023b9ca2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album marque la dernière session d'enregistrement des Beatles ensemble.",
+    "imageUrl": "https://images.unsplash.com/photo-1748364372382-02b819c1ce36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur est célèbre pour sa 'Symphonie fantastique' ?",
-    "correct_answer": "Hector Berlioz",
-    "incorrect_answers": [
-      "Frédéric Chopin",
-      "Franz Liszt",
-      "Pyotr Ilyich Tchaikovsky"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1709495596309-4e60d817ae3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est au centre de la musique flamenco ?",
-    "correct_answer": "Guitare espagnole",
-    "incorrect_answers": [
-      "Violon",
-      "Piano",
-      "Accordéon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1722841549679-e9f77fb291d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a popularisé le mouvement 'punk' dans les années 1970 ?",
-    "correct_answer": "The Sex Pistols",
-    "incorrect_answers": [
-      "The Clash",
-      "The Ramones",
-      "The Stooges"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1511220043390-e929fe0edf55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'Le Boléro' ?",
-    "correct_answer": "Maurice Ravel",
-    "incorrect_answers": [
-      "Igor Stravinsky",
-      "Sergei Rachmaninoff",
-      "Dmitri Chostakovitch"
-    ],
-    "imageUrl": "https://images.unsplash.com/flagged/photo-1572372710427-43f08447d837?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est traditionnellement joué avec un archet ?",
-    "correct_answer": "Violon",
-    "incorrect_answers": [
-      "Guitare",
-      "Piano",
-      "Flûte"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1683368392119-96f38e599cea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste est connu pour son album 'Thriller' sorti en 1982 ?",
-    "correct_answer": "Michael Jackson",
-    "incorrect_answers": [
-      "Prince",
-      "Madonna",
-      "Whitney Houston"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1598515750914-e4d9c650b68b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est caractérisé par des rythmes syncopés et des improvisations ?",
-    "correct_answer": "Jazz",
-    "incorrect_answers": [
-      "Classique",
-      "Rock",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1546367791-e7447b431084?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'La Traviata' ?",
+    "question": "Quel compositeur a écrit 'La Traviata' en 1853 ?",
     "correct_answer": "Giuseppe Verdi",
     "incorrect_answers": [
       "Gioachino Rossini",
       "Gaetano Donizetti",
       "Vincenzo Bellini"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1678123650479-e70cf32d5a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet opéra romantique s'inspire de 'La Dame aux camélias' d'Alexandre Dumas.",
+    "imageUrl": "https://images.unsplash.com/photo-1683368392119-96f38e599cea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est au centre de la musique country ?",
+    "question": "Quel instrument est traditionnellement joué avec un 'mbira' ?",
+    "correct_answer": "Piano à pouces",
+    "incorrect_answers": [
+      "Xylophone",
+      "Kalimba",
+      "Balafon"
+    ],
+    "explanation": "Le mbira, ou kalimba, est un instrument africain à lamelles métalliques.",
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1572372710427-43f08447d837?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est né en Jamaïque et a influencé le reggae ?",
+    "correct_answer": "Ska",
+    "incorrect_answers": [
+      "Rocksteady",
+      "Dancehall",
+      "Dub"
+    ],
+    "explanation": "Le ska, apparu dans les années 1960, est caractérisé par un rythme syncopé.",
+    "imageUrl": "https://images.unsplash.com/photo-1722841549679-e9f77fb291d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Le Sacre du printemps' en 1913 ?",
+    "correct_answer": "Igor Stravinsky",
+    "incorrect_answers": [
+      "Sergeï Prokofiev",
+      "Dmitri Chostakovitch",
+      "Aram Khatchatourian"
+    ],
+    "explanation": "Cette œuvre pour ballet a provoqué un scandale lors de sa création.",
+    "imageUrl": "https://images.unsplash.com/photo-1617544558413-b89365e03fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au centre de la musique country américaine ?",
     "correct_answer": "Banjo",
     "incorrect_answers": [
-      "Violon",
-      "Guitare électrique",
-      "Piano"
+      "Harmonica",
+      "Fiddle",
+      "Guitare pedal steel"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1617544558413-b89365e03fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le banjo, d'origine africaine, est un symbole du bluegrass et de la country.",
+    "imageUrl": "https://images.unsplash.com/photo-1745328599222-30aea1a00ab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a popularisé le 'punk rock' dans les années 1970 ?",
+    "correct_answer": "The Ramones",
+    "incorrect_answers": [
+      "The Clash",
+      "Sex Pistols",
+      "The Stooges"
+    ],
+    "explanation": "Les Ramones ont défini le son minimaliste et énergique du punk rock.",
+    "imageUrl": "https://images.unsplash.com/photo-1577042816206-2e85c23f2392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Carmen' en 1875 ?",
+    "correct_answer": "Georges Bizet",
+    "incorrect_answers": [
+      "Jacques Offenbach",
+      "Charles Gounod",
+      "Jules Massenet"
+    ],
+    "explanation": "Cet opéra-comique est basé sur une nouvelle de Prosper Mérimée.",
+    "imageUrl": "https://images.unsplash.com/photo-1730098482564-259a89064e47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est traditionnellement joué avec un 'didgeridoo' ?",
+    "correct_answer": "Aborigène australien",
+    "incorrect_answers": [
+      "Maori",
+      "Inuit",
+      "Amérindien"
+    ],
+    "explanation": "Le didgeridoo est un instrument à vent utilisé par les Aborigènes d'Australie depuis des millénaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est né à La Nouvelle-Orléans et combine blues, ragtime et musique classique ?",
+    "correct_answer": "Jazz",
+    "incorrect_answers": [
+      "Blues",
+      "Ragtime",
+      "Gospel"
+    ],
+    "explanation": "Le jazz est né au début du XXe siècle dans les quartiers afro-américains de La Nouvelle-Orléans.",
+    "imageUrl": "https://images.unsplash.com/photo-1594916211506-c6079cc3b26d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Les Quatre Saisons' au XVIIIe siècle ?",
+    "correct_answer": "Antonio Vivaldi",
+    "incorrect_answers": [
+      "Georg Friedrich Haendel",
+      "Johann Sebastian Bach",
+      "Henry Purcell"
+    ],
+    "explanation": "Cette série de quatre concertos pour violon évoque chaque saison de l'année.",
+    "imageUrl": "https://images.unsplash.com/photo-1730096684413-bde1d62cbdc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au centre de la musique classique japonaise ?",
+    "correct_answer": "Koto",
+    "incorrect_answers": [
+      "Shakuhachi",
+      "Biwa",
+      "Taiko"
+    ],
+    "explanation": "Le koto est un instrument à cordes pincées traditionnel japonais, souvent joué avec des plectres.",
+    "imageUrl": "https://images.unsplash.com/photo-1601333057494-d20abe2098cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'Led Zeppelin IV' en 1971 ?",
+    "correct_answer": "Led Zeppelin",
+    "incorrect_answers": [
+      "Black Sabbath",
+      "Deep Purple",
+      "Cream"
+    ],
+    "explanation": "Cet album contient des titres emblématiques comme 'Stairway to Heaven'.",
+    "imageUrl": "https://images.unsplash.com/photo-1639600312933-99347be81372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'La Symphonie du Nouveau Monde' en 1893 ?",
+    "correct_answer": "Antonín Dvořák",
+    "incorrect_answers": [
+      "Bedřich Smetana",
+      "Leoš Janáček",
+      "Piotr Ilitch Tchaïkovski"
+    ],
+    "explanation": "Cette symphonie s'inspire des mélodies et rythmes américains.",
+    "imageUrl": "https://images.unsplash.com/photo-1511220043390-e929fe0edf55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est traditionnellement joué avec un 'sitar' en Inde ?",
+    "correct_answer": "Tabla",
+    "incorrect_answers": [
+      "Mridangam",
+      "Dholak",
+      "Pakhavaj"
+    ],
+    "explanation": "Le tabla est un ensemble de deux tambours utilisé pour accompagner le sitar.",
+    "imageUrl": "https://images.unsplash.com/photo-1722505531131-5d9c4871dc46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est né dans les années 1950 aux États-Unis et combine gospel, R&B et country ?",
+    "correct_answer": "Rock 'n' roll",
+    "incorrect_answers": [
+      "Soul",
+      "Funk",
+      "Disco"
+    ],
+    "explanation": "Le rock 'n' roll a été popularisé par des artistes comme Elvis Presley et Chuck Berry.",
+    "imageUrl": "https://images.unsplash.com/photo-1574805950011-8cdf615261b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au centre de la musique traditionnelle turque ?",
+    "correct_answer": "Oud",
+    "incorrect_answers": [
+      "Saz",
+      "Kanun",
+      "Ney"
+    ],
+    "explanation": "L'oud est un luth sans frettes, emblématique de la musique arabe et turque.",
+    "imageUrl": "https://images.unsplash.com/photo-1636367581920-d3468e1d220a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a popularisé le 'heavy metal' dans les années 1970 ?",
+    "correct_answer": "Black Sabbath",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "Deep Purple",
+      "Judas Priest"
+    ],
+    "explanation": "Black Sabbath a défini le son lourd et sombre du heavy metal.",
+    "imageUrl": "https://images.unsplash.com/photo-1740708191679-422023b9ca2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Le Requiem allemand' en 1868 ?",
+    "correct_answer": "Johannes Brahms",
+    "incorrect_answers": [
+      "Anton Bruckner",
+      "Gustav Mahler",
+      "Robert Schumann"
+    ],
+    "explanation": "Cette œuvre chorale est l'un des requiems les plus célèbres de la musique classique.",
+    "imageUrl": "https://images.unsplash.com/photo-1714589334427-fb015b709c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est traditionnellement joué avec un 'balafon' ?",
+    "correct_answer": "Xylophone africain",
+    "incorrect_answers": [
+      "Marimba",
+      "Vibraphone",
+      "Glockenspiel"
+    ],
+    "explanation": "Le balafon est un instrument à percussion d'Afrique de l'Ouest, souvent en bois.",
+    "imageUrl": "https://images.unsplash.com/photo-1601333057443-bc2b6e684bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est né dans les années 1980 et combine électro et funk ?",
+    "correct_answer": "House",
+    "incorrect_answers": [
+      "Techno",
+      "Trance",
+      "Dubstep"
+    ],
+    "explanation": "La house est née à Chicago et est caractérisée par un rythme répétitif en 4/4.",
+    "imageUrl": "https://images.unsplash.com/photo-1678123650479-e70cf32d5a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Le Clavier bien tempéré' au XVIIe siècle ?",
+    "correct_answer": "Johann Sebastian Bach",
+    "incorrect_answers": [
+      "Georg Friedrich Haendel",
+      "Henry Purcell",
+      "Dietrich Buxtehude"
+    ],
+    "explanation": "Cette œuvre pour clavecin comprend 48 préludes et fugues dans toutes les tonalités.",
+    "imageUrl": "https://images.unsplash.com/photo-1629276301581-a04e16fc0c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au centre de la musique traditionnelle chinoise ?",
+    "correct_answer": "Guqin",
+    "incorrect_answers": [
+      "Erhu",
+      "Pipa",
+      "Dizi"
+    ],
+    "explanation": "Le guqin est un instrument à cordes pincées, symbole de la culture chinoise.",
+    "imageUrl": "https://images.unsplash.com/photo-1699521376679-673b26212aa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel groupe a sorti l'album 'Nevermind' en 1991 ?",
@@ -207,356 +458,139 @@
       "Soundgarden",
       "Alice in Chains"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1729655917669-829f93cd8ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album a popularisé le grunge et marqué la culture musicale des années 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1685672275928-062f46c86c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur est célèbre pour ses 'Quatre Saisons' ?",
-    "correct_answer": "Antonio Vivaldi",
+    "question": "Quel compositeur a écrit 'La Damnation de Faust' en 1846 ?",
+    "correct_answer": "Hector Berlioz",
     "incorrect_answers": [
-      "Johann Sebastian Bach",
-      "Georg Friedrich Haendel",
-      "Henry Purcell"
+      "Giuseppe Verdi",
+      "Gioachino Rossini",
+      "Gaetano Donizetti"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1613412140788-9ed674d57c41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette œuvre lyrique est basée sur le 'Faust' de Goethe.",
+    "imageUrl": "https://images.unsplash.com/photo-1681149342107-b39e06d03f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est traditionnellement associé à la musique celtique ?",
-    "correct_answer": "Cornemuse",
+    "question": "Quel genre musical est né dans les années 1970 et combine funk, soul et disco ?",
+    "correct_answer": "Funk",
     "incorrect_answers": [
-      "Violon",
-      "Flûte",
-      "Harpe"
+      "Soul",
+      "Disco",
+      "R&B"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1523174802553-10fd69b213ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le funk, popularisé par James Brown, est caractérisé par des rythmes syncopés.",
+    "imageUrl": "https://images.unsplash.com/photo-1671079654265-72bb8e210856?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel artiste est connu pour son album 'The Wall' sorti en 1979 ?",
-    "correct_answer": "Pink Floyd",
-    "incorrect_answers": [
-      "Led Zeppelin",
-      "The Who",
-      "Queen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1518251030019-42bb0ce5f409?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est né dans les années 1950 aux États-Unis avec des influences blues et country ?",
-    "correct_answer": "Rock 'n' roll",
-    "incorrect_answers": [
-      "Jazz",
-      "Pop",
-      "Folk"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1745328599222-30aea1a00ab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'La Symphonie du Nouveau Monde' ?",
-    "correct_answer": "Antonín Dvořák",
-    "incorrect_answers": [
-      "Bedřich Smetana",
-      "Leoš Janáček",
-      "Pavel Haas"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1748364372382-02b819c1ce36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a popularisé le mouvement 'hip-hop' dans les années 1980 ?",
-    "correct_answer": "Run-DMC",
-    "incorrect_answers": [
-      "Public Enemy",
-      "N.W.A",
-      "Grandmaster Flash"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1519683384663-c9b34271669a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur est célèbre pour ses 'Danses hongroises' ?",
-    "correct_answer": "Johannes Brahms",
-    "incorrect_answers": [
-      "Robert Schumann",
-      "Franz Schubert",
-      "Felix Mendelssohn"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1685672275928-062f46c86c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est traditionnellement joué dans la musique traditionnelle japonaise ?",
-    "correct_answer": "Koto",
-    "incorrect_answers": [
-      "Violon",
-      "Flûte",
-      "Piano"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730098482564-259a89064e47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste est connu pour son album 'Back in Black' sorti en 1980 ?",
-    "correct_answer": "AC/DC",
-    "incorrect_answers": [
-      "Led Zeppelin",
-      "Black Sabbath",
-      "Deep Purple"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1702385515151-06bf862dc054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est caractérisé par des mélodies vocales complexes et des ornements ?",
-    "correct_answer": "Opera",
-    "incorrect_answers": [
-      "Classique",
-      "Rock",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1571299866831-6bba2904270b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'Le Lac des cygnes' ?",
-    "correct_answer": "Pyotr Ilyich Tchaikovsky",
-    "incorrect_answers": [
-      "Igor Stravinsky",
-      "Sergei Prokofiev",
-      "Dmitri Chostakovitch"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730355893106-f96cb49cf4cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est au centre de la musique bluegrass ?",
-    "correct_answer": "Mandoline",
-    "incorrect_answers": [
-      "Violon",
-      "Guitare électrique",
-      "Banjo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1681149342107-b39e06d03f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a sorti l'album 'Rumours' en 1977 ?",
-    "correct_answer": "Fleetwood Mac",
-    "incorrect_answers": [
-      "The Eagles",
-      "The Rolling Stones",
-      "Led Zeppelin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1699521378273-03d00985e397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur est célèbre pour ses 'Variations Goldberg' ?",
-    "correct_answer": "Johann Sebastian Bach",
+    "question": "Quel compositeur a écrit 'La Truite' en 1817 ?",
+    "correct_answer": "Franz Schubert",
     "incorrect_answers": [
       "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Frédéric Chopin"
+      "Robert Schumann",
+      "Felix Mendelssohn"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1590026821754-7075cf10626e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est traditionnellement associé à la musique traditionnelle irlandaise ?",
-    "correct_answer": "Fiddle",
-    "incorrect_answers": [
-      "Violon",
-      "Flûte",
-      "Harpe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1647524904834-1ed784e73d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste est connu pour son album 'Kind of Blue' sorti en 1959 ?",
-    "correct_answer": "Miles Davis",
-    "incorrect_answers": [
-      "John Coltrane",
-      "Louis Armstrong",
-      "Duke Ellington"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1544427920-c49ccfb85579?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est né dans les années 1970 avec des influences funk et soul ?",
-    "correct_answer": "Disco",
-    "incorrect_answers": [
-      "Rock",
-      "Pop",
-      "Jazz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1563726351554-179049599895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'La Mer' ?",
-    "correct_answer": "Claude Debussy",
-    "incorrect_answers": [
-      "Maurice Ravel",
-      "Igor Stravinsky",
-      "Sergei Rachmaninoff"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1633662589027-35cccbe4e7f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est au centre de la musique traditionnelle africaine ?",
-    "correct_answer": "Djembé",
-    "incorrect_answers": [
-      "Violon",
-      "Flûte",
-      "Piano"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1603212037284-afe470c5fb08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a popularisé le mouvement 'heavy metal' dans les années 1970 ?",
-    "correct_answer": "Black Sabbath",
-    "incorrect_answers": [
-      "Led Zeppelin",
-      "Deep Purple",
-      "Judas Priest"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1527259693341-cbc6f91e4d6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur est célèbre pour ses 'Sonates pour piano' ?",
-    "correct_answer": "Ludwig van Beethoven",
-    "incorrect_answers": [
-      "Wolfgang Amadeus Mozart",
-      "Frédéric Chopin",
-      "Franz Liszt"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1522776203873-e4961ae6e07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est traditionnellement joué dans la musique traditionnelle chinoise ?",
-    "correct_answer": "Guqin",
-    "incorrect_answers": [
-      "Violon",
-      "Flûte",
-      "Piano"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1713592231622-34097be8e1e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel artiste est connu pour son album 'Born to Run' sorti en 1975 ?",
-    "correct_answer": "Bruce Springsteen",
-    "incorrect_answers": [
-      "Bob Dylan",
-      "Neil Young",
-      "Tom Petty"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595775948902-f04682c9e588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est caractérisé par des rythmes rapides et des guitares électriques ?",
-    "correct_answer": "Metal",
-    "incorrect_answers": [
-      "Rock",
-      "Pop",
-      "Jazz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1639600312933-99347be81372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'L'Opéra de quat'sous' ?",
-    "correct_answer": "Kurt Weill",
-    "incorrect_answers": [
-      "Richard Wagner",
-      "Giuseppe Verdi",
-      "Jacques Offenbach"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1512404871764-1cf03a297841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette œuvre pour piano et quintette à cordes s'inspire d'un poème de Schubart.",
+    "imageUrl": "https://images.unsplash.com/photo-1702385515151-06bf862dc054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel instrument est au centre de la musique traditionnelle brésilienne ?",
     "correct_answer": "Cavaquinho",
     "incorrect_answers": [
-      "Violon",
-      "Flûte",
-      "Piano"
+      "Berimbau",
+      "Pandeiro",
+      "Agogô"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1601333057494-d20abe2098cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le cavaquinho est un petit instrument à cordes pincées, ancêtre du ukulélé.",
+    "imageUrl": "https://images.unsplash.com/photo-1598515750914-e4d9c650b68b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a popularisé le 'rock progressif' dans les années 1970 ?",
+    "correct_answer": "Pink Floyd",
+    "incorrect_answers": [
+      "Yes",
+      "Genesis",
+      "King Crimson"
+    ],
+    "explanation": "Pink Floyd a marqué le rock progressif avec des albums conceptuels comme 'The Wall'.",
+    "imageUrl": "https://images.unsplash.com/photo-1730098106588-3629086606ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Le Carnaval des animaux' en 1886 ?",
+    "correct_answer": "Camille Saint-Saëns",
+    "incorrect_answers": [
+      "Georges Bizet",
+      "Gabriel Fauré",
+      "Maurice Ravel"
+    ],
+    "explanation": "Cette suite humoristique pour orchestre parodie différents styles musicaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1699521378273-03d00985e397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est né dans les années 1990 et combine hip-hop et électro ?",
+    "correct_answer": "Trip-hop",
+    "incorrect_answers": [
+      "Dubstep",
+      "Techno",
+      "House"
+    ],
+    "explanation": "Le trip-hop, né à Bristol, est caractérisé par des beats lents et des ambiances sombres.",
+    "imageUrl": "https://images.unsplash.com/photo-1523174802553-10fd69b213ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Le Lac des cygnes' ?",
+    "correct_answer": "Piotr Ilitch Tchaïkovski",
+    "incorrect_answers": [
+      "Modeste Moussorgski",
+      "Nikolaï Rimski-Korsakov",
+      "Alexandre Borodine"
+    ],
+    "explanation": "Ce ballet romantique raconte l'histoire d'un prince ensorcelé par un cygne.",
+    "imageUrl": "https://images.unsplash.com/photo-1595775948902-f04682c9e588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au centre de la musique traditionnelle grecque ?",
+    "correct_answer": "Bouzouki",
+    "incorrect_answers": [
+      "Santouri",
+      "Oud",
+      "Lyra"
+    ],
+    "explanation": "Le bouzouki est un luth à cordes pincées, symbole de la musique rebetiko.",
+    "imageUrl": "https://images.unsplash.com/photo-1729655917669-829f93cd8ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel groupe a sorti l'album 'The Joshua Tree' en 1987 ?",
     "correct_answer": "U2",
     "incorrect_answers": [
       "The Police",
-      "The Cure",
-      "R.E.M."
+      "Dire Straits",
+      "Simple Minds"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1699521376679-673b26212aa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album a marqué l'apogée de la carrière de U2 avec des titres comme 'With or Without You'.",
+    "imageUrl": "https://images.unsplash.com/photo-1650894752177-98176bf167ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur est célèbre pour ses 'Concertos pour piano' ?",
-    "correct_answer": "Sergei Rachmaninoff",
+    "question": "Quel compositeur a écrit 'La Valse' en 1920 ?",
+    "correct_answer": "Maurice Ravel",
     "incorrect_answers": [
-      "Pyotr Ilyich Tchaikovsky",
-      "Dmitri Chostakovitch",
-      "Igor Stravinsky"
+      "Igor Stravinsky",
+      "Sergeï Prokofiev",
+      "Francis Poulenc"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1581663838011-fdc391797402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette valse pour orchestre est une parodie des valses viennoises traditionnelles.",
+    "imageUrl": "https://images.unsplash.com/photo-1709495596309-4e60d817ae3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est traditionnellement associé à la musique traditionnelle grecque ?",
-    "correct_answer": "Bouzouki",
+    "question": "Quel genre musical est né dans les années 1950 et combine blues, country et R&B ?",
+    "correct_answer": "Rock 'n' roll",
     "incorrect_answers": [
-      "Violon",
-      "Flûte",
-      "Piano"
+      "Soul",
+      "Funk",
+      "Disco"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1523451155533-5f6cba1aecee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est né dans les années 1980 avec des influences électroniques ?",
-    "correct_answer": "Techno",
-    "incorrect_answers": [
-      "Rock",
-      "Pop",
-      "Hip-hop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1573057325922-17b61e0dc4d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'Le Sacre du printemps' ?",
-    "correct_answer": "Igor Stravinsky",
-    "incorrect_answers": [
-      "Sergei Prokofiev",
-      "Dmitri Chostakovitch",
-      "Maurice Ravel"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1594916211506-c6079cc3b26d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est au centre de la musique traditionnelle russe ?",
-    "correct_answer": "Balalaïka",
-    "incorrect_answers": [
-      "Violon",
-      "Flûte",
-      "Piano"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730096684398-01310ecaf6e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a popularisé le mouvement 'indie rock' dans les années 1980 ?",
-    "correct_answer": "The Smiths",
-    "incorrect_answers": [
-      "The Cure",
-      "R.E.M.",
-      "Pixies"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1519139116361-2ea84d04a4aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur est célèbre pour ses 'Symphonies' ?",
-    "correct_answer": "Gustav Mahler",
-    "incorrect_answers": [
-      "Anton Bruckner",
-      "Richard Strauss",
-      "Jean Sibelius"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574805950011-8cdf615261b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est traditionnellement joué dans la musique traditionnelle turque ?",
-    "correct_answer": "Saz",
-    "incorrect_answers": [
-      "Violon",
-      "Flûte",
-      "Piano"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1416273567255-8abe875affcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le rock 'n' roll a été popularisé par des artistes comme Elvis Presley et Chuck Berry.",
+    "imageUrl": "https://images.unsplash.com/photo-1584535428906-f1d9fd96d45b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

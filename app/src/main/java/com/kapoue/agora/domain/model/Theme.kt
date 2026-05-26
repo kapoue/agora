@@ -72,6 +72,16 @@ enum class Theme(
         unsplashQuery = "vehicles cars transportation",
         placeholderRes = R.drawable.placeholder_vehicules
     ),
+    GASTRONOMIE(
+        displayName = "Gastronomie",
+        unsplashQuery = "gourmet food cuisine chef",
+        placeholderRes = R.drawable.placeholder_gastronomie
+    ),
+    JEUX_VIDEO(
+        displayName = "Jeux vidéo",
+        unsplashQuery = "video games controller gaming",
+        placeholderRes = R.drawable.placeholder_jeux_video
+    ),
     CULTURE_GENERALE(
         displayName = "Culture Générale",
         unsplashQuery = "knowledge culture library",

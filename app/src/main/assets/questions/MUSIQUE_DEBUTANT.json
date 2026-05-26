@@ -1,552 +1,607 @@
 [
   {
     "question": "Quel instrument est souvent appelé le 'roi des instruments' ?",
-    "correct_answer": "Le piano",
+    "correct_answer": "L'orgue",
     "incorrect_answers": [
-      "La guitare",
+      "Le piano",
       "Le violon",
-      "La flûte"
+      "La guitare"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1601333057443-bc2b6e684bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'orgue est surnommé ainsi pour sa puissance et sa capacité à imiter d'autres instruments.",
+    "imageUrl": "https://images.unsplash.com/photo-1674474117688-0aa40d5fd11b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe est célèbre pour la chanson 'Bohemian Rhapsody' ?",
-    "correct_answer": "Queen",
-    "incorrect_answers": [
-      "The Beatles",
-      "Pink Floyd",
-      "AC/DC"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1445375011782-2384686778a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzkxMDQxODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'instrument principal de Mozart ?",
-    "correct_answer": "Le piano",
-    "incorrect_answers": [
-      "Le violon",
-      "La trompette",
-      "Le violoncelle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1519139270028-ab664cf42264?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est associé à Elvis Presley ?",
-    "correct_answer": "Rock 'n' roll",
-    "incorrect_answers": [
-      "Jazz",
-      "Classique",
-      "Rap"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1565035010268-a3816f98589a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzkxMDQxODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est joué avec un archet ?",
-    "correct_answer": "Le violon",
-    "incorrect_answers": [
-      "La guitare",
-      "Le saxophone",
-      "Le piano"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1600779547877-be592ef5aad3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' ?",
+    "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' en 1973 ?",
     "correct_answer": "Pink Floyd",
     "incorrect_answers": [
-      "The Rolling Stones",
+      "The Beatles",
       "Led Zeppelin",
-      "The Who"
+      "Queen"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1745328599617-5c9796ca4d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album concept est l'un des plus vendus de l'histoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1730098482564-259a89064e47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est un membre de la famille des cuivres ?",
-    "correct_answer": "La trompette",
+    "question": "Quel instrument est traditionnellement utilisé dans la musique flamenco ?",
+    "correct_answer": "La guitare espagnole",
     "incorrect_answers": [
       "Le violon",
-      "La flûte",
-      "Le xylophone"
+      "Le piano",
+      "Le saxophone"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1633662589027-35cccbe4e7f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La guitare est l'instrument emblématique du flamenco, souvent accompagné de chants et de percussions.",
+    "imageUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzk3OTYxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel chanteur est surnommé 'The King of Pop' ?",
-    "correct_answer": "Michael Jackson",
+    "question": "Quel compositeur a écrit 'La Flûte enchantée' ?",
+    "correct_answer": "Mozart",
     "incorrect_answers": [
-      "Elvis Presley",
-      "Prince",
-      "Freddie Mercury"
+      "Beethoven",
+      "Bach",
+      "Chopin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1611927264378-faced7a32de9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette opéra est l'un des plus célèbres de la période classique.",
+    "imageUrl": "https://images.unsplash.com/photo-1719753458800-c09cfb167ac5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel genre musical est né à La Nouvelle-Orléans ?",
+    "question": "Quel genre musical est né à La Nouvelle-Orléans au début du XXe siècle ?",
     "correct_answer": "Le jazz",
     "incorrect_answers": [
       "Le rock",
-      "La pop",
-      "Le classique"
+      "Le rap",
+      "La pop"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1581663838011-fdc391797402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le jazz est né de la fusion de rythmes africains et de mélodies européennes.",
+    "imageUrl": "https://images.unsplash.com/photo-1613412140788-9ed674d57c41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est un membre de la famille des bois ?",
-    "correct_answer": "La clarinette",
+    "question": "Quel instrument est joué avec un archet et a quatre cordes ?",
+    "correct_answer": "Le violon",
     "incorrect_answers": [
-      "Le piano",
-      "Le violon",
-      "La trompette"
+      "La guitare",
+      "Le violoncelle",
+      "La contrebasse"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1617544558413-b89365e03fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le violon est l'un des instruments les plus anciens et les plus répandus.",
+    "imageUrl": "https://images.unsplash.com/photo-1722505531131-5d9c4871dc46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe a sorti l'album 'Abbey Road' ?",
+    "question": "Quel groupe a popularisé la chanson 'Bohemian Rhapsody' en 1975 ?",
+    "correct_answer": "Queen",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "The Who",
+      "AC/DC"
+    ],
+    "explanation": "Cette chanson est célèbre pour sa structure complexe et ses harmonies vocales.",
+    "imageUrl": "https://images.unsplash.com/photo-1563726351554-179049599895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est souvent utilisé dans la musique country ?",
+    "correct_answer": "Le banjo",
+    "incorrect_answers": [
+      "Le saxophone",
+      "Le piano",
+      "Le synthétiseur"
+    ],
+    "explanation": "Le banjo, avec ses cordes pincées, est un symbole de la musique country.",
+    "imageUrl": "https://images.unsplash.com/photo-1611927264378-faced7a32de9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'La Neuvième Symphonie' ?",
+    "correct_answer": "Beethoven",
+    "incorrect_answers": [
+      "Mozart",
+      "Bach",
+      "Tchaïkovski"
+    ],
+    "explanation": "Cette symphonie est célèbre pour son final 'Ode à la Joie'.",
+    "imageUrl": "https://images.unsplash.com/photo-1603212037284-afe470c5fb08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est associé à Elvis Presley ?",
+    "correct_answer": "Le rock 'n' roll",
+    "incorrect_answers": [
+      "Le jazz",
+      "La pop",
+      "Le blues"
+    ],
+    "explanation": "Elvis Presley est souvent considéré comme le 'roi du rock 'n' roll'.",
+    "imageUrl": "https://images.unsplash.com/photo-1714589334427-fb015b709c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est joué avec les mains et produit des sons en vibrant ?",
+    "correct_answer": "Le tambour",
+    "incorrect_answers": [
+      "La flûte",
+      "Le violon",
+      "Le piano"
+    ],
+    "explanation": "Le tambour est un instrument de percussion essentiel dans de nombreux genres musicaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1519139116361-2ea84d04a4aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'Abbey Road' en 1969 ?",
     "correct_answer": "The Beatles",
     "incorrect_answers": [
       "The Rolling Stones",
-      "Queen",
-      "U2"
+      "Led Zeppelin",
+      "Pink Floyd"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1551696785-927d4ac2d35b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzkxMDQxODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album est célèbre pour sa pochette et ses chansons comme 'Here Comes the Sun'.",
+    "imageUrl": "https://images.unsplash.com/photo-1735046287880-fc11ec7da118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est souvent joué avec des baguettes ?",
-    "correct_answer": "La batterie",
-    "incorrect_answers": [
-      "Le piano",
-      "La guitare",
-      "Le violon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel chanteur est connu pour sa voix de ténor et son opéra ?",
-    "correct_answer": "Luciano Pavarotti",
-    "incorrect_answers": [
-      "Elvis Presley",
-      "Michael Jackson",
-      "Freddie Mercury"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1683368392119-96f38e599cea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est associé à Bob Marley ?",
-    "correct_answer": "Reggae",
-    "incorrect_answers": [
-      "Rock",
-      "Pop",
-      "Jazz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1713592231622-34097be8e1e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est un membre de la famille des cordes pincées ?",
-    "correct_answer": "La harpe",
+    "question": "Quel instrument est souvent utilisé dans la musique classique indienne ?",
+    "correct_answer": "Le sitar",
     "incorrect_answers": [
       "Le violon",
-      "Le piano",
-      "Le saxophone"
+      "La guitare",
+      "Le piano"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1522776203873-e4961ae6e07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le sitar est un instrument à cordes pincées emblématique de la musique indienne.",
+    "imageUrl": "https://images.unsplash.com/photo-1639600312933-99347be81372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe a sorti l'album 'Thriller' ?",
-    "correct_answer": "Michael Jackson",
+    "question": "Quel compositeur a écrit 'Le Lac des cygnes' ?",
+    "correct_answer": "Tchaïkovski",
     "incorrect_answers": [
-      "Madonna",
-      "Prince",
-      "Whitney Houston"
+      "Mozart",
+      "Beethoven",
+      "Chopin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1681149342107-b39e06d03f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce ballet est l'un des plus célèbres au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1522776203873-e4961ae6e07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est souvent joué dans les musiques traditionnelles irlandaises ?",
+    "question": "Quel genre musical est associé à Michael Jackson ?",
+    "correct_answer": "La pop",
+    "incorrect_answers": [
+      "Le rock",
+      "Le jazz",
+      "Le rap"
+    ],
+    "explanation": "Michael Jackson est souvent appelé le 'roi de la pop'.",
+    "imageUrl": "https://images.unsplash.com/photo-1546963128-ce695e989bac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est joué en soufflant dans un bec et en appuyant sur des clés ?",
+    "correct_answer": "La clarinette",
+    "incorrect_answers": [
+      "La flûte",
+      "Le saxophone",
+      "Le trombone"
+    ],
+    "explanation": "La clarinette est un instrument à vent en bois, très utilisé en jazz et en musique classique.",
+    "imageUrl": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'The Wall' en 1979 ?",
+    "correct_answer": "Pink Floyd",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "The Beatles",
+      "Queen"
+    ],
+    "explanation": "Cet album concept est l'un des plus vendus de l'histoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1523451155533-5f6cba1aecee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est souvent utilisé dans la musique traditionnelle irlandaise ?",
     "correct_answer": "Le violon",
     "incorrect_answers": [
       "Le piano",
       "La guitare",
       "Le saxophone"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1650894752164-ec6bfdafe4de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le violon est un instrument central dans la musique folk irlandaise.",
+    "imageUrl": "https://images.unsplash.com/photo-1583795311768-2ef98ac78740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel chanteur est connu pour sa chanson 'Like a Rolling Stone' ?",
-    "correct_answer": "Bob Dylan",
+    "question": "Quel compositeur a écrit 'La Traviata' ?",
+    "correct_answer": "Verdi",
     "incorrect_answers": [
-      "Elvis Presley",
-      "John Lennon",
-      "Bruce Springsteen"
+      "Puccini",
+      "Mozart",
+      "Bizet"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1512053459797-38c3a066cabd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzkxMDQxODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet opéra est l'un des plus joués au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1556379118-7034d926d258?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzk3OTYxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel genre musical est associé à Mozart ?",
-    "correct_answer": "Classique",
+    "question": "Quel genre musical est associé à Bob Marley ?",
+    "correct_answer": "Le reggae",
     "incorrect_answers": [
-      "Jazz",
-      "Rock",
-      "Pop"
+      "Le rock",
+      "Le jazz",
+      "Le rap"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1573057325922-17b61e0dc4d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Bob Marley est une icône du reggae, un genre né en Jamaïque.",
+    "imageUrl": "https://images.unsplash.com/photo-1735702518821-152854c0adc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est un membre de la famille des percussions ?",
-    "correct_answer": "Le xylophone",
+    "question": "Quel instrument est joué avec un clavier et des pédales ?",
+    "correct_answer": "L'orgue",
     "incorrect_answers": [
-      "Le violon",
-      "La guitare",
-      "Le piano"
+      "Le piano",
+      "Le synthétiseur",
+      "Le clavecin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1735702518821-152854c0adc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'orgue est un instrument à vent et à clavier, souvent utilisé dans les églises.",
+    "imageUrl": "https://images.unsplash.com/photo-1681149342107-b39e06d03f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe a sorti l'album 'Nevermind' ?",
+    "question": "Quel groupe a sorti l'album 'Nevermind' en 1991 ?",
     "correct_answer": "Nirvana",
     "incorrect_answers": [
       "Pearl Jam",
       "Soundgarden",
       "Alice in Chains"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1730355893106-f96cb49cf4cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album a marqué l'essor du grunge dans les années 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1671079654265-72bb8e210856?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel chanteur est connu pour sa chanson 'Imagine' ?",
-    "correct_answer": "John Lennon",
+    "question": "Quel instrument est souvent utilisé dans la musique traditionnelle japonaise ?",
+    "correct_answer": "Le koto",
     "incorrect_answers": [
-      "Elvis Presley",
-      "Michael Jackson",
-      "Freddie Mercury"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1527606432722-8b1422ce77a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est associé à Beethoven ?",
-    "correct_answer": "Classique",
-    "incorrect_answers": [
-      "Jazz",
-      "Rock",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1567619822659-2094d3ebef04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est souvent joué dans les musiques country ?",
-    "correct_answer": "La guitare",
-    "incorrect_answers": [
-      "Le piano",
       "Le violon",
-      "La trompette"
+      "La guitare",
+      "Le piano"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1519412666065-94acb3f8838f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le koto est un instrument à cordes pincées emblématique de la musique japonaise.",
+    "imageUrl": "https://images.unsplash.com/photo-1577042816206-2e85c23f2392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe a sorti l'album 'The Joshua Tree' ?",
-    "correct_answer": "U2",
+    "question": "Quel genre musical est associé à Freddie Mercury ?",
+    "correct_answer": "Le rock",
     "incorrect_answers": [
-      "The Rolling Stones",
-      "Queen",
-      "Pink Floyd"
+      "Le jazz",
+      "La pop",
+      "Le rap"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1671079654265-72bb8e210856?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Freddie Mercury était le chanteur emblématique du groupe Queen.",
+    "imageUrl": "https://images.unsplash.com/photo-1601333057443-bc2b6e684bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel chanteur est connu pour sa chanson 'Billie Jean' ?",
+    "question": "Quel instrument est joué en soufflant dans un bec et en appuyant sur des pistons ?",
+    "correct_answer": "Le cor",
+    "incorrect_answers": [
+      "La flûte",
+      "Le saxophone",
+      "La clarinette"
+    ],
+    "explanation": "Le cor est un instrument à vent en cuivre, souvent utilisé en orchestre.",
+    "imageUrl": "https://images.unsplash.com/photo-1748364372382-02b819c1ce36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
     "correct_answer": "Michael Jackson",
     "incorrect_answers": [
       "Prince",
       "Madonna",
       "Whitney Houston"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1740708191679-422023b9ca2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album est l'un des plus vendus de l'histoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzk3OTYxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel genre musical est associé à Chopin ?",
-    "correct_answer": "Classique",
+    "question": "Quel instrument est souvent utilisé dans la musique traditionnelle brésilienne ?",
+    "correct_answer": "Le cavaquinho",
     "incorrect_answers": [
-      "Jazz",
-      "Rock",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1523451155533-5f6cba1aecee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est souvent joué dans les musiques flamenco ?",
-    "correct_answer": "La guitare",
-    "incorrect_answers": [
-      "Le piano",
       "Le violon",
-      "La trompette"
+      "La guitare",
+      "Le piano"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1519139116361-2ea84d04a4aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le cavaquinho est un petit instrument à cordes pincées, ancêtre de la guitare.",
+    "imageUrl": "https://images.unsplash.com/photo-1629276301581-a04e16fc0c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe a sorti l'album 'Rumours' ?",
+    "question": "Quel compositeur a écrit 'La Mer' ?",
+    "correct_answer": "Debussy",
+    "incorrect_answers": [
+      "Ravel",
+      "Mozart",
+      "Beethoven"
+    ],
+    "explanation": "Cette œuvre orchestrale évoque les paysages marins.",
+    "imageUrl": "https://images.unsplash.com/photo-1445375011782-2384686778a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzk3OTYxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est joué avec des baguettes et produit des sons en vibrant ?",
+    "correct_answer": "Le xylophone",
+    "incorrect_answers": [
+      "La flûte",
+      "Le violon",
+      "Le piano"
+    ],
+    "explanation": "Le xylophone est un instrument de percussion à lames de bois ou de métal.",
+    "imageUrl": "https://images.unsplash.com/photo-1683368392119-96f38e599cea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'Rumours' en 1977 ?",
     "correct_answer": "Fleetwood Mac",
     "incorrect_answers": [
       "The Eagles",
-      "The Rolling Stones",
-      "Led Zeppelin"
+      "ABBA",
+      "The Rolling Stones"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1730098482564-259a89064e47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album est l'un des plus vendus de l'histoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1581663838011-fdc391797402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel chanteur est connu pour sa chanson 'Sweet Child O' Mine' ?",
+    "question": "Quel instrument est souvent utilisé dans la musique traditionnelle africaine ?",
+    "correct_answer": "Le djembé",
+    "incorrect_answers": [
+      "Le violon",
+      "La guitare",
+      "Le piano"
+    ],
+    "explanation": "Le djembé est un tambour en forme de coupe, joué à mains nues.",
+    "imageUrl": "https://images.unsplash.com/photo-1730096684398-01310ecaf6e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Le Boléro' ?",
+    "correct_answer": "Ravel",
+    "incorrect_answers": [
+      "Debussy",
+      "Mozart",
+      "Beethoven"
+    ],
+    "explanation": "Cette œuvre orchestrale est célèbre pour son rythme répétitif.",
+    "imageUrl": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est associé à Bob Dylan ?",
+    "correct_answer": "Le folk",
+    "incorrect_answers": [
+      "Le rock",
+      "Le jazz",
+      "Le rap"
+    ],
+    "explanation": "Bob Dylan est une icône de la musique folk et protestataire.",
+    "imageUrl": "https://images.unsplash.com/photo-1740708191679-422023b9ca2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'Back in Black' en 1980 ?",
+    "correct_answer": "AC/DC",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "Metallica",
+      "Guns N' Roses"
+    ],
+    "explanation": "Cet album est l'un des plus vendus de l'histoire du rock.",
+    "imageUrl": "https://images.unsplash.com/photo-1416273567255-8abe875affcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est souvent utilisé dans la musique traditionnelle grecque ?",
+    "correct_answer": "Le bouzouki",
+    "incorrect_answers": [
+      "Le violon",
+      "La guitare",
+      "Le piano"
+    ],
+    "explanation": "Le bouzouki est un instrument à cordes pincées emblématique de la musique grecque.",
+    "imageUrl": "https://images.unsplash.com/photo-1604514288114-3851479df2f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'La Symphonie fantastique' ?",
+    "correct_answer": "Berlioz",
+    "incorrect_answers": [
+      "Mozart",
+      "Beethoven",
+      "Tchaïkovski"
+    ],
+    "explanation": "Cette symphonie raconte une histoire à travers la musique.",
+    "imageUrl": "https://images.unsplash.com/photo-1512053459797-38c3a066cabd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzk3OTYxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est associé à Madonna ?",
+    "correct_answer": "La pop",
+    "incorrect_answers": [
+      "Le rock",
+      "Le jazz",
+      "Le rap"
+    ],
+    "explanation": "Madonna est souvent appelée la 'reine de la pop'.",
+    "imageUrl": "https://images.unsplash.com/photo-1650894752164-ec6bfdafe4de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est joué avec un clavier et des cordes frappées ?",
+    "correct_answer": "Le piano",
+    "incorrect_answers": [
+      "L'orgue",
+      "Le clavecin",
+      "Le synthétiseur"
+    ],
+    "explanation": "Le piano est l'un des instruments les plus populaires au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1590377894621-65093facaef0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzk3OTYxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'The Joshua Tree' en 1987 ?",
+    "correct_answer": "U2",
+    "incorrect_answers": [
+      "The Police",
+      "Dire Straits",
+      "The Cure"
+    ],
+    "explanation": "Cet album a marqué l'apogée du groupe irlandais.",
+    "imageUrl": "https://images.unsplash.com/photo-1745328597533-3df3e5db2dec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est souvent utilisé dans la musique traditionnelle russe ?",
+    "correct_answer": "La balalaïka",
+    "incorrect_answers": [
+      "Le violon",
+      "La guitare",
+      "Le piano"
+    ],
+    "explanation": "La balalaïka est un instrument à cordes pincées emblématique de la musique russe.",
+    "imageUrl": "https://images.unsplash.com/photo-1633662589027-35cccbe4e7f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'La Valse' ?",
+    "correct_answer": "Ravel",
+    "incorrect_answers": [
+      "Debussy",
+      "Mozart",
+      "Beethoven"
+    ],
+    "explanation": "Cette œuvre orchestrale est célèbre pour son rythme dansant.",
+    "imageUrl": "https://images.unsplash.com/photo-1713592231622-34097be8e1e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est associé à Prince ?",
+    "correct_answer": "Le funk",
+    "incorrect_answers": [
+      "Le rock",
+      "Le jazz",
+      "Le rap"
+    ],
+    "explanation": "Prince a révolutionné le funk avec sa guitare et sa voix.",
+    "imageUrl": "https://images.unsplash.com/photo-1525018923-1ebe8261a6a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzk3OTYxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'Appetite for Destruction' en 1987 ?",
     "correct_answer": "Guns N' Roses",
     "incorrect_answers": [
       "Metallica",
       "AC/DC",
       "Bon Jovi"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1722505531131-5d9c4871dc46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album est l'un des plus vendus de l'histoire du rock.",
+    "imageUrl": "https://images.unsplash.com/photo-1613142659418-718b2ae6940d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel genre musical est associé à Bach ?",
-    "correct_answer": "Classique",
+    "question": "Quel instrument est souvent utilisé dans la musique traditionnelle mexicaine ?",
+    "correct_answer": "La guitare",
     "incorrect_answers": [
-      "Jazz",
-      "Rock",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzkxMDQxODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est souvent joué dans les musiques celtiques ?",
-    "correct_answer": "La cornemuse",
-    "incorrect_answers": [
-      "Le piano",
       "Le violon",
-      "La guitare"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1629276301581-a04e16fc0c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a sorti l'album 'Back in Black' ?",
-    "correct_answer": "AC/DC",
-    "incorrect_answers": [
-      "Led Zeppelin",
-      "The Rolling Stones",
-      "Queen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzkxMDQxODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel chanteur est connu pour sa chanson 'Sweet Caroline' ?",
-    "correct_answer": "Neil Diamond",
-    "incorrect_answers": [
-      "Elvis Presley",
-      "Michael Jackson",
-      "Paul McCartney"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1714589334427-fb015b709c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est associé à Vivaldi ?",
-    "correct_answer": "Classique",
-    "incorrect_answers": [
-      "Jazz",
-      "Rock",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1483069125343-4ef290c07840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est souvent joué dans les musiques brésiliennes ?",
-    "correct_answer": "Le saxophone",
-    "incorrect_answers": [
       "Le piano",
-      "Le violon",
-      "La guitare"
+      "Le saxophone"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1577042816206-2e85c23f2392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La guitare est un instrument central dans la musique mexicaine, comme le mariachi.",
+    "imageUrl": "https://images.unsplash.com/photo-1519139270028-ab664cf42264?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe a sorti l'album 'Hotel California' ?",
+    "question": "Quel compositeur a écrit 'Le Carnaval des animaux' ?",
+    "correct_answer": "Saint-Saëns",
+    "incorrect_answers": [
+      "Debussy",
+      "Ravel",
+      "Mozart"
+    ],
+    "explanation": "Cette œuvre humoristique et légère est l'une des plus jouées.",
+    "imageUrl": "https://images.unsplash.com/photo-1745328599222-30aea1a00ab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est associé à Nirvana ?",
+    "correct_answer": "Le grunge",
+    "incorrect_answers": [
+      "Le rock",
+      "Le punk",
+      "Le metal"
+    ],
+    "explanation": "Nirvana a popularisé le grunge dans les années 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1519412666065-94acb3f8838f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'Hotel California' en 1976 ?",
     "correct_answer": "The Eagles",
     "incorrect_answers": [
       "Fleetwood Mac",
       "The Rolling Stones",
       "Led Zeppelin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1556379118-7034d926d258?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzkxMDQxODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album est l'un des plus vendus de l'histoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1567619822659-2094d3ebef04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel chanteur est connu pour sa chanson 'Hound Dog' ?",
-    "correct_answer": "Elvis Presley",
+    "question": "Quel instrument est souvent utilisé dans la musique traditionnelle chinoise ?",
+    "correct_answer": "Le guzheng",
     "incorrect_answers": [
-      "Chuck Berry",
-      "Little Richard",
-      "Jerry Lee Lewis"
+      "Le violon",
+      "La guitare",
+      "Le piano"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1601333057494-d20abe2098cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le guzheng est un instrument à cordes pincées emblématique de la musique chinoise.",
+    "imageUrl": "https://images.unsplash.com/photo-1699521376679-673b26212aa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel genre musical est associé à Duke Ellington ?",
-    "correct_answer": "Jazz",
+    "question": "Quel compositeur a écrit 'La Moldau' ?",
+    "correct_answer": "Smetana",
     "incorrect_answers": [
-      "Classique",
-      "Rock",
-      "Pop"
+      "Dvořák",
+      "Tchaïkovski",
+      "Beethoven"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1748364372382-02b819c1ce36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette œuvre orchestrale évoque le fleuve Moldau en République tchèque.",
+    "imageUrl": "https://images.unsplash.com/photo-1573057325922-17b61e0dc4d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est souvent joué dans les musiques africaines ?",
-    "correct_answer": "Le djembé",
+    "question": "Quel genre musical est associé à David Bowie ?",
+    "correct_answer": "Le glam rock",
+    "incorrect_answers": [
+      "Le punk",
+      "Le metal",
+      "Le pop"
+    ],
+    "explanation": "David Bowie a révolutionné le glam rock avec son style androgyne.",
+    "imageUrl": "https://images.unsplash.com/photo-1527606432722-8b1422ce77a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe a sorti l'album 'The Bodyguard' en 1992 ?",
+    "correct_answer": "Whitney Houston",
+    "incorrect_answers": [
+      "Madonna",
+      "Prince",
+      "Michael Jackson"
+    ],
+    "explanation": "Cet album contient la célèbre chanson 'I Will Always Love You'.",
+    "imageUrl": "https://images.unsplash.com/photo-1551696785-927d4ac2d35b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3Nzk3OTYxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est souvent utilisé dans la musique traditionnelle turque ?",
+    "correct_answer": "Le saz",
+    "incorrect_answers": [
+      "Le violon",
+      "La guitare",
+      "Le piano"
+    ],
+    "explanation": "Le saz est un instrument à cordes pincées emblématique de la musique turque.",
+    "imageUrl": "https://images.unsplash.com/photo-1745328599617-5c9796ca4d71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur a écrit 'Le Sacre du printemps' ?",
+    "correct_answer": "Stravinsky",
+    "incorrect_answers": [
+      "Debussy",
+      "Ravel",
+      "Mozart"
+    ],
+    "explanation": "Cette œuvre orchestrale a provoqué un scandale à sa création.",
+    "imageUrl": "https://images.unsplash.com/photo-1600779547877-be592ef5aad3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel genre musical est associé à Beyoncé ?",
+    "correct_answer": "La R&B",
+    "incorrect_answers": [
+      "Le rock",
+      "Le jazz",
+      "Le rap"
+    ],
+    "explanation": "Beyoncé est une icône de la musique R&B et pop.",
+    "imageUrl": "https://images.unsplash.com/photo-1730355893106-f96cb49cf4cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est joué avec un clavier et des cordes pincées ?",
+    "correct_answer": "Le clavecin",
     "incorrect_answers": [
       "Le piano",
-      "Le violon",
-      "La guitare"
+      "L'orgue",
+      "Le synthétiseur"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1613142659418-718b2ae6940d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a sorti l'album 'Led Zeppelin IV' ?",
-    "correct_answer": "Led Zeppelin",
-    "incorrect_answers": [
-      "The Rolling Stones",
-      "Pink Floyd",
-      "Queen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730096684398-01310ecaf6e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel chanteur est connu pour sa chanson 'What a Wonderful World' ?",
-    "correct_answer": "Louis Armstrong",
-    "incorrect_answers": [
-      "Frank Sinatra",
-      "Bing Crosby",
-      "Dean Martin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1613412140788-9ed674d57c41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est associé à Miles Davis ?",
-    "correct_answer": "Jazz",
-    "incorrect_answers": [
-      "Classique",
-      "Rock",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1525018923-1ebe8261a6a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzkxMDQxODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est souvent joué dans les musiques indiennes ?",
-    "correct_answer": "Le sitar",
-    "incorrect_answers": [
-      "Le piano",
-      "Le violon",
-      "La guitare"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1546963128-ce695e989bac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a sorti l'album 'The Wall' ?",
-    "correct_answer": "Pink Floyd",
-    "incorrect_answers": [
-      "The Rolling Stones",
-      "Queen",
-      "Led Zeppelin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1511220043390-e929fe0edf55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel chanteur est connu pour sa chanson 'Fly Me to the Moon' ?",
-    "correct_answer": "Frank Sinatra",
-    "incorrect_answers": [
-      "Tony Bennett",
-      "Dean Martin",
-      "Bing Crosby"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1674474117688-0aa40d5fd11b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est associé à Chuck Berry ?",
-    "correct_answer": "Rock 'n' roll",
-    "incorrect_answers": [
-      "Jazz",
-      "Classique",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583470037890-73cc6850b7eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est souvent joué dans les musiques japonaises traditionnelles ?",
-    "correct_answer": "Le koto",
-    "incorrect_answers": [
-      "Le piano",
-      "Le violon",
-      "La guitare"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590377894621-65093facaef0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxtdXNpYyUyMGluc3RydW1lbnRzJTIwY29uY2VydHxlbnwwfHx8fDE3NzkxMDQxODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a sorti l'album 'Appetite for Destruction' ?",
-    "correct_answer": "Guns N' Roses",
-    "incorrect_answers": [
-      "Metallica",
-      "AC/DC",
-      "Bon Jovi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1699521376679-673b26212aa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel chanteur est connu pour sa chanson 'My Way' ?",
-    "correct_answer": "Frank Sinatra",
-    "incorrect_answers": [
-      "Elvis Presley",
-      "Michael Jackson",
-      "Freddie Mercury"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1604514288114-3851479df2f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est associé à Ray Charles ?",
-    "correct_answer": "Soul",
-    "incorrect_answers": [
-      "Jazz",
-      "Rock",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1603212037284-afe470c5fb08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est souvent joué dans les musiques moyen-orientales ?",
-    "correct_answer": "Le oud",
-    "incorrect_answers": [
-      "Le piano",
-      "Le violon",
-      "La guitare"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1735046287880-fc11ec7da118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a sorti l'album 'Master of Puppets' ?",
-    "correct_answer": "Metallica",
-    "incorrect_answers": [
-      "Slayer",
-      "Megadeth",
-      "Anthrax"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583795311768-2ef98ac78740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel chanteur est connu pour sa chanson 'Stand By Me' ?",
-    "correct_answer": "Ben E. King",
-    "incorrect_answers": [
-      "Sam Cooke",
-      "Otis Redding",
-      "Marvin Gaye"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1639600312933-99347be81372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel genre musical est associé à Aretha Franklin ?",
-    "correct_answer": "Soul",
-    "incorrect_answers": [
-      "Jazz",
-      "Rock",
-      "Pop"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1526749464606-83091e34a261?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le clavecin était l'instrument à clavier dominant avant le piano.",
+    "imageUrl": "https://images.unsplash.com/photo-1601333057494-d20abe2098cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

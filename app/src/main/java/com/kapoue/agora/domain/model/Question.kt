@@ -10,5 +10,6 @@ data class Question(
     val imageUrl: String? = null,
     val unsplashQuery: String,
     val isAnsweredCorrectly: Boolean = false,
-    val positionInPool: Int = 0
+    val positionInPool: Int = 0,
+    val explanation: String? = null
 )

@@ -1,113 +1,322 @@
 [
   {
     "question": "Quel gaz les plantes absorbent-elles principalement lors de la photosynthèse ?",
-    "correct_answer": "Le dioxyde de carbone",
+    "correct_answer": "Dioxyde de carbone",
     "incorrect_answers": [
-      "L'oxygène",
-      "L'azote",
-      "L'hydrogène"
+      "Oxygène",
+      "Azote",
+      "Hydrogène"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625794877-b808168ba474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les plantes utilisent le CO2 de l'air pour produire de l'oxygène et du glucose.",
+    "imageUrl": "https://images.unsplash.com/photo-1644335364747-2981be9b5e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'organe principal de la respiration chez l'être humain ?",
+    "question": "Quel est l'organe principal du système respiratoire humain ?",
     "correct_answer": "Les poumons",
     "incorrect_answers": [
       "Le cœur",
       "Le foie",
       "Les reins"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364661-e83f9eca34f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les poumons permettent les échanges gazeux entre l'air et le sang.",
+    "imageUrl": "https://images.unsplash.com/photo-1556201977-1df3c782a58e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le plus grand océan de la Terre ?",
-    "correct_answer": "L'océan Pacifique",
-    "incorrect_answers": [
-      "L'océan Atlantique",
-      "L'océan Indien",
-      "L'océan Arctique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928261664-bfcf023fbc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le symbole chimique de l'or ?",
-    "correct_answer": "Au",
-    "incorrect_answers": [
-      "Ag",
-      "Fe",
-      "Cu"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625768411-6b6d5493fd86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel phénomène naturel est responsable des marées ?",
-    "correct_answer": "L'attraction de la Lune",
+    "question": "Quel phénomène naturel est responsable des marées océaniques ?",
+    "correct_answer": "L'attraction gravitationnelle de la Lune",
     "incorrect_answers": [
       "Le vent",
-      "Les courants marins",
-      "La rotation de la Terre"
+      "Le soleil",
+      "Les courants marins"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625720564-bc9ce18936b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Lune attire l'eau des océans, créant des marées hautes et basses.",
+    "imageUrl": "https://images.unsplash.com/photo-1648547019367-ec8d5ebbf94c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la couche protectrice de l'atmosphère qui bloque les rayons UV nocifs ?",
+    "question": "Quel est le nom de la plus grande planète du système solaire ?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": [
+      "Saturne",
+      "Mars",
+      "Vénus"
+    ],
+    "explanation": "Jupiter est une géante gazeuse, 11 fois plus large que la Terre.",
+    "imageUrl": "https://images.unsplash.com/photo-1603895544146-3b0636f1348f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel élément chimique a pour symbole 'O' ?",
+    "correct_answer": "Oxygène",
+    "incorrect_answers": [
+      "Or",
+      "Osmium",
+      "Oganesson"
+    ],
+    "explanation": "L'oxygène est essentiel à la respiration et à la combustion.",
+    "imageUrl": "https://images.unsplash.com/photo-1742137587486-fdef8cdd25bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel un liquide se transforme en gaz ?",
+    "correct_answer": "Évaporation",
+    "incorrect_answers": [
+      "Condensation",
+      "Sublimation",
+      "Fusion"
+    ],
+    "explanation": "L'évaporation se produit quand un liquide atteint son point d'ébullition.",
+    "imageUrl": "https://images.unsplash.com/photo-1760738999560-bcb2a000938a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel scientifique a découvert la gravité en observant une pomme ?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": [
+      "Albert Einstein",
+      "Galilée",
+      "Charles Darwin"
+    ],
+    "explanation": "Newton a formulé la loi de la gravitation universelle au XVIIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1644335364811-755572c942b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la couche protectrice de la Terre qui bloque les rayons UV ?",
     "correct_answer": "La couche d'ozone",
     "incorrect_answers": [
-      "La troposphère",
+      "L'atmosphère",
       "La stratosphère",
-      "L'ionosphère"
+      "La ionosphère"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928355784-b05f7a78b842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La couche d'ozone absorbe la majorité des rayons ultraviolets nocifs.",
+    "imageUrl": "https://images.unsplash.com/photo-1766713203219-8ca06e1f4db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
-    "correct_answer": "L'hydrogène",
+    "question": "Quel est l'élément le plus abondant dans l'univers ?",
+    "correct_answer": "Hydrogène",
     "incorrect_answers": [
-      "L'hélium",
-      "L'oxygène",
-      "Le carbone"
+      "Hélium",
+      "Oxygène",
+      "Carbone"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1705727210721-961cc64a6895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzkxMDQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'hydrogène représente environ 75% de la masse de l'univers.",
+    "imageUrl": "https://images.unsplash.com/photo-1627907611749-f4d820b77236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes perdent de l'eau par leurs feuilles ?",
-    "correct_answer": "La transpiration",
+    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+    "correct_answer": "Neil Armstrong",
     "incorrect_answers": [
-      "La photosynthèse",
-      "La respiration",
-      "L'évaporation"
+      "Buzz Aldrin",
+      "Yuri Gagarine",
+      "John Glenn"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907683878-519b0297c84c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Neil Armstrong a posé le pied sur la Lune le 21 juillet 1969.",
+    "imageUrl": "https://images.unsplash.com/photo-1644335364668-7b2ca4509c9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la force qui maintient les planètes en orbite autour du Soleil ?",
+    "question": "Quel est le nom du processus par lequel les plantes perdent de l'eau ?",
+    "correct_answer": "Transpiration",
+    "incorrect_answers": [
+      "Photosynthèse",
+      "Respiration",
+      "Germination"
+    ],
+    "explanation": "La transpiration permet aux plantes de réguler leur température.",
+    "imageUrl": "https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la force qui attire les objets vers le centre de la Terre ?",
     "correct_answer": "La gravité",
     "incorrect_answers": [
-      "L'électromagnétisme",
-      "La force nucléaire",
-      "La force centrifuge"
+      "La force centrifuge",
+      "La force électromagnétique",
+      "La poussée d'Archimède"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1583607264434-2d8e199b3a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzkxMDQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La gravité maintient les objets au sol et détermine leur poids.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625823473-5d47615e5312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la première loi de Newton ?",
-    "correct_answer": "Principe d'inertie",
+    "question": "Quel est le nom de la plus petite particule constitutive de la matière ?",
+    "correct_answer": "L'atome",
     "incorrect_answers": [
-      "Principe d'action-réaction",
-      "Principe de relativité",
-      "Principe de conservation de l'énergie"
+      "La molécule",
+      "L'électron",
+      "Le neutron"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618826470964-f6f8b3ae52aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les atomes sont les briques de base de toute matière.",
+    "imageUrl": "https://images.unsplash.com/photo-1618053448748-b7251851d014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzk3OTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du plus grand mammifère terrestre ?",
-    "correct_answer": "L'éléphant d'Afrique",
+    "question": "Quel est le nom du phénomène qui fait que le ciel est bleu ?",
+    "correct_answer": "La diffusion de Rayleigh",
     "incorrect_answers": [
-      "Le rhinocéros",
-      "L'hippopotame",
-      "La girafe"
+      "La réflexion du soleil",
+      "La réfraction",
+      "L'absorption de la lumière"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618053448701-5220304dc9ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzkxMDQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les molécules d'air diffusent davantage la lumière bleue.",
+    "imageUrl": "https://images.unsplash.com/photo-1736710744807-cc278de00afa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la maladie causée par un manque de vitamine C ?",
+    "correct_answer": "Le scorbut",
+    "incorrect_answers": [
+      "Le rachitisme",
+      "Le béribéri",
+      "Le kwashiorkor"
+    ],
+    "explanation": "Le scorbut se manifeste par des saignements des gencives et des douleurs articulaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1627907592593-d4c2884e35f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier satellite artificiel envoyé dans l'espace ?",
+    "correct_answer": "Spoutnik 1",
+    "incorrect_answers": [
+      "Apollo 11",
+      "Voyager 1",
+      "Hubble"
+    ],
+    "explanation": "Spoutnik 1 a été lancé par l'URSS en 1957.",
+    "imageUrl": "https://images.unsplash.com/photo-1618826470964-f6f8b3ae52aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel un solide se transforme en liquide ?",
+    "correct_answer": "La fusion",
+    "incorrect_answers": [
+      "La solidification",
+      "La sublimation",
+      "La condensation"
+    ],
+    "explanation": "La fusion se produit quand un solide atteint son point de fusion.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928299025-47892a76808a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la théorie qui explique l'origine de l'univers ?",
+    "correct_answer": "Le Big Bang",
+    "incorrect_answers": [
+      "La théorie de l'évolution",
+      "La tectonique des plaques",
+      "La relativité générale"
+    ],
+    "explanation": "Le Big Bang décrit l'expansion de l'univers il y a 13,8 milliards d'années.",
+    "imageUrl": "https://images.unsplash.com/photo-1608037222022-62649819f8aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzk3OTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la molécule responsable de la transmission des caractères génétiques ?",
+    "correct_answer": "L'ADN",
+    "incorrect_answers": [
+      "L'ARN",
+      "Les protéines",
+      "Les lipides"
+    ],
+    "explanation": "L'ADN contient l'information génétique sous forme de gènes.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625768411-6b6d5493fd86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du gaz responsable de l'effet de serre le plus présent dans l'atmosphère ?",
+    "correct_answer": "Le dioxyde de carbone",
+    "incorrect_answers": [
+      "Le méthane",
+      "La vapeur d'eau",
+      "L'ozone"
+    ],
+    "explanation": "Le CO2 est le principal gaz à effet de serre d'origine humaine.",
+    "imageUrl": "https://images.unsplash.com/photo-1583607264434-2d8e199b3a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzk3OTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la plus grande forêt tropicale du monde ?",
+    "correct_answer": "L'Amazonie",
+    "incorrect_answers": [
+      "La forêt du Congo",
+      "La taïga",
+      "La forêt boréale"
+    ],
+    "explanation": "L'Amazonie couvre 5,5 millions de km² en Amérique du Sud.",
+    "imageUrl": "https://images.unsplash.com/photo-1552256028-2c58c3cbfa7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier vaccin découvert par Edward Jenner ?",
+    "correct_answer": "Le vaccin contre la variole",
+    "incorrect_answers": [
+      "Le vaccin contre la polio",
+      "Le vaccin contre la grippe",
+      "Le vaccin contre la rage"
+    ],
+    "explanation": "Jenner a utilisé le virus de la vaccine pour immuniser contre la variole.",
+    "imageUrl": "https://images.unsplash.com/photo-1762951317733-9e800909e93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la force qui s'oppose au mouvement d'un objet ?",
+    "correct_answer": "La friction",
+    "incorrect_answers": [
+      "La gravité",
+      "La poussée",
+      "La tension"
+    ],
+    "explanation": "La friction ralentit le mouvement et produit de la chaleur.",
+    "imageUrl": "https://images.unsplash.com/photo-1644335364661-e83f9eca34f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la plus petite unité de vie capable de se reproduire ?",
+    "correct_answer": "La cellule",
+    "incorrect_answers": [
+      "Le gène",
+      "Le chromosome",
+      "L'atome"
+    ],
+    "explanation": "Toutes les formes de vie sont composées de cellules.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928321679-560bb453f190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du phénomène qui fait que les saisons existent ?",
+    "correct_answer": "L'inclinaison de l'axe de la Terre",
+    "incorrect_answers": [
+      "La distance Terre-Soleil",
+      "La rotation de la Terre",
+      "L'orbite elliptique"
+    ],
+    "explanation": "L'axe de la Terre est incliné à 23,5°, créant les saisons.",
+    "imageUrl": "https://images.unsplash.com/photo-1568742280287-3824b9ff7fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier homme à avoir théorisé l'héliocentrisme ?",
+    "correct_answer": "Nicolas Copernic",
+    "incorrect_answers": [
+      "Galilée",
+      "Ptolémée",
+      "Kepler"
+    ],
+    "explanation": "Copernic a proposé que la Terre tourne autour du Soleil au XVIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928261664-bfcf023fbc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la maladie causée par une carence en vitamine D ?",
+    "correct_answer": "Le rachitisme",
+    "incorrect_answers": [
+      "Le scorbut",
+      "Le béribéri",
+      "L'anémie"
+    ],
+    "explanation": "Le rachitisme affaiblit les os et cause des déformations.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928355784-b05f7a78b842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel les plantes produisent de l'oxygène ?",
+    "correct_answer": "La photosynthèse",
+    "incorrect_answers": [
+      "La respiration",
+      "La fermentation",
+      "La transpiration"
+    ],
+    "explanation": "La photosynthèse utilise la lumière du soleil pour produire de l'O2.",
+    "imageUrl": "https://images.unsplash.com/photo-1618053448492-2b629c2c912c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzk3OTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la plus grande chaîne de montagnes sous-marine ?",
+    "correct_answer": "La dorsale médio-atlantique",
+    "incorrect_answers": [
+      "Les Alpes",
+      "L'Himalaya",
+      "Les Andes"
+    ],
+    "explanation": "Cette chaîne s'étend sur 16 000 km sous l'océan Atlantique.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625813046-88415927850c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom de la molécule qui transporte l'oxygène dans le sang ?",
@@ -117,227 +326,217 @@
       "L'insuline",
       "La mélatonine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625748977-43532f7d023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'hémoglobine donne sa couleur rouge au sang.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625720564-bc9ce18936b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du phénomène qui explique pourquoi le ciel est bleu ?",
-    "correct_answer": "La diffusion de Rayleigh",
+    "question": "Quel est le nom du phénomène qui fait que la lumière change de direction en passant d'un milieu à un autre ?",
+    "correct_answer": "La réfraction",
     "incorrect_answers": [
       "La réflexion",
-      "La réfraction",
-      "La diffraction"
+      "La diffraction",
+      "L'interférence"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928299025-47892a76808a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La réfraction explique pourquoi un bâton semble brisé dans l'eau.",
+    "imageUrl": "https://images.unsplash.com/photo-1760960067586-3999b9aae844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'unité de mesure de l'intensité du courant électrique ?",
-    "correct_answer": "L'ampère",
+    "question": "Quel est le nom de la plus grande cellule du corps humain ?",
+    "correct_answer": "L'ovule",
     "incorrect_answers": [
-      "Le volt",
-      "L'ohm",
-      "Le watt"
+      "Le spermatozoïde",
+      "Le neurone",
+      "La cellule musculaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364724-b6b0136e32c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'ovule est visible à l'œil nu, contrairement à la plupart des cellules.",
+    "imageUrl": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzk3OTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la maladie causée par un manque de vitamine C ?",
-    "correct_answer": "Le scorbut",
+    "question": "Quel est le nom du premier élément chimique du tableau périodique ?",
+    "correct_answer": "L'hydrogène",
     "incorrect_answers": [
-      "Le rachitisme",
-      "Le béribéri",
-      "La pellagre"
+      "L'hélium",
+      "L'oxygène",
+      "Le carbone"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1569512756636-2100074a089e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'hydrogène a pour numéro atomique 1 et symbole H.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928333621-949abc1ec6f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du plus grand satellite naturel de la Terre ?",
-    "correct_answer": "La Lune",
+    "question": "Quel est le nom du processus par lequel un gaz se transforme en liquide ?",
+    "correct_answer": "La condensation",
     "incorrect_answers": [
-      "Europe",
-      "Titan",
-      "Ganymède"
+      "L'évaporation",
+      "La sublimation",
+      "La fusion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1727803649916-49969a3bddcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La condensation se produit quand un gaz refroidit et perd de l'énergie.",
+    "imageUrl": "https://images.unsplash.com/photo-1610547939489-73202bc6afda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus qui transforme le raisin en vin ?",
-    "correct_answer": "La fermentation",
+    "question": "Quel est le nom de la théorie qui explique l'évolution des espèces ?",
+    "correct_answer": "La théorie de l'évolution",
     "incorrect_answers": [
-      "La distillation",
-      "La pasteurisation",
-      "La lyophilisation"
+      "La génétique",
+      "La paléontologie",
+      "L'écologie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1608037222022-62649819f8aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzkxMDQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Darwin a proposé cette théorie dans 'De l'origine des espèces'.",
+    "imageUrl": "https://images.unsplash.com/photo-1727803649916-49969a3bddcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la première planète du système solaire en partant du Soleil ?",
-    "correct_answer": "Mercure",
-    "incorrect_answers": [
-      "Vénus",
-      "Mars",
-      "Jupiter"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928374389-6eeee0e5e4ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la substance qui donne sa couleur verte aux feuilles ?",
-    "correct_answer": "La chlorophylle",
-    "incorrect_answers": [
-      "La mélanine",
-      "La carotène",
-      "L'anthocyane"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1552256028-2c58c3cbfa7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du gaz responsable de l'effet de serre le plus important ?",
+    "question": "Quel est le nom du gaz utilisé pour éteindre les incendies ?",
     "correct_answer": "Le dioxyde de carbone",
     "incorrect_answers": [
-      "Le méthane",
-      "Le protoxyde d'azote",
-      "L'ozone"
+      "L'oxygène",
+      "L'azote",
+      "L'hélium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1762951317733-9e800909e93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le CO2 étouffe les flammes en privant le feu d'oxygène.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625721976-3eb0adf3054d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'organe qui produit l'insuline dans le corps humain ?",
+    "question": "Quel est le nom de l'organe qui produit l'insuline ?",
     "correct_answer": "Le pancréas",
     "incorrect_answers": [
       "Le foie",
-      "L'estomac",
-      "Les intestins"
+      "Les reins",
+      "L'estomac"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1570723989345-3a537f60a9c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le pancréas régule la glycémie via l'insuline.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928298849-325cec8771c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la particule subatomique chargée négativement ?",
-    "correct_answer": "L'électron",
+    "question": "Quel est le nom du phénomène qui fait que les objets lourds tombent plus vite que les légers ?",
+    "correct_answer": "Aucun, ils tombent à la même vitesse",
     "incorrect_answers": [
-      "Le proton",
-      "Le neutron",
-      "Le positron"
+      "La gravité est plus forte",
+      "L'air ralentit les objets légers",
+      "La masse influence la chute"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928321679-560bb453f190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Galilée a démontré que tous les objets tombent à la même vitesse en l'absence de résistance de l'air.",
+    "imageUrl": "https://images.unsplash.com/photo-1569512756636-2100074a089e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du plus grand désert chaud du monde ?",
-    "correct_answer": "Le Sahara",
+    "question": "Quel est le nom de l'inventeur de la pile électrique ?",
+    "correct_answer": "Alessandro Volta",
     "incorrect_answers": [
-      "Le désert de Gobi",
-      "Le désert d'Arabie",
-      "Le désert de Kalahari"
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Benjamin Franklin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766713203219-8ca06e1f4db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Volta a créé la première pile en 1800.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625757115-a712ca47a3af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzk3OTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus qui permet aux plantes de produire de l'énergie à partir de la lumière ?",
+    "question": "Quel est le nom de la plus grande espèce de requin ?",
+    "correct_answer": "Le requin-baleine",
+    "incorrect_answers": [
+      "Le grand blanc",
+      "Le requin-tigre",
+      "Le requin-marteau"
+    ],
+    "explanation": "Le requin-baleine peut mesurer jusqu'à 12 mètres de long.",
+    "imageUrl": "https://images.unsplash.com/photo-1705727210721-961cc64a6895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzk3OTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus qui permet aux plantes de convertir la lumière en énergie ?",
     "correct_answer": "La photosynthèse",
     "incorrect_answers": [
       "La respiration",
       "La fermentation",
       "La transpiration"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625823473-5d47615e5312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La photosynthèse produit du glucose et de l'oxygène à partir de CO2 et d'eau.",
+    "imageUrl": "https://images.unsplash.com/photo-1627907683878-519b0297c84c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'unité de mesure de la pression atmosphérique ?",
-    "correct_answer": "L'hectopascal",
-    "incorrect_answers": [
-      "Le newton",
-      "Le joule",
-      "Le watt"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1579256308199-873605ecd436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzkxMDQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la maladie causée par une carence en vitamine D ?",
-    "correct_answer": "Le rachitisme",
+    "question": "Quel est le nom de la maladie causée par une carence en fer ?",
+    "correct_answer": "L'anémie",
     "incorrect_answers": [
       "Le scorbut",
-      "Le béribéri",
-      "La pellagre"
+      "Le rachitisme",
+      "Le béribéri"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625813046-88415927850c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'anémie réduit la capacité du sang à transporter l'oxygène.",
+    "imageUrl": "https://images.unsplash.com/photo-1627907599569-c52ee42afb1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzk3OTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du plus grand fleuve du monde en termes de débit ?",
-    "correct_answer": "L'Amazone",
+    "question": "Quel est le nom du premier animal cloné ?",
+    "correct_answer": "La brebis Dolly",
     "incorrect_answers": [
-      "Le Nil",
-      "Le Mississippi",
-      "Le Yangtsé"
+      "La souris",
+      "Le singe",
+      "Le chien"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1556201977-1df3c782a58e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Dolly a été clonée en 1996 par des scientifiques écossais.",
+    "imageUrl": "https://images.unsplash.com/photo-1566216867955-5b2e8c77e45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la molécule qui compose la majeure partie de l'air que nous respirons ?",
+    "question": "Quel est le nom du gaz qui compose 78% de l'atmosphère terrestre ?",
     "correct_answer": "L'azote",
     "incorrect_answers": [
       "L'oxygène",
       "Le dioxyde de carbone",
       "L'argon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1648547019367-ec8d5ebbf94c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'azote est un gaz inerte essentiel à la vie.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928374389-6eeee0e5e4ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'organe qui filtre le sang dans le corps humain ?",
+    "correct_answer": "Les reins",
+    "incorrect_answers": [
+      "Le foie",
+      "La rate",
+      "Les poumons"
+    ],
+    "explanation": "Les reins éliminent les déchets via l'urine.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625626556-5a77cc63549a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du phénomène qui fait que la lumière blanche se décompose en couleurs ?",
+    "correct_answer": "La dispersion",
+    "incorrect_answers": [
+      "La réflexion",
+      "La réfraction",
+      "La diffraction"
+    ],
+    "explanation": "Un prisme disperse la lumière en un spectre de couleurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928309809-776bf9db8658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom de l'inventeur de la dynamite ?",
     "correct_answer": "Alfred Nobel",
     "incorrect_answers": [
       "Thomas Edison",
-      "Alexander Graham Bell",
-      "Nikola Tesla"
+      "Nikola Tesla",
+      "Alexander Graham Bell"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625721976-3eb0adf3054d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Nobel a inventé la dynamite en 1867 pour des usages civils.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625761425-2ae5c23cf329?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du phénomène qui explique pourquoi un bâton plongé dans l'eau semble brisé ?",
-    "correct_answer": "La réfraction",
+    "question": "Quel est le nom de la plus grande espèce de tortue ?",
+    "correct_answer": "La tortue luth",
     "incorrect_answers": [
-      "La réflexion",
-      "La diffraction",
-      "La diffusion"
+      "La tortue géante",
+      "La tortue marine",
+      "La tortue d'Hermann"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1777631587017-ab434588da3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La tortue luth peut peser jusqu'à 700 kg.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625668608-6e135f415c2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la couche de l'atmosphère où se produisent les phénomènes météorologiques ?",
-    "correct_answer": "La troposphère",
-    "incorrect_answers": [
-      "La stratosphère",
-      "La mésosphère",
-      "La thermosphère"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1736710744807-cc278de00afa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'élément chimique dont le symbole est Fe ?",
-    "correct_answer": "Le fer",
-    "incorrect_answers": [
-      "L'or",
-      "L'argent",
-      "Le cuivre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625761425-2ae5c23cf329?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus qui permet aux cellules de produire de l'énergie ?",
-    "correct_answer": "La respiration cellulaire",
+    "question": "Quel est le nom du processus par lequel les plantes absorbent l'eau du sol ?",
+    "correct_answer": "L'osmose",
     "incorrect_answers": [
       "La photosynthèse",
-      "La fermentation",
-      "La digestion"
+      "La transpiration",
+      "La respiration"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907611749-f4d820b77236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'unité de mesure de la puissance électrique ?",
-    "correct_answer": "Le watt",
-    "incorrect_answers": [
-      "Le volt",
-      "L'ampère",
-      "L'ohm"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625626556-5a77cc63549a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'osmose permet aux racines de puiser l'eau dans le sol.",
+    "imageUrl": "https://images.unsplash.com/photo-1763066472871-a49d025f9f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom de la maladie causée par une carence en iode ?",
@@ -345,69 +544,43 @@
     "incorrect_answers": [
       "Le rachitisme",
       "Le scorbut",
-      "Le béribéri"
+      "L'anémie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1568742280287-3824b9ff7fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le goitre provoque un gonflement de la thyroïde.",
+    "imageUrl": "https://images.unsplash.com/photo-1657269946528-fb9aa16fd925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du plus grand volcan actif du monde ?",
-    "correct_answer": "Le Mauna Loa",
+    "question": "Quel est le nom du premier satellite naturel de la Terre ?",
+    "correct_answer": "La Lune",
     "incorrect_answers": [
-      "Le Vésuve",
-      "Le Fuji",
-      "Le Kilimandjaro"
+      "Europe",
+      "Titan",
+      "Phobos"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928298849-325cec8771c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Lune est le seul satellite naturel de la Terre.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625748977-43532f7d023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la particule subatomique sans charge électrique ?",
-    "correct_answer": "Le neutron",
+    "question": "Quel est le nom de l'élément chimique qui donne sa couleur rouge au sang ?",
+    "correct_answer": "Le fer",
     "incorrect_answers": [
-      "Le proton",
-      "L'électron",
-      "Le positron"
+      "Le cuivre",
+      "Le zinc",
+      "Le magnésium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907592593-d4c2884e35f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le fer est un composant essentiel de l'hémoglobine.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625818238-2169a1a029dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3Nzk3OTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus qui permet aux plantes de perdre de l'eau par leurs feuilles ?",
-    "correct_answer": "La transpiration",
+    "question": "Quel est le nom du phénomène qui fait que les objets semblent plus lourds dans l'eau ?",
+    "correct_answer": "La poussée d'Archimède",
     "incorrect_answers": [
-      "La photosynthèse",
-      "La respiration",
-      "L'évaporation"
+      "La gravité",
+      "La friction",
+      "La tension superficielle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1551811372-3ad1df6d6403?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'unité de mesure de la fréquence ?",
-    "correct_answer": "Le hertz",
-    "incorrect_answers": [
-      "Le newton",
-      "Le joule",
-      "Le watt"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928333621-949abc1ec6f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la maladie causée par une carence en vitamine A ?",
-    "correct_answer": "La cécité nocturne",
-    "incorrect_answers": [
-      "Le rachitisme",
-      "Le scorbut",
-      "Le béribéri"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625668608-6e135f415c2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du plus grand lac d'eau douce du monde ?",
-    "correct_answer": "Le lac Supérieur",
-    "incorrect_answers": [
-      "Le lac Baïkal",
-      "Le lac Victoria",
-      "Le lac Huron"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907599569-c52ee42afb1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La poussée d'Archimède explique pourquoi les objets flottent.",
+    "imageUrl": "https://images.unsplash.com/photo-1570723989345-3a537f60a9c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom de l'inventeur de l'ampoule électrique ?",
@@ -417,127 +590,74 @@
       "Alexander Graham Bell",
       "James Watt"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928309809-776bf9db8658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Edison a commercialisé la première ampoule pratique en 1879.",
+    "imageUrl": "https://images.unsplash.com/photo-1627907629872-e7a331bc4f98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du phénomène qui explique pourquoi un arc-en-ciel apparaît ?",
-    "correct_answer": "La réfraction et la réflexion",
+    "question": "Quel est le nom de la plus grande espèce de papillon ?",
+    "correct_answer": "L'Atlas",
     "incorrect_answers": [
-      "La diffraction",
-      "La diffusion",
-      "La polarisation"
+      "Le Machaon",
+      "Le Monarque",
+      "Le Paon-du-jour"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364668-7b2ca4509c9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Atlas a une envergure pouvant atteindre 30 cm.",
+    "imageUrl": "https://images.unsplash.com/photo-1644335364724-b6b0136e32c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la couche de l'atmosphère où se trouve la couche d'ozone ?",
-    "correct_answer": "La stratosphère",
+    "question": "Quel est le nom du processus par lequel les plantes perdent leurs feuilles en automne ?",
+    "correct_answer": "La sénescence",
     "incorrect_answers": [
-      "La troposphère",
-      "La mésosphère",
-      "La thermosphère"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1657269946528-fb9aa16fd925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'élément chimique dont le symbole est O ?",
-    "correct_answer": "L'oxygène",
-    "incorrect_answers": [
-      "L'or",
-      "L'azote",
-      "L'argon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775148582526-75c707421350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus qui permet aux cellules de se diviser ?",
-    "correct_answer": "La mitose",
-    "incorrect_answers": [
-      "La méiose",
       "La photosynthèse",
-      "La respiration"
+      "La germination",
+      "La floraison"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760960067586-3999b9aae844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La sénescence est la phase de vieillissement des feuilles.",
+    "imageUrl": "https://images.unsplash.com/photo-1775148582526-75c707421350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'unité de mesure de la résistance électrique ?",
-    "correct_answer": "L'ohm",
-    "incorrect_answers": [
-      "Le volt",
-      "L'ampère",
-      "Le watt"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1603895544146-3b0636f1348f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la maladie causée par une carence en vitamine B1 ?",
-    "correct_answer": "Le béribéri",
+    "question": "Quel est le nom de la maladie causée par une carence en vitamine A ?",
+    "correct_answer": "La cécité nocturne",
     "incorrect_answers": [
       "Le rachitisme",
       "Le scorbut",
-      "Le goitre"
+      "L'anémie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627907629872-e7a331bc4f98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La vitamine A est essentielle pour la vision.",
+    "imageUrl": "https://images.unsplash.com/photo-1777631587017-ab434588da3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du plus grand canyon du monde ?",
-    "correct_answer": "Le Grand Canyon",
+    "question": "Quel est le nom du premier animal envoyé dans l'espace ?",
+    "correct_answer": "La chienne Laïka",
     "incorrect_answers": [
-      "Le canyon de Colca",
-      "Le canyon de Fish River",
-      "Le canyon de Copper Canyon"
+      "Le singe Albert",
+      "La souris",
+      "Le chat Félicette"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618053448748-b7251851d014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzkxMDQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Laïka a été envoyée par l'URSS en 1957.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625794877-b808168ba474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la particule subatomique chargée positivement ?",
-    "correct_answer": "Le proton",
+    "question": "Quel est le nom de l'organe qui produit la bile ?",
+    "correct_answer": "Le foie",
     "incorrect_answers": [
-      "L'électron",
-      "Le neutron",
-      "Le positron"
+      "Le pancréas",
+      "La vésicule biliaire",
+      "L'estomac"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625818238-2169a1a029dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le foie produit la bile, stockée dans la vésicule biliaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1551811372-3ad1df6d6403?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus qui permet aux plantes de produire de l'oxygène ?",
-    "correct_answer": "La photosynthèse",
+    "question": "Quel est le nom du phénomène qui fait que les saisons sont inversées entre l'hémisphère nord et sud ?",
+    "correct_answer": "L'inclinaison de l'axe de la Terre",
     "incorrect_answers": [
-      "La respiration",
-      "La fermentation",
-      "La transpiration"
+      "La rotation de la Terre",
+      "La distance Terre-Soleil",
+      "L'orbite elliptique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618053448492-2b629c2c912c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzkxMDQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'unité de mesure de la tension électrique ?",
-    "correct_answer": "Le volt",
-    "incorrect_answers": [
-      "L'ampère",
-      "L'ohm",
-      "Le watt"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364551-978d2d892466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la maladie causée par une carence en vitamine B3 ?",
-    "correct_answer": "La pellagre",
-    "incorrect_answers": [
-      "Le rachitisme",
-      "Le scorbut",
-      "Le goitre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610547939489-73202bc6afda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du plus grand désert froid du monde ?",
-    "correct_answer": "L'Antarctique",
-    "incorrect_answers": [
-      "Le Groenland",
-      "La Sibérie",
-      "Le désert de Gobi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763066472871-a49d025f9f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'inclinaison de 23,5° inverse les saisons selon l'hémisphère.",
+    "imageUrl": "https://images.unsplash.com/photo-1644335364551-978d2d892466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom de l'inventeur du téléphone ?",
@@ -545,58 +665,42 @@
     "incorrect_answers": [
       "Thomas Edison",
       "Nikola Tesla",
-      "James Watt"
+      "Guglielmo Marconi"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364747-2981be9b5e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Bell a breveté le téléphone en 1876.",
+    "imageUrl": null
   },
   {
-    "question": "Quel est le nom du phénomène qui explique pourquoi le soleil semble rouge au coucher ?",
-    "correct_answer": "La diffusion de Rayleigh",
+    "question": "Quel est le nom de la plus grande espèce de serpent ?",
+    "correct_answer": "L'anaconda",
     "incorrect_answers": [
-      "La réflexion",
-      "La réfraction",
-      "La diffraction"
+      "Le python",
+      "Le cobra",
+      "La vipère"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1644335364811-755572c942b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'anaconda peut mesurer jusqu'à 9 mètres de long.",
+    "imageUrl": null
   },
   {
-    "question": "Quel est le nom de la couche de l'atmosphère où se produisent les aurores boréales ?",
-    "correct_answer": "La thermosphère",
+    "question": "Quel est le nom du processus par lequel les plantes produisent des graines ?",
+    "correct_answer": "La pollinisation",
     "incorrect_answers": [
-      "La troposphère",
-      "La stratosphère",
-      "La mésosphère"
+      "La photosynthèse",
+      "La germination",
+      "La floraison"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzkxMDQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La pollinisation permet la reproduction des plantes à fleurs.",
+    "imageUrl": null
   },
   {
-    "question": "Quel est le nom de l'élément chimique dont le symbole est C ?",
-    "correct_answer": "Le carbone",
+    "question": "Quel est le nom de la maladie causée par une carence en vitamine B1 ?",
+    "correct_answer": "Le béribéri",
     "incorrect_answers": [
-      "L'or",
-      "L'oxygène",
-      "L'azote"
+      "Le scorbut",
+      "Le rachitisme",
+      "L'anémie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625757115-a712ca47a3af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMG5hdHVyZXxlbnwwfHx8fDE3NzkxMDQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus qui permet aux cellules de produire des protéines ?",
-    "correct_answer": "La traduction",
-    "incorrect_answers": [
-      "La transcription",
-      "La réplication",
-      "La respiration"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1760738999560-bcb2a000938a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'unité de mesure de l'énergie ?",
-    "correct_answer": "Le joule",
-    "incorrect_answers": [
-      "Le newton",
-      "Le watt",
-      "Le volt"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1566216867955-5b2e8c77e45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le béribéri affecte le système nerveux et le cœur.",
+    "imageUrl": null
   }
 ]

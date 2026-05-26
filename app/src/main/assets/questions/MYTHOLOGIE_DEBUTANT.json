@@ -7,566 +7,667 @@
       "Hadès",
       "Apollon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1720886020293-2b1b8ae7e2ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Zeus est le dieu du ciel et de la foudre, maître de l'Olympe.",
+    "imageUrl": "https://images.unsplash.com/photo-1698424120314-f82cfd4ff092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel dieu romain est l'équivalent de Zeus dans la mythologie grecque ?",
     "correct_answer": "Jupiter",
     "incorrect_answers": [
       "Mars",
-      "Vulcain",
-      "Neptune"
+      "Neptune",
+      "Vulcain"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1748560549566-e70d01cf387d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Jupiter partage les mêmes attributs que Zeus : foudre et pouvoir.",
+    "imageUrl": "https://images.unsplash.com/photo-1738580789782-48d43361e556?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la déesse grecque de la sagesse et de la guerre stratégique ?",
-    "correct_answer": "Athéna",
-    "incorrect_answers": [
-      "Artémis",
-      "Aphrodite",
-      "Héra"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1665003725647-3ae0f01140b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3NzkxMDQyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dieu nordique est associé au marteau Mjöllnir ?",
+    "question": "Quel dieu nordique est associé au tonnerre et à la foudre ?",
     "correct_answer": "Thor",
     "incorrect_answers": [
       "Odin",
       "Loki",
-      "Freyr"
+      "Freyja"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761560673311-609d646f18a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Thor manie Mjöllnir, son marteau légendaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1721249388329-541793a79605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est le dieu égyptien de la mort et de l'au-delà ?",
-    "correct_answer": "Osiris",
+    "question": "Quel animal sacré est associé à la déesse égyptienne Bastet ?",
+    "correct_answer": "Le chat",
     "incorrect_answers": [
-      "Anubis",
-      "Rê",
-      "Thot"
+      "Le crocodile",
+      "Le scarabée",
+      "Le vautour"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1663602908404-0757d94050ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Bastet est souvent représentée sous forme de chat ou accompagnée de chats.",
+    "imageUrl": "https://images.unsplash.com/photo-1587975844577-56dfe5d3fca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3Nzk3OTc4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel héros grec a accompli 12 travaux pour expier un crime ?",
+    "question": "Quel héros grec a accompli 12 travaux pour expier un meurtre ?",
     "correct_answer": "Héraclès",
     "incorrect_answers": [
       "Persée",
       "Thésée",
       "Jason"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1738580789782-48d43361e556?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Héraclès, aussi appelé Hercule, est célèbre pour ses travaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1698424120060-130609a55b38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la déesse romaine de l'amour et de la beauté ?",
-    "correct_answer": "Vénus",
+    "question": "Quel monstre légendaire a une tête de taureau et un corps humain ?",
+    "correct_answer": "Le Minotaure",
     "incorrect_answers": [
-      "Junon",
-      "Minerve",
-      "Cérès"
+      "Le Sphinx",
+      "Le Centaure",
+      "Le Griffon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1660463835177-bc6329055a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Minotaure vivait dans le labyrinthe de Crète.",
+    "imageUrl": "https://images.unsplash.com/photo-1633163893862-4cdc62de7d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel monstre grec a une tête de lion, un corps de chèvre et une queue de serpent ?",
-    "correct_answer": "Chimère",
-    "incorrect_answers": [
-      "Hydre",
-      "Sphinx",
-      "Minotaure"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1707588619156-a3b0f880cadf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le dieu nordique de la mer ?",
-    "correct_answer": "Njord",
-    "incorrect_answers": [
-      "Tyr",
-      "Baldr",
-      "Heimdall"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1698424120314-f82cfd4ff092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dieu égyptien est représenté avec une tête de chacal ?",
+    "question": "Quel dieu égyptien est le guide des morts vers l'au-delà ?",
     "correct_answer": "Anubis",
     "incorrect_answers": [
+      "Osiris",
       "Thot",
-      "Seth",
       "Horus"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1520283451192-c3b05d7db25b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3NzkxMDQyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Anubis pèse le cœur des défunts pour juger leur âme.",
+    "imageUrl": "https://images.unsplash.com/photo-1717539779948-e60a554845bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est le héros grec qui a vaincu le Minotaure ?",
-    "correct_answer": "Thésée",
+    "question": "Quel héros grec a vaincu la Méduse ?",
+    "correct_answer": "Persée",
     "incorrect_answers": [
       "Achille",
       "Ulysse",
-      "Jason"
+      "Héraclès"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721250893606-f0b57578ad13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Persée a utilisé un bouclier poli pour éviter son regard pétrifiant.",
+    "imageUrl": "https://images.unsplash.com/photo-1721248916125-20cda928136f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel dieu romain est le dieu de la guerre ?",
-    "correct_answer": "Mars",
+    "question": "Quel dieu nordique est le père de Thor ?",
+    "correct_answer": "Odin",
     "incorrect_answers": [
-      "Jupiter",
-      "Vulcain",
-      "Mercure"
+      "Loki",
+      "Frey",
+      "Tyr"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721249388329-541793a79605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Odin est le dieu principal de la mythologie nordique.",
+    "imageUrl": "https://images.unsplash.com/photo-1623473729776-beef94d6d80d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la déesse nordique de l'amour et de la beauté ?",
-    "correct_answer": "Freyja",
+    "question": "Quel animal mythologique a des écailles de dragon et des ailes de chauve-souris ?",
+    "correct_answer": "Le dragon",
     "incorrect_answers": [
-      "Sif",
-      "Idunn",
-      "Skadi"
+      "Le phénix",
+      "Le griffon",
+      "L'hydre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1720885631841-6056f488c133?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les dragons sont des créatures communes dans de nombreuses mythologies.",
+    "imageUrl": "https://images.unsplash.com/photo-1585602984858-1823cbd17707?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel monstre grec a plusieurs têtes qui repoussent quand on les coupe ?",
-    "correct_answer": "Hydre de Lerne",
+    "question": "Quel dieu grec est associé au soleil et à la musique ?",
+    "correct_answer": "Apollon",
     "incorrect_answers": [
-      "Cerbère",
-      "Pégase",
-      "Méduse"
+      "Arès",
+      "Dionysos",
+      "Héphaïstos"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1522787345986-d5c7885a889e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Apollon est aussi le dieu de la poésie et de la prophétie.",
+    "imageUrl": "https://images.unsplash.com/photo-1759509334486-3ae81c4dcb01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est le dieu égyptien du soleil ?",
+    "question": "Quel héros grec a navigué avec les Argonautes pour récupérer la Toison d'or ?",
+    "correct_answer": "Jason",
+    "incorrect_answers": [
+      "Thésée",
+      "Ulysse",
+      "Achille"
+    ],
+    "explanation": "Jason a mené l'expédition avec l'aide de Médée.",
+    "imageUrl": "https://images.unsplash.com/photo-1697455621221-75d79317e30b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3Nzk3OTc4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu égyptien est le dieu du soleil ?",
     "correct_answer": "Rê",
     "incorrect_answers": [
       "Osiris",
       "Anubis",
       "Thot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1633163893862-4cdc62de7d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Rê traverse le ciel chaque jour dans sa barque solaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1766590595714-dd679909100d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel héros grec a volé le feu aux dieux pour l'offrir aux humains ?",
-    "correct_answer": "Prométhée",
+    "question": "Quel monstre a plusieurs têtes et repousse quand on les coupe ?",
+    "correct_answer": "L'hydre de Lerne",
     "incorrect_answers": [
-      "Dédale",
-      "Icare",
-      "Jason"
+      "Le Sphinx",
+      "Le Cerbère",
+      "Le Minotaure"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1720885466884-50a731bf66b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Héraclès a tué l'hydre lors de ses travaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1707588619156-a3b0f880cadf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la déesse romaine de la chasse et de la nature ?",
-    "correct_answer": "Diane",
-    "incorrect_answers": [
-      "Minerve",
-      "Junon",
-      "Vesta"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1697455621221-75d79317e30b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3NzkxMDQyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dieu nordique est le dieu de la malice et des farces ?",
-    "correct_answer": "Loki",
-    "incorrect_answers": [
-      "Fenrir",
-      "Jörmungand",
-      "Baldr"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1720886230787-fc7dd69b2af5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est la déesse égyptienne de la magie et de la médecine ?",
-    "correct_answer": "Isis",
-    "incorrect_answers": [
-      "Néphthys",
-      "Sekhmet",
-      "Bastet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1587975844577-56dfe5d3fca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3NzkxMDQyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel héros grec a vaincu la Gorgone Méduse ?",
-    "correct_answer": "Persée",
-    "incorrect_answers": [
-      "Héraclès",
-      "Thésée",
-      "Jason"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1720944207512-60ff9bae9212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le dieu romain du commerce et des voyageurs ?",
-    "correct_answer": "Mercure",
-    "incorrect_answers": [
-      "Neptune",
-      "Pluton",
-      "Bacchus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1717539779948-e60a554845bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel monstre nordique est un serpent géant entourant le monde ?",
-    "correct_answer": "Jörmungand",
-    "incorrect_answers": [
-      "Fenrir",
-      "Sleipnir",
-      "Nidhogg"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129840886-d1ac36090bca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le dieu égyptien du chaos et du désert ?",
-    "correct_answer": "Seth",
-    "incorrect_answers": [
-      "Anubis",
-      "Thot",
-      "Horus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1600807455249-89d2e285b9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel héros grec a navigué vers la Colchide pour récupérer la Toison d'or ?",
-    "correct_answer": "Jason",
-    "incorrect_answers": [
-      "Ulysse",
-      "Achille",
-      "Thésée"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759509334486-3ae81c4dcb01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est la déesse romaine du foyer et de la famille ?",
-    "correct_answer": "Vesta",
-    "incorrect_answers": [
-      "Junon",
-      "Minerve",
-      "Cérès"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1585602984858-1823cbd17707?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dieu nordique est le dieu de la sagesse et de la poésie ?",
-    "correct_answer": "Odin",
-    "incorrect_answers": [
-      "Thor",
-      "Tyr",
-      "Heimdall"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1623473729776-beef94d6d80d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est la déesse égyptienne de la joie et de la danse ?",
-    "correct_answer": "Bastet",
-    "incorrect_answers": [
-      "Hathor",
-      "Sekhmet",
-      "Maât"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1566915947951-80554e585b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel monstre grec a une seule orbite et un seul bras ?",
-    "correct_answer": "Cyclope",
-    "incorrect_answers": [
-      "Géant",
-      "Titan",
-      "Satyre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1502250663587-0437415428a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le dieu romain de la mer ?",
-    "correct_answer": "Neptune",
+    "question": "Quel dieu romain est associé à la guerre ?",
+    "correct_answer": "Mars",
     "incorrect_answers": [
       "Jupiter",
-      "Pluton",
-      "Mars"
+      "Vulcain",
+      "Mercure"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1717518213995-455025e3b0bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Mars est l'équivalent romain d'Arès dans la mythologie grecque.",
+    "imageUrl": "https://images.unsplash.com/photo-1605707141131-aa742dcf4671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel héros grec a vaincu les Amazones ?",
-    "correct_answer": "Achille",
-    "incorrect_answers": [
-      "Héraclès",
-      "Persée",
-      "Jason"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1701690651074-386824b44c47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est la déesse nordique de la fertilité et de la terre ?",
-    "correct_answer": "Sif",
-    "incorrect_answers": [
-      "Freyja",
-      "Idunn",
-      "Skadi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1591700430569-9469d38b1006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le dieu égyptien du ciel et de la royauté ?",
-    "correct_answer": "Horus",
-    "incorrect_answers": [
-      "Rê",
-      "Osiris",
-      "Thot"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619316147539-2bc677fa3c56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel monstre grec a le corps d'un lion et une tête de femme ?",
-    "correct_answer": "Sphinx",
-    "incorrect_answers": [
-      "Harpyie",
-      "Sirène",
-      "Gorgone"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1698424120089-4cd89efe7f26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est la déesse romaine de l'agriculture ?",
-    "correct_answer": "Cérès",
-    "incorrect_answers": [
-      "Vesta",
-      "Junon",
-      "Minerve"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1721250366651-d28946172248?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dieu nordique est le dieu de la justice et du courage ?",
-    "correct_answer": "Tyr",
-    "incorrect_answers": [
-      "Odin",
-      "Thor",
-      "Loki"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1721249726101-3470e42ade38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est la déesse égyptienne de la vérité et de la justice ?",
-    "correct_answer": "Maât",
-    "incorrect_answers": [
-      "Isis",
-      "Hathor",
-      "Sekhmet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1605707141131-aa742dcf4671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel héros grec a combattu le lion de Némée ?",
+    "question": "Quel héros grec a vaincu le lion de Némée ?",
     "correct_answer": "Héraclès",
     "incorrect_answers": [
       "Persée",
       "Thésée",
+      "Achille"
+    ],
+    "explanation": "C'est le premier des douze travaux d'Héraclès.",
+    "imageUrl": "https://images.unsplash.com/photo-1721249238847-79bfa0a382a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu nordique est associé à la sagesse et à la magie ?",
+    "correct_answer": "Odin",
+    "incorrect_answers": [
+      "Thor",
+      "Loki",
+      "Freyja"
+    ],
+    "explanation": "Odin a sacrifié un œil pour boire à la source de Mímir.",
+    "imageUrl": "https://images.unsplash.com/photo-1717518213995-455025e3b0bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal mythologique renaît de ses cendres ?",
+    "correct_answer": "Le phénix",
+    "incorrect_answers": [
+      "Le dragon",
+      "Le griffon",
+      "L'hydre"
+    ],
+    "explanation": "Le phénix symbolise l'immortalité et la renaissance.",
+    "imageUrl": "https://images.unsplash.com/photo-1720944207512-60ff9bae9212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu grec est le dieu de la mer ?",
+    "correct_answer": "Poséidon",
+    "incorrect_answers": [
+      "Zeus",
+      "Hadès",
+      "Apollon"
+    ],
+    "explanation": "Poséidon est aussi associé aux tremblements de terre.",
+    "imageUrl": "https://images.unsplash.com/photo-1502250493741-939d1c76eaad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3Nzk3OTc4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel héros grec a vaincu Pégase ?",
+    "correct_answer": "Bellérophon",
+    "incorrect_answers": [
+      "Persée",
+      "Thésée",
       "Jason"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760020060790-cee38eb8b774?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Bellérophon a dompté Pégase avec l'aide d'Athéna.",
+    "imageUrl": "https://images.unsplash.com/photo-1720886230787-fc7dd69b2af5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est le dieu romain du feu et de la forge ?",
-    "correct_answer": "Vulcain",
-    "incorrect_answers": [
-      "Mars",
-      "Jupiter",
-      "Neptune"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1697455621587-1011833b931c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3NzkxMDQyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel monstre nordique est un loup géant lié au destin des dieux ?",
-    "correct_answer": "Fenrir",
-    "incorrect_answers": [
-      "Jörmungand",
-      "Sleipnir",
-      "Nidhogg"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1664478526776-45a5d3479ffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le dieu égyptien de la lune et de la sagesse ?",
+    "question": "Quel dieu égyptien est le dieu de la sagesse et de l'écriture ?",
     "correct_answer": "Thot",
     "incorrect_answers": [
       "Anubis",
       "Osiris",
       "Horus"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721249238847-79bfa0a382a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Thot est souvent représenté avec une tête d'ibis.",
+    "imageUrl": "https://images.unsplash.com/photo-1720885631841-6056f488c133?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel héros grec a vaincu l'Hydre de Lerne ?",
-    "correct_answer": "Héraclès",
+    "question": "Quel monstre a un corps de lion, une tête d'aigle et des ailes ?",
+    "correct_answer": "Le griffon",
+    "incorrect_answers": [
+      "Le Sphinx",
+      "Le Minotaure",
+      "L'hydre"
+    ],
+    "explanation": "Le griffon est une créature protectrice dans la mythologie grecque.",
+    "imageUrl": "https://images.unsplash.com/photo-1571277165587-440821e848d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3Nzk3OTc4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu romain est associé au commerce et aux voyageurs ?",
+    "correct_answer": "Mercure",
+    "incorrect_answers": [
+      "Neptune",
+      "Vulcain",
+      "Mars"
+    ],
+    "explanation": "Mercure est aussi le messager des dieux.",
+    "imageUrl": "https://images.unsplash.com/photo-1779251248178-3320247719ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel héros grec a vaincu le Cyclope Polyphème ?",
+    "correct_answer": "Ulysse",
+    "incorrect_answers": [
+      "Achille",
+      "Jason",
+      "Persée"
+    ],
+    "explanation": "Ulysse a utilisé un pieu pour aveugler le Cyclope.",
+    "imageUrl": "https://images.unsplash.com/photo-1557062975-96113e46608b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3Nzk3OTc4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu nordique est associé à l'amour et à la beauté ?",
+    "correct_answer": "Freyja",
+    "incorrect_answers": [
+      "Thor",
+      "Loki",
+      "Odin"
+    ],
+    "explanation": "Freyja possède un collier magique appelé Brisingamen.",
+    "imageUrl": "https://images.unsplash.com/photo-1720886020293-2b1b8ae7e2ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal mythologique a une queue de serpent et un corps de lion ?",
+    "correct_answer": "La chimère",
+    "incorrect_answers": [
+      "Le griffon",
+      "Le Sphinx",
+      "L'hydre"
+    ],
+    "explanation": "La chimère crache du feu et a une tête de chèvre.",
+    "imageUrl": "https://images.unsplash.com/photo-1648874356135-abaa7feee51f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu grec est le dieu de la forge et du feu ?",
+    "correct_answer": "Héphaïstos",
+    "incorrect_answers": [
+      "Arès",
+      "Dionysos",
+      "Apollon"
+    ],
+    "explanation": "Héphaïstos est boiteux et fabrique les armes des dieux.",
+    "imageUrl": "https://images.unsplash.com/photo-1664478526776-45a5d3479ffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel héros grec a tué le sanglier de Calydon ?",
+    "correct_answer": "Méléagre",
+    "incorrect_answers": [
+      "Achille",
+      "Jason",
+      "Ulysse"
+    ],
+    "explanation": "Méléagre a organisé une chasse légendaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1529733772151-bab41484710a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3Nzk3OTc4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu égyptien est le dieu de la lune et de la magie ?",
+    "correct_answer": "Thot",
+    "incorrect_answers": [
+      "Anubis",
+      "Osiris",
+      "Horus"
+    ],
+    "explanation": "Thot est aussi le dieu de l'écriture et du calendrier.",
+    "imageUrl": "https://images.unsplash.com/photo-1522787345986-d5c7885a889e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel monstre a le corps d'un cheval et le buste d'un homme ?",
+    "correct_answer": "Le centaure",
+    "incorrect_answers": [
+      "Le Minotaure",
+      "Le Sphinx",
+      "Le Griffon"
+    ],
+    "explanation": "Les centaures sont connus pour leur force et leur sagesse.",
+    "imageUrl": "https://images.unsplash.com/photo-1721249726101-3470e42ade38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu romain est associé à l'amour et à la beauté ?",
+    "correct_answer": "Vénus",
+    "incorrect_answers": [
+      "Juno",
+      "Minerve",
+      "Cérès"
+    ],
+    "explanation": "Vénus est l'équivalent romain d'Aphrodite.",
+    "imageUrl": "https://images.unsplash.com/photo-1720885803550-ff8091728774?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel héros grec a tué la Gorgone Méduse ?",
+    "correct_answer": "Persée",
+    "incorrect_answers": [
+      "Héraclès",
+      "Thésée",
+      "Achille"
+    ],
+    "explanation": "Persée a utilisé un bouclier poli pour éviter son regard.",
+    "imageUrl": "https://images.unsplash.com/photo-1775129840886-d1ac36090bca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu nordique est associé à la justice et au courage ?",
+    "correct_answer": "Tyr",
+    "incorrect_answers": [
+      "Thor",
+      "Odin",
+      "Loki"
+    ],
+    "explanation": "Tyr a sacrifié sa main pour enchaîner le loup Fenrir.",
+    "imageUrl": "https://images.unsplash.com/photo-1678134002838-654e8dcdd6f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal mythologique a une tête de femme et un corps de lion ?",
+    "correct_answer": "Le Sphinx",
+    "incorrect_answers": [
+      "La chimère",
+      "Le Minotaure",
+      "Le Griffon"
+    ],
+    "explanation": "Le Sphinx pose des énigmes aux voyageurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1701690651074-386824b44c47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu grec est le dieu de la guerre ?",
+    "correct_answer": "Arès",
+    "incorrect_answers": [
+      "Zeus",
+      "Poséidon",
+      "Apollon"
+    ],
+    "explanation": "Arès est souvent représenté avec une armure et une lance.",
+    "imageUrl": "https://images.unsplash.com/photo-1665003725647-3ae0f01140b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3Nzk3OTc4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel héros grec a tué le Minotaure ?",
+    "correct_answer": "Thésée",
     "incorrect_answers": [
       "Persée",
-      "Thésée",
-      "Jason"
+      "Jason",
+      "Achille"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1557062975-96113e46608b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3NzkxMDQyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Thésée a utilisé une épée et un fil d'Ariane.",
+    "imageUrl": "https://images.unsplash.com/photo-1761560673311-609d646f18a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la déesse romaine de la victoire ?",
-    "correct_answer": "Victoire",
+    "question": "Quel dieu égyptien est le dieu de la fertilité et de la crue du Nil ?",
+    "correct_answer": "Osiris",
     "incorrect_answers": [
-      "Junon",
-      "Minerve",
-      "Vénus"
+      "Anubis",
+      "Rê",
+      "Thot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1720885803550-ff8091728774?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Osiris est aussi le dieu des morts et de la résurrection.",
+    "imageUrl": "https://images.unsplash.com/photo-1566915947951-80554e585b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel dieu nordique est le dieu de la lumière et du soleil ?",
-    "correct_answer": "Baldr",
+    "question": "Quel monstre a trois têtes de chien et une queue de serpent ?",
+    "correct_answer": "Le Cerbère",
     "incorrect_answers": [
-      "Frey",
-      "Heimdall",
-      "Tyr"
+      "L'hydre",
+      "Le Sphinx",
+      "La chimère"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721248916125-20cda928136f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Cerbère garde l'entrée des Enfers.",
+    "imageUrl": "https://images.unsplash.com/photo-1721250366651-d28946172248?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la déesse égyptienne de l'amour et de la joie ?",
-    "correct_answer": "Hathor",
-    "incorrect_answers": [
-      "Isis",
-      "Bastet",
-      "Sekhmet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1688406265997-77897c1a31d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel monstre grec a des serpents à la place des cheveux ?",
-    "correct_answer": "Méduse",
-    "incorrect_answers": [
-      "Chimère",
-      "Sphinx",
-      "Harpyie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765441863384-0ec468bf161f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le dieu romain des enfers ?",
-    "correct_answer": "Pluton",
+    "question": "Quel dieu romain est associé au vin et aux fêtes ?",
+    "correct_answer": "Bacchus",
     "incorrect_answers": [
       "Jupiter",
       "Neptune",
       "Mars"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1564506761284-733118aa8249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Bacchus est l'équivalent romain de Dionysos.",
+    "imageUrl": "https://images.unsplash.com/photo-1697455621587-1011833b931c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3Nzk3OTc4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel héros grec a navigué pendant 10 ans pour rentrer chez lui ?",
-    "correct_answer": "Ulysse",
+    "question": "Quel héros grec a dompté le cheval Pégase ?",
+    "correct_answer": "Bellérophon",
     "incorrect_answers": [
-      "Jason",
-      "Achille",
-      "Persée"
+      "Persée",
+      "Thésée",
+      "Achille"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1698424120060-130609a55b38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Bellérophon a chevauché Pégase pour tuer la chimère.",
+    "imageUrl": "https://images.unsplash.com/photo-1502250663587-0437415428a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la déesse nordique de la jeunesse et de la beauté ?",
-    "correct_answer": "Idunn",
-    "incorrect_answers": [
-      "Freyja",
-      "Sif",
-      "Skadi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766590595714-dd679909100d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est le dieu égyptien de l'air et du vent ?",
-    "correct_answer": "Shou",
-    "incorrect_answers": [
-      "Rê",
-      "Thot",
-      "Anubis"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1721250150605-6f43bae03fce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel monstre grec a un corps de taureau et une tête d'homme ?",
-    "correct_answer": "Minotaure",
-    "incorrect_answers": [
-      "Centaure",
-      "Satyre",
-      "Géant"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1648874356135-abaa7feee51f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui est la déesse romaine de la guerre ?",
-    "correct_answer": "Bellone",
-    "incorrect_answers": [
-      "Junon",
-      "Minerve",
-      "Vénus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762415796791-039fe54e36b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel dieu nordique est le dieu de la mer et des tempêtes ?",
+    "question": "Quel dieu nordique est associé à la mer et aux tempêtes ?",
     "correct_answer": "Njord",
     "incorrect_answers": [
       "Thor",
       "Odin",
-      "Heimdall"
+      "Loki"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1619239632374-9e6651c2b7bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Njord est aussi le dieu de la pêche et de la richesse.",
+    "imageUrl": "https://images.unsplash.com/photo-1748560549566-e70d01cf387d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est la déesse égyptienne de la musique et de la danse ?",
-    "correct_answer": "Sekhmet",
+    "question": "Quel animal mythologique a une tête de femme et des ailes d'oiseau ?",
+    "correct_answer": "La harpie",
     "incorrect_answers": [
-      "Hathor",
-      "Bastet",
-      "Isis"
+      "Le Sphinx",
+      "Le Griffon",
+      "La chimère"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1502250493741-939d1c76eaad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3NzkxMDQyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les harpies enlèvent les âmes des morts.",
+    "imageUrl": "https://images.unsplash.com/photo-1720885466884-50a731bf66b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel héros grec a volé les pommes d'or du jardin des Hespérides ?",
-    "correct_answer": "Héraclès",
+    "question": "Quel dieu grec est le dieu du commerce et des voyageurs ?",
+    "correct_answer": "Hermès",
     "incorrect_answers": [
+      "Apollon",
+      "Arès",
+      "Dionysos"
+    ],
+    "explanation": "Hermès est aussi le messager des dieux.",
+    "imageUrl": "https://images.unsplash.com/photo-1721250610189-fbbc29b0a7e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel héros grec a accompli un voyage de 10 ans pour rentrer chez lui ?",
+    "correct_answer": "Ulysse",
+    "incorrect_answers": [
+      "Achille",
       "Jason",
-      "Persée",
-      "Thésée"
+      "Persée"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616428090830-59bd09d9f272?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Odyssée raconte son voyage mouvementé.",
+    "imageUrl": "https://images.unsplash.com/photo-1663602908404-0757d94050ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est le dieu romain de l'amour ?",
-    "correct_answer": "Cupidon",
+    "question": "Quel dieu égyptien est le dieu de la magie et de la médecine ?",
+    "correct_answer": "Imhotep",
+    "incorrect_answers": [
+      "Anubis",
+      "Thot",
+      "Horus"
+    ],
+    "explanation": "Imhotep est aussi un architecte célèbre.",
+    "imageUrl": "https://images.unsplash.com/photo-1616428090830-59bd09d9f272?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel monstre a un corps de serpent et une tête de femme ?",
+    "correct_answer": "La Gorgone",
+    "incorrect_answers": [
+      "La harpie",
+      "La chimère",
+      "L'hydre"
+    ],
+    "explanation": "Méduse est la Gorgone la plus connue.",
+    "imageUrl": "https://images.unsplash.com/photo-1564506761284-733118aa8249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu romain est associé au feu et à la forge ?",
+    "correct_answer": "Vulcain",
     "incorrect_answers": [
       "Mars",
       "Jupiter",
       "Neptune"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1740153269287-be16fc7055f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Vulcain est l'équivalent romain d'Héphaïstos.",
+    "imageUrl": "https://images.unsplash.com/photo-1619316147539-2bc677fa3c56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel monstre nordique est un cheval à huit pattes ?",
-    "correct_answer": "Sleipnir",
+    "question": "Quel héros grec a tué le géant Antée ?",
+    "correct_answer": "Héraclès",
     "incorrect_answers": [
-      "Gullinbursti",
-      "Hrímfaxi",
-      "Skinfaxi"
+      "Persée",
+      "Thésée",
+      "Achille"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1571277165587-440821e848d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3NzkxMDQyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Antée puisait sa force en touchant la terre.",
+    "imageUrl": "https://images.unsplash.com/photo-1520283451192-c3b05d7db25b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxteXRob2xvZ3klMjBhbmNpZW50JTIwZ29kcyUyMHRlbXBsZXxlbnwwfHx8fDE3Nzk3OTc4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui est le dieu égyptien de la crue du Nil ?",
-    "correct_answer": "Hâpy",
+    "question": "Quel dieu nordique est associé à la chasse et à la forêt ?",
+    "correct_answer": "Ullr",
+    "incorrect_answers": [
+      "Thor",
+      "Odin",
+      "Loki"
+    ],
+    "explanation": "Ullr est aussi un dieu de la guerre et du ski.",
+    "imageUrl": "https://images.unsplash.com/photo-1721250150605-6f43bae03fce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal mythologique a une tête de chèvre et une queue de serpent ?",
+    "correct_answer": "La chimère",
+    "incorrect_answers": [
+      "Le Griffon",
+      "Le Sphinx",
+      "L'hydre"
+    ],
+    "explanation": "La chimère crache du feu et a une tête de lion.",
+    "imageUrl": "https://images.unsplash.com/photo-1698424120089-4cd89efe7f26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu grec est le dieu de la musique et de la poésie ?",
+    "correct_answer": "Apollon",
+    "incorrect_answers": [
+      "Arès",
+      "Dionysos",
+      "Héphaïstos"
+    ],
+    "explanation": "Apollon est aussi le dieu de la lumière et de la prophétie.",
+    "imageUrl": "https://images.unsplash.com/photo-1765441863384-0ec468bf161f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel héros grec a tué le géant Pélée ?",
+    "correct_answer": "Achille",
+    "incorrect_answers": [
+      "Jason",
+      "Persée",
+      "Ulysse"
+    ],
+    "explanation": "Achille est invulnérable sauf au talon.",
+    "imageUrl": "https://images.unsplash.com/photo-1775129893805-524e69e5c9f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu égyptien est le dieu du ciel et de la royauté ?",
+    "correct_answer": "Horus",
     "incorrect_answers": [
       "Osiris",
       "Anubis",
       "Thot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129893805-524e69e5c9f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5MTA0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Horus est souvent représenté avec une tête de faucon.",
+    "imageUrl": "https://images.unsplash.com/photo-1660463835177-bc6329055a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel monstre a un corps de femme et des serpents à la place des cheveux ?",
+    "correct_answer": "Méduse",
+    "incorrect_answers": [
+      "La Gorgone",
+      "La harpie",
+      "La chimère"
+    ],
+    "explanation": "Méduse a été transformée en monstre par Athéna.",
+    "imageUrl": "https://images.unsplash.com/photo-1762415796791-039fe54e36b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu romain est associé à la famille et au foyer ?",
+    "correct_answer": "Vesta",
+    "incorrect_answers": [
+      "Juno",
+      "Minerve",
+      "Cérès"
+    ],
+    "explanation": "Vesta est la déesse du feu sacré et de la maison.",
+    "imageUrl": "https://images.unsplash.com/photo-1591700430569-9469d38b1006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel héros grec a tué le lion de Némée ?",
+    "correct_answer": "Héraclès",
+    "incorrect_answers": [
+      "Persée",
+      "Thésée",
+      "Achille"
+    ],
+    "explanation": "Héraclès a utilisé sa force pour étrangler le lion.",
+    "imageUrl": "https://images.unsplash.com/photo-1688406265997-77897c1a31d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu nordique est associé à la chance et à la fertilité ?",
+    "correct_answer": "Frey",
+    "incorrect_answers": [
+      "Thor",
+      "Odin",
+      "Loki"
+    ],
+    "explanation": "Frey est aussi le dieu de la paix et de l'abondance.",
+    "imageUrl": "https://images.unsplash.com/photo-1619239632374-9e6651c2b7bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal mythologique a un corps de lion et une tête de chèvre ?",
+    "correct_answer": "La chimère",
+    "incorrect_answers": [
+      "Le Griffon",
+      "Le Sphinx",
+      "L'hydre"
+    ],
+    "explanation": "La chimère est une créature composite issue de la mythologie grecque.",
+    "imageUrl": "https://images.unsplash.com/photo-1760020060790-cee38eb8b774?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu grec est le dieu de la vigne et du vin ?",
+    "correct_answer": "Dionysos",
+    "incorrect_answers": [
+      "Apollon",
+      "Arès",
+      "Héphaïstos"
+    ],
+    "explanation": "Dionysos est aussi associé aux fêtes et à l'ivresse.",
+    "imageUrl": "https://images.unsplash.com/photo-1721250893606-f0b57578ad13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel héros grec a tué le géant Encelade ?",
+    "correct_answer": "Athéna",
+    "incorrect_answers": [
+      "Héraclès",
+      "Persée",
+      "Achille"
+    ],
+    "explanation": "Athéna a écrasé Encelade sous l'île de Sicile.",
+    "imageUrl": "https://images.unsplash.com/photo-1600807455249-89d2e285b9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bXl0aG9sb2d5JTIwYW5jaWVudCUyMGdvZHMlMjB0ZW1wbGV8ZW58MHx8fHwxNzc5Nzk3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel dieu égyptien est le dieu de la sagesse et de la lune ?",
+    "correct_answer": "Thot",
+    "incorrect_answers": [
+      "Anubis",
+      "Osiris",
+      "Horus"
+    ],
+    "explanation": "Thot est souvent représenté avec une tête d'ibis ou de babouin.",
+    "imageUrl": null
   }
 ]

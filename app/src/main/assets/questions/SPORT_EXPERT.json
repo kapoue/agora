@@ -1,13 +1,14 @@
 [
   {
-    "question": "Quel athlète détient le record du monde du 100 mètres avec un temps de 9,58 secondes, établi en 2009 ?",
-    "correct_answer": "Usain Bolt",
+    "question": "Quel coureur kenyan détient le record du monde du 5 000 mètres en 12:35.36, établi en 2023 ?",
+    "correct_answer": "Jakob Ingebrigtsen",
     "incorrect_answers": [
-      "Yohan Blake",
-      "Asafa Powell",
-      "Tyson Gay"
+      "Eliud Kipchoge",
+      "Haile Gebrselassie",
+      "Kenenisa Bekele"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767884161718-e0d34e9c15e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ingebrigtsen a battu le record de Kenenisa Bekele en 2023 à Monaco.",
+    "imageUrl": "https://images.unsplash.com/photo-1765130729127-f734df4dff3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Dans quel sport le terme 'slam dunk' est-il utilisé pour désigner une action spectaculaire ?",
@@ -17,576 +18,667 @@
       "Handball",
       "Tennis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1771909713958-0ba954ff4b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le 'slam dunk' est une figure emblématique du basketball.",
+    "imageUrl": "https://images.unsplash.com/photo-1775725181682-4a2cfa495ea0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'été de 2020 à Tokyo ?",
+    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'été de 2020 ?",
     "correct_answer": "États-Unis",
     "incorrect_answers": [
       "Chine",
       "Japon",
-      "Royaume-Uni"
+      "Grande-Bretagne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767190937750-d6aaf8ea99d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les États-Unis ont dominé le classement avec 39 médailles d'or.",
+    "imageUrl": "https://images.unsplash.com/photo-1577240704326-7baa9692e5c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel joueur de tennis détient le record du plus grand nombre de titres du Grand Chelem en simple masculin ?",
-    "correct_answer": "Novak Djokovic",
-    "incorrect_answers": [
-      "Rafael Nadal",
-      "Roger Federer",
-      "Pete Sampras"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1654357679467-66fe7e7253ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le seul pays à avoir participé à toutes les éditions des Jeux Olympiques modernes depuis 1896 ?",
-    "correct_answer": "Grèce",
-    "incorrect_answers": [
-      "France",
-      "Royaume-Uni",
-      "États-Unis"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1614000980518-7ea513e986e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel nageur détient le record du monde du 50 mètres nage libre en bassin de 50 mètres ?",
-    "correct_answer": "Caeleb Dressel",
-    "incorrect_answers": [
-      "Michael Phelps",
-      "Ian Thorpe",
-      "Mark Spitz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181732-305479bde2a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel sport le terme 'eagle' désigne-t-il un score de deux sous le par sur un trou ?",
-    "correct_answer": "Golf",
-    "incorrect_answers": [
-      "Tennis",
-      "Badminton",
-      "Squash"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777643156041-465946d94f72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel coureur cycliste détient le record de victoires au Tour de France avec 7 titres ?",
-    "correct_answer": "Lance Armstrong",
-    "incorrect_answers": [
-      "Eddy Merckx",
-      "Miguel Indurain",
-      "Bernard Hinault"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1635235914608-4523c8e1c7ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
-    "correct_answer": "Uruguay",
-    "incorrect_answers": [
-      "Brésil",
-      "Argentine",
-      "Italie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775955808293-3f62dfa8665d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le seul joueur à avoir marqué un quintuplé (5 buts) en un match de Premier League ?",
-    "correct_answer": "Andy Cole",
-    "incorrect_answers": [
-      "Alan Shearer",
-      "Thierry Henry",
-      "Sergio Agüero"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774600551173-6ec76e549518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel athlète détient le record du monde du saut à la perche avec une hauteur de 6,23 mètres ?",
-    "correct_answer": "Armand Duplantis",
-    "incorrect_answers": [
-      "Sergey Bubka",
-      "Renaud Lavillenie",
-      "Maksim Tarasov"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775830195198-019937eb65e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel sport le terme 'knockout' désigne-t-il une victoire par mise hors combat ?",
-    "correct_answer": "Boxe",
-    "incorrect_answers": [
-      "Lutte",
-      "Judo",
-      "Taekwondo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771344159210-ceb27cd406a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays a remporté le plus de titres de Coupe du Monde de rugby à XV ?",
-    "correct_answer": "Afrique du Sud",
-    "incorrect_answers": [
-      "Nouvelle-Zélande",
-      "Australie",
-      "France"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1728028646600-b37d075b1316?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel joueur de hockey sur glace détient le record du plus grand nombre de points en une saison (1981-1982) ?",
-    "correct_answer": "Wayne Gretzky",
-    "incorrect_answers": [
-      "Mario Lemieux",
-      "Gordie Howe",
-      "Bobby Orr"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774600551057-86cdc692305f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le seul pays à avoir remporté la Coupe du Monde de cricket à trois reprises ?",
-    "correct_answer": "Australie",
-    "incorrect_answers": [
-      "Inde",
-      "Pakistan",
-      "Angleterre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777643155935-2786c497df80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel athlète détient le record du monde du marathon avec un temps de 2h01:09 ?",
-    "correct_answer": "Kelvin Kiptum",
-    "incorrect_answers": [
-      "Eliud Kipchoge",
-      "Haile Gebrselassie",
-      "Dennis Kimetto"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1650124077853-b6fcb0231cc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel sport le terme 'ace' désigne-t-il un service gagnant ?",
-    "correct_answer": "Tennis",
-    "incorrect_answers": [
-      "Volleyball",
-      "Badminton",
-      "Squash"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762013315117-1c8005ad2b41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'hiver de 2022 à Pékin ?",
-    "correct_answer": "Norvège",
-    "incorrect_answers": [
-      "Allemagne",
-      "États-Unis",
-      "Chine"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181829-021e30b6dcf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel joueur de football détient le record du plus grand nombre de buts marqués en une année civile (91 buts en 2012) ?",
+    "question": "Quel footballeur détient le record du plus grand nombre de buts en une seule saison en Liga (48 buts) ?",
     "correct_answer": "Lionel Messi",
     "incorrect_answers": [
       "Cristiano Ronaldo",
-      "Pelé",
-      "Romário"
+      "Telmo Zarra",
+      "Hugo Sánchez"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1777715329911-045b24983ef6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Messi a réalisé cet exploit lors de la saison 2011-2012.",
+    "imageUrl": "https://images.unsplash.com/photo-1771909713958-0ba954ff4b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le seul pays à avoir remporté la Coupe du Monde de football féminin à quatre reprises ?",
-    "correct_answer": "États-Unis",
+    "question": "Quel est le seul pays à avoir participé à toutes les Coupes du Monde de football depuis 1930 ?",
+    "correct_answer": "Brésil",
     "incorrect_answers": [
       "Allemagne",
-      "Brésil",
-      "Norvège"
+      "Italie",
+      "Argentine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1771909713569-356610d7e192?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Brésil est la seule nation ininterrompue depuis la première édition.",
+    "imageUrl": "https://images.unsplash.com/photo-1628428621924-56fb0924755c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel nageur détient le record du monde du 200 mètres papillon en bassin de 50 mètres ?",
-    "correct_answer": "Kristóf Milák",
+    "question": "Quel nageur détient le record du monde du 100 mètres nage libre en 46.86 secondes ?",
+    "correct_answer": "David Popovici",
     "incorrect_answers": [
+      "Caeleb Dressel",
       "Michael Phelps",
-      "Chad le Clos",
-      "Ryan Lochte"
+      "Ian Thorpe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761867660758-f79bbb37ea77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Popovici a établi ce record en 2022 à Rome à seulement 17 ans.",
+    "imageUrl": "https://images.unsplash.com/photo-1777735592547-0b0ea4a4f77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel sport le terme 'double fault' désigne-t-il deux fautes de service consécutives ?",
-    "correct_answer": "Tennis",
+    "question": "Quel est le nom du stade mythique où Pelé a marqué son 1000e but en 1969 ?",
+    "correct_answer": "Maracanã",
     "incorrect_answers": [
-      "Badminton",
-      "Volleyball",
-      "Squash"
+      "Morumbi",
+      "Mineirão",
+      "Beira-Rio"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764703666646-acc2f7d48857?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Maracanã est le stade emblématique de Rio de Janeiro.",
+    "imageUrl": "https://images.unsplash.com/photo-1771344159140-c8b947d4b609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays a remporté le plus de titres de Ligue des Champions en football ?",
-    "correct_answer": "Real Madrid",
+    "question": "Quel coureur cycliste détient le record de victoires au Tour de France avec 8 titres ?",
+    "correct_answer": "Jacques Anquetil",
     "incorrect_answers": [
-      "FC Barcelone",
-      "Bayern Munich",
-      "AC Milan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181875-00b926f93571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel athlète détient le record du monde du 400 mètres haies avec un temps de 46,78 secondes ?",
-    "correct_answer": "Karsten Warholm",
-    "incorrect_answers": [
-      "Kevin Young",
-      "Edwin Moses",
-      "Abderrahman Samba"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759733845137-5eb942436f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le seul pays à avoir remporté la Coupe du Monde de basket-ball masculin à cinq reprises ?",
-    "correct_answer": "États-Unis",
-    "incorrect_answers": [
-      "Espagne",
-      "Argentine",
-      "Yougoslavie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1760115338751-cc810cb0a591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel joueur de tennis détient le record du plus grand nombre de semaines consécutives en tant que numéro 1 mondial ?",
-    "correct_answer": "Roger Federer",
-    "incorrect_answers": [
-      "Novak Djokovic",
-      "Pete Sampras",
-      "Jimmy Connors"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767729790212-661953ecaa90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Dans quel sport le terme 'checkmate' désigne-t-il la fin de la partie ?",
-    "correct_answer": "Échecs",
-    "incorrect_answers": [
-      "Dames",
-      "Go",
-      "Backgammon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181743-95a508495425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Paralympiques d'été de 2020 à Tokyo ?",
-    "correct_answer": "Chine",
-    "incorrect_answers": [
-      "Royaume-Uni",
-      "États-Unis",
-      "Australie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774419477272-693534dc0bdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel coureur cycliste détient le record de victoires au Giro d'Italia avec 5 titres ?",
-    "correct_answer": "Eddy Merckx",
-    "incorrect_answers": [
-      "Fausto Coppi",
       "Bernard Hinault",
-      "Miguel Indurain"
+      "Miguel Indurain",
+      "Eddy Merckx"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767190938283-d71ee3f63995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Anquetil a remporté le Tour entre 1957 et 1964.",
+    "imageUrl": "https://images.unsplash.com/photo-1775725181867-754b5f9eaa55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le seul pays à avoir remporté la Coupe du Monde de hockey sur gazon à quatre reprises ?",
-    "correct_answer": "Pays-Bas",
+    "question": "Quel pays a remporté la première édition de la Coupe du Monde de rugby en 1987 ?",
+    "correct_answer": "Nouvelle-Zélande",
     "incorrect_answers": [
       "Australie",
-      "Allemagne",
-      "Inde"
+      "Afrique du Sud",
+      "France"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1589010796595-ed85dc467e71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les All Blacks ont remporté la finale contre la France 29-9.",
+    "imageUrl": "https://images.unsplash.com/photo-1764703666646-acc2f7d48857?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel athlète détient le record du monde du saut en longueur avec un bond de 8,95 mètres ?",
-    "correct_answer": "Mike Powell",
+    "question": "Quel est le nom du gymnaste russe qui a inventé le mouvement 'Korbut' aux barres asymétriques ?",
+    "correct_answer": "Olga Korbut",
     "incorrect_answers": [
-      "Carl Lewis",
-      "Bob Beamon",
-      "Jesse Owens"
+      "Nadia Comăneci",
+      "Simone Biles",
+      "Larisa Latynina"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1771344159140-c8b947d4b609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Korbut a révolutionné la gymnastique dans les années 1970.",
+    "imageUrl": "https://images.unsplash.com/photo-1767729790212-661953ecaa90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel sport le terme 'strike' désigne-t-il l'abattage de tous les quilles en un lancer ?",
-    "correct_answer": "Bowling",
+    "question": "Quel boxeur détient le record du plus long règne en tant que champion du monde poids lourds (11 ans et 8 mois) ?",
+    "correct_answer": "Joe Louis",
     "incorrect_answers": [
-      "Billard",
-      "Darts",
-      "Pétanque"
+      "Muhammad Ali",
+      "Mike Tyson",
+      "Lennox Lewis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775830195377-c0d470ef4449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Joe Louis a défendu son titre 25 fois entre 1937 et 1949.",
+    "imageUrl": "https://images.unsplash.com/photo-1775647545965-35ff62884890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays a remporté le plus de titres de Coupe du Monde de volley-ball masculin ?",
-    "correct_answer": "URSS",
+    "question": "Quel est le nom du tennisman qui a remporté le Grand Chelem en carrière en 2016 ?",
+    "correct_answer": "Novak Djokovic",
     "incorrect_answers": [
-      "Brésil",
-      "Italie",
-      "États-Unis"
+      "Roger Federer",
+      "Rafael Nadal",
+      "Andy Murray"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1776078599023-8e151b444e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Djokovic a remporté les 4 tournois du Grand Chelem la même année.",
+    "imageUrl": "https://images.unsplash.com/photo-1775955808293-3f62dfa8665d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel joueur de football détient le record du plus grand nombre de matchs joués en Premier League ?",
+    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Paralympiques d'été de 2020 ?",
+    "correct_answer": "Chine",
+    "incorrect_answers": [
+      "États-Unis",
+      "Grande-Bretagne",
+      "Brésil"
+    ],
+    "explanation": "La Chine a dominé avec 96 médailles d'or.",
+    "imageUrl": "https://images.unsplash.com/photo-1760508737418-a7add7ee3871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du skieur norvégien qui détient le record de victoires en Coupe du Monde de ski alpin (82 victoires) ?",
+    "correct_answer": "Ingemar Stenmark",
+    "incorrect_answers": [
+      "Marcel Hirscher",
+      "Aksel Lund Svindal",
+      "Kjetil André Aamodt"
+    ],
+    "explanation": "Stenmark a dominé les années 1970 et 1980.",
+    "imageUrl": "https://images.unsplash.com/photo-1775830195377-c0d470ef4449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel footballeur détient le record du plus grand nombre de matchs joués en Premier League (632 matchs) ?",
     "correct_answer": "Gareth Barry",
     "incorrect_answers": [
       "Ryan Giggs",
       "Frank Lampard",
       "Steven Gerrard"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181909-29a6e1f1905e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Barry a joué pour Aston Villa, Manchester City et Everton.",
+    "imageUrl": "https://images.unsplash.com/photo-1760115338751-cc810cb0a591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel athlète détient le record du monde du 1500 mètres avec un temps de 3:26.00 ?",
-    "correct_answer": "Hicham El Guerrouj",
+    "question": "Quel est le nom du coureur automobile qui détient le record de victoires en Formule 1 (103 victoires) ?",
+    "correct_answer": "Lewis Hamilton",
     "incorrect_answers": [
-      "Noah Ngeny",
-      "Daniel Komen",
-      "Bernard Lagat"
+      "Michael Schumacher",
+      "Sebastian Vettel",
+      "Alain Prost"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1776078599023-8e151b444e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Hamilton a dépassé Schumacher en 2020.",
+    "imageUrl": "https://images.unsplash.com/photo-1765261473063-ec862e10ba58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel sport le terme 'birdie' désigne-t-il un score d'un sous le par sur un trou ?",
-    "correct_answer": "Golf",
+    "question": "Quel pays a remporté la première édition de la Coupe du Monde de cricket en 1975 ?",
+    "correct_answer": "Antilles",
     "incorrect_answers": [
-      "Tennis",
-      "Badminton",
-      "Squash"
+      "Australie",
+      "Inde",
+      "Angleterre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1778423071051-9dd089b9542a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les Antilles ont battu l'Australie en finale à Lord's.",
+    "imageUrl": "https://images.unsplash.com/photo-1650124077853-b6fcb0231cc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays a remporté le plus de titres de Coupe du Monde de handball masculin ?",
-    "correct_answer": "France",
+    "question": "Quel est le nom du gymnaste américain qui a remporté 7 médailles d'or aux JO de 1972 ?",
+    "correct_answer": "Mark Spitz",
     "incorrect_answers": [
-      "Suède",
-      "Danemark",
-      "Allemagne"
+      "Michael Phelps",
+      "Carl Lewis",
+      "Sergei Bubka"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765261473063-ec862e10ba58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Spitz a dominé la natation aux JO de Munich.",
+    "imageUrl": "https://images.unsplash.com/photo-1775830195198-019937eb65e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel nageur détient le record du monde du 100 mètres dos en bassin de 50 mètres ?",
-    "correct_answer": "Kliment Kolesnikov",
+    "question": "Quel est le seul pays à avoir remporté la Coupe du Monde de football masculine et féminine ?",
+    "correct_answer": "Allemagne",
     "incorrect_answers": [
-      "Ryan Murphy",
-      "David Plummer",
-      "Matt Grevers"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1778423071023-705ea8f59cf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le seul pays à avoir remporté la Coupe du Monde de rugby à XIII à trois reprises ?",
-    "correct_answer": "Australie",
-    "incorrect_answers": [
-      "Nouvelle-Zélande",
-      "Angleterre",
+      "Brésil",
+      "États-Unis",
       "France"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774199786372-5467ae7bdae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Allemagne a gagné chez les hommes en 1974 et 2014, et chez les femmes en 2003.",
+    "imageUrl": "https://images.unsplash.com/photo-1766823968084-a7b6f184fab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel athlète détient le record du monde du lancer du poids avec une marque de 23,56 mètres ?",
-    "correct_answer": "Randy Barnes",
+    "question": "Quel est le nom du basketteur qui détient le record du plus grand nombre de points en NBA (38 387 points) ?",
+    "correct_answer": "LeBron James",
     "incorrect_answers": [
-      "Ulf Timmermann",
-      "Adam Nelson",
-      "Joe Kovacs"
+      "Kareem Abdul-Jabbar",
+      "Michael Jordan",
+      "Kobe Bryant"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1778050203444-90920c7a5652?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "LeBron a dépassé Kareem Abdul-Jabbar en 2023.",
+    "imageUrl": "https://images.unsplash.com/photo-1778423071023-705ea8f59cf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel sport le terme 'deuce' désigne-t-il un score de 40-40 ?",
-    "correct_answer": "Tennis",
+    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'hiver de 2022 ?",
+    "correct_answer": "Norvège",
     "incorrect_answers": [
-      "Badminton",
-      "Volleyball",
-      "Squash"
+      "États-Unis",
+      "Allemagne",
+      "Chine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760508737418-a7add7ee3871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Norvège a remporté 16 médailles d'or à Pékin.",
+    "imageUrl": "https://images.unsplash.com/photo-1767884161718-e0d34e9c15e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays a remporté le plus de titres de Ligue Europa en football ?",
-    "correct_answer": "Séville FC",
+    "question": "Quel est le nom du coureur cycliste qui détient le record de l'heure (56,375 km) établi en 2023 ?",
+    "correct_answer": "Victor Campenaerts",
     "incorrect_answers": [
-      "Inter Milan",
-      "Liverpool",
-      "Juventus"
+      "Bradley Wiggins",
+      "Filippo Ganna",
+      "Daniel Bigham"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774600551563-4c5874150603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Campenaerts a battu le record de Wiggins établi en 2015.",
+    "imageUrl": "https://images.unsplash.com/photo-1775725181829-021e30b6dcf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel coureur cycliste détient le record de victoires au Tour d'Espagne avec 4 titres ?",
+    "question": "Quel est le nom du footballeur qui détient le record du plus grand nombre de buts en une seule année civile (91 buts en 2012) ?",
+    "correct_answer": "Lionel Messi",
+    "incorrect_answers": [
+      "Cristiano Ronaldo",
+      "Pelé",
+      "Gerd Müller"
+    ],
+    "explanation": "Messi a battu le record de Gerd Müller établi en 1972.",
+    "imageUrl": "https://images.unsplash.com/photo-1775725181909-29a6e1f1905e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du nageur qui détient le record du monde du 200 mètres papillon en 1:50.34 ?",
+    "correct_answer": "Kristóf Milák",
+    "incorrect_answers": [
+      "Michael Phelps",
+      "Chad le Clos",
+      "Tom Shields"
+    ],
+    "explanation": "Milák a battu le record de Phelps en 2019.",
+    "imageUrl": "https://images.unsplash.com/photo-1603093327015-e8fd50d1293d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays a remporté la première édition de la Coupe du Monde de hockey sur gazon en 1971 ?",
+    "correct_answer": "Pakistan",
+    "incorrect_answers": [
+      "Pays-Bas",
+      "Australie",
+      "Allemagne"
+    ],
+    "explanation": "Le Pakistan a battu l'Espagne en finale à Barcelone.",
+    "imageUrl": "https://images.unsplash.com/photo-1589010796595-ed85dc467e71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du tennisman qui détient le record du plus grand nombre de semaines en tant que numéro 1 mondial (310 semaines) ?",
+    "correct_answer": "Novak Djokovic",
+    "incorrect_answers": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Pete Sampras"
+    ],
+    "explanation": "Djokovic a dépassé Federer en 2021.",
+    "imageUrl": "https://images.unsplash.com/photo-1777643156041-465946d94f72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du coureur automobile qui détient le record du plus grand nombre de victoires en IndyCar (51 victoires) ?",
+    "correct_answer": "A.J. Foyt",
+    "incorrect_answers": [
+      "Mario Andretti",
+      "Al Unser",
+      "Rick Mears"
+    ],
+    "explanation": "Foyt a dominé les années 1960 et 1970.",
+    "imageUrl": "https://images.unsplash.com/photo-1774199444352-a86e5b71db40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du basketteur qui détient le record du plus grand nombre de passes décisives en NBA (15 806 passes) ?",
+    "correct_answer": "John Stockton",
+    "incorrect_answers": [
+      "Magic Johnson",
+      "Jason Kidd",
+      "Steve Nash"
+    ],
+    "explanation": "Stockton a joué toute sa carrière aux Utah Jazz.",
+    "imageUrl": "https://images.unsplash.com/photo-1728028646600-b37d075b1316?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'été de 1988 ?",
+    "correct_answer": "URSS",
+    "incorrect_answers": [
+      "États-Unis",
+      "Allemagne de l'Est",
+      "Chine"
+    ],
+    "explanation": "L'URSS a remporté 55 médailles d'or à Séoul.",
+    "imageUrl": "https://images.unsplash.com/photo-1635235914608-4523c8e1c7ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du coureur cycliste qui détient le record de victoires au Tour d'Italie (5 victoires) ?",
+    "correct_answer": "Eddy Merckx",
+    "incorrect_answers": [
+      "Bernard Hinault",
+      "Fausto Coppi",
+      "Gino Bartali"
+    ],
+    "explanation": "Merckx a remporté le Giro entre 1968 et 1974.",
+    "imageUrl": "https://images.unsplash.com/photo-1774199741507-a779d6166228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du footballeur qui détient le record du plus grand nombre de buts en Coupe du Monde (16 buts) ?",
+    "correct_answer": "Miroslav Klose",
+    "incorrect_answers": [
+      "Pelé",
+      "Ronaldo",
+      "Gerd Müller"
+    ],
+    "explanation": "Klose a dépassé Ronaldo en 2014.",
+    "imageUrl": "https://images.unsplash.com/photo-1762013315117-1c8005ad2b41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du nageur qui détient le record du monde du 400 mètres nage libre en 3:37.58 ?",
+    "correct_answer": "Paul Biedermann",
+    "incorrect_answers": [
+      "Michael Phelps",
+      "Sun Yang",
+      "Ian Thorpe"
+    ],
+    "explanation": "Biedermann a battu le record de Phelps en 2009.",
+    "imageUrl": "https://images.unsplash.com/photo-1759733845137-5eb942436f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays a remporté la première édition de la Coupe du Monde de volley-ball masculin en 1949 ?",
+    "correct_answer": "URSS",
+    "incorrect_answers": [
+      "États-Unis",
+      "Tchécoslovaquie",
+      "Pologne"
+    ],
+    "explanation": "L'URSS a battu la Tchécoslovaquie en finale à Prague.",
+    "imageUrl": "https://images.unsplash.com/photo-1778423071051-9dd089b9542a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du gymnaste américain qui détient le record de médailles olympiques (19 médailles) ?",
+    "correct_answer": "Michael Phelps",
+    "incorrect_answers": [
+      "Mark Spitz",
+      "Carl Lewis",
+      "Sergei Bubka"
+    ],
+    "explanation": "Phelps a remporté 23 médailles d'or et 6 d'argent.",
+    "imageUrl": "https://images.unsplash.com/photo-1771344159210-ceb27cd406a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du coureur cycliste qui détient le record de victoires au Tour de France (7 victoires) ?",
+    "correct_answer": "Lance Armstrong",
+    "incorrect_answers": [
+      "Bernard Hinault",
+      "Miguel Indurain",
+      "Jacques Anquetil"
+    ],
+    "explanation": "Armstrong a été disqualifié en 2012 pour dopage.",
+    "imageUrl": "https://images.unsplash.com/photo-1767190937750-d6aaf8ea99d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du footballeur qui détient le record du plus grand nombre de matchs joués en Ligue des Champions (183 matchs) ?",
+    "correct_answer": "Iker Casillas",
+    "incorrect_answers": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Xavi Hernández"
+    ],
+    "explanation": "Casillas a joué pour le Real Madrid et Porto.",
+    "imageUrl": "https://images.unsplash.com/photo-1775725181875-00b926f93571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du basketteur qui détient le record du plus grand nombre de rebonds en NBA (23 924 rebonds) ?",
+    "correct_answer": "Wilt Chamberlain",
+    "incorrect_answers": [
+      "Bill Russell",
+      "Kareem Abdul-Jabbar",
+      "Hakeem Olajuwon"
+    ],
+    "explanation": "Chamberlain détient aussi le record de points en un match (100).",
+    "imageUrl": "https://images.unsplash.com/photo-1654357679467-66fe7e7253ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'été de 1964 ?",
+    "correct_answer": "États-Unis",
+    "incorrect_answers": [
+      "URSS",
+      "Japon",
+      "Allemagne"
+    ],
+    "explanation": "Les États-Unis ont remporté 36 médailles d'or à Tokyo.",
+    "imageUrl": "https://images.unsplash.com/photo-1766756499755-0ae763777974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du coureur automobile qui détient le record du plus grand nombre de victoires en NASCAR (200 victoires) ?",
+    "correct_answer": "Richard Petty",
+    "incorrect_answers": [
+      "Dale Earnhardt",
+      "Jeff Gordon",
+      "Jimmie Johnson"
+    ],
+    "explanation": "Petty a remporté 7 titres de champion.",
+    "imageUrl": "https://images.unsplash.com/photo-1767190938283-d71ee3f63995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du tennisman qui détient le record du plus grand nombre de titres du Grand Chelem en simple (24 titres) ?",
+    "correct_answer": "Novak Djokovic",
+    "incorrect_answers": [
+      "Rafael Nadal",
+      "Roger Federer",
+      "Pete Sampras"
+    ],
+    "explanation": "Djokovic a dépassé Nadal et Federer en 2023.",
+    "imageUrl": "https://images.unsplash.com/photo-1774600551563-4c5874150603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du nageur qui détient le record du monde du 1500 mètres nage libre en 14:30.90 ?",
+    "correct_answer": "Sun Yang",
+    "incorrect_answers": [
+      "Michael Phelps",
+      "Grant Hackett",
+      "Mack Horton"
+    ],
+    "explanation": "Sun Yang a établi ce record en 2012 à Londres.",
+    "imageUrl": "https://images.unsplash.com/photo-1765261371855-967aef597a9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays a remporté la première édition de la Coupe du Monde de basket-ball masculin en 1950 ?",
+    "correct_answer": "Argentine",
+    "incorrect_answers": [
+      "États-Unis",
+      "URSS",
+      "Brésil"
+    ],
+    "explanation": "L'Argentine a battu les États-Unis en finale à Buenos Aires.",
+    "imageUrl": "https://images.unsplash.com/photo-1765915550935-578b594ac76b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du coureur cycliste qui détient le record de victoires au Tour d'Espagne (3 victoires) ?",
     "correct_answer": "Roberto Heras",
     "incorrect_answers": [
       "Alberto Contador",
       "Miguel Indurain",
       "Chris Froome"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766823968084-a7b6f184fab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Heras a remporté le Vuelta en 2000, 2003 et 2004.",
+    "imageUrl": "https://images.unsplash.com/photo-1614000980518-7ea513e986e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le seul pays à avoir remporté la Coupe du Monde de cricket féminin à trois reprises ?",
-    "correct_answer": "Australie",
+    "question": "Quel est le nom du footballeur qui détient le record du plus grand nombre de buts en Premier League (365 buts) ?",
+    "correct_answer": "Alan Shearer",
     "incorrect_answers": [
-      "Inde",
-      "Angleterre",
-      "Nouvelle-Zélande"
+      "Wayne Rooney",
+      "Sergio Agüero",
+      "Thierry Henry"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765915550935-578b594ac76b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Shearer a joué pour Blackburn et Newcastle.",
+    "imageUrl": "https://images.unsplash.com/photo-1761867660758-f79bbb37ea77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel athlète détient le record du monde du 3000 mètres steeple avec un temps de 7:53.63 ?",
-    "correct_answer": "Saif Saaeed Shaheen",
+    "question": "Quel est le nom du basketteur qui détient le record du plus grand nombre de contres en NBA (3 830 contres) ?",
+    "correct_answer": "Hakeem Olajuwon",
     "incorrect_answers": [
-      "Ezekiel Kemboi",
-      "Bram Som",
-      "Paul Kipsiele Koech"
+      "Kareem Abdul-Jabbar",
+      "Dikembe Mutombo",
+      "Shaquille O'Neal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775647545965-35ff62884890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Olajuwon a aussi remporté 2 titres NBA.",
+    "imageUrl": "https://images.unsplash.com/photo-1765130420831-e33e58daac37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel sport le terme 'offside' désigne-t-il une position irrégulière ?",
-    "correct_answer": "Football",
+    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'été de 1992 ?",
+    "correct_answer": "Équipe unifiée",
     "incorrect_answers": [
-      "Rugby",
-      "Hockey",
-      "Basketball"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765130729127-f734df4dff3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays a remporté le plus de titres de Coupe du Monde de basket-ball féminin ?",
-    "correct_answer": "États-Unis",
-    "incorrect_answers": [
+      "États-Unis",
       "URSS",
-      "Australie",
-      "Brésil"
+      "Allemagne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181682-4a2cfa495ea0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Équipe unifiée a remporté 45 médailles d'or à Barcelone.",
+    "imageUrl": "https://images.unsplash.com/photo-1774600551173-6ec76e549518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel joueur de tennis détient le record du plus grand nombre de titres en simple à Roland-Garros ?",
-    "correct_answer": "Rafael Nadal",
+    "question": "Quel est le nom du coureur automobile qui détient le record du plus grand nombre de victoires en Formule 1 pour un constructeur (242 victoires) ?",
+    "correct_answer": "Ferrari",
     "incorrect_answers": [
-      "Björn Borg",
-      "Chris Evert",
-      "Serena Williams"
+      "McLaren",
+      "Mercedes",
+      "Williams"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1577240704326-7baa9692e5c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ferrari a remporté son premier titre en 1952.",
+    "imageUrl": "https://images.unsplash.com/photo-1777715329911-045b24983ef6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le seul pays à avoir remporté la Coupe du Monde de hockey sur glace à trois reprises ?",
-    "correct_answer": "Canada",
+    "question": "Quel est le nom du tennisman qui détient le record du plus grand nombre de titres en Masters 1000 (40 titres) ?",
+    "correct_answer": "Novak Djokovic",
     "incorrect_answers": [
-      "Russie",
+      "Rafael Nadal",
+      "Roger Federer",
+      "Andy Murray"
+    ],
+    "explanation": "Djokovic a dépassé Nadal en 2023.",
+    "imageUrl": "https://images.unsplash.com/photo-1774199440321-970b8c785c5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du nageur qui détient le record du monde du 50 mètres nage libre en 20.91 secondes ?",
+    "correct_answer": "Caeleb Dressel",
+    "incorrect_answers": [
+      "Florent Manaudou",
+      "Bruno Fratus",
+      "Nathan Adrian"
+    ],
+    "explanation": "Dressel a établi ce record en 2021 à Budapest.",
+    "imageUrl": "https://images.unsplash.com/photo-1776078599023-8e151b444e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays a remporté la première édition de la Coupe du Monde de handball masculin en 1938 ?",
+    "correct_answer": "Allemagne",
+    "incorrect_answers": [
       "Suède",
-      "République tchèque"
+      "Danemark",
+      "Roumanie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1628428621924-56fb0924755c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Allemagne a battu la Suisse en finale à Berlin.",
+    "imageUrl": "https://images.unsplash.com/photo-1775725181732-305479bde2a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel athlète détient le record du monde du 800 mètres avec un temps de 1:40.91 ?",
-    "correct_answer": "David Rudisha",
+    "question": "Quel est le nom du coureur cycliste qui détient le record de victoires au Critérium du Dauphiné (7 victoires) ?",
+    "correct_answer": "Bernard Hinault",
     "incorrect_answers": [
-      "Wilson Kipketer",
-      "Sebastian Coe",
-      "Nijel Amos"
+      "Miguel Indurain",
+      "Chris Froome",
+      "Jacques Anquetil"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766756499755-0ae763777974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Hinault a remporté le Dauphiné entre 1977 et 1981.",
+    "imageUrl": "https://images.unsplash.com/photo-1774419477272-693534dc0bdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel sport le terme 'love' désigne-t-il un score de zéro ?",
-    "correct_answer": "Tennis",
+    "question": "Quel est le nom du footballeur qui détient le record du plus grand nombre de buts en Ligue des Champions (140 buts) ?",
+    "correct_answer": "Cristiano Ronaldo",
     "incorrect_answers": [
-      "Badminton",
-      "Volleyball",
-      "Squash"
+      "Lionel Messi",
+      "Robert Lewandowski",
+      "Karim Benzema"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181867-754b5f9eaa55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ronaldo a joué pour Manchester United, Real Madrid et Juventus.",
+    "imageUrl": "https://images.unsplash.com/photo-1774199786372-5467ae7bdae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays a remporté le plus de titres de Coupe du Monde de football féminin des moins de 20 ans ?",
-    "correct_answer": "États-Unis",
+    "question": "Quel est le nom du basketteur qui détient le record du plus grand nombre de lancers francs réussis en NBA (7 694 lancers) ?",
+    "correct_answer": "Karl Malone",
     "incorrect_answers": [
-      "Allemagne",
-      "Brésil",
-      "Japon"
+      "Kobe Bryant",
+      "LeBron James",
+      "Dirk Nowitzki"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775725181890-7c4bc25270da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Malone a joué pour les Utah Jazz.",
+    "imageUrl": "https://images.unsplash.com/photo-1771909713569-356610d7e192?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel nageur détient le record du monde du 200 mètres quatre nages en bassin de 50 mètres ?",
+    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'été de 2008 ?",
+    "correct_answer": "Chine",
+    "incorrect_answers": [
+      "États-Unis",
+      "Russie",
+      "Grande-Bretagne"
+    ],
+    "explanation": "La Chine a remporté 51 médailles d'or à Pékin.",
+    "imageUrl": "https://images.unsplash.com/photo-1571938877180-a3098270466b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du coureur automobile qui détient le record du plus grand nombre de victoires en Indy 500 (4 victoires) ?",
+    "correct_answer": "A.J. Foyt",
+    "incorrect_answers": [
+      "Rick Mears",
+      "Al Unser",
+      "Helio Castroneves"
+    ],
+    "explanation": "Foyt a remporté l'Indy 500 en 1961, 1964, 1967 et 1977.",
+    "imageUrl": "https://images.unsplash.com/photo-1775725181890-7c4bc25270da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du tennisman qui détient le record du plus grand nombre de semaines en tant que numéro 1 mondial chez les juniors (237 semaines) ?",
+    "correct_answer": "Martina Hingis",
+    "incorrect_answers": [
+      "Steffi Graf",
+      "Serena Williams",
+      "Maria Sharapova"
+    ],
+    "explanation": "Hingis a dominé le tennis junior dans les années 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1775725181743-95a508495425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du nageur qui détient le record du monde du 200 mètres 4 nages en 1:54.16 ?",
     "correct_answer": "Ryan Lochte",
     "incorrect_answers": [
       "Michael Phelps",
       "Mark Spitz",
       "Ian Thorpe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774199741507-a779d6166228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Lochte a établi ce record en 2011 à Shanghai.",
+    "imageUrl": "https://images.unsplash.com/photo-1774600551057-86cdc692305f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le seul pays à avoir remporté la Coupe du Monde de rugby à XV à quatre reprises ?",
-    "correct_answer": "Nouvelle-Zélande",
+    "question": "Quel pays a remporté la première édition de la Coupe du Monde de rugby féminin en 1991 ?",
+    "correct_answer": "États-Unis",
     "incorrect_answers": [
-      "Afrique du Sud",
-      "Australie",
+      "Nouvelle-Zélande",
+      "Angleterre",
       "France"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1777735592547-0b0ea4a4f77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les États-Unis ont battu l'Angleterre en finale à Cardiff.",
+    "imageUrl": "https://images.unsplash.com/photo-1778050203444-90920c7a5652?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTc5NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel athlète détient le record du monde du lancer du javelot avec une marque de 98,48 mètres ?",
-    "correct_answer": "Jan Železný",
+    "question": "Quel est le nom du coureur cycliste qui détient le record de victoires au Tour de Lombardie (5 victoires) ?",
+    "correct_answer": "Fausto Coppi",
     "incorrect_answers": [
-      "Aki Parviainen",
-      "Sergey Makarov",
-      "Thomas Röhler"
+      "Eddy Merckx",
+      "Alfredo Binda",
+      "Gino Bartali"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1603093327015-e8fd50d1293d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Coppi a remporté le Tour de Lombardie entre 1946 et 1954.",
+    "imageUrl": "https://images.unsplash.com/photo-1777715330092-f06fd7861c38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel sport le terme 'pitcher' désigne-t-il un lanceur ?",
-    "correct_answer": "Baseball",
+    "question": "Quel est le nom du footballeur qui détient le record du plus grand nombre de buts en Coupe du Monde féminine (17 buts) ?",
+    "correct_answer": "Marta",
     "incorrect_answers": [
-      "Cricket",
-      "Softball",
-      "Golf"
+      "Abby Wambach",
+      "Birgit Prinz",
+      "Christine Sinclair"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774199444352-a86e5b71db40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Marta a joué pour le Brésil.",
+    "imageUrl": "https://images.unsplash.com/photo-1775725181887-b3b870a015c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5Nzk3MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays a remporté le plus de titres de Coupe du Monde de volley-ball féminin ?",
-    "correct_answer": "URSS",
+    "question": "Quel est le nom du basketteur qui détient le record du plus grand nombre de matchs joués en NBA (1 611 matchs) ?",
+    "correct_answer": "Robert Parish",
     "incorrect_answers": [
-      "Brésil",
-      "Cuba",
-      "Chine"
+      "Kareem Abdul-Jabbar",
+      "Dirk Nowitzki",
+      "Kevin Garnett"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765130420831-e33e58daac37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fHNwb3J0JTIwY29tcGV0aXRpb24lMjBzdGFkaXVtfGVufDB8fHx8MTc3OTEwNDIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Parish a joué pour les Celtics, Warriors et Bulls.",
+    "imageUrl": null
   },
   {
-    "question": "Quel joueur de football détient le record du plus grand nombre de buts marqués en une saison de Ligue 1 ?",
-    "correct_answer": "Josip Skoblar",
+    "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'hiver de 2018 ?",
+    "correct_answer": "Norvège",
     "incorrect_answers": [
-      "Roger Courtois",
-      "Delio Onnis",
-      "Carlos Bianchi"
+      "Allemagne",
+      "Canada",
+      "États-Unis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774199440321-970b8c785c5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel athlète détient le record du monde du 10 000 mètres avec un temps de 26:11.00 ?",
-    "correct_answer": "Kenenisa Bekele",
-    "incorrect_answers": [
-      "Haile Gebrselassie",
-      "Paul Tergat",
-      "Emil Zátopek"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777643155969-b0d8f06518f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c3BvcnQlMjBjb21wZXRpdGlvbiUyMHN0YWRpdW18ZW58MHx8fHwxNzc5MTA0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Norvège a remporté 14 médailles d'or à Pyeongchang.",
+    "imageUrl": null
   }
 ]

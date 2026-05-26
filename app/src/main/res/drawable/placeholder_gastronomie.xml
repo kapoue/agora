@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Rebord de la toque -->
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M20,72 L80,72 L80,82 L20,82 Z" />
+    <!-- Dôme de la toque -->
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M25,72 C22,55 22,30 50,25 C78,30 78,55 75,72 Z" />
+    <!-- Ombre latérale droite -->
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M50,25 C65,30 72,50 70,72 L75,72 C78,55 78,30 50,25 Z" />
+    <!-- Pli central -->
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M47,28 L53,28 L54,72 L46,72 Z" />
+    <!-- Ligne du rebord -->
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M20,72 L80,72 L80,75 L20,75 Z" />
+</vector>

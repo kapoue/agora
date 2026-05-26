@@ -37,6 +37,9 @@ interface QuestionDao {
     @Query("UPDATE questions SET imageUrl = :imageUrl WHERE theme = :theme AND difficulty = :difficulty AND questionText = :questionText")
     suspend fun updateImageUrl(theme: String, difficulty: String, questionText: String, imageUrl: String?)
 
+    @Query("UPDATE questions SET explanation = :explanation WHERE theme = :theme AND difficulty = :difficulty AND questionText = :questionText")
+    suspend fun updateExplanation(theme: String, difficulty: String, questionText: String, explanation: String?)
+
     @Query("SELECT COUNT(*) FROM questions WHERE theme = :theme AND difficulty = :difficulty AND isAnsweredCorrectly = 1")
     suspend fun countAnsweredCorrectly(theme: String, difficulty: String): Int
 

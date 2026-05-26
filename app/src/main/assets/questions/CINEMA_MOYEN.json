@@ -1,233 +1,102 @@
 [
   {
-    "question": "Quel réalisateur français a tourné 'Le Mépris' avec Brigitte Bardot en 1963 ?",
+    "question": "Quel réalisateur français a tourné 'Le Mépris' en 1963 avec Brigitte Bardot ?",
     "correct_answer": "Jean-Luc Godard",
     "incorrect_answers": [
       "François Truffaut",
-      "Jean Cocteau",
-      "Jacques Rivette"
+      "Jacques Rivette",
+      "Louis Malle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-e47cdc7a6b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Godard, figure de la Nouvelle Vague, a réalisé ce film culte adapté d'un roman d'Alberto Moravia.",
+    "imageUrl": "https://images.unsplash.com/photo-1620651575627-2d83969add21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel film de 1994 Tom Hanks remporte-t-il son premier Oscar du meilleur acteur ?",
-    "correct_answer": "Forrest Gump",
+    "question": "Quel acteur incarne Tony Montana dans 'Scarface' (1983) ?",
+    "correct_answer": "Al Pacino",
     "incorrect_answers": [
-      "Philadelphia",
-      "Cast Away",
-      "Saving Private Ryan"
+      "Robert De Niro",
+      "Joe Pesci",
+      "Dustin Hoffman"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1510282271343-fdc3dea55439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Pacino a obtenu un Oscar pour ce rôle emblématique du cinéma gangster.",
+    "imageUrl": "https://images.unsplash.com/photo-1685838885743-0f059251d573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel cinéaste a réalisé '2001, l'Odyssée de l'espace' en 1968 ?",
+    "question": "Quel film a remporté la Palme d'Or à Cannes en 2019 ?",
+    "correct_answer": "Parasite",
+    "incorrect_answers": [
+      "Once Upon a Time in Hollywood",
+      "The Irishman",
+      "Joker"
+    ],
+    "explanation": "Bong Joon-ho a fait l'histoire en remportant aussi l'Oscar du meilleur film.",
+    "imageUrl": "https://images.unsplash.com/photo-1555246384-9e2f17cafb6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a signé '2001, l'Odyssée de l'espace' en 1968 ?",
     "correct_answer": "Stanley Kubrick",
     "incorrect_answers": [
       "Steven Spielberg",
-      "George Lucas",
-      "Ridley Scott"
+      "Ridley Scott",
+      "George Lucas"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1608663003471-9fe0ded7eb34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Kubrick a révolutionné la science-fiction avec des effets spéciaux pionniers.",
+    "imageUrl": "https://images.unsplash.com/photo-1583384649873-06f3e4231207?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur incarne le personnage de Vito Corleone dans 'Le Parrain' ?",
-    "correct_answer": "Marlon Brando",
+    "question": "Quel est le premier film de la saga 'Star Wars' sorti en 1977 ?",
+    "correct_answer": "Un Nouvel Espoir",
     "incorrect_answers": [
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan"
+      "L'Empire contre-attaque",
+      "Le Retour du Jedi",
+      "La Menace fantôme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1628242787311-758dedb81ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le film original s'appelait 'Star Wars' avant d'être sous-titré 'Episode IV'.",
+    "imageUrl": "https://images.unsplash.com/photo-1530832477500-e4aa52f550a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1975 de Steven Spielberg a popularisé le thème des requins ?",
-    "correct_answer": "Les Dents de la mer",
-    "incorrect_answers": [
-      "Jurassic Park",
-      "Rencontres du troisième type",
-      "Indiana Jones"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1512412632857-b93f6ecce335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a remporté la Palme d'Or à Cannes en 2019 pour 'Parasite' ?",
-    "correct_answer": "Bong Joon-ho",
-    "incorrect_answers": [
-      "Alejandro González Iñárritu",
-      "Quentin Tarantino",
-      "Paolo Sorrentino"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514076529215-03662283365b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de Jack Dawson dans 'Titanic' ?",
+    "question": "Quel acteur a joué le rôle de Jack Dawson dans 'Titanic' (1997) ?",
     "correct_answer": "Leonardo DiCaprio",
     "incorrect_answers": [
       "Brad Pitt",
       "Johnny Depp",
       "Matt Damon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1534949378632-3e4e87ec219f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1941 de Orson Welles est souvent cité comme un chef-d'œuvre du cinéma ?",
-    "correct_answer": "Citizen Kane",
-    "incorrect_answers": [
-      "La Guerre des mondes",
-      "Le Troisième Homme",
-      "Casablanca"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1543238825-7307761a433b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur français a tourné 'Les 400 Coups' en 1959 ?",
-    "correct_answer": "François Truffaut",
-    "incorrect_answers": [
-      "Jean-Luc Godard",
-      "Claude Chabrol",
-      "Éric Rohmer"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1510867461263-2876b3bc4bf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne le Joker dans le film 'The Dark Knight' de 2008 ?",
-    "correct_answer": "Heath Ledger",
-    "incorrect_answers": [
-      "Joaquin Phoenix",
-      "Jack Nicholson",
-      "Jared Leto"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514077886732-9b375df6f77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1999 de David Fincher met en scène un tueur en série nommé John Doe ?",
-    "correct_answer": "Seven",
-    "incorrect_answers": [
-      "Fight Club",
-      "Zodiac",
-      "The Game"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583384649873-06f3e4231207?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "DiCaprio a été nommé aux Oscars pour ce rôle qui l'a propulsé au rang de star.",
+    "imageUrl": "https://images.unsplash.com/photo-1622829118151-1cfabdf11a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur a tourné 'Pulp Fiction' en 1994 ?",
     "correct_answer": "Quentin Tarantino",
     "incorrect_answers": [
       "Martin Scorsese",
-      "Paul Thomas Anderson",
-      "David Lynch"
+      "David Lynch",
+      "Paul Thomas Anderson"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1530832477500-e4aa52f550a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Tarantino a popularisé le style non linéaire et les dialogues percutants.",
+    "imageUrl": "https://images.unsplash.com/photo-1583421487713-3adbe43732cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur joue le rôle de Tony Montana dans 'Scarface' de 1983 ?",
-    "correct_answer": "Al Pacino",
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+    "correct_answer": "Parasite",
     "incorrect_answers": [
-      "Robert De Niro",
-      "Joe Pesci",
-      "Ray Liotta"
+      "1917",
+      "Joker",
+      "Once Upon a Time in Hollywood"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1518929773866-ffd0b4500ff1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Premier film non anglophone à remporter cette récompense.",
+    "imageUrl": "https://images.unsplash.com/photo-1632670536499-ebc8bc72892a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1982 de Ridley Scott a marqué l'histoire du cinéma de science-fiction ?",
-    "correct_answer": "Blade Runner",
+    "question": "Quel acteur incarne le Joker dans le film de 2019 ?",
+    "correct_answer": "Joaquin Phoenix",
     "incorrect_answers": [
-      "Alien",
-      "The Terminator",
-      "Star Wars"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1647534605086-2a788fe5ad12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Voyage de Chihiro' en 2001 ?",
-    "correct_answer": "Hayao Miyazaki",
-    "incorrect_answers": [
-      "Isao Takahata",
-      "Satoshi Kon",
-      "Mamoru Hosoda"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1493599588594-dc6ae2c099bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne le personnage de Tyler Durden dans 'Fight Club' ?",
-    "correct_answer": "Brad Pitt",
-    "incorrect_answers": [
-      "Edward Norton",
+      "Heath Ledger",
       "Jared Leto",
-      "Matt Damon"
+      "Jack Nicholson"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1730182670365-327e319f92da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1999 de Stanley Kubrick met en scène une guerre fictive au Vietnam ?",
-    "correct_answer": "Full Metal Jacket",
-    "incorrect_answers": [
-      "Apocalypse Now",
-      "Platoon",
-      "The Deer Hunter"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610899633400-4fd20fba13fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Labyrinthe de Pan' en 2006 ?",
-    "correct_answer": "Guillermo del Toro",
-    "incorrect_answers": [
-      "Alejandro González Iñárritu",
-      "Alfonso Cuarón",
-      "Akira Kurosawa"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1639426106423-62e489d806a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de Maximus dans 'Gladiator' ?",
-    "correct_answer": "Russell Crowe",
-    "incorrect_answers": [
-      "Joaquin Phoenix",
-      "Tom Hanks",
-      "Brad Pitt"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1608663003623-2a62ac92df13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1977 de George Lucas a révolutionné le cinéma de science-fiction ?",
-    "correct_answer": "Star Wars",
-    "incorrect_answers": [
-      "2001, l'Odyssée de l'espace",
-      "Alien",
-      "Blade Runner"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1632670536499-ebc8bc72892a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Silence des agneaux' en 1991 ?",
-    "correct_answer": "Jonathan Demme",
-    "incorrect_answers": [
-      "Martin Scorsese",
-      "David Fincher",
-      "Brian De Palma"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1457551859869-d4b7ab27184c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne le personnage de Hannibal Lecter dans 'Le Silence des agneaux' ?",
-    "correct_answer": "Anthony Hopkins",
-    "incorrect_answers": [
-      "Joaquin Phoenix",
-      "Tom Hanks",
-      "Robert De Niro"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514078156858-22cfc7e23147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1995 de Christopher Nolan met en scène un voleur de haute voltige ?",
-    "correct_answer": "Following",
-    "incorrect_answers": [
-      "Memento",
-      "Inception",
-      "The Prestige"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1515975375753-7ea7401d0898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Phoenix a remporté l'Oscar du meilleur acteur pour ce rôle sombre.",
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-45f82016c7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur a tourné 'Le Parrain' en 1972 ?",
@@ -235,59 +104,197 @@
     "incorrect_answers": [
       "Martin Scorsese",
       "Brian De Palma",
-      "Quentin Tarantino"
+      "Michael Cimino"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1542204625-ca960ca44635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Coppola a adapté le roman de Mario Puzo et créé une saga mythique.",
+    "imageUrl": "https://images.unsplash.com/photo-1628242787311-758dedb81ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur joue le rôle de Michael Corleone dans 'Le Parrain' ?",
-    "correct_answer": "Al Pacino",
+    "question": "Quel film a remporté la Palme d'Or en 2011 ?",
+    "correct_answer": "The Tree of Life",
     "incorrect_answers": [
-      "Robert De Niro",
-      "James Caan",
-      "Marlon Brando"
+      "The Artist",
+      "Amour",
+      "Blue Is the Warmest Color"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1543235074-9ef49e58ecd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Terence Malick a réalisé ce film contemplatif sur la vie et la mort.",
+    "imageUrl": "https://images.unsplash.com/photo-1514078156858-22cfc7e23147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 2003 de Peter Jackson est adapté d'un roman de J.R.R. Tolkien ?",
-    "correct_answer": "Le Seigneur des Anneaux : Le Retour du Roi",
+    "question": "Quel acteur joue le rôle de Forrest Gump dans le film éponyme ?",
+    "correct_answer": "Tom Hanks",
     "incorrect_answers": [
-      "Harry Potter à l'école des sorciers",
-      "Le Hobbit",
-      "Eragon"
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Matt Damon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1620651575627-2d83969add21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Hanks a remporté deux Oscars consécutifs pour 'Philadelphia' et 'Forrest Gump'.",
+    "imageUrl": "https://images.unsplash.com/photo-1595270308058-9768eb05862c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a tourné 'Inception' en 2010 ?",
-    "correct_answer": "Christopher Nolan",
+    "question": "Quel réalisateur a tourné 'Blade Runner' en 1982 ?",
+    "correct_answer": "Ridley Scott",
     "incorrect_answers": [
-      "Steven Spielberg",
+      "James Cameron",
+      "David Fincher",
+      "Denis Villeneuve"
+    ],
+    "explanation": "Le film est devenu culte pour son esthétique cyberpunk et ses thèmes philosophiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1500883004191-41545391b020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2018 ?",
+    "correct_answer": "The Shape of Water",
+    "incorrect_answers": [
+      "Get Out",
+      "Three Billboards",
+      "Dunkirk"
+    ],
+    "explanation": "Guillermo del Toro a réalisé ce conte fantastique poétique.",
+    "imageUrl": "https://images.unsplash.com/photo-1512412632857-b93f6ecce335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne Harry Potter dans la saga éponyme ?",
+    "correct_answer": "Daniel Radcliffe",
+    "incorrect_answers": [
+      "Rupert Grint",
+      "Emma Watson",
+      "Tom Felton"
+    ],
+    "explanation": "Radcliffe a été choisi à 11 ans pour incarner le jeune sorcier.",
+    "imageUrl": "https://images.unsplash.com/photo-1514077886732-9b375df6f77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Fight Club' en 1999 ?",
+    "correct_answer": "David Fincher",
+    "incorrect_answers": [
+      "Quentin Tarantino",
+      "Paul Thomas Anderson",
+      "Christopher Nolan"
+    ],
+    "explanation": "Fincher a créé un film culte sur l'identité et la rébellion.",
+    "imageUrl": "https://images.unsplash.com/photo-1632670467450-bc8f70fe5ad1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté la Palme d'Or en 2000 ?",
+    "correct_answer": "Dancer in the Dark",
+    "incorrect_answers": [
+      "La Pianiste",
+      "Les Invasions barbares",
+      "Le Goût des autres"
+    ],
+    "explanation": "Lars von Trier a réalisé ce drame musical avec Björk en tête d'affiche.",
+    "imageUrl": "https://images.unsplash.com/photo-1510282271343-fdc3dea55439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Tony Stark dans l'univers Marvel ?",
+    "correct_answer": "Robert Downey Jr.",
+    "incorrect_answers": [
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "explanation": "Downey Jr. a relancé sa carrière grâce à ce rôle emblématique.",
+    "imageUrl": "https://images.unsplash.com/photo-1522401195795-1d580bb06720?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Silence des agneaux' en 1991 ?",
+    "correct_answer": "Jonathan Demme",
+    "incorrect_answers": [
       "Martin Scorsese",
+      "Brian De Palma",
       "David Fincher"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1486693326701-1ea88c6e2af3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le film a remporté les 5 Oscars majeurs : meilleur film, réalisateur, acteur, actrice et scénario.",
+    "imageUrl": "https://images.unsplash.com/photo-1619473667737-b3abeb860aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur incarne le personnage de Dom Cobb dans 'Inception' ?",
-    "correct_answer": "Leonardo DiCaprio",
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2016 ?",
+    "correct_answer": "Spotlight",
+    "incorrect_answers": [
+      "The Revenant",
+      "The Big Short",
+      "Bridge of Spies"
+    ],
+    "explanation": "Le film retrace l'enquête du Boston Globe sur les abus sexuels dans l'Église.",
+    "imageUrl": "https://images.unsplash.com/photo-1732470484504-3f5b8ee9ab70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne Neo dans 'Matrix' (1999) ?",
+    "correct_answer": "Keanu Reeves",
     "incorrect_answers": [
       "Brad Pitt",
       "Tom Cruise",
-      "Johnny Depp"
+      "Will Smith"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-9f8cfca5d944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Reeves a accepté le rôle après avoir refusé 'Speed' pour éviter de jouer un policier.",
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-9f8cfca5d944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1999 de Lana et Lilly Wachowski a popularisé le genre cyberpunk ?",
-    "correct_answer": "Matrix",
+    "question": "Quel réalisateur a tourné 'Le Labyrinthe de Pan' en 2006 ?",
+    "correct_answer": "Guillermo del Toro",
     "incorrect_answers": [
-      "Blade Runner",
-      "Ghost in the Shell",
-      "The Terminator"
+      "Alejandro González Iñárritu",
+      "Alejandro Amenábar",
+      "Alfonso Cuarón"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-45f82016c7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Del Toro a mêlé fantastique et guerre civile espagnole dans ce chef-d'œuvre.",
+    "imageUrl": "https://images.unsplash.com/photo-1543242594-0476cd61b91f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté la Palme d'Or en 2007 ?",
+    "correct_answer": "4 mois, 3 semaines, 2 jours",
+    "incorrect_answers": [
+      "La Vie des autres",
+      "Le Scaphandre et le Papillon",
+      "La Class"
+    ],
+    "explanation": "Cristian Mungiu a réalisé ce drame poignant sur l'avortement sous Ceaușescu.",
+    "imageUrl": "https://images.unsplash.com/photo-1595270542459-2ec51c109e48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de James Bond dans 'GoldenEye' (1995) ?",
+    "correct_answer": "Pierce Brosnan",
+    "incorrect_answers": [
+      "Sean Connery",
+      "Roger Moore",
+      "Daniel Craig"
+    ],
+    "explanation": "Brosnan a incarné 007 après Timothy Dalton et avant Daniel Craig.",
+    "imageUrl": "https://images.unsplash.com/photo-1514076529215-03662283365b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Shining' en 1980 ?",
+    "correct_answer": "Stanley Kubrick",
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "Alfred Hitchcock",
+      "David Lynch"
+    ],
+    "explanation": "Kubrick a adapté le roman de Stephen King avec des scènes devenues cultes.",
+    "imageUrl": "https://images.unsplash.com/photo-1614030126544-b79b92e29e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2014 ?",
+    "correct_answer": "Birdman",
+    "incorrect_answers": [
+      "Boyhood",
+      "The Grand Budapest Hotel",
+      "Whiplash"
+    ],
+    "explanation": "Alejandro González Iñárritu a réalisé ce film sur un acteur en crise.",
+    "imageUrl": "https://images.unsplash.com/photo-1608663003623-2a62ac92df13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne Hannibal Lecter dans 'Le Silence des agneaux' ?",
+    "correct_answer": "Anthony Hopkins",
+    "incorrect_answers": [
+      "Jodie Foster",
+      "Scott Glenn",
+      "Ted Levine"
+    ],
+    "explanation": "Hopkins a remporté l'Oscar du meilleur acteur pour seulement 16 minutes à l'écran.",
+    "imageUrl": "https://images.unsplash.com/photo-1590292339438-5fc3be7fca9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur a tourné 'Amélie Poulain' en 2001 ?",
@@ -295,149 +302,32 @@
     "incorrect_answers": [
       "Luc Besson",
       "François Ozon",
-      "Patrice Leconte"
+      "Jacques Audiard"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1595270308058-9768eb05862c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Jeunet a créé un film poétique et visuellement unique sur Montmartre.",
+    "imageUrl": "https://images.unsplash.com/photo-1518929773866-ffd0b4500ff1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur joue le rôle d'Amélie Poulain dans 'Le Fabuleux Destin d'Amélie Poulain' ?",
-    "correct_answer": "Audrey Tautou",
+    "question": "Quel film a remporté la Palme d'Or en 2013 ?",
+    "correct_answer": "La Vie d'Adèle",
     "incorrect_answers": [
-      "Marion Cotillard",
-      "Léa Seydoux",
-      "Céline Sciamma"
+      "Inside Llewyn Davis",
+      "The Wind Rises",
+      "The Missing Picture"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1655734335178-c51d9e048677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Abdellatif Kechiche a réalisé ce film sur une relation amoureuse intense.",
+    "imageUrl": "https://images.unsplash.com/photo-1542204625-ca960ca44635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1993 de Steven Spielberg met en scène un dinosaure cloné ?",
-    "correct_answer": "Jurassic Park",
+    "question": "Quel acteur joue le rôle de Michael Corleone dans 'Le Parrain' ?",
+    "correct_answer": "Al Pacino",
     "incorrect_answers": [
-      "The Lost World",
-      "King Kong",
-      "Godzilla"
+      "Marlon Brando",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1632670467450-bc8f70fe5ad1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Oldboy' en 2003 ?",
-    "correct_answer": "Park Chan-wook",
-    "incorrect_answers": [
-      "Bong Joon-ho",
-      "Kim Ki-duk",
-      "Alejandro González Iñárritu"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1685838885743-0f059251d573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle principal dans 'Oldboy' ?",
-    "correct_answer": "Choi Min-sik",
-    "incorrect_answers": [
-      "Song Kang-ho",
-      "Lee Byung-hun",
-      "Gang Dong-won"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1532800181046-044ce9bfd577?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 2008 de Danny Boyle met en scène un survivant du virus Zika ?",
-    "correct_answer": "28 Jours plus tard",
-    "incorrect_answers": [
-      "Contagion",
-      "World War Z",
-      "The Last of Us"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1622829118151-1cfabdf11a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'The Social Network' en 2010 ?",
-    "correct_answer": "David Fincher",
-    "incorrect_answers": [
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Christopher Nolan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1589824545633-3b298bc1fb12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne Mark Zuckerberg dans 'The Social Network' ?",
-    "correct_answer": "Jesse Eisenberg",
-    "incorrect_answers": [
-      "Andrew Garfield",
-      "Justin Timberlake",
-      "Armie Hammer"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1582874007327-42d7cf9d6a1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1999 de Sam Mendes met en scène un vétéran du Vietnam ?",
-    "correct_answer": "American Beauty",
-    "incorrect_answers": [
-      "Forrest Gump",
-      "The Green Mile",
-      "Saving Private Ryan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1732470484504-3f5b8ee9ab70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'The Dark Knight' en 2008 ?",
-    "correct_answer": "Christopher Nolan",
-    "incorrect_answers": [
-      "Tim Burton",
-      "Joel Schumacher",
-      "Zack Snyder"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590493066887-a57f0cad53e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle du Joker dans 'The Dark Knight' ?",
-    "correct_answer": "Heath Ledger",
-    "incorrect_answers": [
-      "Joaquin Phoenix",
-      "Jack Nicholson",
-      "Jared Leto"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1500883004191-41545391b020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 2014 de Alejandro González Iñárritu met en scène un survivant d'un crash aérien ?",
-    "correct_answer": "Birdman",
-    "incorrect_answers": [
-      "The Revenant",
-      "Babel",
-      "Amores Perros"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553377102-31f26497d1d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'The Revenant' en 2015 ?",
-    "correct_answer": "Alejandro González Iñárritu",
-    "incorrect_answers": [
-      "Martin Scorsese",
-      "Quentin Tarantino",
-      "David Fincher"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1555246384-9e2f17cafb6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de Hugh Glass dans 'The Revenant' ?",
-    "correct_answer": "Leonardo DiCaprio",
-    "incorrect_answers": [
-      "Tom Hardy",
-      "Brad Pitt",
-      "Joaquin Phoenix"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1614030126544-b79b92e29e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 2006 de Alfonso Cuarón met en scène un enfant dans un monde post-apocalyptique ?",
-    "correct_answer": "Les Fils de l'homme",
-    "incorrect_answers": [
-      "Mad Max",
-      "The Road",
-      "Children of Men"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1693645325820-03c4be5b7031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Pacino a été nommé aux Oscars pour ce rôle emblématique de la mafia.",
+    "imageUrl": "https://images.unsplash.com/photo-1553377102-7479aacccd00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur a tourné 'Eternal Sunshine of the Spotless Mind' en 2004 ?",
@@ -447,156 +337,326 @@
       "David Fincher",
       "Spike Jonze"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627071491787-abd84ccf3ccd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Gondry a adapté le scénario de Kaufman sur l'amour et la mémoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1515975375753-7ea7401d0898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur joue le rôle de Joel Barish dans 'Eternal Sunshine of the Spotless Mind' ?",
-    "correct_answer": "Jim Carrey",
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2010 ?",
+    "correct_answer": "The Hurt Locker",
+    "incorrect_answers": [
+      "Avatar",
+      "The Blind Side",
+      "District 9"
+    ],
+    "explanation": "Kathryn Bigelow est la première femme à remporter l'Oscar du meilleur réalisateur.",
+    "imageUrl": "https://images.unsplash.com/photo-1590292339487-25ad0d60f3c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne Travis Bickle dans 'Taxi Driver' (1976) ?",
+    "correct_answer": "Robert De Niro",
+    "incorrect_answers": [
+      "Al Pacino",
+      "Dustin Hoffman",
+      "Jack Nicholson"
+    ],
+    "explanation": "De Niro a improvisé la célèbre réplique 'You talkin' to me ?'.",
+    "imageUrl": "https://images.unsplash.com/photo-1543235074-9ef49e58ecd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Grand Bleu' en 1988 ?",
+    "correct_answer": "Luc Besson",
+    "incorrect_answers": [
+      "Jean-Jacques Beineix",
+      "Jean-Pierre Jeunet",
+      "François Ozon"
+    ],
+    "explanation": "Besson a popularisé la plongée sous-marine avec ce film visuellement époustouflant.",
+    "imageUrl": "https://images.unsplash.com/photo-1534949378632-3e4e87ec219f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté la Palme d'Or en 2016 ?",
+    "correct_answer": "Moi, Daniel Blake",
+    "incorrect_answers": [
+      "Juste la fin du monde",
+      "American Honey",
+      "The Lobster"
+    ],
+    "explanation": "Ken Loach a réalisé ce drame social sur le système de santé britannique.",
+    "imageUrl": "https://images.unsplash.com/photo-1590493066887-a57f0cad53e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Tyler Durden dans 'Fight Club' ?",
+    "correct_answer": "Brad Pitt",
     "incorrect_answers": [
       "Edward Norton",
-      "Joaquin Phoenix",
-      "Mark Ruffalo"
+      "Jared Leto",
+      "Matt Damon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1520904541532-f47ac41fec59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Pitt a incarné ce personnage charismatique et subversif.",
+    "imageUrl": "https://images.unsplash.com/photo-1557407616-b2c2dd424ee4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1999 de Stanley Kubrick met en scène une guerre fictive dans l'espace ?",
-    "correct_answer": "Eyes Wide Shut",
-    "incorrect_answers": [
-      "2001, l'Odyssée de l'espace",
-      "A Clockwork Orange",
-      "The Shining"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1742613713092-43e5f56be531?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'The Shining' en 1980 ?",
-    "correct_answer": "Stanley Kubrick",
-    "incorrect_answers": [
-      "Martin Scorsese",
-      "Brian De Palma",
-      "David Lynch"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595270542459-2ec51c109e48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de Jack Torrance dans 'The Shining' ?",
-    "correct_answer": "Jack Nicholson",
-    "incorrect_answers": [
-      "Robert De Niro",
-      "Tom Hanks",
-      "Al Pacino"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553377102-7479aacccd00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 2012 de Quentin Tarantino met en scène un esclave affranchi ?",
-    "correct_answer": "Django Unchained",
-    "incorrect_answers": [
-      "Inglourious Basterds",
-      "Kill Bill",
-      "Pulp Fiction"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1530832227153-9276cf1d19af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Inglourious Basterds' en 2009 ?",
-    "correct_answer": "Quentin Tarantino",
-    "incorrect_answers": [
-      "Martin Scorsese",
-      "David Fincher",
-      "Christopher Nolan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590292339487-25ad0d60f3c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de Hans Landa dans 'Inglourious Basterds' ?",
-    "correct_answer": "Christoph Waltz",
-    "incorrect_answers": [
-      "Brad Pitt",
-      "Leonardo DiCaprio",
-      "Tom Cruise"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1557407616-b2c2dd424ee4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 2017 de Guillermo del Toro met en scène une créature fantastique ?",
-    "correct_answer": "La Forme de l'eau",
-    "incorrect_answers": [
-      "Pan's Labyrinth",
-      "Pacific Rim",
-      "Crimson Peak"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1543242594-0476cd61b91f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Pan's Labyrinth' en 2006 ?",
-    "correct_answer": "Guillermo del Toro",
-    "incorrect_answers": [
-      "Alejandro González Iñárritu",
-      "Alfonso Cuarón",
-      "Akira Kurosawa"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1533247126815-e24374cdcc21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de l'Officier dans 'La Forme de l'eau' ?",
-    "correct_answer": "Michael Shannon",
-    "incorrect_answers": [
-      "Doug Jones",
-      "Octavia Spencer",
-      "Sally Hawkins"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1645149837372-e8a93219ab93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 2010 de Darren Aronofsky met en scène un danseur obsédé ?",
-    "correct_answer": "Black Swan",
-    "incorrect_answers": [
-      "The Wrestler",
-      "Requiem for a Dream",
-      "Mother!"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583421487713-3adbe43732cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Requiem for a Dream' en 2000 ?",
-    "correct_answer": "Darren Aronofsky",
-    "incorrect_answers": [
-      "David Fincher",
-      "Martin Scorsese",
-      "Christopher Nolan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1640498293268-c7151c778c30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de Harry Goldfarb dans 'Requiem for a Dream' ?",
-    "correct_answer": "Jared Leto",
-    "incorrect_answers": [
-      "Marlon Wayans",
-      "Jennifer Connelly",
-      "Ellen Burstyn"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1522401195795-1d580bb06720?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 2008 de Danny Boyle met en scène un survivant d'un virus mortel ?",
-    "correct_answer": "Sunshine",
-    "incorrect_answers": [
-      "28 Jours plus tard",
-      "Contagion",
-      "World War Z"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590292339438-5fc3be7fca9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'The Departed' en 2006 ?",
-    "correct_answer": "Martin Scorsese",
+    "question": "Quel réalisateur a tourné 'Le Pianiste' en 2002 ?",
+    "correct_answer": "Roman Polanski",
     "incorrect_answers": [
       "Steven Spielberg",
-      "Christopher Nolan",
+      "Clint Eastwood",
+      "Martin Scorsese"
+    ],
+    "explanation": "Polanski a adapté les mémoires de Władysław Szpilman sur la Shoah.",
+    "imageUrl": "https://images.unsplash.com/photo-1589824545633-3b298bc1fb12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2012 ?",
+    "correct_answer": "The Artist",
+    "incorrect_answers": [
+      "Hugo Cabret",
+      "The Descendants",
+      "Midnight in Paris"
+    ],
+    "explanation": "Michel Hazanavicius a réalisé ce film muet hommage au cinéma des années 1920.",
+    "imageUrl": "https://images.unsplash.com/photo-1655734335178-c51d9e048677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne Vito Corleone dans 'Le Parrain' ?",
+    "correct_answer": "Marlon Brando",
+    "incorrect_answers": [
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan"
+    ],
+    "explanation": "Brando a remporté l'Oscar du meilleur acteur pour ce rôle mythique.",
+    "imageUrl": "https://images.unsplash.com/photo-1742613713092-43e5f56be531?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Oldboy' en 2003 ?",
+    "correct_answer": "Park Chan-wook",
+    "incorrect_answers": [
+      "Bong Joon-ho",
+      "Kim Ki-duk",
+      "Lee Chang-dong"
+    ],
+    "explanation": "Ce film coréen est un chef-d'œuvre du cinéma violent et vengeur.",
+    "imageUrl": "https://images.unsplash.com/photo-1493599588594-dc6ae2c099bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté la Palme d'Or en 2018 ?",
+    "correct_answer": "Une affaire de famille",
+    "incorrect_answers": [
+      "BlacKkKlansman",
+      "Capharnaüm",
+      "Cold War"
+    ],
+    "explanation": "Hirokazu Kore-eda a réalisé ce drame familial sur la pauvreté au Japon.",
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-e47cdc7a6b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de John McClane dans 'Die Hard' (1988) ?",
+    "correct_answer": "Bruce Willis",
+    "incorrect_answers": [
+      "Arnold Schwarzenegger",
+      "Sylvester Stallone",
+      "Steven Seagal"
+    ],
+    "explanation": "Willis a été choisi pour son image d'acteur comique, pas d'action.",
+    "imageUrl": "https://images.unsplash.com/photo-1610899633400-4fd20fba13fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Pulp Fiction' avant de devenir une star ?",
+    "correct_answer": "Quentin Tarantino",
+    "incorrect_answers": [
+      "Robert Rodriguez",
+      "Paul Thomas Anderson",
       "David Fincher"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1619473667737-b3abeb860aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Tarantino a écrit le scénario en 3 semaines et financé le film lui-même.",
+    "imageUrl": "https://images.unsplash.com/photo-1582874007327-42d7cf9d6a1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2015 ?",
+    "correct_answer": "Spotlight",
+    "incorrect_answers": [
+      "The Revenant",
+      "The Big Short",
+      "Bridge of Spies"
+    ],
+    "explanation": "Le film retrace l'enquête du Boston Globe sur les abus sexuels dans l'Église.",
+    "imageUrl": "https://images.unsplash.com/photo-1693645325820-03c4be5b7031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne Maximus dans 'Gladiator' (2000) ?",
+    "correct_answer": "Russell Crowe",
+    "incorrect_answers": [
+      "Joaquin Phoenix",
+      "Jude Law",
+      "Tom Hanks"
+    ],
+    "explanation": "Crowe a remporté l'Oscar du meilleur acteur pour ce rôle épique.",
+    "imageUrl": "https://images.unsplash.com/photo-1640498293268-c7151c778c30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Voyage de Chihiro' en 2001 ?",
+    "correct_answer": "Hayao Miyazaki",
+    "incorrect_answers": [
+      "Isao Takahata",
+      "Satoshi Kon",
+      "Mamoru Hosoda"
+    ],
+    "explanation": "Miyazaki a créé ce chef-d'œuvre d'animation japonaise primé à Berlin.",
+    "imageUrl": "https://images.unsplash.com/photo-1520904541532-f47ac41fec59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté la Palme d'Or en 2014 ?",
+    "correct_answer": "Winter Sleep",
+    "incorrect_answers": [
+      "Mommy",
+      "The Wonders",
+      "Two Days, One Night"
+    ],
+    "explanation": "Nuri Bilge Ceylan a réalisé ce drame philosophique sur les relations humaines.",
+    "imageUrl": "https://images.unsplash.com/photo-1575507479801-ddc008fb487f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Walter White dans 'Breaking Bad' ?",
+    "correct_answer": "Bryan Cranston",
+    "incorrect_answers": [
+      "Aaron Paul",
+      "Giancarlo Esposito",
+      "Bob Odenkirk"
+    ],
+    "explanation": "Cranston a transformé sa carrière grâce à ce rôle de professeur devenu trafiquant.",
+    "imageUrl": "https://images.unsplash.com/photo-1457551859869-d4b7ab27184c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Seigneur des Anneaux : La Communauté de l'Anneau' en 2001 ?",
+    "correct_answer": "Peter Jackson",
+    "incorrect_answers": [
+      "George Lucas",
+      "Steven Spielberg",
+      "James Cameron"
+    ],
+    "explanation": "Jackson a adapté Tolkien en une trilogie épique tournée en Nouvelle-Zélande.",
+    "imageUrl": "https://images.unsplash.com/photo-1510867461263-2876b3bc4bf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2017 ?",
+    "correct_answer": "Moonlight",
+    "incorrect_answers": [
+      "La La Land",
+      "Hacksaw Ridge",
+      "Fences"
+    ],
+    "explanation": "Le film retrace l'enfance, l'adolescence et l'âge adulte d'un homme noir.",
+    "imageUrl": "https://images.unsplash.com/photo-1608663003471-9fe0ded7eb34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne Hannibal Lecter dans 'Hannibal' (2001) ?",
+    "correct_answer": "Anthony Hopkins",
+    "incorrect_answers": [
+      "Gaspard Ulliel",
+      "Mads Mikkelsen",
+      "Ralph Fiennes"
+    ],
+    "explanation": "Hopkins a repris le rôle après 'Le Silence des agneaux' malgré son âge.",
+    "imageUrl": "https://images.unsplash.com/photo-1543238825-7307761a433b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Fabuleux Destin d'Amélie Poulain' en 2001 ?",
+    "correct_answer": "Jean-Pierre Jeunet",
+    "incorrect_answers": [
+      "Luc Besson",
+      "François Ozon",
+      "Jacques Audiard"
+    ],
+    "explanation": "Jeunet a créé un univers visuel unique inspiré par le surréalisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1627071491787-abd84ccf3ccd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté la Palme d'Or en 2015 ?",
+    "correct_answer": "Dheepan",
+    "incorrect_answers": [
+      "The Lobster",
+      "The Assassin",
+      "Son of Saul"
+    ],
+    "explanation": "Jacques Audiard a réalisé ce film sur des réfugiés tamouls en France.",
+    "imageUrl": "https://images.unsplash.com/photo-1533247126815-e24374cdcc21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Tony Soprano dans 'Les Soprano' ?",
+    "correct_answer": "James Gandolfini",
+    "incorrect_answers": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Steve Buscemi"
+    ],
+    "explanation": "Gandolfini a incarné ce parrain de la mafia new-yorkaise pendant 6 saisons.",
+    "imageUrl": "https://images.unsplash.com/photo-1639426106423-62e489d806a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2019 ?",
+    "correct_answer": "Green Book",
+    "incorrect_answers": [
+      "Roma",
+      "The Favourite",
+      "A Star Is Born"
+    ],
+    "explanation": "Le film retrace la tournée d'un pianiste noir dans le Sud ségrégationniste.",
+    "imageUrl": "https://images.unsplash.com/photo-1553377102-31f26497d1d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur incarne le Joker dans 'The Dark Knight' (2008) ?",
+    "correct_answer": "Heath Ledger",
+    "incorrect_answers": [
+      "Joaquin Phoenix",
+      "Jared Leto",
+      "Jack Nicholson"
+    ],
+    "explanation": "Ledger a remporté l'Oscar posthume pour ce rôle de terroriste chaotique.",
+    "imageUrl": "https://images.unsplash.com/photo-1530832227153-9276cf1d19af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Discours d'un roi' en 2010 ?",
+    "correct_answer": "Tom Hooper",
+    "incorrect_answers": [
+      "David Fincher",
+      "Christopher Nolan",
+      "Danny Boyle"
+    ],
+    "explanation": "Le film retrace la thérapie de George VI pour surmonter son bégaiement.",
+    "imageUrl": "https://images.unsplash.com/photo-1645149837372-e8a93219ab93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté la Palme d'Or en 2017 ?",
+    "correct_answer": "The Square",
+    "incorrect_answers": [
+      "120 Battements par minute",
+      "Loveless",
+      "You Were Never Really Here"
+    ],
+    "explanation": "Ruben Östlund a réalisé cette satire du monde de l'art contemporain.",
+    "imageUrl": "https://images.unsplash.com/photo-1532800181046-044ce9bfd577?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Walter E. Kurtz dans 'Apocalypse Now' (1979) ?",
+    "correct_answer": "Marlon Brando",
+    "incorrect_answers": [
+      "Martin Sheen",
+      "Robert Duvall",
+      "Dennis Hopper"
+    ],
+    "explanation": "Brando a improvisé une grande partie de ses répliques dans ce film de guerre.",
+    "imageUrl": "https://images.unsplash.com/photo-1647534605086-2a788fe5ad12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Patient anglais' en 1996 ?",
+    "correct_answer": "Anthony Minghella",
+    "incorrect_answers": [
+      "James Cameron",
+      "Steven Spielberg",
+      "Martin Scorsese"
+    ],
+    "explanation": "Le film a remporté 9 Oscars, dont meilleur film et réalisateur.",
+    "imageUrl": "https://images.unsplash.com/photo-1730182670365-327e319f92da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

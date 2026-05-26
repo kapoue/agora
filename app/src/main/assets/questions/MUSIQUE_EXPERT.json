@@ -1,143 +1,124 @@
 [
   {
-    "question": "Quel compositeur a écrit l'opéra 'Wozzeck', considéré comme un chef-d'œuvre de l'expressionnisme musical ?",
+    "question": "Quel compositeur a écrit l'opéra 'Wozzeck', considéré comme l'un des premiers chefs-d'œuvre de l'expressionnisme musical ?",
     "correct_answer": "Alban Berg",
     "incorrect_answers": [
-      "Arnold Schönberg",
       "Anton Webern",
-      "Paul Hindemith"
+      "Arnold Schönberg",
+      "Igor Stravinsky"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801823657-faf97ff912cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Berg a composé cet opéra en 1925, marquant un tournant dans l'expressionnisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1692575853105-eb72bfeaec83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel instrument est traditionnellement utilisé dans la musique classique indienne pour accompagner le chant ?",
     "correct_answer": "Sitar",
     "incorrect_answers": [
       "Violon",
-      "Flûte traversière",
-      "Piano"
+      "Piano",
+      "Flûte traversière"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1650894752177-98176bf167ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le sitar, instrument à cordes pincées, est emblématique de la musique hindoustanie.",
+    "imageUrl": "https://images.unsplash.com/photo-1636367581920-d3468e1d220a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' en 1973, l'un des albums les plus vendus de l'histoire ?",
+    "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' en 1973, devenu l'un des plus vendus de l'histoire ?",
     "correct_answer": "Pink Floyd",
     "incorrect_answers": [
       "Led Zeppelin",
-      "The Rolling Stones",
+      "The Beatles",
       "Queen"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767468889316-a0739e14297b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album conceptuel explore des thèmes comme la folie et le temps.",
+    "imageUrl": "https://images.unsplash.com/photo-1708333070773-de4605777541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur a écrit la 'Symphonie fantastique' en 1830, inspirée par son amour pour Harriet Smithson ?",
-    "correct_answer": "Hector Berlioz",
-    "incorrect_answers": [
-      "Frédéric Chopin",
-      "Franz Liszt",
-      "Robert Schumann"
-    ],
-    "imageUrl": "https://images.unsplash.com/flagged/photo-1572372710427-43f08447d837?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est au cœur de la musique traditionnelle japonaise, notamment dans le genre 'gagaku' ?",
-    "correct_answer": "Koto",
-    "incorrect_answers": [
-      "Shakuhachi",
-      "Biwa",
-      "Taiko"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590026821754-7075cf10626e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de metal a sorti l'album 'Master of Puppets' en 1986, souvent considéré comme un classique du genre ?",
-    "correct_answer": "Metallica",
-    "incorrect_answers": [
-      "Slayer",
-      "Megadeth",
-      "Anthrax"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1594916211506-c6079cc3b26d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'Le Sacre du printemps', dont la première représentation en 1913 a provoqué un scandale ?",
-    "correct_answer": "Igor Stravinsky",
-    "incorrect_answers": [
-      "Sergei Prokofiev",
-      "Dmitri Chostakovitch",
-      "Modeste Moussorgski"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801821689-b6ba4919c9a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument à cordes pincées est emblématique de la musique flamenco espagnole ?",
-    "correct_answer": "Guitare flamenca",
-    "incorrect_answers": [
-      "Luth",
-      "Mandoline",
-      "Harpe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583257984061-135437bac7c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe a sorti l'album 'Kind of Blue' en 1959, considéré comme l'un des plus grands albums de jazz de tous les temps ?",
-    "correct_answer": "Miles Davis",
-    "incorrect_answers": [
-      "John Coltrane",
-      "Thelonious Monk",
-      "Charles Mingus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1598300023303-a7af0627557c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'La Traviata', un opéra italien basé sur la pièce 'La Dame aux camélias' d'Alexandre Dumas ?",
-    "correct_answer": "Giuseppe Verdi",
-    "incorrect_answers": [
-      "Gioachino Rossini",
-      "Gaetano Donizetti",
-      "Vincenzo Bellini"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1640420301600-37a8c72961ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument à vent est traditionnellement utilisé dans la musique militaire ottomane ?",
-    "correct_answer": "Zurna",
-    "incorrect_answers": [
-      "Flûte à bec",
-      "Clarinette",
-      "Trompette"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1722841549679-e9f77fb291d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de rock progressif a sorti l'album 'Close to the Edge' en 1972, considéré comme un chef-d'œuvre du genre ?",
-    "correct_answer": "Yes",
-    "incorrect_answers": [
-      "Genesis",
-      "King Crimson",
-      "Pink Floyd"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595775948902-f04682c9e588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'La Mer', une œuvre orchestrale en trois mouvements inspirée par la mer ?",
+    "question": "Quel compositeur français du XIXe siècle est célèbre pour ses 'Préludes' pour piano et son 'Clair de Lune' ?",
     "correct_answer": "Claude Debussy",
     "incorrect_answers": [
       "Maurice Ravel",
       "Erik Satie",
       "Camille Saint-Saëns"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696949772210-ac1e9e59a4d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Debussy a révolutionné l'harmonie avec son impressionnisme musical.",
+    "imageUrl": "https://images.unsplash.com/photo-1702385515151-06bf862dc054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est au cœur de la musique traditionnelle irlandaise ?",
-    "correct_answer": "Fiddle",
+    "question": "Quel instrument à cordes frottées est surnommé 'le roi des instruments' dans la musique baroque ?",
+    "correct_answer": "Violon",
     "incorrect_answers": [
-      "Cornemuse",
-      "Harmonica",
-      "Banjo"
+      "Violoncelle",
+      "Contrebasse",
+      "Luth"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1685640477533-f4d00f9b2f50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le violon, avec son registre aigu, dominait les orchestres baroques.",
+    "imageUrl": "https://images.unsplash.com/photo-1523174802553-10fd69b213ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de metal a sorti l'album 'Master of Puppets' en 1986, considéré comme un classique du genre ?",
+    "correct_answer": "Metallica",
+    "incorrect_answers": [
+      "Slayer",
+      "Megadeth",
+      "Iron Maiden"
+    ],
+    "explanation": "Cet album est souvent cité comme l'un des meilleurs albums de metal de tous les temps.",
+    "imageUrl": "https://images.unsplash.com/photo-1685640477533-f4d00f9b2f50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur autrichien a écrit la 'Symphonie n°9' avec le 'Choral de la Joie' en 1824 ?",
+    "correct_answer": "Ludwig van Beethoven",
+    "incorrect_answers": [
+      "Franz Schubert",
+      "Wolfgang Amadeus Mozart",
+      "Joseph Haydn"
+    ],
+    "explanation": "Cette symphonie, inachevée à sa mort, est un symbole de la musique occidentale.",
+    "imageUrl": "https://images.unsplash.com/photo-1512404871764-1cf03a297841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument est au cœur de la musique flamenco, avec des cordes pincées et un son percussif ?",
+    "correct_answer": "Guitare flamenca",
+    "incorrect_answers": [
+      "Cajón",
+      "Bandurria",
+      "Oud"
+    ],
+    "explanation": "La guitare flamenca, plus légère qu'une classique, est essentielle au cante jondo.",
+    "imageUrl": "https://images.unsplash.com/photo-1579883238462-2c9025486ef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock progressif britannique a sorti l'album 'Thick as a Brick' en 1972, une parodie d'album conceptuel ?",
+    "correct_answer": "Jethro Tull",
+    "incorrect_answers": [
+      "Yes",
+      "Genesis",
+      "Pink Floyd"
+    ],
+    "explanation": "L'album, présenté comme une œuvre de 'Gerald Bostock', est en réalité une satire.",
+    "imageUrl": "https://images.unsplash.com/photo-1729655917669-829f93cd8ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur russe a écrit 'Le Sacre du printemps', provoquant un scandale lors de sa création en 1913 ?",
+    "correct_answer": "Igor Stravinsky",
+    "incorrect_answers": [
+      "Sergei Rachmaninoff",
+      "Dmitri Chostakovitch",
+      "Modest Moussorgski"
+    ],
+    "explanation": "Cette œuvre, avec ses rythmes complexes, a révolutionné la musique moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1699521378273-03d00985e397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à vent en bois, ancêtre du hautbois, était utilisé dans les orchestres baroques ?",
+    "correct_answer": "Hautbois baroque",
+    "incorrect_answers": [
+      "Clarinette",
+      "Basson",
+      "Flûte à bec"
+    ],
+    "explanation": "Le hautbois baroque, sans clés modernes, avait un son plus nasal et perçant.",
+    "imageUrl": "https://images.unsplash.com/photo-1720602463847-620b9af0f61d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel groupe de punk rock a sorti l'album 'Never Mind the Bollocks, Here's the Sex Pistols' en 1977 ?",
@@ -147,396 +128,436 @@
       "The Ramones",
       "The Damned"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1685672275928-062f46c86c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album a défini le punk britannique avec des paroles provocatrices.",
+    "imageUrl": "https://images.unsplash.com/photo-1763627516727-2ca3e324fa59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur a écrit 'Le Carnaval des animaux', une suite musicale humoristique pour orchestre ?",
-    "correct_answer": "Camille Saint-Saëns",
+    "question": "Quel compositeur français a écrit 'Boléro', une œuvre orchestrale répétitive devenue un tube mondial ?",
+    "correct_answer": "Maurice Ravel",
     "incorrect_answers": [
-      "Georges Bizet",
-      "Jacques Offenbach",
-      "Charles Gounod"
+      "Camille Saint-Saëns",
+      "Erik Satie",
+      "Francis Poulenc"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1598515750914-e4d9c650b68b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Boléro, créé en 1928, est célèbre pour son crescendo hypnotique.",
+    "imageUrl": "https://images.unsplash.com/photo-1625801820911-59ce8bb65f6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est traditionnellement utilisé dans la musique classique chinoise pour accompagner le chant ?",
-    "correct_answer": "Guqin",
+    "question": "Quel instrument à cordes pincées, proche du luth, est utilisé dans la musique arabe classique ?",
+    "correct_answer": "Oud",
     "incorrect_answers": [
-      "Erhu",
-      "Pipa",
-      "Dizi"
+      "Sitar",
+      "Koto",
+      "Balalaïka"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1512404871764-1cf03a297841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'oud, sans frettes, est l'instrument roi de la musique arabe et turque.",
+    "imageUrl": "https://images.unsplash.com/photo-1518251030019-42bb0ce5f409?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de rock a sorti l'album 'Led Zeppelin IV' en 1971, contenant le titre 'Stairway to Heaven' ?",
-    "correct_answer": "Led Zeppelin",
+    "question": "Quel groupe de rock a sorti l'album 'Kind of Blue' en 1959, considéré comme le chef-d'œuvre du jazz modal ?",
+    "correct_answer": "Miles Davis",
     "incorrect_answers": [
-      "The Who",
-      "The Doors",
-      "Cream"
+      "John Coltrane",
+      "Thelonious Monk",
+      "Charles Mingus"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1692575853105-eb72bfeaec83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album, avec des morceaux comme 'So What', a redéfini le jazz.",
+    "imageUrl": "https://images.unsplash.com/photo-1511220043390-e929fe0edf55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur a écrit 'Les Quatre Saisons', un ensemble de quatre concertos pour violon ?",
-    "correct_answer": "Antonio Vivaldi",
+    "question": "Quel compositeur allemand a écrit 'L'Or du Rhin', premier opéra de sa tétralogie 'L'Anneau du Nibelung' ?",
+    "correct_answer": "Richard Wagner",
     "incorrect_answers": [
-      "Johann Sebastian Bach",
-      "Georg Philipp Telemann",
-      "Arcangelo Corelli"
+      "Richard Strauss",
+      "Johannes Brahms",
+      "Felix Mendelssohn"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1518251030019-42bb0ce5f409?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Wagner a révolutionné l'opéra avec ses leitmotivs et son orchestre gigantesque.",
+    "imageUrl": "https://images.unsplash.com/photo-1571299866831-6bba2904270b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est emblématique de la musique country américaine ?",
-    "correct_answer": "Banjo",
+    "question": "Quel instrument à percussion, originaire d'Afrique, est devenu emblématique de la samba brésilienne ?",
+    "correct_answer": "Surdo",
     "incorrect_answers": [
-      "Accordéon",
-      "Saxophone",
-      "Trombone"
+      "Tambourin",
+      "Conga",
+      "Djembé"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1636367581920-d3468e1d220a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le surdo, gros tambour, donne le rythme de base dans les batteries de samba.",
+    "imageUrl": "https://images.unsplash.com/photo-1590026821754-7075cf10626e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de new wave a sorti l'album 'Remain in Light' en 1980, produit par Brian Eno ?",
-    "correct_answer": "Talking Heads",
+    "question": "Quel groupe de rock psychédélique a sorti l'album 'Sgt. Pepper's Lonely Hearts Club Band' en 1967 ?",
+    "correct_answer": "The Beatles",
     "incorrect_answers": [
-      "Depeche Mode",
-      "The Cure",
-      "New Order"
+      "The Rolling Stones",
+      "Pink Floyd",
+      "The Doors"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1692552952039-b56f3cd97211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album conceptuel a marqué l'apogée de la période psychédélique des Beatles.",
+    "imageUrl": "https://images.unsplash.com/photo-1709495596309-4e60d817ae3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur a écrit 'La Flûte enchantée', un opéra en deux actes basé sur un conte de fées ?",
+    "question": "Quel compositeur russe a écrit 'Tableaux d'une exposition', une suite pour piano orchestrée plus tard par Ravel ?",
+    "correct_answer": "Modest Moussorgski",
+    "incorrect_answers": [
+      "Piotr Ilitch Tchaïkovski",
+      "Sergei Prokofiev",
+      "Dmitri Chostakovitch"
+    ],
+    "explanation": "Cette œuvre, inspirée par des peintures, est un pilier du répertoire pianistique.",
+    "imageUrl": "https://images.unsplash.com/photo-1584535428906-f1d9fd96d45b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à cordes frottées, plus grand que le violon, est utilisé pour les parties graves dans un orchestre ?",
+    "correct_answer": "Violoncelle",
+    "incorrect_answers": [
+      "Contrebasse",
+      "Alto",
+      "Harpe"
+    ],
+    "explanation": "Le violoncelle, joué assis, a un registre grave et lyrique.",
+    "imageUrl": "https://images.unsplash.com/photo-1745618409909-2c1af496c812?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de metal progressif a sorti l'album 'Metropolis Pt. 2: Scenes from a Memory' en 1999 ?",
+    "correct_answer": "Dream Theater",
+    "incorrect_answers": [
+      "Tool",
+      "Opeth",
+      "Symphony X"
+    ],
+    "explanation": "Cet album conceptuel, avec des influences jazz, est un classique du genre.",
+    "imageUrl": "https://images.unsplash.com/photo-1625801827670-3ae6e48dc89d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur autrichien a écrit 'La Flûte enchantée', un singspiel de 1791 ?",
     "correct_answer": "Wolfgang Amadeus Mozart",
     "incorrect_answers": [
       "Ludwig van Beethoven",
-      "Joseph Haydn",
-      "Christoph Willibald Gluck"
+      "Franz Schubert",
+      "Joseph Haydn"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1630353174704-72da2fe9298e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet opéra, mêlant fantastique et maçonnerie, est l'un des plus joués au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1574282481525-530f0ed989cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est traditionnellement utilisé dans la musique classique japonaise pour accompagner le chant ?",
-    "correct_answer": "Shakuhachi",
+    "question": "Quel instrument à vent en cuivre, sans pistons, est utilisé dans les fanfares militaires ?",
+    "correct_answer": "Trompette naturelle",
     "incorrect_answers": [
-      "Koto",
-      "Biwa",
-      "Taiko"
+      "Trombone",
+      "Cor",
+      "Tuba"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580151671904-f599d3f0b3f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La trompette naturelle, sans mécanisme, était utilisée avant l'invention des pistons.",
+    "imageUrl": "https://images.unsplash.com/photo-1625801823657-faf97ff912cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de metal a sorti l'album 'Ride the Lightning' en 1984, contenant des titres comme 'Fade to Black' ?",
-    "correct_answer": "Metallica",
+    "question": "Quel groupe de rock a sorti l'album 'The Joshua Tree' en 1987, devenu un symbole de la musique des années 1980 ?",
+    "correct_answer": "U2",
     "incorrect_answers": [
-      "Slayer",
-      "Megadeth",
-      "Anthrax"
+      "The Police",
+      "R.E.M.",
+      "The Cure"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1720602463847-620b9af0f61d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album, avec des tubes comme 'With or Without You', a propulsé U2 au sommet.",
+    "imageUrl": "https://images.unsplash.com/photo-1730098106588-3629086606ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur a écrit 'Boléro', une œuvre orchestrale devenue célèbre pour son rythme répétitif ?",
+    "question": "Quel compositeur français a écrit 'Daphnis et Chloé', un ballet symphonique de 1912 ?",
     "correct_answer": "Maurice Ravel",
     "incorrect_answers": [
       "Claude Debussy",
-      "Igor Stravinsky",
-      "Sergei Prokofiev"
+      "Erik Satie",
+      "Francis Poulenc"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1709495596309-4e60d817ae3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette œuvre, commandée par les Ballets Russes, est un chef-d'œuvre orchestral.",
+    "imageUrl": "https://images.unsplash.com/photo-1580151624121-10557144c85c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est emblématique de la musique bluegrass américaine ?",
-    "correct_answer": "Mandoline",
+    "question": "Quel instrument à cordes pincées, originaire d'Espagne, est utilisé dans le flamenco et la musique classique ?",
+    "correct_answer": "Guitare classique",
     "incorrect_answers": [
-      "Violon",
-      "Guitare",
-      "Banjo"
+      "Bandurria",
+      "Laúd",
+      "Vihuela"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1699521378273-03d00985e397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La guitare classique, avec ses six cordes en nylon, est polyvalente et intemporelle.",
+    "imageUrl": "https://images.unsplash.com/photo-1546367791-e7447b431084?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de rock psychédélique a sorti l'album 'The Piper at the Gates of Dawn' en 1967 ?",
-    "correct_answer": "Pink Floyd",
-    "incorrect_answers": [
-      "The Doors",
-      "The Grateful Dead",
-      "Jimi Hendrix Experience"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1523174802553-10fd69b213ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'Le Clavecin bien tempéré', un recueil de préludes et fugues pour clavecin ?",
-    "correct_answer": "Johann Sebastian Bach",
-    "incorrect_answers": [
-      "Georg Friedrich Haendel",
-      "Dietrich Buxtehude",
-      "Johann Pachelbel"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1571299866831-6bba2904270b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de rock a sorti l'album 'London Calling' en 1979, considéré comme un classique du punk rock ?",
+    "question": "Quel groupe de punk rock a sorti l'album 'London Calling' en 1979, considéré comme un classique du genre ?",
     "correct_answer": "The Clash",
     "incorrect_answers": [
       "Sex Pistols",
       "The Ramones",
       "The Damned"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1708333070773-de4605777541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album, mêlant punk et reggae, a élargi les horizons du genre.",
+    "imageUrl": "https://images.unsplash.com/photo-1625801821689-b6ba4919c9a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur a écrit 'La Symphonie du Nouveau Monde', inspirée par la musique folklorique américaine ?",
-    "correct_answer": "Antonín Dvořák",
+    "question": "Quel compositeur allemand a écrit 'Le Messie', un oratorio célèbre pour son 'Hallelujah' ?",
+    "correct_answer": "Georg Friedrich Haendel",
     "incorrect_answers": [
-      "Bedřich Smetana",
-      "Leoš Janáček",
-      "Zdeněk Fibich"
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Felix Mendelssohn"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1619467533662-ed8c255242c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Composé en 1741, cet oratorio est un pilier de la musique sacrée baroque.",
+    "imageUrl": "https://images.unsplash.com/photo-1630353174704-72da2fe9298e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est emblématique de la musique traditionnelle grecque ?",
-    "correct_answer": "Bouzouki",
+    "question": "Quel instrument à percussion, originaire d'Amérique latine, est utilisé dans la salsa et la musique cubaine ?",
+    "correct_answer": "Congas",
     "incorrect_answers": [
-      "Oud",
-      "Saz",
-      "Qanun"
+      "Bongos",
+      "Timbal",
+      "Djembé"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763627516727-2ca3e324fa59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les congas, en forme de tonneau, produisent des sons graves et aigus.",
+    "imageUrl": "https://images.unsplash.com/photo-1745328599100-ae72309d095f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de metal a sorti l'album 'Paranoid' en 1970, contenant le titre 'Iron Man' ?",
-    "correct_answer": "Black Sabbath",
-    "incorrect_answers": [
-      "Led Zeppelin",
-      "Deep Purple",
-      "Cream"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1724346809072-8b512cb5c6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'Les Planètes', une suite orchestrale en sept mouvements ?",
-    "correct_answer": "Gustav Holst",
-    "incorrect_answers": [
-      "Edward Elgar",
-      "Ralph Vaughan Williams",
-      "Benjamin Britten"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574805950011-8cdf615261b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est traditionnellement utilisé dans la musique classique turque pour accompagner le chant ?",
-    "correct_answer": "Oud",
-    "incorrect_answers": [
-      "Saz",
-      "Qanun",
-      "Ney"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1656208131443-3add0b719096?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de rock a sorti l'album 'The Joshua Tree' en 1987, contenant des titres comme 'With or Without You' ?",
-    "correct_answer": "U2",
-    "incorrect_answers": [
-      "The Police",
-      "Dire Straits",
-      "R.E.M."
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583258242799-579668b2a4e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'La Mer' en 1905, une œuvre orchestrale en trois mouvements ?",
-    "correct_answer": "Claude Debussy",
-    "incorrect_answers": [
-      "Maurice Ravel",
-      "Igor Stravinsky",
-      "Sergei Rachmaninoff"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574282481525-530f0ed989cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est emblématique de la musique traditionnelle hongroise ?",
-    "correct_answer": "Cymbalum",
-    "incorrect_answers": [
-      "Flûte",
-      "Violon",
-      "Guitare"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1629276301313-7a7266703011?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de rock a sorti l'album 'A Night at the Opera' en 1975, contenant le titre 'Bohemian Rhapsody' ?",
+    "question": "Quel groupe de rock a sorti l'album 'A Night at the Opera' en 1975, avec le tube 'Bohemian Rhapsody' ?",
     "correct_answer": "Queen",
     "incorrect_answers": [
       "Led Zeppelin",
-      "The Who",
-      "Pink Floyd"
+      "Pink Floyd",
+      "The Who"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1647524904834-1ed784e73d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album, avec ses arrangements complexes, a marqué l'histoire du rock.",
+    "imageUrl": "https://images.unsplash.com/photo-1625801821669-d11f0ede90cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur a écrit 'Le Lac des cygnes', un ballet en quatre actes ?",
+    "question": "Quel compositeur russe a écrit 'Casse-Noisette', un ballet de 1892 adapté d'un conte d'Hoffmann ?",
     "correct_answer": "Piotr Ilitch Tchaïkovski",
     "incorrect_answers": [
+      "Modest Moussorgski",
       "Alexander Borodine",
-      "Modeste Moussorgski",
       "Nikolaï Rimski-Korsakov"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1625801821669-d11f0ede90cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette œuvre, avec ses mélodies envoûtantes, est un classique de Noël.",
+    "imageUrl": "https://images.unsplash.com/photo-1583257984061-135437bac7c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de rock a sorti l'album 'Appetite for Destruction' en 1987, contenant le titre 'Sweet Child o' Mine' ?",
-    "correct_answer": "Guns N' Roses",
+    "question": "Quel instrument à vent en bois, avec un bec et une anche double, est utilisé dans le jazz ?",
+    "correct_answer": "Saxophone",
     "incorrect_answers": [
-      "Mötley Crüe",
-      "Poison",
-      "Def Leppard"
+      "Clarinette",
+      "Flûte traversière",
+      "Hautbois"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1608728786215-8234c575dc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le saxophone, inventé par Adolphe Sax, est emblématique du jazz et du rock.",
+    "imageUrl": "https://images.unsplash.com/photo-1595775948902-f04682c9e588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur a écrit 'La Traviata', un opéra italien basé sur une pièce de théâtre ?",
-    "correct_answer": "Giuseppe Verdi",
+    "question": "Quel groupe de metal extrême a sorti l'album 'Reign in Blood' en 1986, considéré comme un classique du thrash metal ?",
+    "correct_answer": "Slayer",
     "incorrect_answers": [
-      "Gioachino Rossini",
-      "Gaetano Donizetti",
-      "Vincenzo Bellini"
+      "Metallica",
+      "Megadeth",
+      "Anthrax"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1729655917669-829f93cd8ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album, avec son son ultra-rapide, a défini le thrash metal.",
+    "imageUrl": "https://images.unsplash.com/photo-1583258189112-66ebfa12be98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est emblématique de la musique traditionnelle brésilienne ?",
-    "correct_answer": "Berimbau",
-    "incorrect_answers": [
-      "Cavaquinho",
-      "Pandeiro",
-      "Cuíca"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1678123650479-e70cf32d5a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de metal a sorti l'album 'Master of Reality' en 1971, contenant des titres comme 'Into the Void' ?",
-    "correct_answer": "Black Sabbath",
-    "incorrect_answers": [
-      "Led Zeppelin",
-      "Deep Purple",
-      "Cream"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1519683384663-c9b34271669a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'La Flûte enchantée', un opéra en deux actes ?",
-    "correct_answer": "Wolfgang Amadeus Mozart",
-    "incorrect_answers": [
-      "Ludwig van Beethoven",
-      "Joseph Haydn",
-      "Christoph Willibald Gluck"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1544427920-c49ccfb85579?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de rock a sorti l'album 'The Wall' en 1979, contenant des titres comme 'Another Brick in the Wall' ?",
-    "correct_answer": "Pink Floyd",
-    "incorrect_answers": [
-      "The Who",
-      "Led Zeppelin",
-      "Queen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1724346895394-96e3f2084e8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'Le Sacre du printemps', une œuvre orchestrale controversée ?",
-    "correct_answer": "Igor Stravinsky",
-    "incorrect_answers": [
-      "Sergei Prokofiev",
-      "Dmitri Chostakovitch",
-      "Modeste Moussorgski"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1584535428906-f1d9fd96d45b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel instrument est emblématique de la musique traditionnelle marocaine ?",
-    "correct_answer": "Oud",
-    "incorrect_answers": [
-      "Qanun",
-      "Ney",
-      "Saz"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1511220043390-e929fe0edf55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de rock a sorti l'album 'Rumours' en 1977, contenant des titres comme 'Go Your Own Way' ?",
-    "correct_answer": "Fleetwood Mac",
-    "incorrect_answers": [
-      "The Eagles",
-      "Chicago",
-      "Boston"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1546367791-e7447b431084?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'Les Quatre Saisons', un ensemble de concertos pour violon ?",
+    "question": "Quel compositeur autrichien a écrit 'Les Quatre Saisons', un ensemble de quatre concertos pour violon ?",
     "correct_answer": "Antonio Vivaldi",
     "incorrect_answers": [
       "Johann Sebastian Bach",
       "Georg Philipp Telemann",
-      "Arcangelo Corelli"
+      "Henry Purcell"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1745328599100-ae72309d095f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Composées vers 1720, ces œuvres illustrent musicalement les saisons.",
+    "imageUrl": "https://images.unsplash.com/photo-1773433535783-64c7922c8ede?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel groupe de rock a sorti l'album 'Back in Black' en 1980, contenant des titres comme 'Highway to Hell' ?",
-    "correct_answer": "AC/DC",
+    "question": "Quel instrument à cordes frottées, plus petit que le violoncelle, est utilisé pour les parties médiums dans un orchestre ?",
+    "correct_answer": "Alto",
     "incorrect_answers": [
-      "Van Halen",
-      "Def Leppard",
-      "Mötley Crüe"
+      "Violon",
+      "Contrebasse",
+      "Harpe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580151624121-10557144c85c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'alto, accordé une quinte en dessous du violon, a un timbre chaud et mélancolique.",
+    "imageUrl": "https://images.unsplash.com/photo-1608728786215-8234c575dc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel compositeur a écrit 'La Symphonie fantastique', une œuvre orchestrale inspirée par un amour non partagé ?",
-    "correct_answer": "Hector Berlioz",
+    "question": "Quel groupe de rock progressif a sorti l'album 'Close to the Edge' en 1972, avec des influences jazz et classique ?",
+    "correct_answer": "Yes",
     "incorrect_answers": [
-      "Frédéric Chopin",
-      "Franz Liszt",
-      "Robert Schumann"
+      "Genesis",
+      "King Crimson",
+      "Pink Floyd"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1702385515151-06bf862dc054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet album, avec des morceaux de plus de 20 minutes, est un chef-d'œuvre du genre.",
+    "imageUrl": "https://images.unsplash.com/photo-1767468889316-a0739e14297b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel instrument est emblématique de la musique traditionnelle péruvienne ?",
-    "correct_answer": "Charango",
+    "question": "Quel compositeur français a écrit 'Carmen', un opéra-comique de 1875 inspiré d'une nouvelle de Mérimée ?",
+    "correct_answer": "Georges Bizet",
     "incorrect_answers": [
-      "Quena",
-      "Zampoña",
-      "Cajón"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583258189112-66ebfa12be98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTEwNDE4OXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel groupe de rock a sorti l'album 'Nevermind' en 1991, contenant le titre 'Smells Like Teen Spirit' ?",
-    "correct_answer": "Nirvana",
-    "incorrect_answers": [
-      "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730098106588-3629086606ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel compositeur a écrit 'Le Carnaval des animaux', une suite musicale humoristique ?",
-    "correct_answer": "Camille Saint-Saëns",
-    "incorrect_answers": [
-      "Georges Bizet",
+      "Camille Saint-Saëns",
       "Jacques Offenbach",
-      "Charles Gounod"
+      "Leo Delibes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1527259693341-cbc6f91e4d6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5MTA0MTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cet opéra, avec son habanera, est l'un des plus joués au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1692552952039-b56f3cd97211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à percussion, originaire d'Afrique de l'Ouest, est utilisé dans le jazz et le funk ?",
+    "correct_answer": "Djembé",
+    "incorrect_answers": [
+      "Cajón",
+      "Talking drum",
+      "Kora"
+    ],
+    "explanation": "Le djembé, en forme de coupe, produit des sons graves et aigus avec les mains.",
+    "imageUrl": "https://images.unsplash.com/photo-1724346809072-8b512cb5c6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'Rumours' en 1977, devenu l'un des albums les plus vendus de tous les temps ?",
+    "correct_answer": "Fleetwood Mac",
+    "incorrect_answers": [
+      "The Eagles",
+      "Led Zeppelin",
+      "The Rolling Stones"
+    ],
+    "explanation": "Cet album, avec des tubes comme 'Go Your Own Way', a marqué les années 1970.",
+    "imageUrl": "https://images.unsplash.com/photo-1527259693341-cbc6f91e4d6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur allemand a écrit 'La Passion selon Saint Matthieu', une œuvre sacrée de 1727 ?",
+    "correct_answer": "Johann Sebastian Bach",
+    "incorrect_answers": [
+      "Georg Friedrich Haendel",
+      "Ludwig van Beethoven",
+      "Felix Mendelssohn"
+    ],
+    "explanation": "Cette œuvre, avec ses chorals et arias, est un sommet de la musique baroque.",
+    "imageUrl": "https://images.unsplash.com/photo-1647524904834-1ed784e73d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à cordes pincées, originaire d'Amérique latine, est utilisé dans la bossa nova ?",
+    "correct_answer": "Guitare brésilienne",
+    "incorrect_answers": [
+      "Bandurria",
+      "Cuatro",
+      "Charango"
+    ],
+    "explanation": "La guitare brésilienne, avec son son doux, est essentielle à la bossa nova.",
+    "imageUrl": "https://images.unsplash.com/photo-1722841549679-e9f77fb291d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de metal gothique a sorti l'album 'Once' en 2004, avec des influences symphoniques ?",
+    "correct_answer": "Nightwish",
+    "incorrect_answers": [
+      "Epica",
+      "Within Temptation",
+      "Lacuna Coil"
+    ],
+    "explanation": "Cet album, avec des chœurs lyriques, a popularisé le metal symphonique.",
+    "imageUrl": "https://images.unsplash.com/photo-1730096684413-bde1d62cbdc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur russe a écrit 'Pierre et le Loup', une œuvre pédagogique pour orchestre et narrateur ?",
+    "correct_answer": "Sergei Prokofiev",
+    "incorrect_answers": [
+      "Dmitri Chostakovitch",
+      "Igor Stravinsky",
+      "Modest Moussorgski"
+    ],
+    "explanation": "Composée en 1936, cette œuvre introduit les instruments orchestraux aux enfants.",
+    "imageUrl": "https://images.unsplash.com/photo-1619467533662-ed8c255242c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à vent en cuivre, avec une coulisse, est utilisé dans les orchestres symphoniques ?",
+    "correct_answer": "Trombone",
+    "incorrect_answers": [
+      "Trompette",
+      "Cor",
+      "Tuba"
+    ],
+    "explanation": "Le trombone, avec sa coulisse, permet de jouer des notes continues et glissandos.",
+    "imageUrl": "https://images.unsplash.com/photo-1685672275928-062f46c86c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'The Wall' en 1979, un opéra-rock conceptuel ?",
+    "correct_answer": "Pink Floyd",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "The Who",
+      "Queen"
+    ],
+    "explanation": "Cet album, avec des tubes comme 'Another Brick in the Wall', est un monument du rock.",
+    "imageUrl": "https://images.unsplash.com/photo-1678123650479-e70cf32d5a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel compositeur autrichien a écrit 'La Truite', un quintette pour piano et cordes de 1819 ?",
+    "correct_answer": "Franz Schubert",
+    "incorrect_answers": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Joseph Haydn"
+    ],
+    "explanation": "Cette œuvre, inspirée par un lied, est un chef-d'œuvre de la musique de chambre.",
+    "imageUrl": "https://images.unsplash.com/photo-1583258242799-579668b2a4e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à cordes pincées, originaire d'Espagne, est utilisé dans le flamenco et la musique baroque ?",
+    "correct_answer": "Vihuela",
+    "incorrect_answers": [
+      "Guitare classique",
+      "Bandurria",
+      "Laúd"
+    ],
+    "explanation": "La vihuela, ancêtre de la guitare, était populaire en Espagne aux XVIe et XVIIe siècles.",
+    "imageUrl": "https://images.unsplash.com/photo-1598300023303-a7af0627557c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de metal a sorti l'album 'Paranoid' en 1970, avec le tube 'Iron Man' ?",
+    "correct_answer": "Black Sabbath",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "Deep Purple",
+      "Judas Priest"
+    ],
+    "explanation": "Cet album, avec ses riffs lourds, a défini le heavy metal.",
+    "imageUrl": "https://images.unsplash.com/photo-1598515750914-e4d9c650b68b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel instrument à vent en bois, avec une anche simple, est utilisé dans le jazz et la musique classique ?",
+    "correct_answer": "Clarinette",
+    "incorrect_answers": [
+      "Saxophone",
+      "Flûte traversière",
+      "Hautbois"
+    ],
+    "explanation": "La clarinette, avec son timbre chaud, est un pilier du jazz et de la musique classique.",
+    "imageUrl": "https://images.unsplash.com/photo-1544427920-c49ccfb85579?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'Led Zeppelin IV' en 1971, avec le tube 'Stairway to Heaven' ?",
+    "correct_answer": "Led Zeppelin",
+    "incorrect_answers": [
+      "Pink Floyd",
+      "The Who",
+      "Cream"
+    ],
+    "explanation": "Cet album, sans titre officiel, est l'un des plus influents de l'histoire du rock.",
+    "imageUrl": "https://images.unsplash.com/photo-1650894752177-98176bf167ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bXVzaWMlMjBpbnN0cnVtZW50cyUyMGNvbmNlcnR8ZW58MHx8fHwxNzc5Nzk2MjM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel groupe de rock a sorti l'album 'The Dark Side of the Moon' en 1973, devenu l'un des plus vendus de l'histoire ?",
+    "correct_answer": "Pink Floyd",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "The Beatles",
+      "Queen"
+    ],
+    "explanation": "Cet album conceptuel explore des thèmes comme la folie et le temps.",
+    "imageUrl": "https://images.unsplash.com/photo-1630353174598-210fa3fe80ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fG11c2ljJTIwaW5zdHJ1bWVudHMlMjBjb25jZXJ0fGVufDB8fHx8MTc3OTc5NjI3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

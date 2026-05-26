@@ -15,7 +15,8 @@ private data class AssetQuestionDto(
     @SerializedName("question") val question: String,
     @SerializedName("correct_answer") val correctAnswer: String,
     @SerializedName("incorrect_answers") val incorrectAnswers: List<String>,
-    @SerializedName("imageUrl") val imageUrl: String? = null
+    @SerializedName("imageUrl") val imageUrl: String? = null,
+    @SerializedName("explanation") val explanation: String? = null
 )
 
 @Singleton
@@ -39,7 +40,8 @@ class AssetQuestionLoader @Inject constructor(
                     incorrectAnswers = gson.toJson(dto.incorrectAnswers),
                     imageUrl = dto.imageUrl,
                     unsplashQuery = theme.unsplashQuery,
-                    positionInPool = index
+                    positionInPool = index,
+                    explanation = dto.explanation
                 )
             }
         } catch (e: Exception) {

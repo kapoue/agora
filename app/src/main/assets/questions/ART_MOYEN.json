@@ -1,363 +1,487 @@
 [
   {
-    "question": "Quel peintre de la Renaissance italienne est célèbre pour avoir peint la fresque 'L'École d'Athènes' au Vatican ?",
-    "correct_answer": "Raphaël",
+    "question": "Quel peintre a réalisé 'La Jeune Fille à la perle' (1665) ?",
+    "correct_answer": "Johannes Vermeer",
     "incorrect_answers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Donatello"
+      "Rembrandt van Rijn",
+      "Frans Hals",
+      "Pieter de Hooch"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775152495011-a3f23e3601dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Vermeer, maître de la lumière, a peint ce portrait emblématique aux Pays-Bas.",
+    "imageUrl": "https://images.unsplash.com/photo-1775416344168-618643d94aa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel mouvement artistique le tableau 'La Naissance de Vénus' de Botticelli s'inscrit-il ?",
-    "correct_answer": "Renaissance italienne",
+    "question": "Dans quel mouvement artistique s'inscrit 'Le Cri' d'Edvard Munch ?",
+    "correct_answer": "Expressionnisme",
     "incorrect_answers": [
-      "Maniérisme",
-      "Baroque",
-      "Romantisme"
+      "Impressionnisme",
+      "Surréalisme",
+      "Cubisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1705366208002-c77ff0a1ce55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'œuvre exprime une émotion intense, caractéristique de l'expressionnisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1773761542010-0450bf37856a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sculpteur a réalisé 'Le Penseur', une œuvre emblématique de la période moderne ?",
+    "question": "Quel sculpteur a conçu 'Le Penseur' en 1902 ?",
     "correct_answer": "Auguste Rodin",
     "incorrect_answers": [
       "Michel-Ange",
       "Donatello",
       "Bernini"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763337590334-8cb68521fae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Rodin a sculpté cette figure emblématique en bronze pour sa porte de l'Enfer.",
+    "imageUrl": "https://images.unsplash.com/photo-1769117617135-0d6bb3bbf240?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée parisien abrite le tableau 'La Joconde' de Léonard de Vinci ?",
-    "correct_answer": "Le Louvre",
+    "question": "Quel musée abrite 'La Joconde' de Léonard de Vinci ?",
+    "correct_answer": "Musée du Louvre",
     "incorrect_answers": [
-      "Le Musée d'Orsay",
-      "Le Centre Pompidou",
-      "Le Musée Rodin"
+      "Musée d'Orsay",
+      "British Museum",
+      "Musée du Prado"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707261633952-79e36ccd2115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Joconde est exposée au Louvre depuis 1797, après avoir été volée en 1911.",
+    "imageUrl": "https://images.unsplash.com/photo-1769117620065-577bcb26c185?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mouvement artistique du XXe siècle est caractérisé par des formes géométriques et des couleurs vives, comme dans les œuvres de Piet Mondrian ?",
-    "correct_answer": "De Stijl",
+    "question": "Quel artiste a peint 'Guernica' en 1937 ?",
+    "correct_answer": "Pablo Picasso",
     "incorrect_answers": [
-      "Surréalisme",
-      "Cubisme",
-      "Fauvisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763792334906-70a24d373140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel peintre espagnol est connu pour ses œuvres sombres et dramatiques comme 'Les Ménines' et 'Le Sommeil de la raison engendre des monstres' ?",
-    "correct_answer": "Francisco Goya",
-    "incorrect_answers": [
-      "Diego Velázquez",
       "Salvador Dalí",
-      "Pablo Picasso"
+      "Diego Rivera",
+      "Joan Miró"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773474273205-6c60227490df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Picasso a réalisé cette œuvre anti-guerre en réponse au bombardement de Guernica.",
+    "imageUrl": "https://images.unsplash.com/photo-1732566268069-63c1a5c516ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel architecte a conçu la basilique Sacré-Cœur à Paris ?",
-    "correct_answer": "Paul Abadie",
-    "incorrect_answers": [
-      "Gustave Eiffel",
-      "Victor Horta",
-      "Le Corbusier"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766972501562-5f5acc13ece5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique du XIXe siècle est associé à la peinture en plein air et à des paysages lumineux, comme ceux de Monet ?",
-    "correct_answer": "Impressionnisme",
-    "incorrect_answers": [
-      "Pointillisme",
-      "Symbolisme",
-      "Réalisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773828044021-ffd64bd52947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sculpteur français a réalisé 'La Victoire de Samothrace', exposée au Louvre ?",
-    "correct_answer": "Inconnu (attribuée à Pythocritos de Rhodes)",
-    "incorrect_answers": [
-      "Auguste Rodin",
-      "Antoine-Louis Barye",
-      "Jean-Baptiste Carpeaux"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1732566268069-63c1a5c516ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel peintre néerlandais est célèbre pour ses autoportraits et 'La Ronde de nuit' ?",
-    "correct_answer": "Rembrandt",
-    "incorrect_answers": [
-      "Vincent van Gogh",
-      "Johannes Vermeer",
-      "Frans Hals"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773304292149-1d721aa70346?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique du XXe siècle rejette la représentation réaliste et privilégie l'expression des émotions, comme chez Edvard Munch ?",
-    "correct_answer": "Expressionnisme",
+    "question": "Quel mouvement artistique est associé à Salvador Dalí ?",
+    "correct_answer": "Surréalisme",
     "incorrect_answers": [
       "Dadaïsme",
-      "Futurisme",
-      "Surréalisme"
+      "Fauvisme",
+      "Pointillisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1733768296211-17e2233b3630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Dalí, avec ses rêves et ses hallucinations, incarne le surréalisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1778513597987-4f8c87d80514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel architecte a conçu la Tour Eiffel pour l'Exposition universelle de 1889 ?",
-    "correct_answer": "Gustave Eiffel",
-    "incorrect_answers": [
-      "Le Corbusier",
-      "Antoni Gaudí",
-      "Frank Lloyd Wright"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769117620065-577bcb26c185?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel peintre français est associé au mouvement pointilliste, comme dans 'Un dimanche après-midi à l'Île de la Grande Jatte' ?",
-    "correct_answer": "Georges Seurat",
-    "incorrect_answers": [
-      "Paul Cézanne",
-      "Henri de Toulouse-Lautrec",
-      "Édouard Vuillard"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769117617135-0d6bb3bbf240?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sculpteur italien a réalisé le 'David' en marbre, exposé à la Galerie de l'Académie de Florence ?",
-    "correct_answer": "Michel-Ange",
-    "incorrect_answers": [
-      "Donatello",
-      "Bernini",
-      "Cellini"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1732566206538-5b75f82a74cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel musée new-yorkais abrite le tableau 'La Nuit étoilée' de Van Gogh ?",
-    "correct_answer": "MoMA (Musée d'Art Moderne)",
-    "incorrect_answers": [
-      "Metropolitan Museum",
-      "Guggenheim",
-      "Whitney Museum"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1774660016554-3cb50be80bd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique du XXe siècle utilise des objets du quotidien assemblés, comme dans les œuvres de Marcel Duchamp ?",
-    "correct_answer": "Dadaïsme",
-    "incorrect_answers": [
-      "Surréalisme",
-      "Pop Art",
-      "Minimalisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1718359760007-4b11d377689c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel architecte catalan a conçu la Sagrada Família à Barcelone ?",
+    "question": "Quel architecte a conçu la basilique Sagrada Família à Barcelone ?",
     "correct_answer": "Antoni Gaudí",
     "incorrect_answers": [
       "Le Corbusier",
-      "Frank Gehry",
-      "Oscar Niemeyer"
+      "Frank Lloyd Wright",
+      "Mies van der Rohe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1768366778536-f4e32064cc2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Gaudí a dédié 43 ans de sa vie à ce chef-d'œuvre inachevé.",
+    "imageUrl": "https://images.unsplash.com/photo-1650835222564-c869b03803ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre français est célèbre pour ses nymphéas et son jardin à Giverny ?",
-    "correct_answer": "Claude Monet",
+    "question": "Quel peintre a réalisé 'Les Tournesols' (1888) ?",
+    "correct_answer": "Vincent van Gogh",
     "incorrect_answers": [
-      "Pierre-Auguste Renoir",
-      "Camille Pissarro",
-      "Alfred Sisley"
+      "Paul Gauguin",
+      "Henri de Toulouse-Lautrec",
+      "Édouard Manet"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1778770215133-dbb56e311af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Van Gogh a peint ces tournesols en série pour décorer la chambre de Gauguin.",
+    "imageUrl": "https://images.unsplash.com/photo-1732566249941-8f6fe9695bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sculpteur grec antique est attribué comme auteur du 'Discobole' ?",
-    "correct_answer": "Myron",
+    "question": "Quel musée est dédié à l'art contemporain à Paris ?",
+    "correct_answer": "Centre Pompidou",
+    "incorrect_answers": [
+      "Musée d'Orsay",
+      "Musée Rodin",
+      "Grand Palais"
+    ],
+    "explanation": "Le Centre Pompidou, ouvert en 1977, est célèbre pour son architecture high-tech.",
+    "imageUrl": "https://images.unsplash.com/photo-1778770215133-dbb56e311af8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a créé 'L'Oiseau de feu' en 1919 ?",
+    "correct_answer": "Constantin Brancusi",
+    "incorrect_answers": [
+      "Henry Moore",
+      "Alberto Giacometti",
+      "Jean Arp"
+    ],
+    "explanation": "Brancusi a sculpté cette œuvre en marbre et bronze, symbole de liberté.",
+    "imageUrl": "https://images.unsplash.com/photo-1773304292149-1d721aa70346?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est né en réaction à l'impressionnisme ?",
+    "correct_answer": "Postimpressionnisme",
+    "incorrect_answers": [
+      "Symbolisme",
+      "Néoclassicisme",
+      "Romantisme"
+    ],
+    "explanation": "Le postimpressionnisme inclut Van Gogh, Gauguin et Cézanne, rejetant l'impressionnisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1773096237329-1380a15862a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre a réalisé 'La Nuit étoilée' (1889) ?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": [
+      "Paul Cézanne",
+      "Georges Seurat",
+      "Gustave Courbet"
+    ],
+    "explanation": "Peinte depuis l'asile de Saint-Rémy, cette œuvre est un symbole du génie tourmenté.",
+    "imageUrl": "https://images.unsplash.com/photo-1768133896436-ecd0fa6f228f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée abrite 'Le Déjeuner sur l'herbe' de Manet ?",
+    "correct_answer": "Musée d'Orsay",
+    "incorrect_answers": [
+      "Musée du Louvre",
+      "Tate Modern",
+      "Metropolitan Museum"
+    ],
+    "explanation": "Ce tableau scandaleux de 1863 est exposé au musée d'Orsay depuis 1986.",
+    "imageUrl": "https://images.unsplash.com/photo-1763337590334-8cb68521fae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a conçu 'La Vénus de Milo' ?",
+    "correct_answer": "Alexandros d'Antioche",
+    "incorrect_answers": [
+      "Phidias",
+      "Myron",
+      "Praxitèle"
+    ],
+    "explanation": "Cette statue grecque du IIe siècle av. J.-C. a été découverte en 1820 sur l'île de Milo.",
+    "imageUrl": "https://images.unsplash.com/photo-1773474273205-6c60227490df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Henri Matisse ?",
+    "correct_answer": "Fauvisme",
+    "incorrect_answers": [
+      "Cubisme",
+      "Dadaïsme",
+      "Surréalisme"
+    ],
+    "explanation": "Matisse et ses couleurs pures ont donné naissance au fauvisme en 1905.",
+    "imageUrl": "https://images.unsplash.com/photo-1733768296211-17e2233b3630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu le Bauhaus à Dessau ?",
+    "correct_answer": "Walter Gropius",
+    "incorrect_answers": [
+      "Ludwig Mies van der Rohe",
+      "Le Corbusier",
+      "Frank Lloyd Wright"
+    ],
+    "explanation": "Gropius a fondé le Bauhaus en 1919, révolutionnant l'architecture moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1759194772454-e0cb82ea8903?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre a réalisé 'Les Demoiselles d'Avignon' (1907) ?",
+    "correct_answer": "Pablo Picasso",
+    "incorrect_answers": [
+      "Georges Braque",
+      "Juan Gris",
+      "Fernand Léger"
+    ],
+    "explanation": "Ce tableau marque la naissance du cubisme, avec ses formes anguleuses.",
+    "imageUrl": "https://images.unsplash.com/photo-1559841096-8739e2b7dc57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée est dédié à l'art égyptien à Paris ?",
+    "correct_answer": "Musée du Louvre (Département des Antiquités égyptiennes)",
+    "incorrect_answers": [
+      "Musée Guimet",
+      "Musée d'Orsay",
+      "Musée Rodin"
+    ],
+    "explanation": "Le département égyptien du Louvre abrite plus de 50 000 objets.",
+    "imageUrl": "https://images.unsplash.com/photo-1775409126721-a5c980be6026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a créé 'Le Baiser' (1907-1908) ?",
+    "correct_answer": "Gustav Klimt",
+    "incorrect_answers": [
+      "Auguste Rodin",
+      "Constantin Brancusi",
+      "Henry Moore"
+    ],
+    "explanation": "Klimt a peint cette œuvre emblématique dans un style Art Nouveau.",
+    "imageUrl": "https://images.unsplash.com/photo-1769117619995-78fc971f041b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Marcel Duchamp ?",
+    "correct_answer": "Dadaïsme",
+    "incorrect_answers": [
+      "Surréalisme",
+      "Fauvisme",
+      "Cubisme"
+    ],
+    "explanation": "Duchamp, avec ses ready-mades, a marqué le dadaïsme par son ironie.",
+    "imageUrl": "https://images.unsplash.com/photo-1578255769804-72ef854f5852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre a réalisé 'La Persistance de la mémoire' (1931) ?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": [
+      "René Magritte",
+      "Max Ernst",
+      "Yves Tanguy"
+    ],
+    "explanation": "Ce tableau surréaliste représente des montres molles, symbole de la relativité du temps.",
+    "imageUrl": "https://images.unsplash.com/photo-1779006887619-c9684c1c3943?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu la cathédrale Notre-Dame de Paris ?",
+    "correct_answer": "Maurice de Sully",
+    "incorrect_answers": [
+      "Viollet-le-Duc",
+      "Gothique",
+      "Abbé Suger"
+    ],
+    "explanation": "La construction a commencé en 1163 sous l'impulsion de l'évêque Maurice de Sully.",
+    "imageUrl": "https://images.unsplash.com/photo-1773474200110-c69c3accf229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a créé 'L'Homme qui marche I' (1960) ?",
+    "correct_answer": "Alberto Giacometti",
+    "incorrect_answers": [
+      "Henry Moore",
+      "Constantin Brancusi",
+      "Jean Arp"
+    ],
+    "explanation": "Cette sculpture filiforme symbolise l'isolement et la fragilité humaine.",
+    "imageUrl": "https://images.unsplash.com/photo-1763792334906-70a24d373140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Georges Seurat ?",
+    "correct_answer": "Pointillisme",
+    "incorrect_answers": [
+      "Impressionnisme",
+      "Symbolisme",
+      "Néoclassicisme"
+    ],
+    "explanation": "Seurat a développé cette technique de peinture par petits points de couleur.",
+    "imageUrl": "https://images.unsplash.com/photo-1760174205716-ddef54f0dc59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée abrite 'Les Ménines' de Velázquez ?",
+    "correct_answer": "Musée du Prado",
+    "incorrect_answers": [
+      "Musée du Louvre",
+      "Musée d'Orsay",
+      "National Gallery"
+    ],
+    "explanation": "Ce chef-d'œuvre baroque de 1656 est exposé au Prado depuis sa création.",
+    "imageUrl": "https://images.unsplash.com/photo-1775343970376-3bb5fd1171b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre a réalisé 'La Liberté guidant le peuple' (1830) ?",
+    "correct_answer": "Eugène Delacroix",
+    "incorrect_answers": [
+      "Théodore Géricault",
+      "Jacques-Louis David",
+      "Jean-Auguste-Dominique Ingres"
+    ],
+    "explanation": "Cette allégorie de la Révolution de Juillet est devenue un symbole républicain.",
+    "imageUrl": "https://images.unsplash.com/photo-1763854021249-b85ae8427125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a conçu 'La Porte de l'Enfer' ?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": [
+      "Michel-Ange",
+      "Donatello",
+      "Bernini"
+    ],
+    "explanation": "Inspirée de la Divine Comédie, cette porte inachevée compte 186 figures.",
+    "imageUrl": "https://images.unsplash.com/photo-1764922168474-8048361bc764?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Piet Mondrian ?",
+    "correct_answer": "Néoplasticisme",
+    "incorrect_answers": [
+      "Cubisme",
+      "Surréalisme",
+      "Fauvisme"
+    ],
+    "explanation": "Mondrian a réduit la peinture à des lignes et couleurs primaires dans ce mouvement.",
+    "imageUrl": "https://images.unsplash.com/photo-1707259783407-c448c6a72372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel musée est dédié à l'art islamique à Paris ?",
+    "correct_answer": "Musée du Louvre (Département des Arts de l'Islam)",
+    "incorrect_answers": [
+      "Musée Guimet",
+      "Institut du Monde Arabe",
+      "Musée d'Orsay"
+    ],
+    "explanation": "Ce département abrite plus de 18 000 objets du VIIe au XIXe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1768366778536-f4e32064cc2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel peintre a réalisé 'Le Radeau de la Méduse' (1819) ?",
+    "correct_answer": "Théodore Géricault",
+    "incorrect_answers": [
+      "Eugène Delacroix",
+      "Jacques-Louis David",
+      "Jean-Auguste-Dominique Ingres"
+    ],
+    "explanation": "Cette œuvre romantique s'inspire d'un naufrage réel et controversé.",
+    "imageUrl": "https://images.unsplash.com/photo-1600673772664-6b6f98ccbc5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a créé 'La Victoire de Samothrace' ?",
+    "correct_answer": "Inconnu (école rhodienne)",
     "incorrect_answers": [
       "Phidias",
       "Praxitèle",
       "Lysippe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761563071832-e548e022a706?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette statue hellénistique du IIe siècle av. J.-C. a été découverte en 1863.",
+    "imageUrl": "https://images.unsplash.com/photo-1766972501562-5f5acc13ece5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée londonien abrite la collection de la National Gallery et le tableau 'Les Tournesols' de Van Gogh ?",
-    "correct_answer": "Tate Britain",
+    "question": "Quel mouvement artistique est associé à Wassily Kandinsky ?",
+    "correct_answer": "Abstraction",
     "incorrect_answers": [
-      "British Museum",
-      "Victoria and Albert Museum",
-      "Saatchi Gallery"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1768133896436-ecd0fa6f228f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique du XXe siècle explore l'inconscient et les rêves, comme chez Salvador Dalí ?",
-    "correct_answer": "Surréalisme",
-    "incorrect_answers": [
+      "Surréalisme",
       "Fauvisme",
-      "Cubisme",
-      "Abstraction lyrique"
+      "Dadaïsme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765153885305-85e56c2efe92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Kandinsky est considéré comme le premier peintre abstrait en 1911.",
+    "imageUrl": "https://images.unsplash.com/photo-1773475858908-4b76c1453a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel architecte a conçu le Centre Pompidou à Paris ?",
-    "correct_answer": "Renzo Piano et Richard Rogers",
+    "question": "Quel architecte a conçu la Tour Eiffel ?",
+    "correct_answer": "Gustave Eiffel",
     "incorrect_answers": [
       "Le Corbusier",
-      "Jean Nouvel",
-      "Frank Gehry"
+      "Victor Horta",
+      "Hector Guimard"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775416344168-618643d94aa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Construite en 1889 pour l'Exposition universelle, elle était initialement controversée.",
+    "imageUrl": "https://images.unsplash.com/photo-1778587613182-8221cc7da6e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre flamand est célèbre pour ses scènes de genre et ses portraits détaillés, comme 'La Jeune Fille à la perle' ?",
-    "correct_answer": "Johannes Vermeer",
+    "question": "Quel peintre a réalisé 'Les Nymphéas' (série de 1914-1926) ?",
+    "correct_answer": "Claude Monet",
     "incorrect_answers": [
-      "Peter Paul Rubens",
-      "Antoine van Dyck",
-      "Jacob Jordaens"
+      "Pierre-Auguste Renoir",
+      "Alfred Sisley",
+      "Camille Pissarro"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775283267270-2046f4103ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Monet a peint ces paysages aquatiques dans son jardin de Giverny.",
+    "imageUrl": "https://images.unsplash.com/photo-1775416343306-1dd49240282f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sculpteur français a réalisé 'Le Baiser', une œuvre emblématique de l'Art Nouveau ?",
+    "question": "Quel musée abrite 'Le Radeau de la Méduse' ?",
+    "correct_answer": "Musée du Louvre",
+    "incorrect_answers": [
+      "Musée d'Orsay",
+      "Musée du Prado",
+      "National Gallery"
+    ],
+    "explanation": "Ce tableau monumental de Géricault est exposé au Louvre depuis 1824.",
+    "imageUrl": "https://images.unsplash.com/photo-1778587614227-ea048dea9501?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a créé 'L'Âge d'airain' (1877) ?",
     "correct_answer": "Auguste Rodin",
     "incorrect_answers": [
-      "Aristide Maillol",
-      "Antoine Bourdelle",
-      "Émile-Antoine Bourdelle"
+      "Michel-Ange",
+      "Donatello",
+      "Bernini"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1779019383275-69d1fc3db77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette sculpture en bronze, première œuvre majeure de Rodin, a été accusée d'être un moulage.",
+    "imageUrl": "https://images.unsplash.com/photo-1773828044021-ffd64bd52947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée madrilène abrite 'Les Ménines' de Velázquez et 'Le Jardin des délices' de Bosch ?",
-    "correct_answer": "Musée du Prado",
+    "question": "Quel mouvement artistique est associé à Frida Kahlo ?",
+    "correct_answer": "Art naïf",
     "incorrect_answers": [
-      "Musée Reina Sofía",
-      "Musée Thyssen-Bornemisza",
-      "Musée archéologique"
+      "Surréalisme",
+      "Fauvisme",
+      "Cubisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1778513598968-66215a2757a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Kahlo a développé un style personnel mêlant symbolisme et art populaire mexicain.",
+    "imageUrl": "https://images.unsplash.com/photo-1762117863713-ee3dde87c020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mouvement artistique du XXe siècle utilise des formes simplifiées et géométriques, comme chez Piet Mondrian ?",
-    "correct_answer": "Néoplasticisme",
-    "incorrect_answers": [
-      "Futurisme",
-      "Dadaïsme",
-      "Art déco"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773474200110-c69c3accf229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel architecte a conçu la Villa Savoye à Poissy, symbole du modernisme ?",
+    "question": "Quel architecte a conçu la Villa Savoye à Poissy ?",
     "correct_answer": "Le Corbusier",
     "incorrect_answers": [
       "Frank Lloyd Wright",
       "Mies van der Rohe",
       "Walter Gropius"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707259783407-c448c6a72372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette maison de 1931 est un manifeste de l'architecture moderne et des Cinq Points.",
+    "imageUrl": "https://images.unsplash.com/photo-1765153885305-85e56c2efe92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre italien est célèbre pour ses fresques de la chapelle Sixtine au Vatican ?",
+    "question": "Quel peintre a réalisé 'Le Songe de Poliphile' (1499) ?",
+    "correct_answer": "Francesco Colonna",
+    "incorrect_answers": [
+      "Sandro Botticelli",
+      "Andrea Mantegna",
+      "Leon Battista Alberti"
+    ],
+    "explanation": "Ce livre illustré, mélange d'architecture et de symbolisme, a inspiré l'art renaissant.",
+    "imageUrl": "https://images.unsplash.com/photo-1775335372670-7a715f98385a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a conçu 'Le David' de Florence ?",
     "correct_answer": "Michel-Ange",
     "incorrect_answers": [
-      "Raphaël",
-      "Le Caravage",
-      "Titien"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764214918507-3938f17df7ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel musée parisien est dédié à l'art du XIXe siècle et abrite 'Le Déjeuner sur l'herbe' de Manet ?",
-    "correct_answer": "Musée d'Orsay",
-    "incorrect_answers": [
-      "Musée de l'Orangerie",
-      "Centre Pompidou",
-      "Petit Palais"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1732566249941-8f6fe9695bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sculpteur italien a réalisé 'Apollon et Daphne' dans la Galerie Borghèse à Rome ?",
-    "correct_answer": "Bernini",
-    "incorrect_answers": [
       "Donatello",
-      "Cellini",
-      "Michel-Ange"
+      "Bernini",
+      "Verrocchio"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775598178913-0ca79bcae616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Sculpté entre 1501 et 1504, ce marbre de 5 mètres est un chef-d'œuvre de la Renaissance.",
+    "imageUrl": "https://images.unsplash.com/photo-1742145415317-170c91dc7006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mouvement artistique du XXe siècle rejette l'art traditionnel et privilégie l'absurde, comme chez Marcel Duchamp ?",
-    "correct_answer": "Dada",
+    "question": "Quel mouvement artistique est associé à Giorgio de Chirico ?",
+    "correct_answer": "Métaphysique",
     "incorrect_answers": [
       "Surréalisme",
-      "Futurisme",
-      "Bauhaus"
+      "Fauvisme",
+      "Cubisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775335372670-7a715f98385a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "De Chirico a peint des paysages oniriques et déserts, fondant la peinture métaphysique.",
+    "imageUrl": "https://images.unsplash.com/photo-1760321120035-c6eb433f74b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel architecte a conçu la pyramide du Louvre à Paris ?",
-    "correct_answer": "Ieoh Ming Pei",
+    "question": "Quel musée abrite 'La Mort de Marat' de David ?",
+    "correct_answer": "Musées royaux des Beaux-Arts de Belgique",
     "incorrect_answers": [
-      "Frank Gehry",
-      "Norman Foster",
-      "Zaha Hadid"
+      "Musée du Louvre",
+      "Musée d'Orsay",
+      "National Gallery"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775343970376-3bb5fd1171b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce tableau révolutionnaire de 1793 est exposé à Bruxelles depuis 1886.",
+    "imageUrl": "https://images.unsplash.com/photo-1779019383275-69d1fc3db77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre néerlandais est célèbre pour ses autoportraits tourmentés et 'La Nuit étoilée' ?",
-    "correct_answer": "Vincent van Gogh",
+    "question": "Quel sculpteur a créé 'L'Oiseau lunaire' (1959) ?",
+    "correct_answer": "Joan Miró",
     "incorrect_answers": [
-      "Rembrandt",
-      "Johannes Vermeer",
-      "Frans Hals"
+      "Constantin Brancusi",
+      "Henry Moore",
+      "Jean Arp"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1762117863713-ee3dde87c020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette sculpture en bronze, peinte en bleu, est typique du style poétique de Miró.",
+    "imageUrl": "https://images.unsplash.com/photo-1764214918507-3938f17df7ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sculpteur français a réalisé 'La Marseillaise' sur l'Arc de Triomphe ?",
-    "correct_answer": "François Rude",
+    "question": "Quel mouvement artistique est associé à Paul Cézanne ?",
+    "correct_answer": "Postimpressionnisme",
     "incorrect_answers": [
-      "Auguste Rodin",
-      "Antoine-Louis Barye",
-      "Jean-Baptiste Carpeaux"
+      "Impressionnisme",
+      "Symbolisme",
+      "Néoclassicisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1650835222564-c869b03803ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel musée new-yorkais abrite 'Guernica' de Picasso ?",
-    "correct_answer": "MoMA",
-    "incorrect_answers": [
-      "Metropolitan Museum",
-      "Guggenheim",
-      "Whitney Museum"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769905226750-1db769c30bdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique du XXe siècle utilise des couleurs pures et des formes simplifiées, comme chez Henri Matisse ?",
-    "correct_answer": "Fauvisme",
-    "incorrect_answers": [
-      "Cubisme",
-      "Surréalisme",
-      "Abstraction lyrique"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758380742154-44738eb92832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cézanne a posé les bases du cubisme avec ses natures mortes géométriques.",
+    "imageUrl": "https://images.unsplash.com/photo-1769905226750-1db769c30bdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel architecte a conçu la Casa Batlló à Barcelone ?",
@@ -365,228 +489,218 @@
     "incorrect_answers": [
       "Le Corbusier",
       "Frank Lloyd Wright",
-      "Oscar Niemeyer"
+      "Mies van der Rohe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1600673772664-6b6f98ccbc5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette maison moderniste de 1906 est un chef-d'œuvre de l'architecture organique.",
+    "imageUrl": "https://images.unsplash.com/photo-1759194772480-19ab385e354f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre français est célèbre pour ses scènes de bal et ses portraits élégants, comme 'Le Bal du moulin de la Galette' ?",
-    "correct_answer": "Pierre-Auguste Renoir",
+    "question": "Quel peintre a réalisé 'Le Jardin des délices' (1503-1504) ?",
+    "correct_answer": "Jérôme Bosch",
     "incorrect_answers": [
-      "Édouard Manet",
-      "Camille Pissarro",
-      "Alfred Sisley"
+      "Pieter Bruegel l'Ancien",
+      "Albrecht Dürer",
+      "Hans Holbein"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773475858908-4b76c1453a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce triptyque fantastique représente un paradis, un monde terrestre et un enfer.",
+    "imageUrl": "https://images.unsplash.com/photo-1718359760007-4b11d377689c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sculpteur grec antique est attribué comme auteur de la statue de Zeus à Olympie, l'une des Sept Merveilles du monde antique ?",
-    "correct_answer": "Phidias",
+    "question": "Quel sculpteur a conçu 'La Petite Danseuse de quatorze ans' ?",
+    "correct_answer": "Edgar Degas",
     "incorrect_answers": [
-      "Myron",
-      "Praxitèle",
-      "Lysippe"
+      "Auguste Rodin",
+      "Henri de Toulouse-Lautrec",
+      "Camille Claudel"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1779006887619-c9684c1c3943?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette sculpture en cire et bronze, créée en 1881, a choqué par son réalisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1768982417072-34a75ca5d6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée parisien abrite 'Le Déjeuner des canotiers' de Renoir ?",
-    "correct_answer": "Musée d'Orsay",
-    "incorrect_answers": [
-      "Le Louvre",
-      "Centre Pompidou",
-      "Musée de l'Orangerie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767083640927-bead44805f9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique du XXe siècle explore l'inconscient et les rêves, comme chez René Magritte ?",
+    "question": "Quel mouvement artistique est associé à René Magritte ?",
     "correct_answer": "Surréalisme",
     "incorrect_answers": [
       "Dadaïsme",
-      "Futurisme",
-      "Pop Art"
+      "Fauvisme",
+      "Cubisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760281853829-05d55988423a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Magritte a joué avec les paradoxes et les illusions dans ses œuvres oniriques.",
+    "imageUrl": "https://images.unsplash.com/photo-1769117618434-8a4b22697936?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel architecte a conçu la Fallingwater House en Pennsylvanie ?",
+    "question": "Quel musée abrite 'Les Trois Grâces' de Rubens ?",
+    "correct_answer": "Musée du Prado",
+    "incorrect_answers": [
+      "Musée du Louvre",
+      "Musée d'Orsay",
+      "National Gallery"
+    ],
+    "explanation": "Ce tableau baroque de 1630-1635 est exposé au Prado depuis 1821.",
+    "imageUrl": "https://images.unsplash.com/photo-1773474504821-1d2f85a875c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel sculpteur a créé 'Le Baiser' (1889) ?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": [
+      "Gustav Klimt",
+      "Constantin Brancusi",
+      "Henry Moore"
+    ],
+    "explanation": "Cette sculpture en marbre, inspirée de Paolo et Francesca, est un symbole de l'amour.",
+    "imageUrl": "https://images.unsplash.com/photo-1774660016554-3cb50be80bd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Henri de Toulouse-Lautrec ?",
+    "correct_answer": "Postimpressionnisme",
+    "incorrect_answers": [
+      "Impressionnisme",
+      "Symbolisme",
+      "Néoclassicisme"
+    ],
+    "explanation": "Lautrec a capté la vie nocturne parisienne avec un style à la fois réaliste et stylisé.",
+    "imageUrl": "https://images.unsplash.com/photo-1760281853829-05d55988423a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel architecte a conçu la Fallingwater (Maison sur la cascade) ?",
     "correct_answer": "Frank Lloyd Wright",
     "incorrect_answers": [
       "Le Corbusier",
       "Mies van der Rohe",
       "Walter Gropius"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773761542010-0450bf37856a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Construite en 1935 en Pennsylvanie, cette maison intègre la nature dans son design.",
+    "imageUrl": "https://images.unsplash.com/photo-1759846779524-6042d32d487d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre espagnol est célèbre pour ses œuvres cubistes comme 'Les Demoiselles d'Avignon' ?",
-    "correct_answer": "Pablo Picasso",
+    "question": "Quel peintre a réalisé 'Le Déjeuner des canotiers' (1881) ?",
+    "correct_answer": "Pierre-Auguste Renoir",
     "incorrect_answers": [
-      "Salvador Dalí",
-      "Joan Miró",
-      "Diego Velázquez"
+      "Édouard Manet",
+      "Claude Monet",
+      "Berthe Morisot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775416343306-1dd49240282f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce tableau impressionniste, peint à Chatou, célèbre la joie de vivre bourgeoise.",
+    "imageUrl": "https://images.unsplash.com/photo-1775283267270-2046f4103ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel sculpteur français a réalisé 'La Petite Danseuse de quatorze ans' en bronze ?",
-    "correct_answer": "Edgar Degas",
+    "question": "Quel sculpteur a conçu 'L'Homme au doigt' (1947) ?",
+    "correct_answer": "Alberto Giacometti",
     "incorrect_answers": [
-      "Auguste Rodin",
-      "Antoine Bourdelle",
-      "Aristide Maillol"
+      "Henry Moore",
+      "Constantin Brancusi",
+      "Jean Arp"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769117619995-78fc971f041b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette sculpture filiforme, haute de 1,80 m, symbolise l'isolement humain.",
+    "imageUrl": "https://images.unsplash.com/photo-1707261633952-79e36ccd2115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée londonien abrite 'La Jeune Fille à la perle' de Vermeer ?",
-    "correct_answer": "Mauritshuis (à La Haye, mais souvent associé aux collections britanniques)",
-    "incorrect_answers": [
-      "British Museum",
-      "National Gallery",
-      "Tate Modern"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1778587613186-b62dd2004de9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique du XXe siècle utilise des formes fragmentées et des perspectives multiples, comme chez Picasso ?",
-    "correct_answer": "Cubisme",
-    "incorrect_answers": [
-      "Futurisme",
-      "Dadaïsme",
-      "Surréalisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764922168474-8048361bc764?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel architecte a conçu le Bauhaus à Dessau, symbole du modernisme allemand ?",
-    "correct_answer": "Walter Gropius",
-    "incorrect_answers": [
-      "Le Corbusier",
-      "Frank Lloyd Wright",
-      "Mies van der Rohe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773474504821-1d2f85a875c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel peintre italien est célèbre pour ses scènes dramatiques et son usage du clair-obscur, comme 'La Vocazione di San Matteo' ?",
-    "correct_answer": "Le Caravage",
-    "incorrect_answers": [
-      "Raphaël",
-      "Titien",
-      "Véronèse"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1778587614227-ea048dea9501?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel musée new-yorkais abrite 'La Persistance de la mémoire' de Dalí ?",
-    "correct_answer": "MoMA",
-    "incorrect_answers": [
-      "Metropolitan Museum",
-      "Guggenheim",
-      "Whitney Museum"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759194772480-19ab385e354f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sculpteur français a réalisé 'L'Age d'airain', une œuvre naturaliste controversée ?",
-    "correct_answer": "Auguste Rodin",
-    "incorrect_answers": [
-      "Antoine Bourdelle",
-      "Aristide Maillol",
-      "Jean-Baptiste Carpeaux"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759846779524-6042d32d487d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mouvement artistique du XXe siècle utilise des couleurs vives et des formes organiques, comme chez Joan Miró ?",
+    "question": "Quel mouvement artistique est associé à Marc Chagall ?",
     "correct_answer": "Surréalisme",
     "incorrect_answers": [
       "Fauvisme",
       "Cubisme",
-      "Abstraction lyrique"
+      "Dadaïsme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775409126721-a5c980be6026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Chagall a mêlé rêve, folklore juif et couleurs vives dans ses œuvres oniriques.",
+    "imageUrl": "https://images.unsplash.com/photo-1767083640927-bead44805f9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel architecte a conçu la cathédrale Notre-Dame de Paris ?",
-    "correct_answer": "Maurice de Sully (et autres architectes médiévaux)",
+    "question": "Quel musée abrite 'La Naissance de Vénus' de Botticelli ?",
+    "correct_answer": "Galerie des Offices",
     "incorrect_answers": [
-      "Viollet-le-Duc",
-      "Gothique",
-      "Le Corbusier"
+      "Musée du Louvre",
+      "Musée du Prado",
+      "National Gallery"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760174205716-ddef54f0dc59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce chef-d'œuvre de la Renaissance italienne est exposé à Florence depuis 1815.",
+    "imageUrl": "https://images.unsplash.com/photo-1775598178913-0ca79bcae616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre français est célèbre pour ses paysages et ses marines, comme 'La Grande Vague de Kanagawa' ?",
-    "correct_answer": "Hokusai (japonais, mais très influent en Europe)",
-    "incorrect_answers": [
-      "Claude Monet",
-      "Gustave Courbet",
-      "Eugène Boudin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1742145415317-170c91dc7006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel sculpteur grec antique est attribué comme auteur du 'Doryphore' (le porteur de lance) ?",
-    "correct_answer": "Polyclète",
+    "question": "Quel sculpteur a créé 'Laocoon et ses fils' ?",
+    "correct_answer": "Agesandre, Athénodore et Polydore",
     "incorrect_answers": [
       "Phidias",
       "Praxitèle",
       "Lysippe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773096237329-1380a15862a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette sculpture hellénistique du Ier siècle av. J.-C. a été découverte en 1506.",
+    "imageUrl": "https://images.unsplash.com/photo-1778513598968-66215a2757a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel musée parisien abrite 'Le Radeau de la Méduse' de Géricault ?",
-    "correct_answer": "Musée du Louvre",
+    "question": "Quel mouvement artistique est associé à Jackson Pollock ?",
+    "correct_answer": "Expressionnisme abstrait",
     "incorrect_answers": [
-      "Musée d'Orsay",
-      "Centre Pompidou",
-      "Musée de l'Orangerie"
+      "Surréalisme",
+      "Fauvisme",
+      "Cubisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1778513597987-4f8c87d80514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Pollock a révolutionné la peinture avec sa technique du dripping dans les années 1940.",
+    "imageUrl": "https://images.unsplash.com/photo-1705366208002-c77ff0a1ce55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mouvement artistique du XXe siècle utilise des formes géométriques et des couleurs primaires, comme chez Kazimir Malevitch ?",
-    "correct_answer": "Suprématisme",
+    "question": "Quel architecte a conçu le Panthéon de Paris ?",
+    "correct_answer": "Jacques-Germain Soufflot",
     "incorrect_answers": [
-      "Constructivisme",
-      "Bauhaus",
-      "Art déco"
+      "Victor Baltard",
+      "Charles Garnier",
+      "Eugène Viollet-le-Duc"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1778587613182-8221cc7da6e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Inspiré du Panthéon de Rome, il a été construit entre 1758 et 1790.",
+    "imageUrl": "https://images.unsplash.com/photo-1732566206538-5b75f82a74cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5Nzc0MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel architecte a conçu la cathédrale Saint-Paul de Londres ?",
-    "correct_answer": "Christopher Wren",
+    "question": "Quel peintre a réalisé 'La Jeune Fille à la fenêtre' (1651) ?",
+    "correct_answer": "Diego Velázquez",
     "incorrect_answers": [
-      "Inigo Jones",
-      "Norman Foster",
-      "Zaha Hadid"
+      "Francisco de Zurbarán",
+      "Jusepe de Ribera",
+      "Bartolomé Esteban Murillo"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1559841096-8739e2b7dc57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce portrait de l'infante Marguerite-Thérèse est conservé au musée du Prado.",
+    "imageUrl": "https://images.unsplash.com/photo-1761563071832-e548e022a706?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTc5NzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel peintre néerlandais est célèbre pour ses autoportraits et ses paysages de campagne, comme 'Les Mangeurs de pommes de terre' ?",
-    "correct_answer": "Vincent van Gogh",
+    "question": "Quel sculpteur a conçu 'Le Penseur' en marbre (1904) ?",
+    "correct_answer": "Auguste Rodin",
     "incorrect_answers": [
-      "Rembrandt",
-      "Johannes Vermeer",
-      "Frans Hals"
+      "Michel-Ange",
+      "Donatello",
+      "Bernini"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1769117618434-8a4b22697936?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Version en marbre du célèbre bronze, exposée au musée Rodin à Paris.",
+    "imageUrl": null
   },
   {
-    "question": "Quel sculpteur français a réalisé 'L'Homme qui marche I', une œuvre emblématique du XXe siècle ?",
-    "correct_answer": "Alberto Giacometti",
+    "question": "Quel mouvement artistique est associé à Egon Schiele ?",
+    "correct_answer": "Expressionnisme",
+    "incorrect_answers": [
+      "Surréalisme",
+      "Fauvisme",
+      "Cubisme"
+    ],
+    "explanation": "Schiele a peint des corps décharnés et des poses torturées, typiques de l'expressionnisme.",
+    "imageUrl": null
+  },
+  {
+    "question": "Quel musée abrite 'La Jeune Fille à la perle' de Vermeer ?",
+    "correct_answer": "Mauritshuis",
+    "incorrect_answers": [
+      "Musée du Louvre",
+      "Rijksmuseum",
+      "National Gallery"
+    ],
+    "explanation": "Ce tableau de 1665 est exposé à La Haye depuis sa création.",
+    "imageUrl": null
+  },
+  {
+    "question": "Quel sculpteur a créé 'L'Écorché' (1767) ?",
+    "correct_answer": "Jean-Antoine Houdon",
     "incorrect_answers": [
       "Auguste Rodin",
-      "Aristide Maillol",
-      "Antoine Bourdelle"
+      "Michel-Ange",
+      "Bernini"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1578255769804-72ef854f5852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8cGFpbnRpbmclMjBhcnQlMjBtdXNldW0lMjBnYWxsZXJ5fGVufDB8fHx8MTc3OTEwNDIxMnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette sculpture anatomique en plâtre est un modèle d'étude pour les artistes.",
+    "imageUrl": null
   }
 ]

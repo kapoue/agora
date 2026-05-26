@@ -1,23 +1,36 @@
 [
   {
-    "question": "Quel langage de programmation a été créé par Guido van Rossum en 1991 ?",
-    "correct_answer": "Python",
+    "question": "Quel langage de programmation a été créé en premier parmi ces quatre ?",
+    "correct_answer": "Fortran",
     "incorrect_answers": [
-      "Java",
-      "C++",
-      "JavaScript"
+      "C",
+      "Python",
+      "Java"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894897591-ff1e18c89183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Fortran, créé en 1957 par IBM, est le premier langage de programmation haut niveau.",
+    "imageUrl": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur électronique programmable, construit en 1946 ?",
-    "correct_answer": "ENIAC",
+    "question": "Quel est le nom du premier ordinateur électronique programmable ?",
+    "correct_answer": "Colossus",
     "incorrect_answers": [
-      "Colossus",
-      "Mark I",
-      "UNIVAC"
+      "ENIAC",
+      "Z3",
+      "Mark I"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1509966756634-9c23dd6e6815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Colossus, développé en 1943 au Royaume-Uni, décryptait les messages allemands.",
+    "imageUrl": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel inventeur a conçu le premier transistor en 1947 ?",
+    "correct_answer": "John Bardeen, Walter Brattain et William Shockley",
+    "incorrect_answers": [
+      "Alan Turing",
+      "Nikola Tesla",
+      "Thomas Edison"
+    ],
+    "explanation": "Les trois chercheurs des Bell Labs ont inventé le transistor, révolutionnant l'électronique.",
+    "imageUrl": "https://images.unsplash.com/photo-1608306448197-e83633f1261c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel protocole est à la base du fonctionnement d'Internet ?",
@@ -25,289 +38,252 @@
     "incorrect_answers": [
       "HTTP",
       "FTP",
-      "DNS"
+      "SMTP"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "TCP/IP, développé dans les années 1970, permet la communication entre réseaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été développé par Dennis Ritchie en 1972 ?",
+    "question": "Quel langage a été créé par Dennis Ritchie en 1972 ?",
     "correct_answer": "C",
     "incorrect_answers": [
-      "Pascal",
-      "Fortran",
-      "COBOL"
+      "Java",
+      "C++",
+      "Pascal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le langage C, conçu pour écrire le système Unix, est toujours largement utilisé.",
+    "imageUrl": "https://images.unsplash.com/photo-1666071083408-a7acb1a87e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la première entreprise à commercialiser un ordinateur personnel en 1977 ?",
-    "correct_answer": "Apple",
+    "question": "Quel est le nom du premier microprocesseur commercialisé ?",
+    "correct_answer": "Intel 4004",
     "incorrect_answers": [
-      "IBM",
-      "Microsoft",
-      "Commodore"
+      "Motorola 6800",
+      "Zilog Z80",
+      "AMD K5"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1542903660-eedba2cda473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Intel 4004, sorti en 1971, contenait 2 300 transistors et coûtait 200 dollars.",
+    "imageUrl": "https://images.unsplash.com/photo-1607706009771-de8808640bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel algorithme est utilisé pour trier des données de manière efficace en moyenne ?",
-    "correct_answer": "QuickSort",
-    "incorrect_answers": [
-      "BubbleSort",
-      "SelectionSort",
-      "InsertionSort"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1666071083408-a7acb1a87e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier navigateur web graphique, créé en 1993 ?",
+    "question": "Quel est le nom du premier navigateur web graphique ?",
     "correct_answer": "Mosaic",
     "incorrect_answers": [
       "Netscape",
       "Internet Explorer",
-      "Chrome"
+      "Firefox"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Mosaic, créé en 1993, a popularisé le web en permettant d'afficher des images.",
+    "imageUrl": "https://images.unsplash.com/photo-1547190027-9156686aa2f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par James Gosling en 1995 ?",
-    "correct_answer": "Java",
+    "question": "Quel langage a été créé par Guido van Rossum en 1991 ?",
+    "correct_answer": "Python",
     "incorrect_answers": [
-      "C#",
-      "Python",
-      "Ruby"
+      "Ruby",
+      "Perl",
+      "PHP"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1653387137517-fbc54d488ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Python, connu pour sa syntaxe claire, est aujourd'hui l'un des langages les plus populaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier microprocesseur commercialisé en 1971 ?",
-    "correct_answer": "Intel 4004",
+    "question": "Quel est le nom du premier virus informatique connu ?",
+    "correct_answer": "Creeper",
     "incorrect_answers": [
-      "Motorola 6800",
-      "Z80",
-      "Pentium"
+      "ILOVEYOU",
+      "Melissa",
+      "Morris"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Creeper, apparu en 1971, affichait le message 'I'm the creeper, catch me if you can'.",
+    "imageUrl": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la première entreprise à vendre un système d'exploitation graphique grand public en 1984 ?",
+    "question": "Quel entreprise a créé le premier ordinateur personnel grand public en 1977 ?",
     "correct_answer": "Apple",
     "incorrect_answers": [
-      "Microsoft",
       "IBM",
-      "Xerox"
+      "Commodore",
+      "Atari"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1585143042060-77fd3b53905a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Apple II, conçu par Steve Wozniak, a lancé l'ère des PC grand public.",
+    "imageUrl": "https://images.unsplash.com/photo-1516101922849-2bf0be616449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Bjarne Stroustrup en 1985 ?",
+    "question": "Quel est le nom du premier système d'exploitation créé par Microsoft ?",
+    "correct_answer": "MS-DOS",
+    "incorrect_answers": [
+      "Windows",
+      "Linux",
+      "OS/2"
+    ],
+    "explanation": "MS-DOS, sorti en 1981, a été le système d'exploitation dominant avant Windows.",
+    "imageUrl": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été créé par Bjarne Stroustrup en 1983 ?",
     "correct_answer": "C++",
     "incorrect_answers": [
       "Java",
-      "Python",
-      "Ruby"
+      "C#",
+      "Objective-C"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1615525137689-198778541af6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "C++, extension orientée objet du C, est encore utilisé pour les systèmes embarqués.",
+    "imageUrl": "https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier langage de programmation de haut niveau, créé en 1957 ?",
-    "correct_answer": "FORTRAN",
+    "question": "Quel est le nom du premier site web créé en 1991 ?",
+    "correct_answer": "info.cern.ch",
     "incorrect_answers": [
-      "COBOL",
-      "BASIC",
-      "ALGOL"
+      "google.com",
+      "yahoo.com",
+      "wikipedia.org"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631624215749-b10b3dd7bca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "info.cern.ch était le premier site web, hébergé par le CERN pour présenter le World Wide Web.",
+    "imageUrl": "https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur personnel à succès commercial, sorti en 1977 ?",
-    "correct_answer": "Apple II",
+    "question": "Quel est le nom du premier langage de programmation orienté objet ?",
+    "correct_answer": "Simula",
     "incorrect_answers": [
-      "Commodore PET",
-      "TRS-80",
-      "IBM PC"
+      "Smalltalk",
+      "Java",
+      "C++"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1599837565318-67429bde7162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Simula, créé en 1967 par Ole-Johan Dahl et Kristen Nygaard, a introduit les concepts OO.",
+    "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Larry Wall en 1987 ?",
-    "correct_answer": "Perl",
+    "question": "Quel est le nom du premier processeur 64 bits grand public ?",
+    "correct_answer": "AMD Opteron",
     "incorrect_answers": [
+      "Intel Pentium 4",
+      "IBM PowerPC",
+      "Sun SPARC"
+    ],
+    "explanation": "L'Opteron, sorti en 2003, a lancé l'ère des processeurs 64 bits pour PC.",
+    "imageUrl": "https://images.unsplash.com/photo-1556244573-c3686c0f0e78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de script intégré à un navigateur web ?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": [
+      "VBScript",
       "PHP",
-      "Ruby",
-      "Python"
+      "Perl"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1522252234503-e356532cafd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "JavaScript, créé par Brendan Eich en 1995, permet d'ajouter de l'interactivité aux pages web.",
+    "imageUrl": "https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier système de gestion de base de données relationnelle, créé en 1970 ?",
+    "question": "Quel est le nom du premier ordinateur personnel à utiliser une souris ?",
+    "correct_answer": "Xerox Star",
+    "incorrect_answers": [
+      "Apple Lisa",
+      "IBM PC",
+      "Commodore 64"
+    ],
+    "explanation": "Le Xerox Star, sorti en 1981, était le premier à populariser la souris et l'interface graphique.",
+    "imageUrl": "https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation conçu pour l'IA ?",
+    "correct_answer": "Lisp",
+    "incorrect_answers": [
+      "Prolog",
+      "Python",
+      "Java"
+    ],
+    "explanation": "Lisp, créé en 1958 par John McCarthy, est encore utilisé en intelligence artificielle.",
+    "imageUrl": "https://images.unsplash.com/photo-1599837565318-67429bde7162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier processeur à architecture RISC ?",
+    "correct_answer": "MIPS R2000",
+    "incorrect_answers": [
+      "Intel 8086",
+      "Motorola 68000",
+      "ARM2"
+    ],
+    "explanation": "Le MIPS R2000, sorti en 1985, a popularisé l'architecture RISC pour les microprocesseurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1580894897591-ff1e18c89183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des mots-clés en anglais ?",
+    "correct_answer": "COBOL",
+    "incorrect_answers": [
+      "Fortran",
+      "ALGOL",
+      "BASIC"
+    ],
+    "explanation": "COBOL, créé en 1959, était conçu pour être lisible par des non-programmeurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier système de gestion de base de données relationnelle ?",
     "correct_answer": "System R",
     "incorrect_answers": [
       "Oracle",
       "MySQL",
       "SQL Server"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "System R, développé par IBM dans les années 1970, a introduit le langage SQL.",
+    "imageUrl": "https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Yukihiro Matsumoto en 1995 ?",
-    "correct_answer": "Ruby",
+    "question": "Quel est le nom du premier langage de programmation à utiliser la récursivité ?",
+    "correct_answer": "Lisp",
     "incorrect_answers": [
-      "Python",
-      "JavaScript",
-      "PHP"
+      "Fortran",
+      "C",
+      "Pascal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Lisp, créé en 1958, a popularisé la récursivité comme technique de programmation.",
+    "imageUrl": "https://images.unsplash.com/photo-1603969409447-ba86143a03f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier langage de balisage utilisé pour structurer des documents sur le web ?",
-    "correct_answer": "HTML",
+    "question": "Quel est le nom du premier processeur à intégrer un FPU (unité de calcul flottant) ?",
+    "correct_answer": "Intel 8087",
     "incorrect_answers": [
-      "XML",
-      "SGML",
-      "JSON"
+      "Motorola 68000",
+      "AMD K5",
+      "Pentium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Rasmus Lerdorf en 1994 ?",
-    "correct_answer": "PHP",
-    "incorrect_answers": [
-      "Python",
-      "Perl",
-      "Ruby"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583484963886-cfe2bff2945f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur personnel à utiliser une souris et une interface graphique ?",
-    "correct_answer": "Xerox Alto",
-    "incorrect_answers": [
-      "Apple Macintosh",
-      "IBM PC",
-      "Commodore 64"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1731839329389-906c44fa1328?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Brendan Eich en 1995 ?",
-    "correct_answer": "JavaScript",
-    "incorrect_answers": [
-      "Java",
-      "Python",
-      "C#"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1617042375876-a13e36732a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation orienté objet, créé en 1967 ?",
-    "correct_answer": "Simula",
-    "incorrect_answers": [
-      "Smalltalk",
-      "C++",
-      "Java"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618389041494-8fab89c3f22b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des mots-clés en anglais pour les instructions ?",
-    "correct_answer": "COBOL",
-    "incorrect_answers": [
-      "FORTRAN",
-      "BASIC",
-      "ALGOL"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Anders Hejlsberg en 1991 ?",
-    "correct_answer": "Delphi",
-    "incorrect_answers": [
-      "C#",
-      "Java",
-      "Python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1526925539332-aa3b66e35444?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des structures de contrôle comme les boucles et les conditions ?",
-    "correct_answer": "ALGOL",
-    "incorrect_answers": [
-      "FORTRAN",
-      "COBOL",
-      "BASIC"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Yukihiro Matsumoto en 1993 ?",
-    "correct_answer": "Ruby",
-    "incorrect_answers": [
-      "Python",
-      "Perl",
-      "PHP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Intel 8087, sorti en 1980, était un coprocesseur mathématique pour le 8086.",
+    "imageUrl": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du premier langage de programmation à utiliser des pointeurs ?",
-    "correct_answer": "C",
+    "correct_answer": "PL/I",
     "incorrect_answers": [
+      "C",
       "Pascal",
-      "Fortran",
-      "COBOL"
+      "Ada"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "PL/I, créé en 1964, a introduit les pointeurs pour manipuler la mémoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1583484963886-cfe2bff2945f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Guido van Rossum en 1989 ?",
-    "correct_answer": "Python",
-    "incorrect_answers": [
-      "Java",
-      "C++",
-      "JavaScript"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1556244573-c3686c0f0e78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des classes et des objets ?",
+    "question": "Quel est le nom du premier langage de programmation à utiliser des classes ?",
     "correct_answer": "Simula",
     "incorrect_answers": [
-      "Smalltalk",
       "C++",
-      "Java"
+      "Java",
+      "Smalltalk"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Simula, créé en 1967, a introduit le concept de classe en programmation.",
+    "imageUrl": "https://images.unsplash.com/photo-1509966756634-9c23dd6e6815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Dennis Ritchie en 1978 ?",
-    "correct_answer": "C",
+    "question": "Quel est le nom du premier langage de programmation à utiliser des exceptions ?",
+    "correct_answer": "PL/I",
     "incorrect_answers": [
-      "Pascal",
-      "Fortran",
-      "COBOL"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1547190027-9156686aa2f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des fonctions anonymes ?",
-    "correct_answer": "Lisp",
-    "incorrect_answers": [
-      "Scheme",
-      "Haskell",
+      "C++",
+      "Java",
       "Python"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par James Gosling en 1991 ?",
-    "correct_answer": "Java",
-    "incorrect_answers": [
-      "C#",
-      "Python",
-      "Ruby"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "PL/I, dans les années 1960, a introduit la gestion des erreurs via des exceptions.",
+    "imageUrl": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du premier langage de programmation à utiliser des génériques ?",
@@ -315,159 +291,10 @@
     "incorrect_answers": [
       "C++",
       "Java",
-      "C#"
+      "Rust"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Rasmus Lerdorf en 1995 ?",
-    "correct_answer": "PHP",
-    "incorrect_answers": [
-      "Perl",
-      "Python",
-      "Ruby"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1608742213509-815b97c30b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des exceptions ?",
-    "correct_answer": "Ada",
-    "incorrect_answers": [
-      "C++",
-      "Java",
-      "Python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1607706009771-de8808640bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des modules ?",
-    "correct_answer": "Modula-2",
-    "incorrect_answers": [
-      "Pascal",
-      "Ada",
-      "C"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1603969409447-ba86143a03f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des métaprogrammation ?",
-    "correct_answer": "Lisp",
-    "incorrect_answers": [
-      "Python",
-      "Ruby",
-      "JavaScript"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1591439657848-9f4b9ce436b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des fermetures ?",
-    "correct_answer": "Scheme",
-    "incorrect_answers": [
-      "Haskell",
-      "Python",
-      "Ruby"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Anders Hejlsberg en 1999 ?",
-    "correct_answer": "C#",
-    "incorrect_answers": [
-      "Java",
-      "Delphi",
-      "Python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des itérateurs ?",
-    "correct_answer": "CLU",
-    "incorrect_answers": [
-      "C++",
-      "Java",
-      "Python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Guido van Rossum en 2008 ?",
-    "correct_answer": "Python",
-    "incorrect_answers": [
-      "Java",
-      "C++",
-      "JavaScript"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1743090661056-e51700546169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des décorateurs ?",
-    "correct_answer": "Python",
-    "incorrect_answers": [
-      "Ruby",
-      "JavaScript",
-      "Java"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Yukihiro Matsumoto en 2005 ?",
-    "correct_answer": "Ruby",
-    "incorrect_answers": [
-      "Python",
-      "Perl",
-      "PHP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des générateurs ?",
-    "correct_answer": "Python",
-    "incorrect_answers": [
-      "Ruby",
-      "JavaScript",
-      "Java"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1638482856830-16b0e15fcf2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Rasmus Lerdorf en 2002 ?",
-    "correct_answer": "PHP",
-    "incorrect_answers": [
-      "Perl",
-      "Python",
-      "Ruby"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des coroutines ?",
-    "correct_answer": "Simula",
-    "incorrect_answers": [
-      "C++",
-      "Java",
-      "Python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1608306448197-e83633f1261c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Dennis Ritchie en 1972 ?",
-    "correct_answer": "C",
-    "incorrect_answers": [
-      "Pascal",
-      "Fortran",
-      "COBOL"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des espaces de noms ?",
-    "correct_answer": "C++",
-    "incorrect_answers": [
-      "Java",
-      "Python",
-      "Ruby"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ada, créé en 1980, a introduit les types génériques pour éviter la duplication de code.",
+    "imageUrl": "https://images.unsplash.com/photo-1653387137517-fbc54d488ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du premier langage de programmation à utiliser des annotations ?",
@@ -477,16 +304,326 @@
       "Python",
       "Ruby"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1503252947848-7338d3f92f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Java, avec sa version 5 en 2004, a popularisé les annotations pour la métadonnée.",
+    "imageUrl": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des propriétés ?",
+    "question": "Quel est le nom du premier langage de programmation à utiliser des lambdas ?",
+    "correct_answer": "Lisp",
+    "incorrect_answers": [
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "explanation": "Lisp, dès 1958, a introduit les fonctions anonymes (lambdas) comme éléments de première classe.",
+    "imageUrl": "https://images.unsplash.com/photo-1731839329389-906c44fa1328?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des modules ?",
+    "correct_answer": "Modula-2",
+    "incorrect_answers": [
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "explanation": "Modula-2, créé par Niklaus Wirth en 1978, a introduit les modules pour structurer le code.",
+    "imageUrl": "https://images.unsplash.com/photo-1542903660-eedba2cda473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des interfaces ?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "C++",
+      "Python",
+      "Go"
+    ],
+    "explanation": "Java, avec sa version 1.0 en 1996, a popularisé les interfaces pour la programmation orientée objet.",
+    "imageUrl": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des delegates ?",
     "correct_answer": "C#",
     "incorrect_answers": [
       "Java",
       "Python",
       "Ruby"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1632910121591-29e2484c0259?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "C#, créé en 2000, a introduit les delegates pour encapsuler des méthodes comme des objets.",
+    "imageUrl": "https://images.unsplash.com/photo-1505238680356-667803448bb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des coroutines ?",
+    "correct_answer": "Simula",
+    "incorrect_answers": [
+      "Python",
+      "Go",
+      "Rust"
+    ],
+    "explanation": "Simula, dès 1967, a introduit les coroutines pour la programmation concurrente.",
+    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des traits ?",
+    "correct_answer": "Rust",
+    "incorrect_answers": [
+      "Scala",
+      "Swift",
+      "Kotlin"
+    ],
+    "explanation": "Rust, créé en 2010, utilise les traits pour définir des comportements réutilisables.",
+    "imageUrl": "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des monades ?",
+    "correct_answer": "Haskell",
+    "incorrect_answers": [
+      "Scala",
+      "F#",
+      "OCaml"
+    ],
+    "explanation": "Haskell, créé en 1990, utilise les monades pour gérer les effets de bord.",
+    "imageUrl": "https://images.unsplash.com/photo-1522252234503-e356532cafd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des macros ?",
+    "correct_answer": "Lisp",
+    "incorrect_answers": [
+      "C",
+      "C++",
+      "Rust"
+    ],
+    "explanation": "Lisp, dès 1958, a introduit les macros pour générer du code à la compilation.",
+    "imageUrl": "https://images.unsplash.com/photo-1687603858673-a08a2dc2302c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des métaprogrammes ?",
+    "correct_answer": "Lisp",
+    "incorrect_answers": [
+      "C++",
+      "Python",
+      "Ruby"
+    ],
+    "explanation": "Lisp permet la métaprogrammation via des macros et l'évaluation de code à l'exécution.",
+    "imageUrl": "https://images.unsplash.com/photo-1625535069654-cfeb8f829088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des continuations ?",
+    "correct_answer": "Scheme",
+    "incorrect_answers": [
+      "Python",
+      "JavaScript",
+      "Ruby"
+    ],
+    "explanation": "Scheme, un dialecte de Lisp, a popularisé les continuations pour la programmation fonctionnelle.",
+    "imageUrl": "https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types dépendants ?",
+    "correct_answer": "Agda",
+    "incorrect_answers": [
+      "Coq",
+      "Idris",
+      "Haskell"
+    ],
+    "explanation": "Agda, créé en 1999, permet de définir des types dépendants pour une vérification forte.",
+    "imageUrl": "https://images.unsplash.com/photo-1618389041494-8fab89c3f22b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des effets algébriques ?",
+    "correct_answer": "Koka",
+    "incorrect_answers": [
+      "Eff",
+      "Unison",
+      "Rust"
+    ],
+    "explanation": "Koka, développé par Microsoft, utilise les effets algébriques pour gérer les effets de bord.",
+    "imageUrl": "https://images.unsplash.com/photo-1631624215749-b10b3dd7bca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types linéaires ?",
+    "correct_answer": "Rust",
+    "incorrect_answers": [
+      "C++",
+      "Ada",
+      "Go"
+    ],
+    "explanation": "Rust utilise les types linéaires pour garantir la sécurité mémoire sans garbage collector.",
+    "imageUrl": "https://images.unsplash.com/photo-1724166573009-4634b974ebb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de capacité ?",
+    "correct_answer": "Pony",
+    "incorrect_answers": [
+      "Rust",
+      "Swift",
+      "Kotlin"
+    ],
+    "explanation": "Pony, créé en 2015, utilise les types de capacité pour gérer la concurrence sans verrous.",
+    "imageUrl": "https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de région ?",
+    "correct_answer": "Cyclone",
+    "incorrect_answers": [
+      "Rust",
+      "Ada",
+      "Go"
+    ],
+    "explanation": "Cyclone, un dérivé de C, utilise les régions pour gérer la mémoire de manière sécurisée.",
+    "imageUrl": "https://images.unsplash.com/photo-1579403124614-197f69d8187b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot ?",
+    "correct_answer": "Elm",
+    "incorrect_answers": [
+      "Haskell",
+      "PureScript",
+      "F#"
+    ],
+    "explanation": "Elm, créé en 2012, utilise les types de flot pour modéliser les flux de données.",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de données ?",
+    "correct_answer": "Lustre",
+    "incorrect_answers": [
+      "Scala",
+      "Haskell",
+      "Rust"
+    ],
+    "explanation": "Lustre, créé en 1983, est un langage synchrone pour les systèmes temps réel.",
+    "imageUrl": "https://images.unsplash.com/photo-1653387300291-bfa1eeb90e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de contrôle ?",
+    "correct_answer": "C",
+    "incorrect_answers": [
+      "Pascal",
+      "Ada",
+      "Go"
+    ],
+    "explanation": "C, dès 1972, utilise des structures de contrôle comme if, while et for.",
+    "imageUrl": "https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de type ?",
+    "correct_answer": "TypeScript",
+    "incorrect_answers": [
+      "Python",
+      "JavaScript",
+      "Rust"
+    ],
+    "explanation": "TypeScript, créé en 2012, ajoute des types statiques à JavaScript.",
+    "imageUrl": "https://images.unsplash.com/photo-1585143042060-77fd3b53905a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de mémoire ?",
+    "correct_answer": "C++",
+    "incorrect_answers": [
+      "C",
+      "Rust",
+      "Go"
+    ],
+    "explanation": "C++, depuis ses débuts, gère la mémoire via des pointeurs et des destructeurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1503252947848-7338d3f92f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de concurrence ?",
+    "correct_answer": "Go",
+    "incorrect_answers": [
+      "Java",
+      "C#",
+      "Rust"
+    ],
+    "explanation": "Go, créé en 2009, utilise des goroutines pour la programmation concurrente légère.",
+    "imageUrl": "https://images.unsplash.com/photo-1526925539332-aa3b66e35444?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de parallélisme ?",
+    "correct_answer": "Fortran",
+    "incorrect_answers": [
+      "C",
+      "Python",
+      "Java"
+    ],
+    "explanation": "Fortran, dès les années 1950, a introduit des constructions pour le parallélisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1608742213509-815b97c30b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de distribution ?",
+    "correct_answer": "Erlang",
+    "incorrect_answers": [
+      "Python",
+      "Java",
+      "Go"
+    ],
+    "explanation": "Erlang, créé en 1986, est conçu pour les systèmes distribués et tolérants aux pannes.",
+    "imageUrl": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de sécurité ?",
+    "correct_answer": "Ada",
+    "incorrect_answers": [
+      "C",
+      "Java",
+      "Rust"
+    ],
+    "explanation": "Ada, créé en 1980, intègre des mécanismes de sécurité pour les systèmes critiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1617042375876-a13e36732a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de temps réel ?",
+    "correct_answer": "Ada",
+    "incorrect_answers": [
+      "C",
+      "Java",
+      "Go"
+    ],
+    "explanation": "Ada est conçu pour les systèmes temps réel avec des contraintes strictes.",
+    "imageUrl": "https://images.unsplash.com/photo-1743090661056-e51700546169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de calcul embarqué ?",
+    "correct_answer": "Ada",
+    "incorrect_answers": [
+      "C",
+      "Rust",
+      "Go"
+    ],
+    "explanation": "Ada est largement utilisé dans l'avionique et les systèmes embarqués critiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1632910121591-29e2484c0259?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de calcul scientifique ?",
+    "correct_answer": "Fortran",
+    "incorrect_answers": [
+      "C",
+      "Python",
+      "MATLAB"
+    ],
+    "explanation": "Fortran, dès 1957, est le langage de prédilection pour le calcul scientifique.",
+    "imageUrl": "https://images.unsplash.com/photo-1638482856830-16b0e15fcf2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de calcul graphique ?",
+    "correct_answer": "GLSL",
+    "incorrect_answers": [
+      "HLSL",
+      "Cg",
+      "Metal"
+    ],
+    "explanation": "GLSL, créé en 1999, est le langage de shader pour OpenGL.",
+    "imageUrl": "https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser des types de flot de calcul quantique ?",
+    "correct_answer": "Q#",
+    "incorrect_answers": [
+      "Qiskit",
+      "Cirq",
+      "Quil"
+    ],
+    "explanation": "Q#, créé par Microsoft en 2017, est dédié à la programmation quantique.",
+    "imageUrl": "https://images.unsplash.com/photo-1591439657848-9f4b9ce436b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

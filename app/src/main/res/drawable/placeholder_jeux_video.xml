@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Corps de la manette -->
+    <path
+        android:fillColor="#8B8070"
+        android:pathData="M22,38 L78,38 L83,60 L70,73 L30,73 L17,60 Z" />
+    <!-- Poignée gauche -->
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M22,38 L17,60 L28,73 L30,73 L22,56 Z" />
+    <!-- Poignée droite -->
+    <path
+        android:fillColor="#6B6050"
+        android:pathData="M78,38 L83,60 L72,73 L70,73 L78,56 Z" />
+    <!-- Croix directionnelle (D-pad) -->
+    <path
+        android:fillColor="#4A4040"
+        android:pathData="M30,47 L34,47 L34,43 L38,43 L38,47 L42,47 L42,51 L38,51 L38,55 L34,55 L34,51 L30,51 Z" />
+    <!-- Bouton A -->
+    <path
+        android:fillColor="#4A4040"
+        android:pathData="M66,44 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0 Z" />
+    <!-- Bouton B -->
+    <path
+        android:fillColor="#4A4040"
+        android:pathData="M72,50 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0 Z" />
+    <!-- Bouton X -->
+    <path
+        android:fillColor="#4A4040"
+        android:pathData="M60,50 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0 Z" />
+    <!-- Bouton Y -->
+    <path
+        android:fillColor="#4A4040"
+        android:pathData="M66,56 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0 Z" />
+    <!-- Bouton central -->
+    <path
+        android:fillColor="#4A4040"
+        android:pathData="M50,47 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+</vector>

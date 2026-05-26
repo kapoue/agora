@@ -1,552 +1,706 @@
 [
   {
-    "question": "Quel langage de programmation a été créé par Dennis Ritchie en 1972 pour développer le système d'exploitation Unix ?",
+    "question": "Quel langage de programmation a été créé par Bjarne Stroustrup en 1985 comme une extension du C ?",
+    "correct_answer": "C++",
+    "incorrect_answers": [
+      "Java",
+      "Python",
+      "C#"
+    ],
+    "explanation": "C++ ajoute la programmation orientée objet au langage C.",
+    "imageUrl": "https://images.unsplash.com/photo-1520509414578-d9cbf09933a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de tri, inventé en 1959, a une complexité temporelle de O(n log n) dans le pire cas ?",
+    "correct_answer": "Tri par fusion",
+    "incorrect_answers": [
+      "Tri à bulles",
+      "Tri rapide",
+      "Tri par insertion"
+    ],
+    "explanation": "Le tri par fusion divise récursivement le tableau en sous-tableaux triés.",
+    "imageUrl": "https://images.unsplash.com/photo-1623520333087-62b8793e3d23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole de communication a été développé par Vinton Cerf et Robert Kahn en 1974 ?",
+    "correct_answer": "TCP/IP",
+    "incorrect_answers": [
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "explanation": "TCP/IP est la base de l'Internet moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1607970669494-309137683be5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Guido van Rossum en 1991 ?",
+    "correct_answer": "Python",
+    "incorrect_answers": [
+      "Ruby",
+      "Perl",
+      "PHP"
+    ],
+    "explanation": "Python est connu pour sa syntaxe claire et sa lisibilité.",
+    "imageUrl": "https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel concept en informatique désigne une séquence d'instructions exécutables par un processeur ?",
+    "correct_answer": "Programme",
+    "incorrect_answers": [
+      "Algorithme",
+      "Donnée",
+      "Variable"
+    ],
+    "explanation": "Un programme est un ensemble d'instructions pour un processeur.",
+    "imageUrl": "https://images.unsplash.com/photo-1685558593626-686907d7ee4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été développé par Dennis Ritchie en 1972 pour le système Unix ?",
     "correct_answer": "C",
     "incorrect_answers": [
       "Pascal",
       "Fortran",
       "COBOL"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1626362814904-d27009a10da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "C est le langage historique des systèmes Unix et des noyaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1662638600476-d563fffbb072?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur électronique programmable et entièrement automatique, conçu par Konrad Zuse en 1941 ?",
-    "correct_answer": "Z3",
+    "question": "Quel terme désigne un bug informatique causé par une erreur de synchronisation dans un programme multithread ?",
+    "correct_answer": "Race condition",
     "incorrect_answers": [
-      "ENIAC",
-      "Colossus",
-      "Atanasoff-Berry Computer"
+      "Deadlock",
+      "Stack overflow",
+      "Buffer overflow"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1670057046254-3b5095eb4b66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Une race condition survient quand l'ordre d'exécution affecte le résultat.",
+    "imageUrl": "https://images.unsplash.com/photo-1731839329389-906c44fa1328?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel protocole est à la base du fonctionnement du World Wide Web, développé par Tim Berners-Lee en 1989 ?",
-    "correct_answer": "HTTP",
-    "incorrect_answers": [
-      "FTP",
-      "SMTP",
-      "TCP/IP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1699885960867-56d5f5262d38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel algorithme de tri, inventé par Tony Hoare en 1959, est basé sur le principe de diviser pour régner et a une complexité moyenne de O(n log n) ?",
-    "correct_answer": "Quicksort",
-    "incorrect_answers": [
-      "Bubble Sort",
-      "Insertion Sort",
-      "Merge Sort"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1599837487527-e009248aa71b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Guido van Rossum en 1991 et est connu pour sa syntaxe claire et sa lisibilité ?",
-    "correct_answer": "Python",
-    "incorrect_answers": [
-      "Ruby",
-      "Perl",
-      "PHP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1566837945700-30057527ade0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier microprocesseur commercialisé par Intel en 1971, contenant 2 300 transistors ?",
-    "correct_answer": "Intel 4004",
-    "incorrect_answers": [
-      "Intel 8080",
-      "Motorola 6800",
-      "Zilog Z80"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1623520527569-fee1da87f598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été développé par Bjarne Stroustrup en 1983 comme une extension du C, ajoutant la programmation orientée objet ?",
-    "correct_answer": "C++",
-    "incorrect_answers": [
-      "Java",
-      "C#",
-      "Objective-C"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier virus informatique connu, créé en 1971 par Bob Thomas pour démontrer la mobilité des programmes ?",
-    "correct_answer": "Creeper",
-    "incorrect_answers": [
-      "ILOVEYOU",
-      "Melissa",
-      "Morris Worm"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1653387137517-fbc54d488ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole de communication est utilisé pour sécuriser les transactions en ligne et a été développé par Netscape en 1995 ?",
-    "correct_answer": "SSL",
-    "incorrect_answers": [
-      "SSH",
-      "TLS",
-      "PGP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par James Gosling chez Sun Microsystems en 1995 pour les systèmes embarqués ?",
+    "question": "Quel langage a été créé par James Gosling en 1995 chez Sun Microsystems ?",
     "correct_answer": "Java",
     "incorrect_answers": [
-      "JavaScript",
-      "TypeScript",
-      "Kotlin"
+      "Scala",
+      "Kotlin",
+      "Groovy"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Java a été conçu pour être portable et indépendant de la plateforme.",
+    "imageUrl": "https://images.unsplash.com/photo-1599837487527-e009248aa71b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur personnel grand public, lancé par IBM en 1981 ?",
-    "correct_answer": "IBM PC",
-    "incorrect_answers": [
-      "Apple II",
-      "Commodore 64",
-      "TRS-80"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel algorithme de cryptographie asymétrique, inventé en 1977, repose sur la difficulté de factoriser de grands nombres premiers ?",
+    "question": "Quel algorithme de cryptographie asymétrique a été inventé par Ron Rivest, Adi Shamir et Leonard Adleman en 1977 ?",
     "correct_answer": "RSA",
     "incorrect_answers": [
       "AES",
       "DES",
       "ECC"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1669023414166-a4cc7c0fe1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "RSA repose sur la difficulté de factoriser de grands nombres premiers.",
+    "imageUrl": "https://images.unsplash.com/photo-1597239450996-ea7c2c564412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de balisage a été créé par Tim Berners-Lee pour structurer les documents du World Wide Web ?",
+    "question": "Quel langage de balisage a été créé par Tim Berners-Lee en 1991 pour le World Wide Web ?",
     "correct_answer": "HTML",
     "incorrect_answers": [
       "XML",
-      "SGML",
-      "JSON"
+      "JSON",
+      "SGML"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1617042375876-a13e36732a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "HTML structure les pages web et est interprété par les navigateurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1669023414171-56f0740e34cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier système d'exploitation open source, développé par Linus Torvalds en 1991 ?",
-    "correct_answer": "Linux",
+    "question": "Quel terme désigne un ensemble de règles pour la communication entre systèmes informatiques ?",
+    "correct_answer": "Protocole",
     "incorrect_answers": [
-      "FreeBSD",
-      "OpenBSD",
-      "Minix"
+      "Framework",
+      "Bibliothèque",
+      "API"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631624215749-b10b3dd7bca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Un protocole définit comment les données sont échangées.",
+    "imageUrl": "https://images.unsplash.com/photo-1591439657848-9f4b9ce436b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Yukihiro Matsumoto en 1995 et est connu pour son élégance et sa flexibilité ?",
+    "question": "Quel langage a été développé par Microsoft en 2000 comme alternative à Java ?",
+    "correct_answer": "C#",
+    "incorrect_answers": [
+      "F#",
+      "VB.NET",
+      "TypeScript"
+    ],
+    "explanation": "C# est conçu pour le framework .NET et est similaire à Java.",
+    "imageUrl": "https://images.unsplash.com/photo-1626362814904-d27009a10da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel concept en programmation désigne une fonction qui s'appelle elle-même ?",
+    "correct_answer": "Récursivité",
+    "incorrect_answers": [
+      "Itération",
+      "Polymorphisme",
+      "Héritage"
+    ],
+    "explanation": "La récursivité permet de résoudre des problèmes en sous-problèmes.",
+    "imageUrl": "https://images.unsplash.com/photo-1724166551426-77aa7328d053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été créé par Yukihiro Matsumoto en 1995 pour la programmation orientée objet ?",
     "correct_answer": "Ruby",
     "incorrect_answers": [
       "Python",
       "Perl",
-      "PHP"
+      "Smalltalk"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ruby est connu pour sa syntaxe élégante et sa flexibilité.",
+    "imageUrl": "https://images.unsplash.com/photo-1687603849601-ef2bd73820cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier navigateur web graphique, développé par Marc Andreessen en 1993 ?",
-    "correct_answer": "Mosaic",
+    "question": "Quel terme désigne un ensemble de données structurées accessibles par des requêtes ?",
+    "correct_answer": "Base de données",
     "incorrect_answers": [
-      "Netscape Navigator",
-      "Internet Explorer",
-      "Lynx"
+      "Tableur",
+      "Fichier texte",
+      "Cache"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618389041494-8fab89c3f22b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Une base de données permet de stocker et gérer des données efficacement.",
+    "imageUrl": "https://images.unsplash.com/photo-1630476387426-52c6e0b14e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel protocole est utilisé pour transférer des fichiers entre un client et un serveur sur un réseau TCP/IP ?",
+    "question": "Quel langage a été développé par Larry Wall en 1987 pour le traitement de texte ?",
+    "correct_answer": "Perl",
+    "incorrect_answers": [
+      "PHP",
+      "Ruby",
+      "Python"
+    ],
+    "explanation": "Perl est réputé pour sa puissance en manipulation de chaînes.",
+    "imageUrl": "https://images.unsplash.com/photo-1625535069654-cfeb8f829088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de compression de données a été développé par Abraham Lempel et Jacob Ziv en 1977 ?",
+    "correct_answer": "LZ77",
+    "incorrect_answers": [
+      "Huffman",
+      "Run-Length",
+      "Arithmetic coding"
+    ],
+    "explanation": "LZ77 est la base des algorithmes de compression comme ZIP.",
+    "imageUrl": "https://images.unsplash.com/photo-1631624215749-b10b3dd7bca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été créé par Rasmus Lerdorf en 1994 pour le développement web ?",
+    "correct_answer": "PHP",
+    "incorrect_answers": [
+      "JavaScript",
+      "ASP",
+      "JSP"
+    ],
+    "explanation": "PHP est un langage de script côté serveur très répandu.",
+    "imageUrl": "https://images.unsplash.com/photo-1603969409447-ba86143a03f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel terme désigne une erreur de logique dans un programme informatique ?",
+    "correct_answer": "Bug",
+    "incorrect_answers": [
+      "Exception",
+      "Erreur de syntaxe",
+      "Faille de sécurité"
+    ],
+    "explanation": "Un bug est une erreur dans le code source ou la conception.",
+    "imageUrl": "https://images.unsplash.com/photo-1670057037226-b3d65909424f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été développé par John Backus en 1957 pour IBM ?",
+    "correct_answer": "Fortran",
+    "incorrect_answers": [
+      "COBOL",
+      "ALGOL",
+      "Lisp"
+    ],
+    "explanation": "Fortran est le premier langage de programmation de haut niveau.",
+    "imageUrl": "https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de tri a une complexité temporelle moyenne de O(n²) mais O(n log n) en optimisant le pivot ?",
+    "correct_answer": "Tri rapide",
+    "incorrect_answers": [
+      "Tri par sélection",
+      "Tri à bulles",
+      "Tri par insertion"
+    ],
+    "explanation": "Le tri rapide utilise une stratégie de diviser pour régner.",
+    "imageUrl": "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole est utilisé pour sécuriser les communications sur Internet ?",
+    "correct_answer": "HTTPS",
+    "incorrect_answers": [
+      "HTTP",
+      "FTP",
+      "Telnet"
+    ],
+    "explanation": "HTTPS utilise SSL/TLS pour chiffrer les données.",
+    "imageUrl": "https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été créé par Anders Hejlsberg en 1999 pour Microsoft ?",
+    "correct_answer": "C#",
+    "incorrect_answers": [
+      "Java",
+      "TypeScript",
+      "F#"
+    ],
+    "explanation": "C# est le langage phare du framework .NET.",
+    "imageUrl": "https://images.unsplash.com/photo-1617042375876-a13e36732a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel terme désigne un ensemble de règles pour structurer des données de manière hiérarchique ?",
+    "correct_answer": "XML",
+    "incorrect_answers": [
+      "JSON",
+      "CSV",
+      "YAML"
+    ],
+    "explanation": "XML est utilisé pour échanger des données structurées.",
+    "imageUrl": "https://images.unsplash.com/photo-1670057046254-3b5095eb4b66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été développé par Yukihiro Matsumoto en 1995 pour la programmation fonctionnelle ?",
+    "correct_answer": "Ruby",
+    "incorrect_answers": [
+      "Haskell",
+      "Scala",
+      "Clojure"
+    ],
+    "explanation": "Ruby combine programmation orientée objet et fonctionnelle.",
+    "imageUrl": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de recherche a une complexité temporelle de O(log n) ?",
+    "correct_answer": "Recherche binaire",
+    "incorrect_answers": [
+      "Recherche linéaire",
+      "Recherche en largeur",
+      "Recherche en profondeur"
+    ],
+    "explanation": "La recherche binaire nécessite une liste triée.",
+    "imageUrl": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été créé par Brendan Eich en 1995 pour Netscape ?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": [
+      "TypeScript",
+      "CoffeeScript",
+      "LiveScript"
+    ],
+    "explanation": "JavaScript est le langage de script des navigateurs web.",
+    "imageUrl": "https://images.unsplash.com/photo-1743090661056-e51700546169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel terme désigne un ensemble d'instructions exécutées en parallèle sur un processeur ?",
+    "correct_answer": "Thread",
+    "incorrect_answers": [
+      "Processus",
+      "Fonction",
+      "Classe"
+    ],
+    "explanation": "Un thread est une unité d'exécution légère dans un processus.",
+    "imageUrl": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été développé par Niklaus Wirth en 1970 pour l'enseignement ?",
+    "correct_answer": "Pascal",
+    "incorrect_answers": [
+      "Modula-2",
+      "Ada",
+      "Oberon"
+    ],
+    "explanation": "Pascal est connu pour sa syntaxe claire et structurée.",
+    "imageUrl": "https://images.unsplash.com/photo-1653387137517-fbc54d488ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de cryptographie symétrique a été standardisé par NIST en 2001 ?",
+    "correct_answer": "AES",
+    "incorrect_answers": [
+      "DES",
+      "Blowfish",
+      "Twofish"
+    ],
+    "explanation": "AES est le standard actuel pour le chiffrement symétrique.",
+    "imageUrl": "https://images.unsplash.com/photo-1687603858673-a08a2dc2302c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel terme désigne un ensemble de données stockées dans un format structuré et interrogeable ?",
+    "correct_answer": "Base de données relationnelle",
+    "incorrect_answers": [
+      "Fichier plat",
+      "Tableur",
+      "Cache"
+    ],
+    "explanation": "Les bases de données relationnelles utilisent le modèle relationnel de Codd.",
+    "imageUrl": "https://images.unsplash.com/photo-1542831371-32f555c86880?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été créé par Guido van Rossum en 1991 pour automatiser des tâches ?",
+    "correct_answer": "Python",
+    "incorrect_answers": [
+      "Perl",
+      "Ruby",
+      "Bash"
+    ],
+    "explanation": "Python est souvent utilisé pour le scripting et l'automatisation.",
+    "imageUrl": "https://images.unsplash.com/photo-1623520527569-fee1da87f598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de tri a une complexité temporelle de O(n log n) en moyenne mais O(n²) dans le pire cas ?",
+    "correct_answer": "Tri rapide",
+    "incorrect_answers": [
+      "Tri par fusion",
+      "Tri par tas",
+      "Tri shell"
+    ],
+    "explanation": "Le tri rapide dépend du choix du pivot pour sa performance.",
+    "imageUrl": "https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole est utilisé pour transférer des fichiers sur Internet ?",
     "correct_answer": "FTP",
     "incorrect_answers": [
       "HTTP",
       "SMTP",
       "SSH"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "FTP permet l'échange de fichiers entre un client et un serveur.",
+    "imageUrl": "https://images.unsplash.com/photo-1653387300291-bfa1eeb90e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Anders Hejlsberg chez Microsoft en 2000 comme successeur de C++ ?",
-    "correct_answer": "C#",
+    "question": "Quel langage a été développé par Microsoft en 2012 comme sur-ensemble de JavaScript ?",
+    "correct_answer": "TypeScript",
     "incorrect_answers": [
-      "Java",
-      "Python",
-      "Go"
+      "CoffeeScript",
+      "Dart",
+      "Elm"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1724166573009-4634b974ebb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "TypeScript ajoute des types statiques à JavaScript.",
+    "imageUrl": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur personnel à utiliser une souris et une interface graphique, lancé par Apple en 1984 ?",
-    "correct_answer": "Macintosh",
+    "question": "Quel terme désigne une erreur qui se produit quand une pile déborde de sa mémoire allouée ?",
+    "correct_answer": "Stack overflow",
     "incorrect_answers": [
-      "Lisa",
-      "Apple II",
-      "NeXT Computer"
+      "Heap overflow",
+      "Buffer overflow",
+      "Segmentation fault"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1516101922849-2bf0be616449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Un stack overflow survient quand la pile dépasse sa taille maximale.",
+    "imageUrl": "https://images.unsplash.com/photo-1632910121591-29e2484c0259?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel algorithme de compression de données, développé par Abraham Lempel et Jacob Ziv en 1977, est utilisé dans les formats ZIP et GIF ?",
-    "correct_answer": "LZ77",
+    "question": "Quel langage a été créé par Dennis Ritchie et Ken Thompson en 1973 ?",
+    "correct_answer": "C",
     "incorrect_answers": [
-      "Huffman",
-      "Run-Length Encoding",
-      "DEFLATE"
+      "B",
+      "ALGOL",
+      "PL/I"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1666071083408-a7acb1a87e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "C a été développé pour réécrire le système Unix.",
+    "imageUrl": "https://images.unsplash.com/photo-1692106979244-a2ac98253f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Rasmus Lerdorf en 1994 pour le développement web côté serveur ?",
-    "correct_answer": "PHP",
+    "question": "Quel algorithme de compression sans perte a été inventé par David Huffman en 1952 ?",
+    "correct_answer": "Codage de Huffman",
     "incorrect_answers": [
-      "JavaScript",
-      "Python",
-      "Ruby"
+      "Codage de Lempel-Ziv",
+      "Codage arithmétique",
+      "Codage de Shannon-Fano"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le codage de Huffman utilise des codes de longueur variable.",
+    "imageUrl": "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier superordinateur, développé par Seymour Cray en 1976, capable d'effectuer plus de 100 millions d'opérations par seconde ?",
-    "correct_answer": "Cray-1",
+    "question": "Quel terme désigne un ensemble de règles pour l'échange de données entre applications ?",
+    "correct_answer": "API",
     "incorrect_answers": [
-      "CDC 6600",
-      "IBM 360",
-      "UNIVAC 1100"
+      "SDK",
+      "Framework",
+      "Bibliothèque"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1685558593626-686907d7ee4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Une API définit comment interagir avec un service ou une bibliothèque.",
+    "imageUrl": "https://images.unsplash.com/photo-1699885960867-56d5f5262d38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel protocole est utilisé pour envoyer des emails entre serveurs et est basé sur le port 25 ?",
+    "question": "Quel langage a été développé par Sun Microsystems en 1995 pour les systèmes embarqués ?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "C++",
+      "C#",
+      "Python"
+    ],
+    "explanation": "Java a été conçu pour être portable sur différentes plateformes.",
+    "imageUrl": "https://images.unsplash.com/photo-1579403124614-197f69d8187b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de tri a une complexité temporelle de O(n²) dans tous les cas ?",
+    "correct_answer": "Tri à bulles",
+    "incorrect_answers": [
+      "Tri par insertion",
+      "Tri par sélection",
+      "Tri rapide"
+    ],
+    "explanation": "Le tri à bulles compare et échange des éléments adjacents.",
+    "imageUrl": "https://images.unsplash.com/photo-1724166573009-4634b974ebb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole est utilisé pour envoyer des emails sur Internet ?",
     "correct_answer": "SMTP",
     "incorrect_answers": [
       "POP3",
       "IMAP",
       "HTTP"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1585143042060-77fd3b53905a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "SMTP gère l'envoi des emails entre serveurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1585143042060-77fd3b53905a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Graydon Hoare chez Mozilla en 2010 pour remplacer C++ dans le moteur de rendu Firefox ?",
+    "question": "Quel langage a été créé par Graydon Hoare en 2010 pour la sécurité et la performance ?",
     "correct_answer": "Rust",
     "incorrect_answers": [
       "Go",
       "Swift",
       "D"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1623520333087-62b8793e3d23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Rust garantit la sécurité mémoire sans garbage collector.",
+    "imageUrl": "https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier langage de programmation de haut niveau, créé par John Backus en 1957 pour IBM ?",
-    "correct_answer": "FORTRAN",
+    "question": "Quel terme désigne un ensemble de données stockées dans un format clé-valeur ?",
+    "correct_answer": "Hash table",
     "incorrect_answers": [
-      "COBOL",
-      "ALGOL",
-      "LISP"
+      "Arbre binaire",
+      "Liste chaînée",
+      "Graphe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Une hash table permet un accès rapide aux données via une clé.",
+    "imageUrl": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel algorithme de recherche de motifs dans une chaîne de caractères, développé par Stephen Cook en 1971, a une complexité exponentielle dans le pire cas ?",
-    "correct_answer": "Algorithme de Cook",
+    "question": "Quel langage a été développé par Microsoft en 2009 pour concurrencer JavaScript ?",
+    "correct_answer": "TypeScript",
     "incorrect_answers": [
-      "Algorithme de Boyer-Moore",
-      "Algorithme de Knuth-Morris-Pratt",
-      "Algorithme de Rabin-Karp"
+      "CoffeeScript",
+      "Dart",
+      "Elm"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1670057037226-b3d65909424f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "TypeScript compile en JavaScript tout en ajoutant des types.",
+    "imageUrl": "https://images.unsplash.com/photo-1618389041494-8fab89c3f22b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Walter Bright en 1999 et est connu pour sa performance et sa simplicité ?",
-    "correct_answer": "D",
+    "question": "Quel algorithme de tri a une complexité temporelle de O(n log n) dans tous les cas ?",
+    "correct_answer": "Tri par tas",
     "incorrect_answers": [
-      "Go",
-      "Rust",
-      "Nim"
+      "Tri rapide",
+      "Tri par fusion",
+      "Tri shell"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1632910121591-29e2484c0259?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le tri par tas utilise une structure de tas pour trier les éléments.",
+    "imageUrl": "https://images.unsplash.com/photo-1510751007277-36932aac9ebd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur personnel à utiliser un processeur 16 bits, lancé par IBM en 1984 ?",
-    "correct_answer": "IBM PC AT",
+    "question": "Quel protocole est utilisé pour naviguer sur le web ?",
+    "correct_answer": "HTTP",
     "incorrect_answers": [
-      "IBM PC XT",
-      "Apple Macintosh",
-      "Commodore Amiga"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole est utilisé pour sécuriser les communications réseau en chiffrant les données au niveau de la couche transport ?",
-    "correct_answer": "TLS",
-    "incorrect_answers": [
-      "SSL",
+      "FTP",
       "SSH",
-      "VPN"
+      "DNS"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "HTTP permet de transférer des pages web entre un client et un serveur.",
+    "imageUrl": "https://images.unsplash.com/photo-1733412505442-36cfa59a4240?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Martin Odersky en 2003 et combine programmation orientée objet et fonctionnelle ?",
+    "question": "Quel langage a été créé par Martin Odersky en 2003 pour combiner OOP et FP ?",
     "correct_answer": "Scala",
     "incorrect_answers": [
+      "Kotlin",
+      "Groovy",
+      "Ceylon"
+    ],
+    "explanation": "Scala s'exécute sur la JVM et supporte la programmation fonctionnelle.",
+    "imageUrl": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel terme désigne une erreur qui se produit quand un programme accède à une zone mémoire non allouée ?",
+    "correct_answer": "Segmentation fault",
+    "incorrect_answers": [
+      "Buffer overflow",
+      "Stack overflow",
+      "Null pointer exception"
+    ],
+    "explanation": "Une segmentation fault survient quand le programme accède à une mémoire protégée.",
+    "imageUrl": "https://images.unsplash.com/photo-1599837565318-67429bde7162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été développé par Apple en 2014 pour remplacer Objective-C ?",
+    "correct_answer": "Swift",
+    "incorrect_answers": [
+      "Kotlin",
+      "Dart",
+      "Go"
+    ],
+    "explanation": "Swift est optimisé pour les performances et la sécurité.",
+    "imageUrl": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de cryptographie asymétrique utilise des courbes elliptiques ?",
+    "correct_answer": "ECC",
+    "incorrect_answers": [
+      "RSA",
+      "AES",
+      "DES"
+    ],
+    "explanation": "ECC offre une sécurité équivalente à RSA avec des clés plus courtes.",
+    "imageUrl": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel terme désigne un ensemble de règles pour structurer des données de manière légère ?",
+    "correct_answer": "JSON",
+    "incorrect_answers": [
+      "XML",
+      "CSV",
+      "YAML"
+    ],
+    "explanation": "JSON est utilisé pour échanger des données entre applications.",
+    "imageUrl": "https://images.unsplash.com/photo-1669023414166-a4cc7c0fe1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été créé par Rich Hickey en 2007 pour la programmation fonctionnelle ?",
+    "correct_answer": "Clojure",
+    "incorrect_answers": [
       "Haskell",
-      "Clojure",
+      "Scala",
       "F#"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Clojure est un dialecte de Lisp qui s'exécute sur la JVM.",
+    "imageUrl": "https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des structures de contrôle comme les boucles et les conditions, développé par Konrad Zuse ?",
-    "correct_answer": "Plankalkül",
+    "question": "Quel algorithme de tri a une complexité temporelle de O(n²) mais est stable ?",
+    "correct_answer": "Tri par insertion",
     "incorrect_answers": [
-      "ALGOL",
-      "COBOL",
-      "LISP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1687603849601-ef2bd73820cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel algorithme de tri, inventé par John von Neumann en 1945, utilise une approche itérative et a une complexité de O(n²) ?",
-    "correct_answer": "Tri par sélection",
-    "incorrect_answers": [
-      "Tri par insertion",
       "Tri à bulles",
-      "Tri rapide"
+      "Tri rapide",
+      "Tri par sélection"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1520509414578-d9cbf09933a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le tri par insertion est simple et efficace pour de petites listes.",
+    "imageUrl": "https://images.unsplash.com/photo-1650600538903-ec09f670c391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Larry Wall en 1987 et est connu pour ses capacités de traitement de texte avancées ?",
-    "correct_answer": "Perl",
-    "incorrect_answers": [
-      "Python",
-      "Ruby",
-      "PHP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1603969409447-ba86143a03f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur personnel à utiliser un disque dur intégré, lancé par IBM en 1983 ?",
-    "correct_answer": "IBM PC XT",
-    "incorrect_answers": [
-      "IBM PC AT",
-      "Apple Lisa",
-      "Commodore 64"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1591439657848-9f4b9ce436b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole est utilisé pour résoudre les noms de domaine en adresses IP sur Internet ?",
+    "question": "Quel protocole est utilisé pour résoudre les noms de domaine en adresses IP ?",
     "correct_answer": "DNS",
     "incorrect_answers": [
       "DHCP",
-      "ARP",
-      "ICMP"
+      "HTTP",
+      "FTP"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "DNS traduit les noms de domaine en adresses IP numériques.",
+    "imageUrl": "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation a été créé par Ken Thompson et Dennis Ritchie en 1973 pour réécrire le système Unix ?",
-    "correct_answer": "C",
+    "question": "Quel langage a été développé par Microsoft en 2000 pour le web dynamique ?",
+    "correct_answer": "ASP.NET",
     "incorrect_answers": [
-      "Pascal",
-      "Ada",
-      "Modula-2"
+      "PHP",
+      "JSP",
+      "CGI"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1542831371-32f555c86880?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "ASP.NET permet de créer des applications web côté serveur.",
+    "imageUrl": "https://images.unsplash.com/photo-1534665482403-a909d0d97c67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier langage de programmation orienté objet, développé par Alan Kay en 1970 ?",
-    "correct_answer": "Smalltalk",
+    "question": "Quel terme désigne une erreur qui se produit quand un programme tente de diviser par zéro ?",
+    "correct_answer": "Division par zéro",
     "incorrect_answers": [
-      "C++",
-      "Java",
-      "Python"
+      "Overflow",
+      "Underflow",
+      "Null pointer exception"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1599837565318-67429bde7162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La division par zéro génère une exception dans la plupart des langages.",
+    "imageUrl": "https://images.unsplash.com/photo-1536859355448-76f92ebdc33d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5Nzk3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel algorithme de compression sans perte, développé par Abraham Lempel et Jacob Ziv en 1978, est utilisé dans les formats PNG et ZIP ?",
-    "correct_answer": "LZ78",
+    "question": "Quel langage a été créé par Graydon Hoare en 2010 pour la sécurité mémoire ?",
+    "correct_answer": "Rust",
+    "incorrect_answers": [
+      "Go",
+      "Swift",
+      "D"
+    ],
+    "explanation": "Rust garantit la sécurité mémoire sans garbage collector.",
+    "imageUrl": "https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel algorithme de tri a une complexité temporelle de O(n log n) en moyenne et pire cas ?",
+    "correct_answer": "Tri par fusion",
+    "incorrect_answers": [
+      "Tri rapide",
+      "Tri par tas",
+      "Tri shell"
+    ],
+    "explanation": "Le tri par fusion divise et fusionne des sous-listes triées.",
+    "imageUrl": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel protocole est utilisé pour sécuriser les connexions à distance ?",
+    "correct_answer": "SSH",
+    "incorrect_answers": [
+      "SSL",
+      "TLS",
+      "VPN"
+    ],
+    "explanation": "SSH chiffre les communications entre un client et un serveur.",
+    "imageUrl": "https://images.unsplash.com/photo-1516101922849-2bf0be616449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage a été développé par Microsoft en 2012 pour le web moderne ?",
+    "correct_answer": "TypeScript",
+    "incorrect_answers": [
+      "CoffeeScript",
+      "Dart",
+      "Elm"
+    ],
+    "explanation": "TypeScript ajoute des types statiques à JavaScript.",
+    "imageUrl": null
+  },
+  {
+    "question": "Quel terme désigne une erreur qui se produit quand une variable est utilisée avant d'être initialisée ?",
+    "correct_answer": "Variable non initialisée",
+    "incorrect_answers": [
+      "Null pointer",
+      "Segmentation fault",
+      "Buffer overflow"
+    ],
+    "explanation": "Une variable non initialisée contient une valeur indéfinie.",
+    "imageUrl": null
+  },
+  {
+    "question": "Quel langage a été créé par John McCarthy en 1958 pour l'IA ?",
+    "correct_answer": "Lisp",
+    "incorrect_answers": [
+      "Prolog",
+      "Smalltalk",
+      "Forth"
+    ],
+    "explanation": "Lisp est le deuxième plus vieux langage de programmation encore utilisé.",
+    "imageUrl": null
+  },
+  {
+    "question": "Quel algorithme de compression utilise des dictionnaires dynamiques ?",
+    "correct_answer": "LZW",
     "incorrect_answers": [
       "Huffman",
-      "Run-Length Encoding",
-      "DEFLATE"
+      "Run-Length",
+      "Arithmetic coding"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Microsoft en 2000 pour le développement d'applications Windows ?",
-    "correct_answer": "C#",
-    "incorrect_answers": [
-      "VB.NET",
-      "F#",
-      "PowerShell"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1607970669494-309137683be5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur personnel à utiliser un processeur 32 bits, lancé par Apple en 1987 ?",
-    "correct_answer": "Apple Macintosh II",
-    "incorrect_answers": [
-      "Apple IIGS",
-      "Commodore Amiga",
-      "Atari ST"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole est utilisé pour synchroniser l'heure entre les ordinateurs sur un réseau ?",
-    "correct_answer": "NTP",
-    "incorrect_answers": [
-      "SNMP",
-      "FTP",
-      "HTTP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1625535069654-cfeb8f829088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Bjarne Stroustrup en 1985 comme une extension du C pour la programmation orientée objet ?",
-    "correct_answer": "C++",
-    "incorrect_answers": [
-      "Java",
-      "C#",
-      "Objective-C"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1603943761979-879c839ac8e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation fonctionnelle, développé par John McCarthy en 1958 ?",
-    "correct_answer": "LISP",
-    "incorrect_answers": [
-      "Haskell",
-      "ML",
-      "Scheme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel algorithme de recherche binaire, inventé par John Mauchly en 1946, a une complexité de O(log n) ?",
-    "correct_answer": "Binary Search",
-    "incorrect_answers": [
-      "Linear Search",
-      "Interpolation Search",
-      "Exponential Search"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Yukihiro Matsumoto en 1995 et est connu pour sa syntaxe naturelle ?",
-    "correct_answer": "Ruby",
-    "incorrect_answers": [
-      "Python",
-      "Perl",
-      "PHP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur personnel à utiliser un processeur 64 bits, lancé par AMD en 2003 ?",
-    "correct_answer": "AMD Opteron",
-    "incorrect_answers": [
-      "Intel Itanium",
-      "IBM PowerPC",
-      "Sun SPARC"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1650600538903-ec09f670c391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole est utilisé pour transférer des données en temps réel entre un serveur et un client web ?",
-    "correct_answer": "WebSocket",
-    "incorrect_answers": [
-      "HTTP",
-      "FTP",
-      "SMTP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1731839329389-906c44fa1328?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Dennis Ritchie et Ken Thompson en 1973 pour le système Unix ?",
-    "correct_answer": "C",
-    "incorrect_answers": [
-      "Pascal",
-      "Ada",
-      "Modula-2"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1653387300291-bfa1eeb90e16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des structures de données dynamiques, développé par John McCarthy en 1958 ?",
-    "correct_answer": "LISP",
-    "incorrect_answers": [
-      "COBOL",
-      "FORTRAN",
-      "ALGOL"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1597239450996-ea7c2c564412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel algorithme de chiffrement symétrique, développé par IBM en 1977, utilise une clé de 56 bits ?",
-    "correct_answer": "DES",
-    "incorrect_answers": [
-      "AES",
-      "RSA",
-      "Blowfish"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1534665482403-a909d0d97c67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur personnel à utiliser un processeur 8 bits, lancé par Apple en 1977 ?",
-    "correct_answer": "Apple II",
-    "incorrect_answers": [
-      "Commodore PET",
-      "TRS-80",
-      "Atari 400"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1579403124614-197f69d8187b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole est utilisé pour gérer les adresses IP dynamiquement sur un réseau ?",
-    "correct_answer": "DHCP",
-    "incorrect_answers": [
-      "DNS",
-      "ARP",
-      "ICMP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1743090661056-e51700546169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation a été créé par Guido van Rossum en 1991 et est connu pour sa lisibilité ?",
-    "correct_answer": "Python",
-    "incorrect_answers": [
-      "Ruby",
-      "Perl",
-      "PHP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1692106979244-a2ac98253f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier superordinateur à utiliser des processeurs vectoriels, développé par Seymour Cray en 1979 ?",
-    "correct_answer": "Cray-1",
-    "incorrect_answers": [
-      "CDC Cyber 205",
-      "NEC SX-2",
-      "Fujitsu VP-200"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1662638600476-d563fffbb072?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel algorithme de tri, inventé par John von Neumann en 1945, utilise une approche récursive et a une complexité de O(n log n) ?",
-    "correct_answer": "Merge Sort",
-    "incorrect_answers": [
-      "Quick Sort",
-      "Heap Sort",
-      "Bubble Sort"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1510751007277-36932aac9ebd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fGNvbXB1dGVyJTIwdGVjaG5vbG9neSUyMGNvZGV8ZW58MHx8fHwxNzc5MTA0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "LZW est utilisé dans les formats comme GIF et TIFF.",
+    "imageUrl": null
   }
 ]

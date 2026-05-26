@@ -58,9 +58,14 @@ class QuestionRepositoryImpl @Inject constructor(
         }
 
         newEntities
-            .filter { it.questionText in existingTexts && it.imageUrl != null }
+            .filter { it.questionText in existingTexts }
             .forEach { entity ->
-                questionDao.updateImageUrl(theme.name, difficulty.name, entity.questionText, entity.imageUrl)
+                if (entity.imageUrl != null) {
+                    questionDao.updateImageUrl(theme.name, difficulty.name, entity.questionText, entity.imageUrl)
+                }
+                if (entity.explanation != null) {
+                    questionDao.updateExplanation(theme.name, difficulty.name, entity.questionText, entity.explanation)
+                }
             }
     }
 
@@ -163,6 +168,7 @@ private fun QuestionEntity.toDomain(): Question {
         imageUrl = imageUrl,
         unsplashQuery = unsplashQuery,
         isAnsweredCorrectly = isAnsweredCorrectly,
-        positionInPool = positionInPool
+        positionInPool = positionInPool,
+        explanation = explanation
     )
 }

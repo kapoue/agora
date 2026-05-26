@@ -35,10 +35,12 @@ data class GameUiState(
     val showFeedback: Boolean = false,
     val showNext: Boolean = false,
     val correctAnswerText: String = "",
+    val explanation: String? = null,
     val currentLevel: Int = 0,
     val theme: Theme = Theme.HISTOIRE,
     val difficulty: Difficulty = Difficulty.DEBUTANT,
     val error: String? = null,
+    val isComingSoon: Boolean = false,
     val totalInSession: Int = 0,
     val errorCount: Int = 0
 )
@@ -90,10 +92,16 @@ class GameViewModel @Inject constructor(
             val savedLevel = progress?.currentLevel ?: 0
             logger.d(TAG, "progression chargée — niveau=$savedLevel")
 
+            var noJsonInAssets = false
             try {
                 questionRepository.syncFromAssets(theme, difficulty)
             } catch (e: Exception) {
-                logger.w(TAG, "syncFromAssets ignoré (DB déjà à jour) — ${e.message}")
+                if (e.message?.contains("Aucune question trouvee") == true) {
+                    noJsonInAssets = true
+                    logger.w(TAG, "syncFromAssets — pas de JSON assets pour ${theme.name}/${difficulty.name}")
+                } else {
+                    logger.w(TAG, "syncFromAssets ignoré (DB déjà à jour) — ${e.message}")
+                }
             }
 
             val count = questionRepository.getQuestionCount(theme, difficulty)
@@ -101,9 +109,14 @@ class GameViewModel @Inject constructor(
 
             if (count == 0) {
                 logger.e(TAG, "aucune question disponible pour ${theme.name}/${difficulty.name}")
+                val errorMsg = if (noJsonInAssets)
+                    "Les questions de ce thème arrivent bientôt !\nEn attendant, explore les autres thèmes."
+                else
+                    "Aucune question disponible pour ce thème et ce niveau."
                 _uiState.value = _uiState.value.copy(
                     isLoading = false,
-                    error = "Aucune question disponible pour ce theme et ce niveau."
+                    error = errorMsg,
+                    isComingSoon = noJsonInAssets
                 )
                 return@launch
             }
@@ -225,6 +238,7 @@ class GameViewModel @Inject constructor(
             showFeedback = !isCorrect,
             showNext = true,
             correctAnswerText = question.correctAnswer,
+            explanation = if (!isCorrect) question.explanation else null,
             currentLevel = newLevel
         )
 

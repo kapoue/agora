@@ -1,0 +1,563 @@
+[
+  {
+    "question": "Quel est l'ingrédient principal de la paella espagnole ?",
+    "correct_answer": "Le riz",
+    "incorrect_answers": [
+      "Les pommes de terre",
+      "Les pâtes",
+      "Le quinoa"
+    ],
+    "explanation": "La paella est un plat traditionnel espagnol à base de riz, souvent accompagné de fruits de mer ou de viande.",
+    "imageUrl": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxnb3VybWV0JTIwZm9vZCUyMGN1aXNpbmUlMjBjaGVmfGVufDB8fHx8MTc3OTc5ODM1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage français est souvent utilisé dans une fondue savoyarde ?",
+    "correct_answer": "Le Beaufort",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Brie"
+    ],
+    "explanation": "Le Beaufort est un fromage à pâte pressée cuite, idéal pour fondre.",
+    "imageUrl": "https://images.unsplash.com/photo-1618862633131-289f00c6a09e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français est célèbre pour sa cuisine moléculaire ?",
+    "correct_answer": "Heston Blumenthal",
+    "incorrect_answers": [
+      "Gordon Ramsay",
+      "Paul Bocuse",
+      "Alain Ducasse"
+    ],
+    "explanation": "Heston Blumenthal est un chef britannique pionnier de la cuisine moléculaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1711667125716-5d6764fe0cbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est traditionnellement servi avec un plateau de fromages ?",
+    "correct_answer": "Un vin rouge corsé",
+    "incorrect_answers": [
+      "Un vin blanc sec",
+      "Un champagne",
+      "Un vin rosé"
+    ],
+    "explanation": "Un vin rouge corsé comme un Bordeaux ou un Cahors s'accorde bien avec les fromages.",
+    "imageUrl": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat italien est à base de pâtes, tomates et basilic ?",
+    "correct_answer": "Les spaghettis à la carbonara",
+    "incorrect_answers": [
+      "La pizza Margherita",
+      "La lasagne",
+      "Le risotto"
+    ],
+    "explanation": "La carbonara est une recette italienne emblématique à base de pâtes, œufs, pancetta et fromage.",
+    "imageUrl": "https://images.unsplash.com/photo-1709396759771-07c3644794c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du dessert français à base de crêpes ?",
+    "correct_answer": "La crêpe Suzette",
+    "incorrect_answers": [
+      "Le Paris-Brest",
+      "Le Tiramisu",
+      "Le Baklava"
+    ],
+    "explanation": "La crêpe Suzette est une crêpe flambée au Grand Marnier ou au cognac.",
+    "imageUrl": "https://images.unsplash.com/photo-1777897269443-7c5a5bd7c44a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays est célèbre pour le sushi ?",
+    "correct_answer": "Le Japon",
+    "incorrect_answers": [
+      "La Chine",
+      "La Thaïlande",
+      "La Corée du Sud"
+    ],
+    "explanation": "Le sushi est un plat traditionnel japonais à base de riz vinaigré et de poisson cru.",
+    "imageUrl": "https://images.unsplash.com/photo-1679614824303-914bae8bd0a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une quiche lorraine ?",
+    "correct_answer": "L'Emmental",
+    "incorrect_answers": [
+      "Le Roquefort",
+      "Le Comté",
+      "Le Bleu"
+    ],
+    "explanation": "L'Emmental est un fromage à pâte pressée cuite, typique de la quiche lorraine.",
+    "imageUrl": "https://images.unsplash.com/photo-1709837167676-63c0750c6a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région de Bordeaux ?",
+    "correct_answer": "Le Médoc",
+    "incorrect_answers": [
+      "Le Chablis",
+      "Le Sancerre",
+      "Le Beaujolais"
+    ],
+    "explanation": "Le Médoc est un vin rouge de Bordeaux, célèbre pour ses grands crus.",
+    "imageUrl": "https://images.unsplash.com/photo-1614706250649-b5ccfc837688?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat mexicain est à base de tortillas et de viande ?",
+    "correct_answer": "Les tacos",
+    "incorrect_answers": [
+      "La paella",
+      "La pizza",
+      "Le couscous"
+    ],
+    "explanation": "Les tacos sont des tortillas garnies de viande, légumes et sauces.",
+    "imageUrl": "https://images.unsplash.com/photo-1759209402969-be3ea5027356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a obtenu 3 étoiles au Guide Michelin ?",
+    "correct_answer": "Alain Ducasse",
+    "incorrect_answers": [
+      "Julia Child",
+      "Auguste Escoffier",
+      "Paul Bocuse"
+    ],
+    "explanation": "Alain Ducasse est l'un des rares chefs à détenir 3 étoiles Michelin dans plusieurs restaurants.",
+    "imageUrl": "https://images.unsplash.com/photo-1750943079478-ae516c4133cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est l'ingrédient principal du guacamole ?",
+    "correct_answer": "L'avocat",
+    "incorrect_answers": [
+      "La tomate",
+      "L'oignon",
+      "Le citron"
+    ],
+    "explanation": "Le guacamole est une purée d'avocat mélangée à des épices et du citron.",
+    "imageUrl": "https://images.unsplash.com/photo-1600663791817-d74f5196ba29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est souvent servi avec des raisins ?",
+    "correct_answer": "Le Brie",
+    "incorrect_answers": [
+      "Le Roquefort",
+      "Le Comté",
+      "Le Chèvre"
+    ],
+    "explanation": "Le Brie est un fromage à pâte molle qui se marie bien avec les fruits frais.",
+    "imageUrl": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxnb3VybWV0JTIwZm9vZCUyMGN1aXNpbmUlMjBjaGVmfGVufDB8fHx8MTc3OTc5ODM1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région de Champagne ?",
+    "correct_answer": "Le Champagne",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Beaujolais"
+    ],
+    "explanation": "Le Champagne est un vin effervescent produit uniquement dans la région de Champagne.",
+    "imageUrl": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxnb3VybWV0JTIwZm9vZCUyMGN1aXNpbmUlMjBjaGVmfGVufDB8fHx8MTc3OTc5ODM1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat italien est à base de riz et de safran ?",
+    "correct_answer": "Le risotto",
+    "incorrect_answers": [
+      "La pizza",
+      "Les pâtes",
+      "La polenta"
+    ],
+    "explanation": "Le risotto est un plat italien crémeux à base de riz et de bouillon.",
+    "imageUrl": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une pizza Margherita ?",
+    "correct_answer": "La mozzarella",
+    "incorrect_answers": [
+      "Le Roquefort",
+      "Le Comté",
+      "Le Bleu"
+    ],
+    "explanation": "La mozzarella est un fromage frais italien, indispensable pour une vraie pizza Margherita.",
+    "imageUrl": "https://images.unsplash.com/photo-1775513153018-0c7ac7899751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région de Bourgogne ?",
+    "correct_answer": "Le Chardonnay",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Champagne",
+      "Le Beaujolais"
+    ],
+    "explanation": "Le Chardonnay est un cépage blanc emblématique de Bourgogne.",
+    "imageUrl": "https://images.unsplash.com/photo-1681270543584-8e541a1bb056?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxnb3VybWV0JTIwZm9vZCUyMGN1aXNpbmUlMjBjaGVmfGVufDB8fHx8MTc3OTc5ODM1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande en sauce et de pommes de terre ?",
+    "correct_answer": "Le bœuf bourguignon",
+    "incorrect_answers": [
+      "Le coq au vin",
+      "Le cassoulet",
+      "La blanquette de veau"
+    ],
+    "explanation": "Le bœuf bourguignon est un ragoût de bœuf mijoté dans du vin rouge.",
+    "imageUrl": "https://images.unsplash.com/photo-1505685509042-16b1b75030cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une tartiflette ?",
+    "correct_answer": "Le Reblochon",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Comté"
+    ],
+    "explanation": "Le Reblochon est un fromage à pâte molle, fondant et légèrement fruité.",
+    "imageUrl": "https://images.unsplash.com/photo-1661505300192-f2eef03a3876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région du Beaujolais ?",
+    "correct_answer": "Le Beaujolais Nouveau",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "Le Beaujolais Nouveau est un vin jeune et fruité, libéré chaque année en novembre.",
+    "imageUrl": "https://images.unsplash.com/photo-1775498013284-6d3a3fe50ae7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans un croque-monsieur ?",
+    "correct_answer": "Le Gruyère",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Brie"
+    ],
+    "explanation": "Le Gruyère est un fromage à pâte pressée cuite, fondant et légèrement salé.",
+    "imageUrl": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région de la Loire ?",
+    "correct_answer": "Le Muscadet",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "Le Muscadet est un vin blanc sec et léger, produit dans la vallée de la Loire.",
+    "imageUrl": "https://images.unsplash.com/photo-1671029770042-201f223fba0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de porc et de lentilles ?",
+    "correct_answer": "Le petit salé aux lentilles",
+    "incorrect_answers": [
+      "Le cassoulet",
+      "Le coq au vin",
+      "La blanquette de veau"
+    ],
+    "explanation": "Le petit salé aux lentilles est un plat traditionnel du sud-ouest de la France.",
+    "imageUrl": "https://images.unsplash.com/photo-1624292151210-b870331cbe99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une raclette ?",
+    "correct_answer": "Le fromage à raclette",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Comté"
+    ],
+    "explanation": "Le fromage à raclette est spécialement conçu pour fondre et être gratiné.",
+    "imageUrl": "https://images.unsplash.com/photo-1779551612324-9f7e41a92fe1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région du Rhône ?",
+    "correct_answer": "Le Côtes-du-Rhône",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "Le Côtes-du-Rhône est un vin rouge ou blanc produit dans la vallée du Rhône.",
+    "imageUrl": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de canard ?",
+    "correct_answer": "Le magret de canard",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "Le coq au vin",
+      "La blanquette de veau"
+    ],
+    "explanation": "Le magret de canard est une spécialité du sud-ouest, à base de filet de canard.",
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1561350117-501b4661f8d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une fondue savoyarde ?",
+    "correct_answer": "Le Beaufort",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Brie"
+    ],
+    "explanation": "Le Beaufort est un fromage à pâte pressée cuite, idéal pour fondre.",
+    "imageUrl": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région de l'Alsace ?",
+    "correct_answer": "Le Riesling",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "Le Riesling est un vin blanc sec et aromatique, typique de l'Alsace.",
+    "imageUrl": "https://images.unsplash.com/photo-1614873636018-548106274e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat italien est à base de pâtes, tomates et viande hachée ?",
+    "correct_answer": "Les spaghettis bolognaise",
+    "incorrect_answers": [
+      "La lasagne",
+      "La pizza",
+      "Le risotto"
+    ],
+    "explanation": "Les spaghettis bolognaise sont une recette italienne à base de pâtes et de sauce tomate à la viande.",
+    "imageUrl": "https://images.unsplash.com/photo-1777897349457-bfe713394f59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une tarte flambée ?",
+    "correct_answer": "La crème fraîche",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Comté"
+    ],
+    "explanation": "La tarte flambée est une spécialité alsacienne à base de pâte fine, crème fraîche et oignons.",
+    "imageUrl": "https://images.unsplash.com/photo-1578425570232-bf51f753dd5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région de la Provence ?",
+    "correct_answer": "Le Rosé de Provence",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "Le Rosé de Provence est un vin rosé léger et fruité, emblématique de la région.",
+    "imageUrl": "https://images.unsplash.com/photo-1554997433-8e233c02c751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de bœuf et de carottes ?",
+    "correct_answer": "La blanquette de veau",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "Le coq au vin",
+      "Le cassoulet"
+    ],
+    "explanation": "La blanquette de veau est un ragoût de veau mijoté dans une sauce blanche.",
+    "imageUrl": "https://images.unsplash.com/photo-1777897305246-353f651d956e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une pizza quatre fromages ?",
+    "correct_answer": "La mozzarella",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Comté"
+    ],
+    "explanation": "La mozzarella est la base de toute pizza, y compris la version quatre fromages.",
+    "imageUrl": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxnb3VybWV0JTIwZm9vZCUyMGN1aXNpbmUlMjBjaGVmfGVufDB8fHx8MTc3OTc5ODM1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région du Languedoc ?",
+    "correct_answer": "Le Corbières",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "Le Corbières est un vin rouge corsé produit dans le sud de la France.",
+    "imageUrl": "https://images.unsplash.com/photo-1771351521790-8036140681bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de canard et de haricots ?",
+    "correct_answer": "Le cassoulet",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "Le coq au vin",
+      "La blanquette de veau"
+    ],
+    "explanation": "Le cassoulet est un ragoût de haricots blancs et de viandes, originaire du sud-ouest.",
+    "imageUrl": "https://images.unsplash.com/photo-1651948512032-8b4d4b37fe74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans un croissant au fromage ?",
+    "correct_answer": "Le fromage de chèvre",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Comté"
+    ],
+    "explanation": "Le fromage de chèvre est souvent utilisé pour garnir les croissants salés.",
+    "imageUrl": "https://images.unsplash.com/photo-1761095596755-99ba58997720?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région du Jura ?",
+    "correct_answer": "Le Vin Jaune",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "Le Vin Jaune est un vin blanc sec et oxydatif, typique du Jura.",
+    "imageUrl": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de porc et de chou ?",
+    "correct_answer": "Le choucroute garnie",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "Le coq au vin",
+      "La blanquette de veau"
+    ],
+    "explanation": "La choucroute garnie est une spécialité alsacienne à base de chou fermenté et de viandes.",
+    "imageUrl": "https://images.unsplash.com/photo-1775498017681-b95215dd704f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région de la Savoie ?",
+    "correct_answer": "Le Apremont",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "L'Apremont est un vin blanc sec et fruité, produit en Savoie.",
+    "imageUrl": "https://images.unsplash.com/photo-1776543890887-8c6feeaf6412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de lapin et de moutarde ?",
+    "correct_answer": "Le lapin à la moutarde",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "Le coq au vin",
+      "La blanquette de veau"
+    ],
+    "explanation": "Le lapin à la moutarde est un plat traditionnel à base de viande de lapin mijotée dans une sauce à la moutarde.",
+    "imageUrl": "https://images.unsplash.com/photo-1541557435984-1c79685a082b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une tarte au fromage ?",
+    "correct_answer": "Le Philadelphia",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Comté"
+    ],
+    "explanation": "Le Philadelphia est une marque de fromage frais souvent utilisée pour les tartes.",
+    "imageUrl": "https://images.unsplash.com/photo-1565895405140-6b9830a88c19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région du Sud-Ouest ?",
+    "correct_answer": "Le Cahors",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "Le Cahors est un vin rouge corsé produit dans le Sud-Ouest, à base de malbec.",
+    "imageUrl": "https://images.unsplash.com/photo-1571805529673-0f56b922b359?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de bœuf et de vin blanc ?",
+    "correct_answer": "Le coq au vin",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "La blanquette de veau",
+      "Le cassoulet"
+    ],
+    "explanation": "Le coq au vin est un plat traditionnel à base de poulet ou de coq mijoté dans du vin rouge ou blanc.",
+    "imageUrl": "https://images.unsplash.com/photo-1577219492769-b63a779fac28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxnb3VybWV0JTIwZm9vZCUyMGN1aXNpbmUlMjBjaGVmfGVufDB8fHx8MTc3OTc5ODM1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une fondue au fromage ?",
+    "correct_answer": "Le Gruyère",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Brie"
+    ],
+    "explanation": "Le Gruyère est un fromage à pâte pressée cuite, idéal pour fondre.",
+    "imageUrl": "https://images.unsplash.com/photo-1631303494240-7c3bc6bd8c03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin est produit dans la région de la Corse ?",
+    "correct_answer": "Le Patrimonio",
+    "incorrect_answers": [
+      "Le Bordeaux",
+      "Le Bourgogne",
+      "Le Champagne"
+    ],
+    "explanation": "Le Patrimonio est un vin rouge ou blanc produit en Corse.",
+    "imageUrl": "https://images.unsplash.com/photo-1692641144907-1f31199f11aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de porc et de pommes ?",
+    "correct_answer": "Le rôti de porc aux pommes",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "Le coq au vin",
+      "La blanquette de veau"
+    ],
+    "explanation": "Le rôti de porc aux pommes est un plat traditionnel à base de viande de porc et de pommes caramélisées.",
+    "imageUrl": "https://images.unsplash.com/photo-1579178404481-14046f8e13e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de veau et de champignons ?",
+    "correct_answer": "La blanquette de veau",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "Le coq au vin",
+      "Le cassoulet"
+    ],
+    "explanation": "La blanquette de veau est un ragoût de veau mijoté dans une sauce blanche aux champignons.",
+    "imageUrl": "https://images.unsplash.com/photo-1722152667178-be659e54bffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de canard et de pommes de terre ?",
+    "correct_answer": "Le confit de canard",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "Le coq au vin",
+      "La blanquette de veau"
+    ],
+    "explanation": "Le confit de canard est une spécialité du sud-ouest, à base de cuisses de canard confites dans leur graisse.",
+    "imageUrl": "https://images.unsplash.com/photo-1617822205245-70fb4386616b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage est utilisé dans une quiche aux lardons ?",
+    "correct_answer": "L'Emmental",
+    "incorrect_answers": [
+      "Le Camembert",
+      "Le Roquefort",
+      "Le Brie"
+    ],
+    "explanation": "L'Emmental est un fromage à pâte pressée cuite, typique des quiches.",
+    "imageUrl": "https://images.unsplash.com/photo-1775513181406-992e0e1d4717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de bœuf et de vin rouge ?",
+    "correct_answer": "Le bœuf bourguignon",
+    "incorrect_answers": [
+      "Le coq au vin",
+      "La blanquette de veau",
+      "Le cassoulet"
+    ],
+    "explanation": "Le bœuf bourguignon est un ragoût de bœuf mijoté dans du vin rouge de Bourgogne.",
+    "imageUrl": "https://images.unsplash.com/photo-1578425497353-12b55eba843d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat français est à base de viande de porc et de haricots blancs ?",
+    "correct_answer": "Le cassoulet",
+    "incorrect_answers": [
+      "Le bœuf bourguignon",
+      "Le coq au vin",
+      "La blanquette de veau"
+    ],
+    "explanation": "Le cassoulet est un ragoût de haricots blancs et de viandes, originaire du sud-ouest.",
+    "imageUrl": "https://images.unsplash.com/photo-1572715376701-98568319fd0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxnb3VybWV0JTIwZm9vZCUyMGN1aXNpbmUlMjBjaGVmfGVufDB8fHx8MTc3OTc5ODM1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  }
+]

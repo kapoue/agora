@@ -1,0 +1,673 @@
+[
+  {
+    "question": "Quel studio de développement a créé la série 'The Witcher' ?",
+    "correct_answer": "CD Projekt Red",
+    "incorrect_answers": [
+      "BioWare",
+      "FromSoftware",
+      "Naughty Dog"
+    ],
+    "explanation": "CD Projekt Red est basé en Pologne et a popularisé la fantasy dans les jeux vidéo.",
+    "imageUrl": "https://images.unsplash.com/photo-1603985753826-30c036e8804d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Dans quel jeu apparaît pour la première fois le personnage de Mario ?",
+    "correct_answer": "Donkey Kong",
+    "incorrect_answers": [
+      "Super Mario Bros.",
+      "Mario Bros.",
+      "Punch-Out!!"
+    ],
+    "explanation": "Mario, alors nommé Jumpman, apparaît dans Donkey Kong en 1981.",
+    "imageUrl": "https://images.unsplash.com/photo-1590845947376-2638caa89309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des disques Blu-ray pour ses jeux ?",
+    "correct_answer": "PlayStation 3",
+    "incorrect_answers": [
+      "Xbox 360",
+      "Wii",
+      "Dreamcast"
+    ],
+    "explanation": "La PS3 a adopté le Blu-ray pour stocker ses jeux et films.",
+    "imageUrl": "https://images.unsplash.com/photo-1499551660540-eaf0697882f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour la plus longue durée de vie en tant que jeu le plus vendu de tous les temps ?",
+    "correct_answer": "Tetris",
+    "incorrect_answers": [
+      "Minecraft",
+      "Grand Theft Auto V",
+      "Wii Sports"
+    ],
+    "explanation": "Tetris, créé en 1984, reste le jeu le plus vendu avec plus de 500 millions d'exemplaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1607356296477-5454f7a7f0f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier jeu vidéo jamais créé ?",
+    "correct_answer": "Tennis for Two",
+    "incorrect_answers": [
+      "Pong",
+      "Spacewar!",
+      "Pac-Man"
+    ],
+    "explanation": "Tennis for Two, créé en 1958 par William Higinbotham, simule un match de tennis.",
+    "imageUrl": "https://images.unsplash.com/photo-1616341316676-fb436b96f99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'The Legend of Zelda: Breath of the Wild' ?",
+    "correct_answer": "Nintendo EPD",
+    "incorrect_answers": [
+      "Monolith Soft",
+      "Capcom",
+      "Square Enix"
+    ],
+    "explanation": "Nintendo EPD est la division de Nintendo responsable de nombreux jeux Zelda.",
+    "imageUrl": "https://images.unsplash.com/photo-1648579750136-742bf4195356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est surnommé 'Le Héros sans visage' ?",
+    "correct_answer": "Cloud Strife",
+    "incorrect_answers": [
+      "Kratos",
+      "Link",
+      "Sonic"
+    ],
+    "explanation": "Cloud Strife, de Final Fantasy VII, est célèbre pour son design emblématique.",
+    "imageUrl": "https://images.unsplash.com/photo-1666296417087-a4fcf658ccdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a introduit le premier système de contrôle par mouvement ?",
+    "correct_answer": "Nintendo Wii",
+    "incorrect_answers": [
+      "PlayStation 2",
+      "Xbox",
+      "Atari 2600"
+    ],
+    "explanation": "La Wii a popularisé les manettes à détection de mouvement en 2006.",
+    "imageUrl": "https://images.unsplash.com/photo-1675701298988-eaeb8f3494ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le premier prix du Festival des Jeux de Cannes en 2021 ?",
+    "correct_answer": "The Last Door",
+    "incorrect_answers": [
+      "Death Stranding",
+      "Hades",
+      "Celeste"
+    ],
+    "explanation": "The Last Door est un jeu d'horreur point-and-click indépendant.",
+    "imageUrl": "https://images.unsplash.com/photo-1605142806312-9ba7fa5cd0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'Dark Souls' ?",
+    "correct_answer": "FromSoftware",
+    "incorrect_answers": [
+      "Nintendo",
+      "Capcom",
+      "Konami"
+    ],
+    "explanation": "FromSoftware, dirigé par Hidetaka Miyazaki, a révolutionné le genre des souls-like.",
+    "imageUrl": "https://images.unsplash.com/photo-1531594896955-305cf81269f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour dire 'It's-a me, Mario!' ?",
+    "correct_answer": "Mario",
+    "incorrect_answers": [
+      "Luigi",
+      "Wario",
+      "Bowser"
+    ],
+    "explanation": "La phrase est emblématique de la série Super Mario depuis les années 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1580464360012-948b4fe5ddc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer des graphismes en 3D polygonale ?",
+    "correct_answer": "Atari Jaguar",
+    "incorrect_answers": [
+      "Sega Saturn",
+      "Nintendo 64",
+      "PlayStation"
+    ],
+    "explanation": "L'Atari Jaguar, sortie en 1993, était en avance sur son temps graphiquement.",
+    "imageUrl": "https://images.unsplash.com/photo-1580327332925-a10e6cb11baa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus grand nombre de joueurs simultanés ?",
+    "correct_answer": "Fortnite",
+    "incorrect_answers": [
+      "League of Legends",
+      "Minecraft",
+      "Roblox"
+    ],
+    "explanation": "Fortnite a enregistré plus de 15 millions de joueurs simultanés en 2020.",
+    "imageUrl": "https://images.unsplash.com/photo-1694857731920-43e44e75fbec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier jeu vidéo commercialisé ?",
+    "correct_answer": "Computer Space",
+    "incorrect_answers": [
+      "Pong",
+      "Spacewar!",
+      "Tennis for Two"
+    ],
+    "explanation": "Computer Space, sorti en 1971, est considéré comme le premier jeu arcade commercial.",
+    "imageUrl": "https://images.unsplash.com/photo-1654484520941-ebbba5b77fec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Red Dead Redemption 2' ?",
+    "correct_answer": "Rockstar Games",
+    "incorrect_answers": [
+      "Ubisoft",
+      "EA Games",
+      "Bethesda"
+    ],
+    "explanation": "Rockstar Games est connu pour ses mondes ouverts réalistes et ses histoires profondes.",
+    "imageUrl": "https://images.unsplash.com/photo-1656823688406-a6a04c800f68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est associé à la phrase 'Do a barrel roll!' ?",
+    "correct_answer": "Fox McCloud",
+    "incorrect_answers": [
+      "Mario",
+      "Kirby",
+      "Samus Aran"
+    ],
+    "explanation": "La phrase vient de Star Fox 64, où Fox doit effectuer un tonneau pour éviter un ennemi.",
+    "imageUrl": "https://images.unsplash.com/photo-1604586362408-a8f1c0178213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des cartes mémoire pour sauvegarder les parties ?",
+    "correct_answer": "Nintendo Entertainment System (NES)",
+    "incorrect_answers": [
+      "Sega Genesis",
+      "Super Nintendo",
+      "PlayStation"
+    ],
+    "explanation": "Le NES a introduit les cartouches avec mémoire interne pour sauvegarder les progrès.",
+    "imageUrl": "https://images.unsplash.com/photo-1616341317041-cf93b2389ef5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le prix du Meilleur Jeu lors des Game Awards 2020 ?",
+    "correct_answer": "The Last of Us Part II",
+    "incorrect_answers": [
+      "Cyberpunk 2077",
+      "Animal Crossing: New Horizons",
+      "Final Fantasy VII Remake"
+    ],
+    "explanation": "The Last of Us Part II a été salué pour son récit et ses graphismes.",
+    "imageUrl": "https://images.unsplash.com/photo-1586697594225-fa3102a1ca30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'Assassin's Creed' ?",
+    "correct_answer": "Ubisoft Montreal",
+    "incorrect_answers": [
+      "EA Montreal",
+      "BioWare",
+      "Naughty Dog"
+    ],
+    "explanation": "Ubisoft Montreal est le principal développeur derrière la série Assassin's Creed.",
+    "imageUrl": "https://images.unsplash.com/photo-1749135583860-4e2ead09c1c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son chapeau rouge et sa moustache ?",
+    "correct_answer": "Mario",
+    "incorrect_answers": [
+      "Luigi",
+      "Wario",
+      "Yoshi"
+    ],
+    "explanation": "Mario, créé par Shigeru Miyamoto, est l'icône de Nintendo.",
+    "imageUrl": "https://images.unsplash.com/photo-1652734935726-7afd52076e7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un écran tactile intégré ?",
+    "correct_answer": "Nintendo DS",
+    "incorrect_answers": [
+      "PlayStation Portable",
+      "Game Boy Advance",
+      "Xbox 360"
+    ],
+    "explanation": "Le Nintendo DS, sorti en 2004, a révolutionné le jeu portable avec son écran tactile.",
+    "imageUrl": "https://images.unsplash.com/photo-1492044715545-15ddedd84e5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour la plus longue durée de développement ?",
+    "correct_answer": "Duke Nukem Forever",
+    "incorrect_answers": [
+      "Final Fantasy XV",
+      "The Last Guardian",
+      "Half-Life 3"
+    ],
+    "explanation": "Duke Nukem Forever a mis 15 ans à être développé, de 1996 à 2011.",
+    "imageUrl": "https://images.unsplash.com/photo-1602610411365-76e8c2a88e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'The Elder Scrolls V: Skyrim' ?",
+    "correct_answer": "Bethesda Game Studios",
+    "incorrect_answers": [
+      "CD Projekt Red",
+      "BioWare",
+      "FromSoftware"
+    ],
+    "explanation": "Bethesda Game Studios est célèbre pour ses mondes ouverts immersifs.",
+    "imageUrl": "https://images.unsplash.com/photo-1537963447914-dbc04b81de27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour dire 'Waka waka waka' ?",
+    "correct_answer": "Pac-Man",
+    "incorrect_answers": [
+      "Mario",
+      "Sonic",
+      "Kirby"
+    ],
+    "explanation": "Pac-Man émet ce son caractéristique lorsqu'il mange des pac-gommes.",
+    "imageUrl": "https://images.unsplash.com/photo-1708235094342-2c550599223f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un service en ligne payant ?",
+    "correct_answer": "Sega Dreamcast",
+    "incorrect_answers": [
+      "PlayStation 2",
+      "Xbox",
+      "Nintendo GameCube"
+    ],
+    "explanation": "La Dreamcast, sortie en 1998, a introduit le service SegaNet pour le jeu en ligne.",
+    "imageUrl": "https://images.unsplash.com/photo-1636531141047-0bfe943d29ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le prix du Meilleur Jeu Indépendant aux Game Awards 2019 ?",
+    "correct_answer": "Disco Elysium",
+    "incorrect_answers": [
+      "Celeste",
+      "Hades",
+      "Undertale"
+    ],
+    "explanation": "Disco Elysium est acclamé pour son récit profond et son système de jeu unique.",
+    "imageUrl": "https://images.unsplash.com/photo-1580234797602-22c37b2a6230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'God of War' ?",
+    "correct_answer": "Santa Monica Studio",
+    "incorrect_answers": [
+      "Naughty Dog",
+      "Insomniac Games",
+      "Rockstar Games"
+    ],
+    "explanation": "Santa Monica Studio est le développeur derrière la série God of War.",
+    "imageUrl": "https://images.unsplash.com/photo-1580327344181-c1163234e5a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son anneau bleu ?",
+    "correct_answer": "Sonic",
+    "incorrect_answers": [
+      "Mario",
+      "Kirby",
+      "Mega Man"
+    ],
+    "explanation": "Sonic, la mascotte de Sega, porte un anneau bleu emblématique.",
+    "imageUrl": "https://images.unsplash.com/photo-1592155931584-901ac15763e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des disques optiques pour ses jeux ?",
+    "correct_answer": "Sega Saturn",
+    "incorrect_answers": [
+      "PlayStation",
+      "Nintendo 64",
+      "Dreamcast"
+    ],
+    "explanation": "La Sega Saturn, sortie en 1994, utilisait des CDs pour ses jeux.",
+    "imageUrl": "https://images.unsplash.com/photo-1619382581049-c87bedd3b479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus grand nombre de récompenses ?",
+    "correct_answer": "The Legend of Zelda: Ocarina of Time",
+    "incorrect_answers": [
+      "Minecraft",
+      "Grand Theft Auto V",
+      "The Witcher 3"
+    ],
+    "explanation": "Ocarina of Time a reçu plus de 200 récompenses depuis sa sortie en 1998.",
+    "imageUrl": "https://images.unsplash.com/photo-1643489096329-ab168c1c8d14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Halo: Combat Evolved' ?",
+    "correct_answer": "Bungie",
+    "incorrect_answers": [
+      "343 Industries",
+      "BioWare",
+      "Naughty Dog"
+    ],
+    "explanation": "Bungie, racheté par Microsoft, a créé la série Halo.",
+    "imageUrl": "https://images.unsplash.com/photo-1602789216385-c6f910f9b450?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son chapeau pointu et sa barbe ?",
+    "correct_answer": "Gandalf",
+    "incorrect_answers": [
+      "Dumbledore",
+      "Merlin",
+      "Zelda"
+    ],
+    "explanation": "Gandalf, bien que issu d'un livre, est un personnage iconique dans les jeux vidéo comme LOTR.",
+    "imageUrl": "https://images.unsplash.com/photo-1616801060191-6085bad82f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un système de réalité virtuelle intégré ?",
+    "correct_answer": "Sega VR",
+    "incorrect_answers": [
+      "PlayStation VR",
+      "Oculus Rift",
+      "HTC Vive"
+    ],
+    "explanation": "Le Sega VR, sorti en 1993, était un casque VR pour la Mega Drive.",
+    "imageUrl": "https://images.unsplash.com/photo-1556573559-f1c05d66f273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le prix du Meilleur Jeu aux Game Awards 2018 ?",
+    "correct_answer": "God of War",
+    "incorrect_answers": [
+      "Red Dead Redemption 2",
+      "Celeste",
+      "Hades"
+    ],
+    "explanation": "God of War (2018) a été salué pour son récit et ses graphismes.",
+    "imageUrl": "https://images.unsplash.com/photo-1700155007323-1e4f4e58d627?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'Mass Effect' ?",
+    "correct_answer": "BioWare",
+    "incorrect_answers": [
+      "CD Projekt Red",
+      "Ubisoft",
+      "Naughty Dog"
+    ],
+    "explanation": "BioWare est célèbre pour ses RPG narratifs comme Mass Effect et Dragon Age.",
+    "imageUrl": "https://images.unsplash.com/photo-1605899435973-ca2d1a8861cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son costume bleu et ses pouvoirs électriques ?",
+    "correct_answer": "Mega Man",
+    "incorrect_answers": [
+      "Sonic",
+      "Mario",
+      "Kirby"
+    ],
+    "explanation": "Mega Man, créé par Capcom, est un robot bleu capable de copier les pouvoirs ennemis.",
+    "imageUrl": "https://images.unsplash.com/10/wii.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un système de motion gaming sans accessoire ?",
+    "correct_answer": "Nintendo Wii",
+    "incorrect_answers": [
+      "PlayStation Move",
+      "Xbox Kinect",
+      "Sega Activator"
+    ],
+    "explanation": "La Wii a utilisé des capteurs de mouvement intégrés dans sa manette.",
+    "imageUrl": "https://images.unsplash.com/photo-1526509867162-5b0c0d1b4b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus grand nombre de joueurs actifs mensuels ?",
+    "correct_answer": "League of Legends",
+    "incorrect_answers": [
+      "Fortnite",
+      "Minecraft",
+      "Roblox"
+    ],
+    "explanation": "League of Legends compte plus de 150 millions de joueurs actifs mensuels.",
+    "imageUrl": "https://images.unsplash.com/photo-1603565913235-382c62d3b2ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Final Fantasy VII' ?",
+    "correct_answer": "Square (maintenant Square Enix)",
+    "incorrect_answers": [
+      "Nintendo",
+      "Capcom",
+      "Konami"
+    ],
+    "explanation": "Square a révolutionné le RPG avec Final Fantasy VII en 1997.",
+    "imageUrl": "https://images.unsplash.com/photo-1623786159887-8a747d692e8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son chapeau de cow-boy et son lasso ?",
+    "correct_answer": "Woody",
+    "incorrect_answers": [
+      "Buzz l'Éclair",
+      "Jessie",
+      "Stinky Pete"
+    ],
+    "explanation": "Woody est le personnage principal de la série Toy Story dans les jeux vidéo.",
+    "imageUrl": "https://images.unsplash.com/photo-1638431755905-631694da8921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un système de sauvegarde sur carte mémoire amovible ?",
+    "correct_answer": "Sega Saturn",
+    "incorrect_answers": [
+      "PlayStation",
+      "Nintendo 64",
+      "Dreamcast"
+    ],
+    "explanation": "La Saturn utilisait des cartes mémoire pour sauvegarder les parties.",
+    "imageUrl": "https://images.unsplash.com/photo-1654556438701-b4d66e3946fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le prix du Meilleur Jeu aux Game Awards 2022 ?",
+    "correct_answer": "Elden Ring",
+    "incorrect_answers": [
+      "God of War Ragnarök",
+      "Stray",
+      "Horizon Forbidden West"
+    ],
+    "explanation": "Elden Ring a été acclamé pour son monde ouvert et son gameplay exigeant.",
+    "imageUrl": "https://images.unsplash.com/photo-1632747670036-40a6ce6d6714?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'Call of Duty' ?",
+    "correct_answer": "Infinity Ward",
+    "incorrect_answers": [
+      "Ubisoft Montreal",
+      "EA DICE",
+      "Treyarch"
+    ],
+    "explanation": "Infinity Ward a développé les premiers Call of Duty et reste un acteur majeur.",
+    "imageUrl": "https://images.unsplash.com/photo-1665041974623-d398d035023e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son costume rouge et bleu et sa cape ?",
+    "correct_answer": "Superman",
+    "incorrect_answers": [
+      "Batman",
+      "Spider-Man",
+      "Iron Man"
+    ],
+    "explanation": "Superman, bien que d'origine comics, est un personnage récurrent dans les jeux vidéo.",
+    "imageUrl": "https://images.unsplash.com/photo-1604586398467-32924c78b879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un système de jeu en ligne payant avec abonnement ?",
+    "correct_answer": "Xbox Live (Xbox)",
+    "incorrect_answers": [
+      "PlayStation Network",
+      "Nintendo Network",
+      "SegaNet"
+    ],
+    "explanation": "Xbox Live, lancé en 2002 avec la Xbox originale, a popularisé l'abonnement en ligne.",
+    "imageUrl": "https://images.unsplash.com/photo-1670535788315-6b7d64aa020c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour la plus longue durée de partie continue ?",
+    "correct_answer": "Donkey Kong",
+    "incorrect_answers": [
+      "Tetris",
+      "Pac-Man",
+      "Super Mario Bros."
+    ],
+    "explanation": "Un joueur a réussi à jouer à Donkey Kong pendant plus de 100 heures sans s'arrêter.",
+    "imageUrl": "https://images.unsplash.com/photo-1597933437986-5b61315e70fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Half-Life 2' ?",
+    "correct_answer": "Valve Corporation",
+    "incorrect_answers": [
+      "BioWare",
+      "Naughty Dog",
+      "Bungie"
+    ],
+    "explanation": "Valve a révolutionné le FPS avec Half-Life et son moteur Source.",
+    "imageUrl": "https://images.unsplash.com/photo-1549614614-b8f90c10b52e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son costume vert et son pouvoir de camouflage ?",
+    "correct_answer": "Samus Aran",
+    "incorrect_answers": [
+      "Kratos",
+      "Lara Croft",
+      "Jill Valentine"
+    ],
+    "explanation": "Samus Aran, de Metroid, est une chasseuse de primes en armure morphable.",
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1580234759288-fbf3ccdd9a06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un système de jeu en streaming cloud ?",
+    "correct_answer": "OnLive",
+    "incorrect_answers": [
+      "GeForce Now",
+      "Xbox Cloud Gaming",
+      "PlayStation Now"
+    ],
+    "explanation": "OnLive, lancé en 2010, a popularisé le concept de jeu en streaming avant son déclin.",
+    "imageUrl": "https://images.unsplash.com/photo-1659101967085-36dc2abaeca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le prix du Meilleur Jeu aux Game Awards 2017 ?",
+    "correct_answer": "The Legend of Zelda: Breath of the Wild",
+    "incorrect_answers": [
+      "Super Mario Odyssey",
+      "Persona 5",
+      "Cuphead"
+    ],
+    "explanation": "Breath of the Wild a redéfini le genre du jeu d'aventure en monde ouvert.",
+    "imageUrl": "https://images.unsplash.com/photo-1693929291343-f38cb7519d5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'Resident Evil' ?",
+    "correct_answer": "Capcom",
+    "incorrect_answers": [
+      "Konami",
+      "Square Enix",
+      "Naughty Dog"
+    ],
+    "explanation": "Capcom a popularisé le survival horror avec Resident Evil en 1996.",
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1580234748052-2c23d8b27a71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son costume bleu et blanc et son marteau ?",
+    "correct_answer": "Kirby",
+    "incorrect_answers": [
+      "Mario",
+      "Luigi",
+      "Wario"
+    ],
+    "explanation": "Kirby, créé par Nintendo, peut copier les pouvoirs de ses ennemis.",
+    "imageUrl": "https://images.unsplash.com/photo-1709387450078-88c6558d325b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un système de jeu en réalité augmentée ?",
+    "correct_answer": "Nintendo 3DS",
+    "incorrect_answers": [
+      "PlayStation Vita",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "explanation": "Le 3DS utilise la caméra pour afficher des éléments en réalité augmentée.",
+    "imageUrl": "https://images.unsplash.com/photo-1619971104703-5e99cd3c6efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus grand nombre de DLC vendus ?",
+    "correct_answer": "The Sims 4",
+    "incorrect_answers": [
+      "Grand Theft Auto V",
+      "Call of Duty: Modern Warfare",
+      "Fortnite"
+    ],
+    "explanation": "The Sims 4 a généré des centaines de millions de dollars grâce à ses extensions.",
+    "imageUrl": "https://images.unsplash.com/photo-1603009516102-14d93178f395?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Portal 2' ?",
+    "correct_answer": "Valve Corporation",
+    "incorrect_answers": [
+      "Bethesda",
+      "BioWare",
+      "Naughty Dog"
+    ],
+    "explanation": "Valve a créé Portal et son gameplay innovant basé sur les portails.",
+    "imageUrl": "https://images.unsplash.com/photo-1719398586551-0257f2dd5b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son costume rouge et son marteau ?",
+    "correct_answer": "Thor",
+    "incorrect_answers": [
+      "Hulk",
+      "Iron Man",
+      "Captain America"
+    ],
+    "explanation": "Thor, issu des comics Marvel, est un personnage récurrent dans les jeux vidéo.",
+    "imageUrl": "https://images.unsplash.com/photo-1606305321490-0c05711a8fb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un système de jeu en ligne gratuit ?",
+    "correct_answer": "PlayStation 2 (avec le service Xfire)",
+    "incorrect_answers": [
+      "Xbox Live",
+      "Nintendo Network",
+      "SegaNet"
+    ],
+    "explanation": "Le service Xfire, lancé en 2003, permettait de jouer en ligne gratuitement sur PS2.",
+    "imageUrl": "https://images.unsplash.com/photo-1518719028738-e7262020a932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le prix du Meilleur Jeu aux Game Awards 2016 ?",
+    "correct_answer": "Overwatch",
+    "incorrect_answers": [
+      "Doom",
+      "The Witcher 3: Wild Hunt",
+      "Dark Souls III"
+    ],
+    "explanation": "Overwatch a popularisé le genre des FPS héroïques avec son approche multijoueur.",
+    "imageUrl": "https://images.unsplash.com/photo-1666296420099-3300fa374196?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'Street Fighter' ?",
+    "correct_answer": "Capcom",
+    "incorrect_answers": [
+      "Sega",
+      "Namco",
+      "Taito"
+    ],
+    "explanation": "Capcom a révolutionné les jeux de combat avec Street Fighter en 1987.",
+    "imageUrl": "https://images.unsplash.com/photo-1606318801954-d46d46d3360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour son costume jaune et son pouvoir de vol ?",
+    "correct_answer": "Yoshi",
+    "incorrect_answers": [
+      "Mario",
+      "Luigi",
+      "Bowser"
+    ],
+    "explanation": "Yoshi, compagnon de Mario, peut voler en avalant des ennemis et en battant des ailes.",
+    "imageUrl": "https://images.unsplash.com/photo-1580234831315-438a4813685c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à proposer un système de jeu en ligne avec voix intégrée ?",
+    "correct_answer": "Xbox Live (Xbox 360)",
+    "incorrect_answers": [
+      "PlayStation Network",
+      "Nintendo Network",
+      "SegaNet"
+    ],
+    "explanation": "Xbox Live sur Xbox 360 a introduit le chat vocal pour tous les joueurs.",
+    "imageUrl": null
+  }
+]

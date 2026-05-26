@@ -1,592 +1,640 @@
 [
   {
-    "question": "Quel est le seul mammifère capable de voler activement et de naviguer par écholocation ?",
+    "question": "Quel est le seul mammifère capable de voler activement et de se déplacer par écholocation ?",
     "correct_answer": "La chauve-souris",
     "incorrect_answers": [
       "Le colugo",
       "Le pangolin",
       "Le tamanoir"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1757858849087-7095a55a0550?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les chauves-souris utilisent l'écholocation pour naviguer dans l'obscurité.",
+    "imageUrl": "https://images.unsplash.com/photo-1640690642852-cae8cdf55cde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de dauphin est connue pour utiliser des éponges comme outils pour se protéger lors de la chasse ?",
-    "correct_answer": "Le dauphin de l'Amazone",
+    "question": "Quel oiseau est connu pour imiter les sons humains et mécaniques avec une précision remarquable ?",
+    "correct_answer": "Le mainate religieux",
     "incorrect_answers": [
-      "Le grand dauphin",
-      "Le dauphin de Fraser",
-      "Le dauphin de Risso"
+      "Le perroquet gris du Gabon",
+      "Le corbeau freux",
+      "Le geai des chênes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1653326200806-aa37ffb0d865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le mainate religieux, originaire d'Asie, est un imitateur exceptionnel.",
+    "imageUrl": "https://images.unsplash.com/photo-1729172032242-4c18f49b1c43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de reconnaître les individus de son espèce grâce à leur chant unique ?",
-    "correct_answer": "Le merle noir",
+    "question": "Quel est le plus grand rongeur du monde, pouvant peser jusqu'à 60 kg ?",
+    "correct_answer": "Le capybara",
     "incorrect_answers": [
-      "Le rouge-gorge",
-      "Le moineau domestique",
-      "La mésange charbonnière"
+      "Le castor canadien",
+      "Le porc-épic",
+      "Le ragondin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1591824532154-3302f36568d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le capybara, natif d'Amérique du Sud, est le plus grand rongeur vivant.",
+    "imageUrl": "https://images.unsplash.com/photo-1700509702618-e4fa48723c24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de serpent possède le venin le plus puissant au monde, selon le LD50 chez la souris ?",
-    "correct_answer": "Le serpent brun oriental",
+    "question": "Quel animal possède trois cœurs et un sang bleu riche en hémocyanine ?",
+    "correct_answer": "Le calmar géant",
+    "incorrect_answers": [
+      "La pieuvre",
+      "Le homard",
+      "Le nautile"
+    ],
+    "explanation": "Les céphalopodes comme le calmar ont un système circulatoire unique.",
+    "imageUrl": "https://images.unsplash.com/photo-1711011998211-98f4fbe5f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère marin est capable de dormir en nageant, avec une moitié de son cerveau éveillée ?",
+    "correct_answer": "Le dauphin",
+    "incorrect_answers": [
+      "Le cachalot",
+      "Le narval",
+      "Le lamantin"
+    ],
+    "explanation": "Les dauphins utilisent le sommeil uni-hémisphérique pour rester actifs.",
+    "imageUrl": "https://images.unsplash.com/photo-1541621858487-739d3137d762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel serpent est le plus venimeux au monde, avec un venin neurotoxique mortel en quelques minutes ?",
+    "correct_answer": "Le taïpan du désert",
     "incorrect_answers": [
       "Le cobra royal",
-      "Le mamba noir",
-      "La vipère de Russell"
+      "La vipère heurtante",
+      "Le mamba noir"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1667463723250-24760924495c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le taïpan du désert (Australie) a le venin le plus toxique de tous les serpents.",
+    "imageUrl": "https://images.unsplash.com/photo-1757858849087-7095a55a0550?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal détient le record du plus long sommeil hivernal, pouvant durer jusqu'à 11 mois ?",
-    "correct_answer": "La marmotte arctique",
+    "question": "Quel animal est surnommé le 'faux vampire' en raison de son régime alimentaire principalement insectivore ?",
+    "correct_answer": "Le vampire commun",
     "incorrect_answers": [
-      "L'ours polaire",
-      "Le hérisson",
-      "Le loir"
+      "La chauve-souris frugivore",
+      "Le renard volador",
+      "Le pangolin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1683355931765-6c8e573e69af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le vampire commun (Desmodus rotundus) se nourrit de sang mais n'est pas un vrai vampire.",
+    "imageUrl": "https://images.unsplash.com/photo-1513615411864-37081f229681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de primate utilise des feuilles comme outils pour extraire de l'eau des troncs d'arbres ?",
-    "correct_answer": "Le chimpanzé",
+    "question": "Quel insecte peut survivre à des températures allant jusqu'à -60°C en hiver ?",
+    "correct_answer": "Le ver de glace",
     "incorrect_answers": [
-      "Le gorille",
-      "L'orang-outan",
-      "Le bonobo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1709829421603-ce7c6a8f3154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le seul félin capable de rugir grâce à son os hyoïde partiellement ossifié ?",
-    "correct_answer": "Le lion",
-    "incorrect_answers": [
-      "Le tigre",
-      "Le léopard",
-      "Le jaguar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1678113265121-c12b08417b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce de poisson peut survivre plusieurs heures hors de l'eau grâce à un système de respiration cutanée ?",
-    "correct_answer": "Le poisson-chat marcheur",
-    "incorrect_answers": [
-      "L'anguille",
-      "Le poisson-globe",
-      "Le poisson-perroquet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1556032743-e5c0cda93bf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mammifère marin est capable de plonger à plus de 2 000 mètres de profondeur pour chasser ?",
-    "correct_answer": "Le cachalot",
-    "incorrect_answers": [
-      "L'orque",
-      "Le dauphin",
-      "Le phoque éléphant"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1711011998211-98f4fbe5f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce d'insecte possède le plus grand nombre de chromosomes, avec 256 ?",
-    "correct_answer": "Le papillon *Lysandra coridon*",
-    "incorrect_answers": [
+      "Le scarabée bombardier",
       "La fourmi rouge",
-      "Le criquet migrateur",
-      "La mouche domestique"
+      "Le moustique tigre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1711451358919-5ca5c55fcb0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le ver de glace (Mesenchytraeus solifugus) produit un antigel naturel.",
+    "imageUrl": "https://images.unsplash.com/photo-1680113989065-fe7bbf080a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est surnommé le 'roi des animaux' en raison de sa crinière et de son statut de prédateur dominant ?",
-    "correct_answer": "Le lion",
+    "question": "Quel oiseau est capable de marcher sous l'eau pour capturer ses proies grâce à ses ailes adaptées ?",
+    "correct_answer": "Le cincle plongeur",
     "incorrect_answers": [
-      "Le tigre",
-      "Le léopard",
-      "Le jaguar"
+      "Le canard colvert",
+      "Le martin-pêcheur",
+      "Le plongeon arctique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1638788011956-3446188394ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le cincle plongeur utilise ses ailes pour nager contre le courant.",
+    "imageUrl": "https://images.unsplash.com/photo-1556032743-e5c0cda93bf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de reptile peut régénérer sa queue plusieurs fois au cours de sa vie ?",
-    "correct_answer": "Le gecko",
+    "question": "Quel mammifère marin est le seul à avoir des défenses en ivoire et à plonger à plus de 2 000 mètres ?",
+    "correct_answer": "L'éléphant de mer du Nord",
     "incorrect_answers": [
-      "L'iguane",
-      "Le caméléon",
-      "Le varan"
+      "Le morse",
+      "Le narval",
+      "Le cachalot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1625598176870-b1c49127d063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les éléphants de mer mâles plongent à des profondeurs extrêmes pour chasser.",
+    "imageUrl": "https://images.unsplash.com/photo-1617660772291-e5d67b4610dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de voler en arrière grâce à ses ailes articulées ?",
+    "question": "Quel reptile est capable de régénérer sa queue plusieurs fois au cours de sa vie ?",
+    "correct_answer": "Le lézard à queue en fouet",
+    "incorrect_answers": [
+      "Le gecko tokay",
+      "L'iguane vert",
+      "Le caméléon"
+    ],
+    "explanation": "Certains lézards perdent et régénèrent leur queue pour échapper aux prédateurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1728025131138-e05d5b0e2b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal possède la plus grande longévité parmi les vertébrés terrestres, pouvant vivre plus de 150 ans ?",
+    "correct_answer": "La tortue géante des Galápagos",
+    "incorrect_answers": [
+      "L'éléphant d'Afrique",
+      "Le crocodile marin",
+      "Le requin du Groenland"
+    ],
+    "explanation": "Les tortues géantes des Galápagos ont une espérance de vie exceptionnelle.",
+    "imageUrl": "https://images.unsplash.com/photo-1742500778370-f1f92e427d40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel oiseau est le seul à pouvoir voler à reculons grâce à ses ailes battantes rapides ?",
     "correct_answer": "Le colibri",
     "incorrect_answers": [
       "Le martinet",
-      "L'hirondelle",
-      "Le faucon pèlerin"
+      "Le faucon pèlerin",
+      "Le hibou"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1729172032242-4c18f49b1c43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les colibris battent leurs ailes jusqu'à 80 fois par seconde pour voler à reculons.",
+    "imageUrl": "https://images.unsplash.com/photo-1663521051474-6c8b75bff0c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de poisson possède des yeux capables de voir dans l'obscurité grâce à une couche de cellules réfléchissantes ?",
-    "correct_answer": "Le poisson-chauve-souris",
+    "question": "Quel mammifère est le seul à pondre des œufs tout en étant un mammifère ?",
+    "correct_answer": "L'ornithorynque",
     "incorrect_answers": [
-      "Le poisson-lanterne",
-      "Le poisson-globe",
-      "Le poisson-perroquet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1663762027600-c56c71870790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mammifère est le seul à avoir des poils qui poussent en spirale, comme une vis ?",
-    "correct_answer": "Le pangolin",
-    "incorrect_answers": [
-      "Le tatou",
-      "Le fourmilier",
-      "L'oryctérope"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1708522101004-0718712b4547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce de serpent est capable de se déplacer latéralement pour traverser des dunes de sable ?",
-    "correct_answer": "La vipère des sables",
-    "incorrect_answers": [
-      "Le cobra",
-      "La couleuvre",
-      "Le python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1722081415322-7557e8c22ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal possède le plus grand cerveau par rapport à sa taille corporelle ?",
-    "correct_answer": "Le rat-taupe nu",
-    "incorrect_answers": [
-      "La souris",
-      "Le shrew",
-      "Le hérisson"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1689797216602-fb2ce418cf7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce d'oiseau est capable de reconnaître les visages humains et de se souvenir d'eux pendant des années ?",
-    "correct_answer": "Le corbeau freux",
-    "incorrect_answers": [
-      "Le perroquet",
-      "Le geai des chênes",
-      "La pie bavarde"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1641046741761-d0f286ab6f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mammifère marin est capable de produire des sons à des fréquences inaudibles pour l'oreille humaine, utilisés pour communiquer ?",
-    "correct_answer": "Le cachalot",
-    "incorrect_answers": [
-      "Le dauphin",
-      "L'orque",
-      "Le phoque"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1603966474815-85d21585ffb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce de papillon migre sur plus de 4 000 km entre le Mexique et le Canada ?",
-    "correct_answer": "Le monarque",
-    "incorrect_answers": [
-      "Le machaon",
-      "Le sphinx tête de mort",
-      "Le paon-du-jour"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1696776156652-1bd7a1ac4727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de survivre à une exposition prolongée à des températures de -60°C grâce à une protéine antigel ?",
-    "correct_answer": "Le tardigrade",
-    "incorrect_answers": [
-      "L'ours polaire",
-      "Le renard arctique",
-      "Le lièvre variable"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1658285175819-f6390bde98de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce de poisson peut changer de sexe plusieurs fois au cours de sa vie ?",
-    "correct_answer": "Le poisson-perroquet",
-    "incorrect_answers": [
-      "Le thon",
-      "Le maquereau",
-      "Le bar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1646186598644-0b0e407852a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mammifère est le seul à avoir des os dans son pénis, appelés baculum ?",
-    "correct_answer": "Le chien",
-    "incorrect_answers": [
-      "Le chat",
-      "Le rat",
-      "Le furet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1668701644378-209c3e9f7e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce d'oiseau est capable de dormir en vol pendant des mois lors de sa migration ?",
-    "correct_answer": "Le martinet",
-    "incorrect_answers": [
-      "L'hirondelle",
-      "Le puffin",
-      "Le albatros"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1667740411756-81a90688059d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel reptile possède un troisième œil fonctionnel, sensible à la lumière, situé sur le sommet de son crâne ?",
-    "correct_answer": "Le tuatara",
-    "incorrect_answers": [
-      "Le lézard",
-      "Le serpent",
-      "Le crocodile"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1680113990254-f969e2e02a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce de mammifère est capable de digérer la cellulose grâce à des bactéries symbiotiques dans son estomac ?",
-    "correct_answer": "Le koala",
-    "incorrect_answers": [
-      "Le panda",
+      "L'échidné",
       "Le kangourou",
-      "Le wombat"
+      "Le tatou"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1657189542100-cdffd7adebb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'ornithorynque est un mammifère monotrème, capable de pondre des œufs.",
+    "imageUrl": "https://images.unsplash.com/photo-1641557087589-c5c9d41f7b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal possède le plus grand nombre de dents parmi les mammifères, avec jusqu'à 25 000 dents au cours de sa vie ?",
-    "correct_answer": "Le requin",
+    "question": "Quel poisson est capable de produire de l'électricité pour se défendre ou chasser ?",
+    "correct_answer": "L'anguille électrique",
     "incorrect_answers": [
-      "Le sanglier",
-      "Le castor",
-      "L'éléphant"
+      "Le poisson-chat électrique",
+      "Le poisson-scie",
+      "Le poisson-globe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1491930334092-1bb43e54af1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'anguille électrique (Electrophorus electricus) génère des décharges jusqu'à 600 volts.",
+    "imageUrl": "https://images.unsplash.com/photo-1722081415322-7557e8c22ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce d'insecte est capable de soulever jusqu'à 50 fois son propre poids ?",
+    "question": "Quel insecte est capable de soulever jusqu'à 50 fois son propre poids ?",
     "correct_answer": "La fourmi",
     "incorrect_answers": [
       "La mouche",
-      "Le scarabée",
-      "Le grillon"
+      "Le scarabée rhinocéros",
+      "Le termite"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1726335849092-a9870a096165?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les fourmis ont une force relative exceptionnelle grâce à leur exosquelette.",
+    "imageUrl": "https://images.unsplash.com/photo-1658285175819-f6390bde98de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de produire des sons à des fréquences aussi basses que 10 Hz, inaudibles pour l'homme ?",
+    "question": "Quel animal marin est le plus rapide, pouvant nager à plus de 100 km/h ?",
+    "correct_answer": "L'espadon",
+    "incorrect_answers": [
+      "Le thon rouge",
+      "Le requin mako",
+      "Le marlin"
+    ],
+    "explanation": "L'espadon (Xiphias gladius) est le poisson le plus rapide au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1605933189727-f23157f6442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère est le seul à avoir un pelage rayé verticalement ?",
+    "correct_answer": "Le tigre",
+    "incorrect_answers": [
+      "Le zèbre",
+      "Le léopard",
+      "Le guépard"
+    ],
+    "explanation": "Les rayures du tigre sont uniques et servent de camouflage dans les hautes herbes.",
+    "imageUrl": "https://images.unsplash.com/photo-1680113990254-f969e2e02a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel oiseau est capable de reconnaître un humain après plusieurs années grâce à sa mémoire exceptionnelle ?",
+    "correct_answer": "Le corbeau freux",
+    "incorrect_answers": [
+      "Le perroquet",
+      "Le geai bleu",
+      "Le moineau domestique"
+    ],
+    "explanation": "Les corvidés ont une mémoire à long terme et une intelligence remarquable.",
+    "imageUrl": "https://images.unsplash.com/photo-1732520524359-d65ff5c3cb69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel reptile est le seul à avoir un troisième œil sensible à la lumière, appelé œil pinéal ?",
+    "correct_answer": "Le tuatara",
+    "incorrect_answers": [
+      "L'iguane",
+      "Le caméléon",
+      "Le serpent à sonnette"
+    ],
+    "explanation": "Le tuatara (Sphenodon punctatus) possède un œil pinéal fonctionnel.",
+    "imageUrl": "https://images.unsplash.com/photo-1625598176870-b1c49127d063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère marin est le seul à avoir des fanons pour filtrer sa nourriture ?",
     "correct_answer": "La baleine bleue",
     "incorrect_answers": [
       "Le dauphin",
-      "L'orque",
-      "Le cachalot"
+      "Le cachalot",
+      "Le narval"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1732520524359-d65ff5c3cb69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les baleines à fanons (mysticètes) filtrent le krill grâce à leurs fanons.",
+    "imageUrl": "https://images.unsplash.com/photo-1728991531885-2e91d617c777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de serpent est capable de se déplacer en ligne droite sans onduler son corps ?",
-    "correct_answer": "Le serpent à sonnette",
-    "incorrect_answers": [
-      "Le cobra",
-      "La vipère",
-      "Le python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1668701639835-81e307e0373e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de régénérer non seulement sa queue, mais aussi des membres entiers ?",
-    "correct_answer": "Le axolotl",
-    "incorrect_answers": [
-      "Le lézard",
-      "Le triton",
-      "Le salamandre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1641557087589-c5c9d41f7b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce d'oiseau est capable de voler à plus de 1 000 km/h en piqué ?",
-    "correct_answer": "Le faucon pèlerin",
-    "incorrect_answers": [
-      "L'aigle royal",
-      "Le martinet",
-      "Le condor"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1617660772347-fb9896f92872?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mammifère est le seul à avoir des glandes sudoripares fonctionnelles uniquement sur ses pattes ?",
-    "correct_answer": "Le chien",
-    "incorrect_answers": [
-      "Le chat",
-      "Le lapin",
-      "Le furet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1591824487666-6cf3a1de355e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce de poisson peut survivre à une congélation complète et reprendre vie une fois dégelé ?",
-    "correct_answer": "Le poisson des glaces",
-    "incorrect_answers": [
-      "Le saumon",
-      "La truite",
-      "Le brochet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1728991531885-2e91d617c777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal possède le plus grand nombre de vertèbres cervicales, avec 7 ?",
-    "correct_answer": "La girafe",
-    "incorrect_answers": [
-      "L'éléphant",
-      "Le cheval",
-      "Le chameau"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1617660772291-e5d67b4610dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce d'insecte est capable de produire de la lumière grâce à une réaction chimique appelée bioluminescence ?",
+    "question": "Quel insecte est capable de produire de la lumière bioluminescente pour communiquer ?",
     "correct_answer": "Le ver luisant",
     "incorrect_answers": [
       "La luciole",
       "Le papillon de nuit",
-      "Le coléoptère"
+      "Le criquet"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1653326243366-39679dc05642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les vers luisants produisent de la lumière grâce à une réaction chimique.",
+    "imageUrl": "https://images.unsplash.com/photo-1723198273378-1ae688a1f024?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de nager à des vitesses dépassant 50 km/h ?",
-    "correct_answer": "L'orque",
+    "question": "Quel animal est le seul à avoir un sang vert en raison de la présence de chlorocruorine ?",
+    "correct_answer": "Le ver marin",
     "incorrect_answers": [
-      "Le dauphin",
-      "Le cachalot",
+      "Le lézard vert",
+      "Le serpent vert",
+      "Le poisson-chat"
+    ],
+    "explanation": "Certains vers marins ont un sang vert dû à une protéine transporteuse d'oxygène.",
+    "imageUrl": "https://images.unsplash.com/photo-1638814363789-e6e2438d1741?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel oiseau est capable de migrer sur plus de 30 000 km par an entre l'Arctique et l'Antarctique ?",
+    "correct_answer": "Le sterne arctique",
+    "incorrect_answers": [
+      "Le puffin des Anglais",
+      "Le martinet noir",
+      "L'hirondelle rustique"
+    ],
+    "explanation": "Le sterne arctique effectue la plus longue migration annuelle connue.",
+    "imageUrl": "https://images.unsplash.com/photo-1591824532154-3302f36568d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère est le seul à avoir une trompe préhensile et à vivre principalement dans l'eau ?",
+    "correct_answer": "Le lamantin",
+    "incorrect_answers": [
+      "Le dugong",
+      "L'hippopotame",
       "Le phoque"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1640690642852-cae8cdf55cde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les lamantins utilisent leur trompe pour saisir la nourriture sous l'eau.",
+    "imageUrl": "https://images.unsplash.com/photo-1726335849092-a9870a096165?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de serpent est capable de se déplacer en 'marche en S' pour escalader des arbres ?",
-    "correct_answer": "Le serpent ratier",
+    "question": "Quel reptile est capable de changer de sexe en fonction de la température d'incubation des œufs ?",
+    "correct_answer": "La tortue molle à épines",
     "incorrect_answers": [
-      "Le python",
-      "Le boa",
-      "Le cobra"
+      "Le lézard vivipare",
+      "Le serpent roi",
+      "Le crocodile"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1700509702618-e4fa48723c24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Certaines tortues ont une détermination du sexe dépendante de la température.",
+    "imageUrl": "https://images.unsplash.com/photo-1653326200806-aa37ffb0d865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est capable de survivre à une déshydratation totale pendant plus de 10 ans ?",
-    "correct_answer": "Le tardigrade",
-    "incorrect_answers": [
-      "Le scorpion",
-      "Le ver de terre",
-      "La fourmi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1679950074993-0d38b4438d19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce d'oiseau est capable de reconnaître les étoiles pour naviguer lors de ses migrations ?",
-    "correct_answer": "Le rouge-gorge",
-    "incorrect_answers": [
-      "Le pigeon voyageur",
-      "Le canard colvert",
-      "Le cygne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1606831629638-7f414ca2bc0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mammifère est le seul à avoir des os dans ses oreilles qui vibrent pour amplifier les sons ?",
-    "correct_answer": "La chauve-souris",
-    "incorrect_answers": [
-      "Le dauphin",
-      "Le renard",
-      "Le chat"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1680113989065-fe7bbf080a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce de poisson peut changer de couleur en quelques secondes pour se camoufler ?",
-    "correct_answer": "Le poisson-pierre",
+    "question": "Quel animal marin est le seul à avoir des yeux capables de voir en polarisation ?",
+    "correct_answer": "Le calmar",
     "incorrect_answers": [
       "Le poisson-clown",
-      "Le poisson-lion",
-      "Le poisson-globe"
+      "L'étoile de mer",
+      "Le homard"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1732520524366-28561b09d2ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les céphalopodes voient la lumière polarisée pour mieux chasser.",
+    "imageUrl": "https://images.unsplash.com/photo-1668701639835-81e307e0373e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal possède le plus grand nombre de muscles dans sa trompe, avec environ 40 000 ?",
-    "correct_answer": "L'éléphant",
+    "question": "Quel mammifère est le seul à avoir des poils modifiés en écailles pour se protéger ?",
+    "correct_answer": "Le pangolin",
     "incorrect_answers": [
-      "Le tapir",
-      "Le rhinocéros",
-      "L'hippopotame"
+      "Le tatou",
+      "Le hérisson",
+      "Le porc-épic"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1541621858487-739d3137d762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le pangolin possède des écailles kératineuses pour se défendre.",
+    "imageUrl": "https://images.unsplash.com/photo-1591824487666-6cf3a1de355e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce d'insecte est capable de produire des sons en frottant ses ailes contre son abdomen ?",
-    "correct_answer": "Le criquet",
+    "question": "Quel oiseau est capable de voler sans battre des ailes pendant de longues périodes en utilisant les courants thermiques ?",
+    "correct_answer": "Le vautour",
     "incorrect_answers": [
-      "La mouche",
-      "Le papillon",
-      "La fourmi"
+      "L'aigle",
+      "Le faucon",
+      "Le condor"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1617439572791-585742bafaad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les vautours planent sur de longues distances pour économiser leur énergie.",
+    "imageUrl": "https://images.unsplash.com/photo-1603966474815-85d21585ffb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de produire des sons à des fréquences aussi élevées que 200 kHz ?",
-    "correct_answer": "Le dauphin",
+    "question": "Quel reptile est le seul à avoir un venin capable de dissoudre les os de ses proies ?",
+    "correct_answer": "Le varan de Komodo",
     "incorrect_answers": [
-      "La baleine bleue",
-      "L'orque",
+      "Le cobra",
+      "Le serpent corail",
+      "Le mamba noir"
+    ],
+    "explanation": "Le varan de Komodo possède une salive contenant des bactéries et des enzymes destructrices.",
+    "imageUrl": "https://images.unsplash.com/photo-1506541642349-625709a581a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère marin est le seul à avoir des dents en forme de défenses recourbées vers l'arrière ?",
+    "correct_answer": "Le narval",
+    "incorrect_answers": [
+      "Le morse",
+      "L'éléphant de mer",
       "Le cachalot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1634632660485-971f042238af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La défense du narval est en réalité une canine allongée et torsadée.",
+    "imageUrl": "https://images.unsplash.com/photo-1622429797416-2bc41e302300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de serpent est capable de se déplacer en 'marche en accordéon' pour escalader des rochers ?",
+    "question": "Quel insecte est capable de survivre à une irradiation nucléaire 1000 fois supérieure à la dose mortelle pour l'homme ?",
+    "correct_answer": "Le tardigrade",
+    "incorrect_answers": [
+      "La fourmi rouge",
+      "Le scarabée bombardier",
+      "Le cafard"
+    ],
+    "explanation": "Les tardigrades résistent aux radiations grâce à une protection cellulaire unique.",
+    "imageUrl": "https://images.unsplash.com/photo-1663762027600-c56c71870790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel oiseau est le seul à avoir un plumage entièrement noir et à chanter la nuit ?",
+    "correct_answer": "Le merle noir",
+    "incorrect_answers": [
+      "Le corbeau",
+      "Le grand corbeau",
+      "Le mainate religieux"
+    ],
+    "explanation": "Le merle noir mâle chante souvent la nuit pour marquer son territoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1617439572791-585742bafaad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère est le seul à avoir des griffes rétractiles et à vivre principalement dans les arbres ?",
+    "correct_answer": "Le chat",
+    "incorrect_answers": [
+      "Le léopard",
+      "Le lynx",
+      "Le puma"
+    ],
+    "explanation": "Les chats domestiques et sauvages possèdent des griffes rétractiles pour chasser.",
+    "imageUrl": "https://images.unsplash.com/photo-1696776156652-1bd7a1ac4727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel reptile est capable de régénérer non seulement sa queue, mais aussi des membres entiers ?",
+    "correct_answer": "Le gecko",
+    "incorrect_answers": [
+      "Le lézard à collerette",
+      "L'iguane",
+      "Le caméléon"
+    ],
+    "explanation": "Certains geckos peuvent régénérer des membres perdus grâce à des cellules souches.",
+    "imageUrl": "https://images.unsplash.com/photo-1679950074993-0d38b4438d19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal marin est le seul à avoir un système de propulsion par jet d'eau ?",
+    "correct_answer": "La méduse",
+    "incorrect_answers": [
+      "L'étoile de mer",
+      "Le calmar",
+      "Le poisson-globe"
+    ],
+    "explanation": "Les méduses se déplacent en contractant leur ombrelle pour expulser de l'eau.",
+    "imageUrl": "https://images.unsplash.com/photo-1709829421603-ce7c6a8f3154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère est le seul à avoir des sabots fendus et à ruminer sa nourriture ?",
+    "correct_answer": "Le cerf",
+    "incorrect_answers": [
+      "Le bison",
+      "Le mouflon",
+      "Le chamois"
+    ],
+    "explanation": "Les cervidés ont des sabots fendus et un système digestif adapté à la rumination.",
+    "imageUrl": "https://images.unsplash.com/photo-1656769953565-91b35bb2cc7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel oiseau est capable de plonger à plus de 1 000 mètres de profondeur pour chasser ?",
+    "correct_answer": "Le manchot empereur",
+    "incorrect_answers": [
+      "Le cormoran",
+      "Le puffin",
+      "Le guillemot"
+    ],
+    "explanation": "Le manchot empereur peut tenir des apnées de plus de 20 minutes.",
+    "imageUrl": "https://images.unsplash.com/photo-1634632660485-971f042238af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel reptile est le seul à avoir un venin capable de provoquer une paralysie musculaire chez l'homme ?",
     "correct_answer": "Le serpent corail",
     "incorrect_answers": [
       "Le cobra",
-      "La vipère",
-      "Le python"
+      "Le mamba noir",
+      "Le taipan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1506541642349-625709a581a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le venin du serpent corail contient des neurotoxines mortelles.",
+    "imageUrl": "https://images.unsplash.com/photo-1750175467533-5d4e578a8481?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est capable de survivre à une exposition à des radiations 1 000 fois supérieures à la dose mortelle pour l'homme ?",
-    "correct_answer": "Le tardigrade",
+    "question": "Quel mammifère marin est le seul à avoir des nageoires pectorales transformées en membres préhensiles ?",
+    "correct_answer": "Le loutre de mer",
     "incorrect_answers": [
-      "Le scorpion",
-      "Le cafard",
-      "Le ver de terre"
+      "Le phoque",
+      "Le morse",
+      "Le lamantin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1656769953565-91b35bb2cc7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les loutres de mer utilisent leurs membres antérieurs pour manipuler des objets.",
+    "imageUrl": "https://images.unsplash.com/photo-1646186598644-0b0e407852a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce d'oiseau est capable de voler en formation en 'V' pour économiser de l'énergie ?",
-    "correct_answer": "L'oie",
+    "question": "Quel insecte est capable de produire un son audible à plusieurs kilomètres grâce à ses ailes ?",
+    "correct_answer": "La cigale",
     "incorrect_answers": [
-      "Le canard",
-      "Le cygne",
-      "Le pélican"
+      "Le grillon",
+      "Le criquet",
+      "Le hanneton"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1742500778370-f1f92e427d40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les cigales mâles produisent un chant strident pour attirer les femelles.",
+    "imageUrl": "https://images.unsplash.com/photo-1617660772347-fb9896f92872?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère est le seul à avoir des glandes sudoripares sur tout son corps, y compris la plante des pieds ?",
-    "correct_answer": "Le cheval",
+    "question": "Quel animal est le seul à avoir un pelage entièrement blanc et à vivre dans les régions polaires ?",
+    "correct_answer": "L'ours polaire",
     "incorrect_answers": [
-      "L'éléphant",
-      "Le rhinocéros",
-      "L'hippopotame"
+      "Le renard arctique",
+      "Le harfang des neiges",
+      "Le phoque annelé"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1622429797416-2bc41e302300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'ours polaire est parfaitement adapté à la vie dans l'Arctique.",
+    "imageUrl": "https://images.unsplash.com/photo-1491930334092-1bb43e54af1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce de poisson peut survivre à une exposition à des températures de 40°C grâce à une protéine de choc thermique ?",
-    "correct_answer": "Le poisson-zèbre",
+    "question": "Quel reptile est capable de changer de couleur en quelques secondes pour se camoufler ?",
+    "correct_answer": "Le caméléon",
     "incorrect_answers": [
-      "Le saumon",
-      "La truite",
-      "Le brochet"
+      "Le gecko",
+      "Le lézard vert",
+      "L'iguane"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1689799980599-60c7b1846ffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les caméléons modifient la disposition de leurs cellules pigmentaires pour changer de couleur.",
+    "imageUrl": "https://images.unsplash.com/photo-1656025664223-4a471c64e608?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal possède le plus grand nombre de dents parmi les reptiles, avec jusqu'à 300 ?",
-    "correct_answer": "Le crocodile",
+    "question": "Quel mammifère est le seul à avoir des défenses en ivoire et à vivre en groupe matriarcal ?",
+    "correct_answer": "L'éléphant d'Afrique",
     "incorrect_answers": [
-      "L'alligator",
-      "Le varan",
-      "Le serpent"
+      "Le morse",
+      "Le narval",
+      "Le sanglier"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1656025664223-4a471c64e608?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les éléphants d'Afrique vivent en groupes familiaux dirigés par une matriarche.",
+    "imageUrl": "https://images.unsplash.com/photo-1641046741761-d0f286ab6f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle espèce d'insecte est capable de produire des sons en vibrant ses ailes à des fréquences ultrasoniques ?",
-    "correct_answer": "La mouche",
+    "question": "Quel oiseau est capable de construire des nids en forme de dôme avec des matériaux végétaux et de la boue ?",
+    "correct_answer": "L'hirondelle rustique",
     "incorrect_answers": [
-      "Le moustique",
-      "Le papillon",
-      "Le coléoptère"
+      "Le moineau",
+      "Le rouge-gorge",
+      "Le merle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1605933189727-f23157f6442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'hirondelle rustique utilise de la boue pour consolider son nid.",
+    "imageUrl": "https://images.unsplash.com/photo-1689797216602-fb2ce418cf7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de nager à des profondeurs dépassant 3 000 mètres ?",
-    "correct_answer": "Le cachalot",
-    "incorrect_answers": [
-      "L'orque",
-      "Le dauphin",
-      "Le phoque éléphant"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1663521051474-6c8b75bff0c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce de serpent est capable de se déplacer en 'marche en vague' pour traverser des surfaces meubles ?",
+    "question": "Quel reptile est le seul à avoir un venin capable de provoquer une nécrose des tissus chez l'homme ?",
     "correct_answer": "Le serpent à sonnette",
     "incorrect_answers": [
       "Le cobra",
-      "La vipère",
-      "Le python"
+      "Le mamba noir",
+      "Le taipan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1679807276408-9f7d7501340f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le venin des crotales contient des hémotoxines qui détruisent les tissus.",
+    "imageUrl": "https://images.unsplash.com/photo-1707759408971-3c9358b450c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est capable de survivre à une exposition à des températures de -272°C, proche du zéro absolu ?",
-    "correct_answer": "Le tardigrade",
-    "incorrect_answers": [
-      "Le ver de terre",
-      "Le nématode",
-      "Le collembole"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1750175467533-5d4e578a8481?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce d'oiseau est capable de voler en arrière et de planer sans battre des ailes pendant plusieurs minutes ?",
-    "correct_answer": "Le colibri",
-    "incorrect_answers": [
-      "Le martinet",
-      "L'hirondelle",
-      "Le faucon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1513615411864-37081f229681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mammifère est le seul à avoir des os dans sa peau, formant une armure naturelle ?",
-    "correct_answer": "Le pangolin",
-    "incorrect_answers": [
-      "L'oryctérope",
-      "Le tatou",
-      "Le fourmilier"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1712260402164-2cf58cf73483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle espèce de poisson peut survivre à une exposition à des niveaux d'oxygène quasi nuls grâce à une respiration cutanée ?",
-    "correct_answer": "Le poisson-chat",
-    "incorrect_answers": [
-      "Le saumon",
-      "La truite",
-      "Le brochet"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1707759408971-3c9358b450c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal possède le plus grand nombre de vertèbres dans sa colonne vertébrale, avec jusqu'à 500 ?",
+    "question": "Quel mammifère marin est le seul à avoir des nageoires caudales horizontales pour nager ?",
     "correct_answer": "La baleine",
     "incorrect_answers": [
-      "Le serpent",
-      "L'anguille",
-      "Le dauphin"
+      "Le dauphin",
+      "Le requin",
+      "Le thon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1675312023364-288748f64163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5MTA0MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les cétacés ont des nageoires caudales horizontales pour une propulsion verticale.",
+    "imageUrl": "https://images.unsplash.com/photo-1711451358919-5ca5c55fcb0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel insecte est capable de produire de la soie pour tisser des cocons ou des toiles ?",
+    "correct_answer": "Le ver à soie",
+    "incorrect_answers": [
+      "L'araignée",
+      "Le papillon",
+      "La fourmi"
+    ],
+    "explanation": "Le ver à soie (Bombyx mori) produit de la soie pour former son cocon.",
+    "imageUrl": "https://images.unsplash.com/photo-1653326243366-39679dc05642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le seul à avoir des cornes creuses et à vivre dans les déserts africains ?",
+    "correct_answer": "L'oryx",
+    "incorrect_answers": [
+      "Le koudou",
+      "L'antilope saïga",
+      "Le gnou"
+    ],
+    "explanation": "L'oryx algazelle possède des cornes longues et creuses pour réguler sa température.",
+    "imageUrl": "https://images.unsplash.com/photo-1556124911-2dfeb4bc8300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel reptile est capable de survivre à une déshydratation extrême en entrant en estivation ?",
+    "correct_answer": "La tortue sulcata",
+    "incorrect_answers": [
+      "Le lézard des sables",
+      "Le serpent à sonnette",
+      "Le caméléon"
+    ],
+    "explanation": "La tortue sulcata peut survivre sans eau pendant plusieurs années.",
+    "imageUrl": "https://images.unsplash.com/photo-1668701644378-209c3e9f7e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère est le seul à avoir des glandes sudoripares sur tout son corps et à transpirer pour réguler sa température ?",
+    "correct_answer": "L'homme",
+    "incorrect_answers": [
+      "Le cheval",
+      "Le chameau",
+      "L'éléphant"
+    ],
+    "explanation": "Les humains sont les seuls mammifères à transpirer abondamment pour se refroidir.",
+    "imageUrl": "https://images.unsplash.com/photo-1779133558805-e555d8a7d418?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel oiseau est capable de voler à plus de 4 000 mètres d'altitude pour traverser l'Himalaya ?",
+    "correct_answer": "Le gypaète barbu",
+    "incorrect_answers": [
+      "L'aigle royal",
+      "Le vautour",
+      "Le condor"
+    ],
+    "explanation": "Le gypaète barbu plane à haute altitude pour éviter les prédateurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1675312023364-288748f64163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel reptile est le seul à avoir un venin capable de provoquer une cécité temporaire chez l'homme ?",
+    "correct_answer": "Le serpent brun oriental",
+    "incorrect_answers": [
+      "Le cobra",
+      "Le mamba noir",
+      "Le taipan"
+    ],
+    "explanation": "Le venin du serpent brun contient des toxines qui attaquent les nerfs optiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1667463723250-24760924495c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère marin est le seul à avoir des nageoires pectorales en forme de pagaies pour nager ?",
+    "correct_answer": "Le dugong",
+    "incorrect_answers": [
+      "Le lamantin",
+      "Le morse",
+      "Le phoque"
+    ],
+    "explanation": "Le dugong utilise ses nageoires en forme de pagaies pour se déplacer dans l'eau.",
+    "imageUrl": "https://images.unsplash.com/photo-1678113265121-c12b08417b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel insecte est capable de produire un son strident en frottant ses ailes contre son abdomen ?",
+    "correct_answer": "Le grillon",
+    "incorrect_answers": [
+      "La cigale",
+      "Le criquet",
+      "Le hanneton"
+    ],
+    "explanation": "Les grillons mâles stridulent pour attirer les femelles.",
+    "imageUrl": "https://images.unsplash.com/photo-1683355931765-6c8e573e69af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le seul à avoir des poils modifiés en épines pour se défendre ?",
+    "correct_answer": "Le porc-épic",
+    "incorrect_answers": [
+      "Le hérisson",
+      "Le tatou",
+      "Le pangolin"
+    ],
+    "explanation": "Le porc-épic utilise ses épines pour dissuader les prédateurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1779657130882-c60732f7a305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel reptile est capable de survivre à des températures extrêmes en se mettant en léthargie ?",
+    "correct_answer": "Le lézard à collerette",
+    "incorrect_answers": [
+      "Le caméléon",
+      "Le gecko",
+      "L'iguane"
+    ],
+    "explanation": "Certains lézards entrent en léthargie pour survivre aux périodes froides.",
+    "imageUrl": "https://images.unsplash.com/photo-1638788011956-3446188394ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mammifère est le seul à avoir des glandes mammaires situées sur les côtés du corps ?",
+    "correct_answer": "L'éléphant",
+    "incorrect_answers": [
+      "La vache",
+      "La chèvre",
+      "La baleine"
+    ],
+    "explanation": "Les éléphants ont des mamelles situées entre les pattes avant.",
+    "imageUrl": "https://images.unsplash.com/photo-1732520524366-28561b09d2ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fHdpbGQlMjBhbmltYWxzJTIwbmF0dXJlJTIwd2lsZGxpZmV8ZW58MHx8fHwxNzc5Nzk4MTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

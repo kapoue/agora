@@ -1,113 +1,168 @@
 [
   {
-    "question": "Quel constructeur automobile a inventé le premier moteur à combustion interne en 1886 ?",
-    "correct_answer": "Benz & Cie",
+    "question": "Quel constructeur automobile a inventé le premier moteur diesel en 1893 ?",
+    "correct_answer": "Rudolf Diesel",
     "incorrect_answers": [
-      "Ford Motor Company",
-      "Renault",
-      "Fiat"
+      "Henry Ford",
+      "Ferdinand Porsche",
+      "Karl Benz"
     ],
-    "imageUrl": "https://images.pexels.com/photos/16925496/pexels-photo-16925496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Rudolf Diesel a conçu le premier moteur à combustion interne fonctionnant au diesel.",
+    "imageUrl": "https://images.unsplash.com/photo-1701177527271-46237ec32eaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel avion a réalisé le premier vol transatlantique sans escale en 1919 ?",
-    "correct_answer": "Curtiss NC-4",
+    "correct_answer": "NC-4 Curtiss",
     "incorrect_answers": [
       "Spirit of St. Louis",
       "Concorde",
-      "Boeing 747"
+      "Spruce Goose"
     ],
-    "imageUrl": "https://images.pexels.com/photos/8687626/pexels-photo-8687626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "L'hydravion NC-4 a traversé l'Atlantique en plusieurs étapes en 1919.",
+    "imageUrl": "https://images.unsplash.com/photo-1723596927564-f8070e535aee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a remporté la Coupe de l'America en 2017 ?",
-    "correct_answer": "Emirates Team New Zealand",
+    "question": "Quel bateau a remporté la Coupe de l'America en 1851 avec une coque en acajou ?",
+    "correct_answer": "America",
     "incorrect_answers": [
-      "Oracle Team USA",
-      "Land Rover BAR",
-      "SoftBank Team Japan"
+      "Titanic",
+      "Cutty Sark",
+      "HMS Victory"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1661856585049-bc5562a286da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le yacht America a donné son nom à la célèbre compétition.",
+    "imageUrl": "https://images.unsplash.com/photo-1583328883101-db96b1501154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel train détient le record du monde de vitesse sur rail en 2023 ?",
-    "correct_answer": "SC Maglev L0 Series",
+    "correct_answer": "SC Maglev L0",
     "incorrect_answers": [
-      "TGV Duplex",
-      "Shinkansen N700",
-      "ICE 4"
+      "TGV",
+      "Shinkansen",
+      "ICE"
     ],
-    "imageUrl": "https://images.pexels.com/photos/33917251/pexels-photo-33917251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le SC Maglev japonais a atteint 603 km/h en 2015.",
+    "imageUrl": "https://images.unsplash.com/photo-1619672161395-8bcb2f2c8994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a lancé la première voiture électrique grand public en 1996 ?",
-    "correct_answer": "General Motors (EV1)",
+    "question": "Quel constructeur a popularisé la voiture à traction avant en 1934 ?",
+    "correct_answer": "Citroën",
     "incorrect_answers": [
-      "Tesla",
-      "Nissan",
-      "Renault"
+      "Renault",
+      "Peugeot",
+      "Volkswagen"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1701177527271-46237ec32eaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Citroën Traction Avant a révolutionné l'industrie automobile.",
+    "imageUrl": "https://images.unsplash.com/photo-1595527144678-f31a906ef447?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion de ligne a effectué son premier vol en 1969 et est devenu emblématique ?",
+    "correct_answer": "Boeing 747",
+    "incorrect_answers": [
+      "Airbus A380",
+      "Concorde",
+      "DC-3"
+    ],
+    "explanation": "Le 747, surnommé 'Jumbo Jet', a dominé le transport aérien pendant des décennies.",
+    "imageUrl": "https://images.unsplash.com/photo-1617564992600-b925ced02407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a coulé lors de son voyage inaugural en 1912 ?",
+    "correct_answer": "Titanic",
+    "incorrect_answers": [
+      "Lusitania",
+      "Bismarck",
+      "USS Arizona"
+    ],
+    "explanation": "Le Titanic a heurté un iceberg et a coulé dans l'Atlantique Nord.",
+    "imageUrl": "https://images.unsplash.com/photo-1617564992607-d759d75105e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train à vapeur a été le premier à relier Paris à Lyon en 1855 ?",
+    "correct_answer": "Le PLM",
+    "incorrect_answers": [
+      "Le TGV",
+      "L'Orient-Express",
+      "Le Transsibérien"
+    ],
+    "explanation": "La Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée a lancé cette ligne.",
+    "imageUrl": "https://images.unsplash.com/photo-1722026743838-9657436b04dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel avion a été le premier à franchir le mur du son en 1947 ?",
     "correct_answer": "Bell X-1",
     "incorrect_answers": [
-      "Messerschmitt Me 262",
-      "Lockheed P-80",
-      "Gloster Meteor"
+      "Me 262",
+      "Spitfire",
+      "B-29"
     ],
-    "imageUrl": "https://images.pexels.com/photos/12907159/pexels-photo-12907159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Piloté par Chuck Yeager, le Bell X-1 a atteint Mach 1.",
+    "imageUrl": "https://images.unsplash.com/photo-1714438055155-ac07d3d55f1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a réalisé la première circumnavigation du globe en 1522 ?",
-    "correct_answer": "Victoria",
+    "question": "Quel constructeur automobile a créé la 2CV en 1948 ?",
+    "correct_answer": "Citroën",
     "incorrect_answers": [
-      "Santa María",
-      "La Pinta",
-      "La Niña"
+      "Peugeot",
+      "Renault",
+      "Fiat"
     ],
-    "imageUrl": "https://images.pexels.com/photos/16207911/pexels-photo-16207911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "La 2CV était conçue pour être économique et accessible.",
+    "imageUrl": "https://images.unsplash.com/photo-1541277194667-11fb3e311f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train à grande vitesse a été le premier à entrer en service commercial en 1964 ?",
+    "question": "Quel bateau est célèbre pour avoir transporté Charles Darwin lors de son voyage ?",
+    "correct_answer": "HMS Beagle",
+    "incorrect_answers": [
+      "HMS Victory",
+      "Cutty Sark",
+      "Santa Maria"
+    ],
+    "explanation": "Le Beagle a navigué de 1831 à 1836 pour l'expédition scientifique.",
+    "imageUrl": "https://images.unsplash.com/photo-1616869378946-c713c56f884b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train à grande vitesse relie Tokyo à Osaka depuis 1964 ?",
     "correct_answer": "Shinkansen",
     "incorrect_answers": [
       "TGV",
       "ICE",
       "Eurostar"
     ],
-    "imageUrl": "https://images.pexels.com/photos/11255367/pexels-photo-11255367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le Shinkansen, ou 'train-bullet', a marqué l'histoire des transports japonais.",
+    "imageUrl": "https://images.unsplash.com/photo-1719387786131-eeebd25737fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur automobile a popularisé la production de masse avec le modèle T en 1913 ?",
-    "correct_answer": "Ford",
+    "question": "Quel avion a été le premier à voler autour du monde sans escale en 1986 ?",
+    "correct_answer": "Voyager",
     "incorrect_answers": [
-      "General Motors",
-      "Chrysler",
-      "Toyota"
+      "Spirit of St. Louis",
+      "GlobalFlyer",
+      "Solar Impulse"
     ],
-    "imageUrl": "https://images.pexels.com/photos/30622719/pexels-photo-30622719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "L'avion expérimental Voyager a parcouru 40 212 km en 9 jours.",
+    "imageUrl": "https://images.unsplash.com/photo-1724672623667-6b0ced44783a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion a réalisé le premier vol habité motorisé en 1903 ?",
-    "correct_answer": "Flyer des frères Wright",
+    "question": "Quel constructeur a lancé la première voiture électrique grand public en 1996 ?",
+    "correct_answer": "General Motors",
     "incorrect_answers": [
-      "Santos-Dumont 14-bis",
-      "Blériot XI",
-      "Antoinette VII"
+      "Tesla",
+      "Renault",
+      "Nissan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721906532944-1aec1f362721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La GM EV1 était une voiture électrique produite en série.",
+    "imageUrl": "https://images.unsplash.com/photo-1722445716793-b5f9984a37dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a été le premier à franchir le canal de Suez en 1869 ?",
-    "correct_answer": "SS Agamemnon",
+    "question": "Quel bateau a été le premier à utiliser une hélice pour la propulsion en 1839 ?",
+    "correct_answer": "SS Archimedes",
     "incorrect_answers": [
-      "SS Great Eastern",
+      "Titanic",
       "Cutty Sark",
-      "Titanic"
+      "HMS Beagle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1619413227482-f6f87d3afd56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Archimedes a démontré l'efficacité de l'hélice navale.",
+    "imageUrl": "https://images.unsplash.com/photo-1757025908775-93bc9b13a703?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel train détient le record de vitesse sur rail en France en 2023 ?",
@@ -115,448 +170,482 @@
     "incorrect_answers": [
       "TGV Duplex",
       "TGV POS",
-      "TGV 2N2"
+      "TGV Est"
     ],
-    "imageUrl": "https://images.pexels.com/photos/10048782/pexels-photo-10048782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le TGV M devrait atteindre 350 km/h à partir de 2025.",
+    "imageUrl": "https://images.unsplash.com/photo-1739544201128-20d0bcd7a62e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a inventé le premier moteur diesel automobile en 1936 ?",
-    "correct_answer": "Mercedes-Benz",
+    "question": "Quel avion a été le premier à utiliser un turboréacteur opérationnel en 1944 ?",
+    "correct_answer": "Messerschmitt Me 262",
     "incorrect_answers": [
-      "Volkswagen",
-      "BMW",
-      "Peugeot"
+      "Gloster Meteor",
+      "P-51 Mustang",
+      "B-17"
     ],
-    "imageUrl": "https://images.pexels.com/photos/16100083/pexels-photo-16100083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le Me 262 était le premier chasseur à réaction opérationnel.",
+    "imageUrl": "https://images.unsplash.com/photo-1659232095989-9d1ae7bbc290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion a réalisé le premier vol commercial supersonique en 1976 ?",
-    "correct_answer": "Concorde",
+    "question": "Quel constructeur a inventé le premier moteur à essence en 1886 ?",
+    "correct_answer": "Karl Benz",
     "incorrect_answers": [
-      "Tupolev Tu-144",
-      "Boeing 747",
-      "Airbus A380"
+      "Gottlieb Daimler",
+      "Henry Ford",
+      "Ferdinand Porsche"
     ],
-    "imageUrl": "https://images.pexels.com/photos/16340999/pexels-photo-16340999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Benz a breveté la première automobile à moteur à essence.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972897821-e4cd391da84d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a remporté la première édition de la Coupe de l'America en 1851 ?",
-    "correct_answer": "America",
+    "question": "Quel bateau est célèbre pour avoir découvert l'Amérique en 1492 ?",
+    "correct_answer": "Santa Maria",
     "incorrect_answers": [
-      "Shamrock V",
-      "Endeavour",
-      "Australia II"
+      "Pinta",
+      "Niña",
+      "Mayflower"
     ],
-    "imageUrl": "https://images.pexels.com/photos/29112742/pexels-photo-29112742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "La Santa Maria était la plus grande des trois caravelles de Colomb.",
+    "imageUrl": "https://images.unsplash.com/photo-1616454992655-92cbf292f9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train a été le premier à relier Londres à Paris en 1994 ?",
+    "correct_answer": "Eurostar",
+    "incorrect_answers": [
+      "Thalys",
+      "TGV",
+      "ICE"
+    ],
+    "explanation": "L'Eurostar a traversé le tunnel sous la Manche dès son ouverture.",
+    "imageUrl": "https://images.unsplash.com/photo-1616868546921-d32b0a935fdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à voler en 1903 avec les frères Wright ?",
+    "correct_answer": "Flyer",
+    "incorrect_answers": [
+      "Spirit of St. Louis",
+      "Bleriot XI",
+      "Sopwith Camel"
+    ],
+    "explanation": "Le Flyer a effectué le premier vol motorisé contrôlé en 1903.",
+    "imageUrl": "https://images.unsplash.com/photo-1663605172031-7c5b8da73fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a lancé la première voiture de série en 1908 ?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Renault",
+      "Peugeot",
+      "Cadillac"
+    ],
+    "explanation": "La Ford T a démocratisé l'automobile grâce à la production de masse.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972900974-826de5d22691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à traverser le canal de Suez en 1869 ?",
+    "correct_answer": "SS Agamemnon",
+    "incorrect_answers": [
+      "Cutty Sark",
+      "Titanic",
+      "HMS Beagle"
+    ],
+    "explanation": "L'Agameon a été l'un des premiers navires à emprunter le canal.",
+    "imageUrl": "https://images.unsplash.com/photo-1749578963798-635dd7d20059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel train détient le record de vitesse sur rail en Europe en 2023 ?",
-    "correct_answer": "TGV M",
+    "correct_answer": "TGV POS",
     "incorrect_answers": [
-      "ICE 4",
-      "Frecciarossa 1000",
-      "AVE S-103"
+      "ICE",
+      "Eurostar",
+      "Frecciarossa"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1738810477903-87c840fa3205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le TGV POS a atteint 574,8 km/h en 2007.",
+    "imageUrl": "https://images.unsplash.com/photo-1578035855469-226209fec5cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a lancé la première voiture à hydrogène grand public en 2014 ?",
-    "correct_answer": "Toyota (Mirai)",
+    "question": "Quel avion a été le premier à franchir l'Atlantique en solo en 1927 ?",
+    "correct_answer": "Spirit of St. Louis",
+    "incorrect_answers": [
+      "Concorde",
+      "DC-3",
+      "B-29"
+    ],
+    "explanation": "Charles Lindbergh a relié New York à Paris en 33 heures.",
+    "imageUrl": "https://images.unsplash.com/photo-1584012221414-be8fe5d27c43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a créé la première voiture à moteur électrique en 1881 ?",
+    "correct_answer": "Gustave Trouvé",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Ferdinand Porsche"
+    ],
+    "explanation": "Trouvé a présenté un véhicule électrique à l'Exposition internationale de Paris.",
+    "imageUrl": "https://images.unsplash.com/photo-1616620418290-81a162f05e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à utiliser un moteur à vapeur en 1783 ?",
+    "correct_answer": "Pyroscaphe",
+    "incorrect_answers": [
+      "Titanic",
+      "Cutty Sark",
+      "HMS Victory"
+    ],
+    "explanation": "Le Pyroscaphe, conçu par Jouffroy d'Abbans, était un bateau à vapeur.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972895592-ade8e65ca8bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train a été le premier à relier Berlin à Bagdad en 1940 ?",
+    "correct_answer": "Orient-Express",
+    "incorrect_answers": [
+      "Transsibérien",
+      "Shinkansen",
+      "Eurostar"
+    ],
+    "explanation": "L'Orient-Express a relié l'Europe à l'Asie via Istanbul.",
+    "imageUrl": "https://images.unsplash.com/photo-1746326653464-a94fdef01cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à voler à Mach 3 en 1961 ?",
+    "correct_answer": "Lockheed SR-71 Blackbird",
+    "incorrect_answers": [
+      "Concorde",
+      "U-2",
+      "MiG-25"
+    ],
+    "explanation": "Le SR-71 détient toujours le record de vitesse pour un avion habité.",
+    "imageUrl": "https://images.unsplash.com/photo-1771444152231-d06d8356dc15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a lancé la première voiture à hydrogène en 1997 ?",
+    "correct_answer": "Toyota",
     "incorrect_answers": [
       "Honda",
       "Hyundai",
       "BMW"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1729972895598-133a63b3240c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Toyota Prius a été adaptée pour fonctionner à l'hydrogène.",
+    "imageUrl": "https://images.unsplash.com/photo-1604347187327-30e0a36c0ac0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion a réalisé le premier vol autour du monde sans escale en 1986 ?",
-    "correct_answer": "Rutan Voyager",
+    "question": "Quel bateau a été le premier à faire le tour du monde en 1522 ?",
+    "correct_answer": "Victoria",
     "incorrect_answers": [
-      "Boeing 747",
-      "Airbus A340",
-      "Solar Impulse"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1683023706435-0b22b35cdf66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau a été le premier à franchir le canal de Panama en 1914 ?",
-    "correct_answer": "SS Ancon",
-    "incorrect_answers": [
-      "SS Cristobal",
-      "Titanic",
-      "Lusitania"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/15874151/pexels-photo-15874151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail au Japon en 2023 ?",
-    "correct_answer": "Shinkansen L0 Series",
-    "incorrect_answers": [
-      "Shinkansen N700",
-      "Shinkansen E5",
-      "Shinkansen 500"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/1928068/pexels-photo-1928068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a inventé le premier système de freinage ABS en 1978 ?",
-    "correct_answer": "Mercedes-Benz",
-    "incorrect_answers": [
-      "Bosch",
-      "BMW",
-      "Audi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583328883101-db96b1501154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion a réalisé le premier vol habité motorisé en Europe en 1906 ?",
-    "correct_answer": "Santos-Dumont 14-bis",
-    "incorrect_answers": [
-      "Flyer des frères Wright",
-      "Blériot XI",
-      "Antoinette VII"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/34941553/pexels-photo-34941553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau a été le premier à franchir le cap Horn en 1616 ?",
-    "correct_answer": "Eendracht",
-    "incorrect_answers": [
+      "Santa Maria",
       "Mayflower",
-      "Santa María",
-      "Victoria"
+      "HMS Beagle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1722026744596-f3864c97dac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Victoria, seul navire de l'expédition de Magellan, a accompli le tour du monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1537686421314-16f7daf5ff77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel train détient le record de vitesse sur rail en Chine en 2023 ?",
-    "correct_answer": "CR400AF",
+    "correct_answer": "CR400",
     "incorrect_answers": [
-      "CRH380A",
-      "CRH2",
-      "CRH5"
+      "Shinkansen",
+      "TGV",
+      "ICE"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869483385-71f1ad7b2345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le CR400, ou 'Fuxing', atteint 350 km/h.",
+    "imageUrl": "https://images.unsplash.com/photo-1716189582937-1733877e52cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a lancé la première voiture à boîte automatique en 1939 ?",
+    "question": "Quel avion a été le premier à utiliser un turboréacteur civil en 1952 ?",
+    "correct_answer": "De Havilland Comet",
+    "incorrect_answers": [
+      "Boeing 707",
+      "Concorde",
+      "DC-3"
+    ],
+    "explanation": "Le Comet a été le premier avion de ligne à réaction.",
+    "imageUrl": "https://images.unsplash.com/photo-1721910253300-b6333ee32e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a créé la première voiture à transmission automatique en 1939 ?",
     "correct_answer": "Oldsmobile",
     "incorrect_answers": [
       "Cadillac",
       "Packard",
-      "Chrysler"
+      "Ford"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1577947691826-a6e4548d1cc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Oldsmobile Hydra-Matic a popularisé la boîte automatique.",
+    "imageUrl": "https://images.unsplash.com/photo-1767884162407-62d7850e77d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion a réalisé le premier vol transpolaire en 1952 ?",
-    "correct_answer": "Boeing B-50 Superfortress",
+    "question": "Quel bateau a été le premier à utiliser un gouvernail d'étambot en Europe au XIIe siècle ?",
+    "correct_answer": "Cogs",
     "incorrect_answers": [
-      "Lockheed U-2",
-      "Douglas DC-6",
-      "Convair B-36"
+      "Drakkars",
+      "Caravelles",
+      "Galeons"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1537686421314-16f7daf5ff77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les cogs médiévaux ont adopté le gouvernail d'étambot pour une meilleure manœuvrabilité.",
+    "imageUrl": "https://images.unsplash.com/photo-1721910261409-829fde958b43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a remporté la Coupe de l'America en 1983 avec le défi australien ?",
-    "correct_answer": "Australia II",
+    "question": "Quel train a été le premier à relier New York à Chicago en 1934 ?",
+    "correct_answer": "20th Century Limited",
     "incorrect_answers": [
-      "Black Magic",
-      "Stars & Stripes",
-      "Freedom"
+      "Orient-Express",
+      "Transsibérien",
+      "Shinkansen"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1617564992562-73a8ea602be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce train de luxe a marqué l'histoire des chemins de fer américains.",
+    "imageUrl": "https://images.unsplash.com/photo-1679587827468-416f729d33d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à voler en formation sur Mars en 2021 ?",
+    "correct_answer": "Ingenuity",
+    "incorrect_answers": [
+      "Perseverance",
+      "Curiosity",
+      "Dragon"
+    ],
+    "explanation": "L'hélicoptère Ingenuity a effectué le premier vol motorisé sur une autre planète.",
+    "imageUrl": "https://images.unsplash.com/photo-1721906532944-1aec1f362721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a lancé la première voiture à pile à combustible en 2002 ?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Hyundai",
+      "Mercedes"
+    ],
+    "explanation": "La Toyota FCHV a été l'une des premières voitures à hydrogène grand public.",
+    "imageUrl": "https://images.unsplash.com/photo-1617564992562-73a8ea602be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à traverser le canal de Panama en 1914 ?",
+    "correct_answer": "SS Ancon",
+    "incorrect_answers": [
+      "Titanic",
+      "Cutty Sark",
+      "Santa Maria"
+    ],
+    "explanation": "L'Ancon a été le premier navire officiel à emprunter le canal.",
+    "imageUrl": "https://images.unsplash.com/photo-1738810476853-657e3f53cd68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel train détient le record de vitesse sur rail en Allemagne en 2023 ?",
     "correct_answer": "ICE 4",
     "incorrect_answers": [
-      "ICE 3",
       "ICE 1",
-      "ICE 2"
+      "ICE 3",
+      "Transrapid"
     ],
-    "imageUrl": "https://images.pexels.com/photos/30037629/pexels-photo-30037629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "L'ICE 4 atteint 265 km/h en service commercial.",
+    "imageUrl": "https://images.unsplash.com/photo-1738810477903-87c840fa3205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a inventé le premier moteur à injection directe en 1954 ?",
-    "correct_answer": "Mercedes-Benz",
+    "question": "Quel avion a été le premier à utiliser un radar en 1937 ?",
+    "correct_answer": "B-17 Flying Fortress",
     "incorrect_answers": [
-      "BMW",
-      "Volkswagen",
-      "Porsche"
+      "Spitfire",
+      "Messerschmitt Bf 109",
+      "P-51 Mustang"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1683273206605-0dcf50b89b6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le B-17 a intégré un système de détection radar pour la navigation.",
+    "imageUrl": "https://images.unsplash.com/photo-1616869378926-447501e83b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion a réalisé le premier vol habité motorisé en Amérique du Sud en 1910 ?",
-    "correct_answer": "Demoiselle de Santos-Dumont",
+    "question": "Quel constructeur a créé la première voiture à quatre roues motrices en 1941 ?",
+    "correct_answer": "Willys MB",
     "incorrect_answers": [
-      "Flyer des frères Wright",
-      "Blériot XI",
-      "Antoinette VII"
+      "Jeep",
+      "Land Rover",
+      "Mercedes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721497043807-637fc7d8e3a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Jeep Willys MB a popularisé le 4x4 moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1714438055123-6b482efb2948?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a été le premier à franchir le détroit de Magellan en 1520 ?",
-    "correct_answer": "Trinidad",
+    "question": "Quel bateau a été le premier à utiliser un sonar en 1912 ?",
+    "correct_answer": "RMS Titanic",
     "incorrect_answers": [
-      "Victoria",
-      "San Antonio",
-      "Concepción"
+      "Cutty Sark",
+      "Santa Maria",
+      "HMS Beagle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869483210-e9a9babbd164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Titanic était équipé d'un sonar expérimental pour éviter les icebergs.",
+    "imageUrl": "https://images.unsplash.com/photo-1612368772470-c3d1c5456c5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train a été le premier à relier Moscou à Vladivostok en 1916 ?",
+    "correct_answer": "Transsibérien",
+    "incorrect_answers": [
+      "Orient-Express",
+      "Shinkansen",
+      "Eurostar"
+    ],
+    "explanation": "Le Transsibérien est le plus long chemin de fer du monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1667072830266-32558fccae2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à utiliser un siège éjectable en 1942 ?",
+    "correct_answer": "Heinkel He 219",
+    "incorrect_answers": [
+      "Messerschmitt Me 262",
+      "Spitfire",
+      "B-17"
+    ],
+    "explanation": "Le He 219 a été le premier avion à intégrer un siège éjectable opérationnel.",
+    "imageUrl": "https://images.unsplash.com/photo-1616869483210-e9a9babbd164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a lancé la première voiture à air comprimé en 1999 ?",
+    "correct_answer": "Peugeot",
+    "incorrect_answers": [
+      "Renault",
+      "Citroën",
+      "Toyota"
+    ],
+    "explanation": "La Peugeot 206 a été adaptée pour fonctionner à l'air comprimé.",
+    "imageUrl": "https://images.unsplash.com/photo-1771979624124-f0e5914969a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à utiliser un moteur à turbine à gaz en 1947 ?",
+    "correct_answer": "USS Turbot",
+    "incorrect_answers": [
+      "Titanic",
+      "Cutty Sark",
+      "Santa Maria"
+    ],
+    "explanation": "Le USS Turbot a testé une turbine à gaz pour la propulsion navale.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972895598-133a63b3240c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train détient le record de vitesse sur rail en Suisse en 2023 ?",
+    "correct_answer": "SBB Giruno",
+    "incorrect_answers": [
+      "ICE",
+      "TGV",
+      "Frecciarossa"
+    ],
+    "explanation": "Le Giruno atteint 200 km/h sur les lignes suisses.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972895978-3c2f16cc2e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à utiliser un système fly-by-wire en 1972 ?",
+    "correct_answer": "Airbus A300",
+    "incorrect_answers": [
+      "Boeing 747",
+      "Concorde",
+      "DC-10"
+    ],
+    "explanation": "L'A300 a introduit le contrôle électrique des commandes de vol.",
+    "imageUrl": "https://images.unsplash.com/photo-1770998829229-34387f137605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a créé la première voiture à moteur Wankel en 1967 ?",
+    "correct_answer": "NSU",
+    "incorrect_answers": [
+      "Mazda",
+      "Toyota",
+      "Citroën"
+    ],
+    "explanation": "La NSU Ro 80 a popularisé le moteur rotatif Wankel.",
+    "imageUrl": "https://images.unsplash.com/photo-1643055359228-9c33c2a2b9b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à utiliser un moteur diesel électrique en 1912 ?",
+    "correct_answer": "SS Selandia",
+    "incorrect_answers": [
+      "Titanic",
+      "Cutty Sark",
+      "Santa Maria"
+    ],
+    "explanation": "Le Selandia a été le premier cargo à propulsion diesel-électrique.",
+    "imageUrl": "https://images.unsplash.com/photo-1777900389824-6fb2ffb19037?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel train détient le record de vitesse sur rail en Italie en 2023 ?",
     "correct_answer": "Frecciarossa 1000",
     "incorrect_answers": [
-      "Frecciarossa 951",
-      "Frecciargento",
-      "Frecciabianca"
+      "TGV",
+      "ICE",
+      "Shinkansen"
     ],
-    "imageUrl": "https://images.pexels.com/photos/29167884/pexels-photo-29167884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le Frecciarossa 1000 atteint 300 km/h en service commercial.",
+    "imageUrl": "https://images.unsplash.com/photo-1729215459766-538d1f06cfe2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a lancé la première voiture à traction avant en 1934 ?",
-    "correct_answer": "Citroën (Traction Avant)",
+    "question": "Quel avion a été le premier à utiliser un système de navigation inertielle en 1958 ?",
+    "correct_answer": "U-2",
     "incorrect_answers": [
-      "Renault",
-      "Peugeot",
-      "Fiat"
+      "SR-71",
+      "B-52",
+      "Concorde"
     ],
-    "imageUrl": "https://images.pexels.com/photos/34310612/pexels-photo-34310612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "L'U-2 a intégré un système de navigation inertielle pour les vols à haute altitude.",
+    "imageUrl": "https://images.unsplash.com/photo-1616869483385-71f1ad7b2345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion a réalisé le premier vol commercial transatlantique en 1952 ?",
-    "correct_answer": "De Havilland Comet",
+    "question": "Quel constructeur a lancé la première voiture à moteur hybride en 1997 ?",
+    "correct_answer": "Toyota",
     "incorrect_answers": [
-      "Boeing 707",
-      "Douglas DC-6",
-      "Lockheed Constellation"
+      "Honda",
+      "Ford",
+      "General Motors"
     ],
-    "imageUrl": "https://images.pexels.com/photos/16207912/pexels-photo-16207912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "La Toyota Prius a popularisé la technologie hybride moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1673080825517-7ac4c972acef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a remporté la Coupe de l'America en 2007 ?",
-    "correct_answer": "Alinghi",
+    "question": "Quel bateau a été le premier à utiliser un moteur à vapeur et à voile en 1807 ?",
+    "correct_answer": "Clermont",
     "incorrect_answers": [
-      "Team New Zealand",
-      "Luna Rossa",
-      "BMW Oracle"
+      "Titanic",
+      "Cutty Sark",
+      "Santa Maria"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869378926-447501e83b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Clermont, conçu par Robert Fulton, a navigué sur l'Hudson.",
+    "imageUrl": "https://images.unsplash.com/photo-1721497043807-637fc7d8e3a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train détient le record de vitesse sur rail en Espagne en 2023 ?",
-    "correct_answer": "AVE S-103",
+    "question": "Quel train détient le record de vitesse sur rail au Royaume-Uni en 2023 ?",
+    "correct_answer": "Avanti West Coast Pendolino",
     "incorrect_answers": [
-      "AVE S-102",
-      "AVE S-112",
-      "AVE S-100"
+      "Eurostar",
+      "TGV",
+      "ICE"
     ],
-    "imageUrl": "https://images.pexels.com/photos/15874149/pexels-photo-15874149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le Pendolino atteint 225 km/h sur les lignes britanniques.",
+    "imageUrl": "https://images.unsplash.com/photo-1616868206123-1139c545d504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a inventé le premier moteur V8 en 1914 ?",
+    "question": "Quel avion a été le premier à utiliser un système de pilotage automatique en 1914 ?",
+    "correct_answer": "Sperry M-1",
+    "incorrect_answers": [
+      "Flyer",
+      "Spirit of St. Louis",
+      "Concorde"
+    ],
+    "explanation": "Le système Sperry a permis le premier vol stabilisé automatiquement.",
+    "imageUrl": "https://images.unsplash.com/photo-1616867919424-ff07a96e7326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a créé la première voiture à moteur V8 en 1914 ?",
     "correct_answer": "Cadillac",
     "incorrect_answers": [
       "Ford",
-      "Chevrolet",
-      "Packard"
+      "Packard",
+      "Duesenberg"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1679587827468-416f729d33d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Cadillac Type 51 a été la première voiture de série avec un V8.",
+    "imageUrl": "https://images.unsplash.com/photo-1616454992761-f339f5d424da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion a réalisé le premier vol habité motorisé en Afrique en 1911 ?",
-    "correct_answer": "Bleriot XI",
+    "question": "Quel bateau a été le premier à utiliser un moteur à turbine à vapeur en 1897 ?",
+    "correct_answer": "Turbinia",
     "incorrect_answers": [
-      "Flyer des frères Wright",
-      "Santos-Dumont 14-bis",
-      "Demoiselle"
+      "Titanic",
+      "Cutty Sark",
+      "Santa Maria"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616868206123-1139c545d504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau a été le premier à franchir le cap de Bonne-Espérance en 1488 ?",
-    "correct_answer": "São Cristóvão",
-    "incorrect_answers": [
-      "Victoria",
-      "Santa María",
-      "Pinta"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/24033416/pexels-photo-24033416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en Corée du Sud en 2023 ?",
-    "correct_answer": "KTX-I",
-    "incorrect_answers": [
-      "KTX-II",
-      "KTX-Sancheon",
-      "KTX-Eum"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/12007472/pexels-photo-12007472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a lancé la première voiture à moteur rotatif en 1967 ?",
-    "correct_answer": "NSU (Wankel)",
-    "incorrect_answers": [
-      "Mazda",
-      "Toyota",
-      "BMW"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616454992655-92cbf292f9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion a réalisé le premier vol habité motorisé en Asie en 1910 ?",
-    "correct_answer": "Antoinette VII",
-    "incorrect_answers": [
-      "Flyer des frères Wright",
-      "Santos-Dumont 14-bis",
-      "Bleriot XI"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777900389824-6fb2ffb19037?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau a remporté la Coupe de l'America en 1995 ?",
-    "correct_answer": "Black Magic",
-    "incorrect_answers": [
-      "Australia II",
-      "Stars & Stripes",
-      "Team New Zealand"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/32689680/pexels-photo-32689680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en Russie en 2023 ?",
-    "correct_answer": "Sapsan",
-    "incorrect_answers": [
-      "Lastochka",
-      "Allegro",
-      "Strizh"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/31937565/pexels-photo-31937565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a inventé le premier moteur à turbocompresseur en 1939 ?",
-    "correct_answer": "Swiss Saurer",
-    "incorrect_answers": [
-      "Mercedes-Benz",
-      "BMW",
-      "Porsche"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616867919424-ff07a96e7326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion a réalisé le premier vol habité motorisé en Océanie en 1914 ?",
-    "correct_answer": "Bleriot XI",
-    "incorrect_answers": [
-      "Flyer des frères Wright",
-      "Santos-Dumont 14-bis",
-      "Demoiselle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1721910253300-b6333ee32e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau a été le premier à franchir le détroit de Béring en 1728 ?",
-    "correct_answer": "Saint Gabriel",
-    "incorrect_answers": [
-      "Victoria",
-      "Santa María",
-      "Pinta"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1757025908775-93bc9b13a703?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en Inde en 2023 ?",
-    "correct_answer": "Vande Bharat Express",
-    "incorrect_answers": [
-      "Rajdhani Express",
-      "Shatabdi Express",
-      "Duronto Express"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869378946-c713c56f884b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel constructeur a lancé la première voiture à quatre roues motrices permanente en 1980 ?",
-    "correct_answer": "Audi (Quattro)",
-    "incorrect_answers": [
-      "Mercedes-Benz",
-      "BMW",
-      "Porsche"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616868546921-d32b0a935fdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion a réalisé le premier vol habité motorisé en Antarctique en 1929 ?",
-    "correct_answer": "Ford Trimotor",
-    "incorrect_answers": [
-      "Douglas DC-3",
-      "Lockheed Vega",
-      "Boeing 247"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/19854584/pexels-photo-19854584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau a remporté la Coupe de l'America en 2013 ?",
-    "correct_answer": "Oracle Team USA",
-    "incorrect_answers": [
-      "Team New Zealand",
-      "Luna Rossa",
-      "Emirates Team New Zealand"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/16108894/pexels-photo-16108894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en Suède en 2023 ?",
-    "correct_answer": "X2000",
-    "incorrect_answers": [
-      "SJ 3000",
-      "Regina",
-      "Itino"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/35774787/pexels-photo-35774787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a inventé le premier moteur à injection électronique en 1967 ?",
-    "correct_answer": "Bosch",
-    "incorrect_answers": [
-      "Mercedes-Benz",
-      "BMW",
-      "Volkswagen"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/17264575/pexels-photo-17264575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel avion a réalisé le premier vol habité motorisé en Arctique en 1928 ?",
-    "correct_answer": "Junkers Ju 52",
-    "incorrect_answers": [
-      "Douglas DC-3",
-      "Lockheed Vega",
-      "Boeing 247"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/28984237/pexels-photo-28984237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau a été le premier à franchir le détroit de Malacca en 1511 ?",
-    "correct_answer": "São Gabriel",
-    "incorrect_answers": [
-      "Victoria",
-      "Santa María",
-      "Pinta"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771444152231-d06d8356dc15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en Turquie en 2023 ?",
-    "correct_answer": "YHT",
-    "incorrect_answers": [
-      "HT80000",
-      "HT65000",
-      "HT60000"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/29167880/pexels-photo-29167880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le Turbinia, conçu par Charles Parsons, a démontré la puissance des turbines.",
+    "imageUrl": "https://images.unsplash.com/photo-1764917438537-dc363d7ccb84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

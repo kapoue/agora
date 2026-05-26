@@ -1,552 +1,574 @@
 [
   {
-    "question": "Quel constructeur automobile a introduit le premier moteur V8 en série en 1914 ?",
-    "correct_answer": "Cadillac",
+    "question": "Quel constructeur automobile a inventé le premier moteur à combustion interne fonctionnel en 1860 ?",
+    "correct_answer": "Étienne Lenoir",
     "incorrect_answers": [
-      "Ford",
-      "Buick",
-      "Packard"
+      "Nikolaus Otto",
+      "Rudolf Diesel",
+      "Karl Benz"
     ],
-    "imageUrl": "https://images.pexels.com/photos/16817219/pexels-photo-16817219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Lenoir a créé le premier moteur à gaz fonctionnel, précurseur des moteurs modernes.",
+    "imageUrl": "https://images.unsplash.com/photo-1587387981690-ac4b2ee763d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion détient le record du monde de vitesse absolue (Mach 6,7) en 1967 ?",
-    "correct_answer": "North American X-15",
+    "question": "Quel avion a établi le record du monde de vitesse en vol horizontal en 1976 avec 3 529 km/h ?",
+    "correct_answer": "Lockheed SR-71 Blackbird",
     "incorrect_answers": [
-      "SR-71 Blackbird",
       "Concorde",
-      "MiG-25"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/12759671/pexels-photo-12759671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau à vapeur a réalisé la première traversée transatlantique en 1838 ?",
-    "correct_answer": "SS Great Western",
-    "incorrect_answers": [
-      "SS Savannah",
-      "SS United States",
-      "SS Normandie"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/16340995/pexels-photo-16340995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record du monde de vitesse sur rail (574,8 km/h) en 2007 ?",
-    "correct_answer": "TGV POS",
-    "incorrect_answers": [
-      "Shinkansen L0",
-      "ICE 3",
-      "CRH380A"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/16660290/pexels-photo-16660290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a produit la première voiture à moteur à combustion interne en 1886 ?",
-    "correct_answer": "Benz & Cie",
-    "incorrect_answers": [
-      "Daimler Motoren Gesellschaft",
-      "Peugeot",
-      "Panhard"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/31680909/pexels-photo-31680909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel avion de ligne a été le premier à franchir le mur du son en vol commercial en 1996 ?",
-    "correct_answer": "Concorde",
-    "incorrect_answers": [
-      "Boeing 747",
-      "Airbus A380",
-      "Tupolev Tu-144"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/9320072/pexels-photo-9320072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau détient le record de la traversée la plus rapide de l'Atlantique Nord (2 jours 19 heures) en 2009 ?",
-    "correct_answer": "Francis Joyon (IDEC 2)",
-    "incorrect_answers": [
-      "Ellen MacArthur",
-      "Thomas Coville",
-      "Loïck Peyron"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/34241938/pexels-photo-34241938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train à sustentation magnétique détient le record du monde de vitesse (603 km/h) en 2015 ?",
-    "correct_answer": "SCMaglev L0 Series",
-    "incorrect_answers": [
-      "Transrapid 09",
-      "Shanghai Maglev",
-      "JR-Maglev"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/35097906/pexels-photo-35097906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur automobile a inventé le premier moteur diesel pour voiture en 1936 ?",
-    "correct_answer": "Mercedes-Benz",
-    "incorrect_answers": [
-      "Volkswagen",
-      "Peugeot",
-      "Citroën"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/16660292/pexels-photo-16660292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel avion militaire détient le record d'altitude absolue (37 650 m) en 1977 ?",
-    "correct_answer": "Mikoyan-Gurevich Ye-266",
-    "incorrect_answers": [
-      "Lockheed U-2",
       "MiG-25",
-      "SR-71 Blackbird"
+      "X-15"
     ],
-    "imageUrl": "https://images.pexels.com/photos/30936629/pexels-photo-30936629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le SR-71 détient toujours ce record grâce à sa conception en titane et ses turboréacteurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972895592-ade8e65ca8bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a réalisé la première circumnavigation du globe en 1522 ?",
-    "correct_answer": "Victoria (expédition Magellan)",
-    "incorrect_answers": [
-      "Santa María",
-      "Pinta",
-      "La Dauphine"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/19580868/pexels-photo-19580868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en service commercial (320 km/h) ?",
-    "correct_answer": "TGV Duplex",
-    "incorrect_answers": [
-      "ICE 4",
-      "Shinkansen N700",
-      "CRH380B"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/32716605/pexels-photo-32716605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a produit la première voiture électrique grand public en 1996 ?",
-    "correct_answer": "General Motors (EV1)",
-    "incorrect_answers": [
-      "Tesla",
-      "Nissan",
-      "Renault"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/20426942/pexels-photo-20426942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel avion détient le record de distance sans escale (20 044 km) en 2005 ?",
-    "correct_answer": "Boeing 777-200LR",
-    "incorrect_answers": [
-      "Airbus A340-500",
-      "Boeing 787",
-      "Airbus A350"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/28201558/pexels-photo-28201558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau a remporté la première Coupe de l'America en 1851 ?",
+    "question": "Quel bateau a remporté la première Coupe de l'America en 1851 à Cowes ?",
     "correct_answer": "America",
     "incorrect_answers": [
       "Shamrock",
       "Endeavour",
-      "Australia II"
+      "Rainbow"
     ],
-    "imageUrl": "https://images.pexels.com/photos/29167885/pexels-photo-29167885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le yacht America a donné son nom à la plus ancienne compétition sportive internationale.",
+    "imageUrl": "https://images.unsplash.com/photo-1610908609985-3079199f3f60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train détient le record de vitesse sur rail en Europe (574,8 km/h) ?",
-    "correct_answer": "TGV POS",
-    "incorrect_answers": [
-      "ICE 3",
-      "AGV",
-      "Frecciarossa 1000"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/32123530/pexels-photo-32123530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a produit la première voiture à traction avant en série en 1934 ?",
-    "correct_answer": "Citroën (Traction Avant)",
-    "incorrect_answers": [
-      "DKW",
-      "Fiat",
-      "Opel"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/27773624/pexels-photo-27773624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel avion détient le record de vitesse en vol horizontal (3 529 km/h) en 1976 ?",
-    "correct_answer": "Lockheed SR-71 Blackbird",
-    "incorrect_answers": [
-      "MiG-25",
-      "Concorde",
-      "X-43"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/16207913/pexels-photo-16207913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique en solitaire en 1898 ?",
-    "correct_answer": "Joshua Slocum (Spray)",
-    "incorrect_answers": [
-      "Bernard Moitessier",
-      "Ellen MacArthur",
-      "Francis Chichester"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/33549483/pexels-photo-33549483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en Chine (431 km/h) en 2010 ?",
-    "correct_answer": "CRH380A",
-    "incorrect_answers": [
-      "TGV POS",
-      "Shinkansen L0",
-      "ICE 4"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/30209912/pexels-photo-30209912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a produit la première voiture à boîte de vitesses automatique en série en 1939 ?",
-    "correct_answer": "Oldsmobile (Hydra-Matic)",
-    "incorrect_answers": [
-      "Cadillac",
-      "Packard",
-      "Buick"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/5072362/pexels-photo-5072362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel avion détient le record de vitesse en vol habité (Mach 9,6) en 2004 ?",
-    "correct_answer": "NASA X-43",
-    "incorrect_answers": [
-      "North American X-15",
-      "SR-71 Blackbird",
-      "MiG-25"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/32828226/pexels-photo-32828226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique à la voile en solitaire sans escale en 1969 ?",
-    "correct_answer": "Bernard Moitessier (Joshua)",
-    "incorrect_answers": [
-      "Ellen MacArthur",
-      "Francis Chichester",
-      "Loïck Peyron"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/33997406/pexels-photo-33997406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail au Japon (603 km/h) en 2015 ?",
+    "question": "Quel train à grande vitesse japonais détient le record du monde de vitesse sur rail en 2024 ?",
     "correct_answer": "SCMaglev L0 Series",
     "incorrect_answers": [
-      "Shinkansen N700",
-      "TGV POS",
+      "Shinkansen N700S",
+      "TGV M",
       "ICE 4"
     ],
-    "imageUrl": "https://images.pexels.com/photos/20307965/pexels-photo-20307965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le SCMaglev a atteint 603 km/h en 2015, record absolu pour un train.",
+    "imageUrl": "https://images.unsplash.com/photo-1578035855469-226209fec5cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a produit la première voiture à moteur V12 en série en 1915 ?",
-    "correct_answer": "Packard",
+    "question": "Quel constructeur a produit la première voiture électrique grand public en série en 1996 ?",
+    "correct_answer": "General Motors",
     "incorrect_answers": [
-      "Daimler",
-      "Cadillac",
-      "Lincoln"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/14466333/pexels-photo-14466333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel avion détient le record de vitesse en vol supersonique (Mach 3,3) en 1976 ?",
-    "correct_answer": "MiG-25",
-    "incorrect_answers": [
-      "SR-71 Blackbird",
-      "Concorde",
-      "X-15"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/17264577/pexels-photo-17264577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique à la rame en solitaire en 1969 ?",
-    "correct_answer": "John Fairfax (Britannia II)",
-    "incorrect_answers": [
-      "Ellen MacArthur",
-      "Bernard Moitessier",
-      "Loïck Peyron"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/2059641/pexels-photo-2059641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en Allemagne (406 km/h) en 1988 ?",
-    "correct_answer": "ICE V",
-    "incorrect_answers": [
-      "Transrapid 07",
-      "TGV POS",
-      "Shinkansen L0"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/29187907/pexels-photo-29187907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a produit la première voiture à moteur turbo en série en 1962 ?",
-    "correct_answer": "Chevrolet (Corvair Monza)",
-    "incorrect_answers": [
-      "Saab",
-      "Volvo",
-      "BMW"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/7920944/pexels-photo-7920944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel avion détient le record de vitesse en vol plané (Mach 10) en 2004 ?",
-    "correct_answer": "NASA X-43A",
-    "incorrect_answers": [
-      "North American X-15",
-      "SR-71 Blackbird",
-      "MiG-25"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/11536631/pexels-photo-11536631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique à la voile en équipage en 1905 ?",
-    "correct_answer": "Atlantic (Charlie Barr)",
-    "incorrect_answers": [
-      "Shamrock",
-      "Endeavour",
-      "Reliance"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/104757/pexels-photo-104757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en France (574,8 km/h) en 2007 ?",
-    "correct_answer": "TGV POS",
-    "incorrect_answers": [
-      "AGV",
-      "Frecciarossa 1000",
-      "ICE 4"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/15016102/pexels-photo-15016102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a produit la première voiture à moteur rotatif (Wankel) en série en 1967 ?",
-    "correct_answer": "NSU (Ro 80)",
-    "incorrect_answers": [
-      "Mazda",
-      "Citroën",
+      "Tesla",
+      "Renault",
       "Toyota"
     ],
-    "imageUrl": "https://images.pexels.com/photos/28824022/pexels-photo-28824022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "La GM EV1 était une voiture électrique moderne, abandonnée pour des raisons commerciales.",
+    "imageUrl": "https://images.unsplash.com/photo-1719387786131-eeebd25737fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion détient le record de vitesse en vol suborbital (Mach 25) en 2004 ?",
-    "correct_answer": "SpaceShipOne",
+    "question": "Quel avion de chasse français a été le premier à dépasser Mach 2 en 1958 ?",
+    "correct_answer": "Mirage III",
     "incorrect_answers": [
-      "X-15",
-      "X-43",
-      "SR-71"
+      "Dassault Rafale",
+      "Mirage IV",
+      "Super Étendard"
     ],
-    "imageUrl": "https://images.pexels.com/photos/27490332/pexels-photo-27490332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le Mirage III a marqué l'histoire avec sa vitesse et sa maniabilité.",
+    "imageUrl": "https://images.unsplash.com/photo-1696916470202-2fb0a7f9bb42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique à la voile en solitaire sans assistance en 1980 ?",
-    "correct_answer": "Philippe Jeantot (Crédit Agricole)",
+    "question": "Quel bateau à vapeur a coulé en 1912 après avoir heurté un iceberg ?",
+    "correct_answer": "Titanic",
     "incorrect_answers": [
-      "Ellen MacArthur",
-      "Loïck Peyron",
-      "Francis Chichester"
+      "Lusitania",
+      "Britannic",
+      "Olympic"
     ],
-    "imageUrl": "https://images.pexels.com/photos/31322630/pexels-photo-31322630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le Titanic, réputé insubmersible, a sombré lors de son voyage inaugural.",
+    "imageUrl": "https://images.unsplash.com/photo-1736500197073-499772361dc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train détient le record de vitesse sur rail en Italie (393,8 km/h) en 2009 ?",
-    "correct_answer": "Frecciarossa 1000",
+    "question": "Quel constructeur automobile a introduit le premier système de freinage antiblocage (ABS) en série en 1978 ?",
+    "correct_answer": "Mercedes-Benz",
     "incorrect_answers": [
-      "TGV POS",
-      "ICE 4",
-      "Shinkansen L0"
+      "BMW",
+      "Audi",
+      "Volvo"
     ],
-    "imageUrl": "https://images.pexels.com/photos/29066368/pexels-photo-29066368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Mercedes a commercialisé l'ABS sur la Classe S en collaboration avec Bosch.",
+    "imageUrl": "https://images.unsplash.com/photo-1604347187327-30e0a36c0ac0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a produit la première voiture à moteur V6 en série en 1950 ?",
-    "correct_answer": "GMC",
+    "question": "Quel avion a réalisé le premier vol transatlantique sans escale en 1919 ?",
+    "correct_answer": "Vickers Vimy",
+    "incorrect_answers": [
+      "Sopwith Camel",
+      "Spad S.XIII",
+      "Handley Page Type O"
+    ],
+    "explanation": "Piloté par Alcock et Brown, il a traversé l'Atlantique en 16 heures.",
+    "imageUrl": "https://images.unsplash.com/photo-1663585466277-539f42164d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau est surnommé le \"Queen Mary 2 de la voile\" pour ses traversées transatlantiques ?",
+    "correct_answer": "SS United States",
+    "incorrect_answers": [
+      "SS Normandie",
+      "SS France",
+      "RMS Queen Mary"
+    ],
+    "explanation": "Ce paquebot détient toujours le record de vitesse transatlantique (3 jours, 10 heures).",
+    "imageUrl": "https://images.unsplash.com/photo-1647041788434-f6cd82a0b49f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train à vapeur a été le premier à relier Paris à Lyon en 1846 ?",
+    "correct_answer": "Le PLM (Paris-Lyon-Méditerranée)",
+    "incorrect_answers": [
+      "Le Nord",
+      "L'Est",
+      "L'Ouest"
+    ],
+    "explanation": "La ligne PLM a révolutionné les transports ferroviaires en France.",
+    "imageUrl": "https://images.unsplash.com/photo-1612368772470-c3d1c5456c5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur V8 en 1914 ?",
+    "correct_answer": "Cadillac",
     "incorrect_answers": [
       "Ford",
-      "Chrysler",
-      "Buick"
+      "Chevrolet",
+      "Packard"
     ],
-    "imageUrl": "https://images.pexels.com/photos/7770646/pexels-photo-7770646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le Cadillac Model 51 a popularisé le V8 dans l'industrie automobile.",
+    "imageUrl": "https://images.unsplash.com/photo-1714438055123-6b482efb2948?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion détient le record de vitesse en vol habité le plus long (2h30) en 1976 ?",
-    "correct_answer": "Lockheed SR-71 Blackbird",
+    "question": "Quel avion de ligne a effectué le premier vol commercial supersonique en 1976 ?",
+    "correct_answer": "Concorde",
     "incorrect_answers": [
-      "MiG-25",
-      "Concorde",
-      "X-15"
+      "Tupolev Tu-144",
+      "Boeing 2707",
+      "Aérospatiale-BAC Concorde"
     ],
-    "imageUrl": "https://images.pexels.com/photos/4116184/pexels-photo-4116184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Concorde a relié Paris à New York en 3h30, un exploit technologique.",
+    "imageUrl": "https://images.unsplash.com/photo-1721908331598-f19175abd539?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique à la voile en solitaire en moins de 8 jours en 2005 ?",
-    "correct_answer": "Ellen MacArthur (B&Q/Castorama)",
+    "question": "Quel bateau a été le premier à franchir le canal de Suez en 1869 ?",
+    "correct_answer": "SS Agamemnon",
     "incorrect_answers": [
-      "Francis Joyon",
-      "Loïck Peyron",
-      "Bernard Stamm"
+      "SS Great Eastern",
+      "SS Persia",
+      "SS City of Paris"
     ],
-    "imageUrl": "https://images.pexels.com/photos/18762812/pexels-photo-18762812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Ce navire britannique a marqué l'ouverture du canal sous Napoléon III.",
+    "imageUrl": "https://images.unsplash.com/photo-1617564992600-b925ced02407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train détient le record de vitesse sur rail en Espagne (365 km/h) en 2011 ?",
-    "correct_answer": "AVE S-103",
+    "question": "Quel constructeur a inventé le premier moteur diesel automobile en 1936 ?",
+    "correct_answer": "Mercedes-Benz",
     "incorrect_answers": [
-      "TGV POS",
-      "Frecciarossa 1000",
-      "ICE 4"
+      "Volkswagen",
+      "BMW",
+      "Peugeot"
     ],
-    "imageUrl": "https://images.pexels.com/photos/18773272/pexels-photo-18773272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le Mercedes 260 D était équipé du premier moteur diesel de série.",
+    "imageUrl": "https://images.unsplash.com/photo-1776077265544-1fe368395001?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a produit la première voiture à moteur V10 en série en 1991 ?",
-    "correct_answer": "Lamborghini (Diablo)",
+    "question": "Quel avion a été le premier à franchir le mur du son en 1947 ?",
+    "correct_answer": "Bell X-1",
+    "incorrect_answers": [
+      "North American X-15",
+      "Lockheed P-80 Shooting Star",
+      "Gloster Meteor"
+    ],
+    "explanation": "Piloté par Chuck Yeager, il a marqué l'histoire de l'aviation.",
+    "imageUrl": "https://images.unsplash.com/photo-1757464181691-dbac621e67ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a remporté la Coupe de l'America en 2010 avec un catamaran ?",
+    "correct_answer": "BMW Oracle Racing",
+    "incorrect_answers": [
+      "Alinghi",
+      "Team New Zealand",
+      "Luna Rossa"
+    ],
+    "explanation": "Ce catamaran à voile rigide a révolutionné la compétition nautique.",
+    "imageUrl": "https://images.unsplash.com/photo-1722445716859-8bd156cc02b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train à vapeur a établi le record de vitesse en 1938 avec 203 km/h ?",
+    "correct_answer": "LNER Class A4 4468 Mallard",
+    "incorrect_answers": [
+      "Flying Scotsman",
+      "Royal Blue",
+      "City of Truro"
+    ],
+    "explanation": "Ce record britannique n'a jamais été battu par un train à vapeur.",
+    "imageUrl": "https://images.unsplash.com/photo-1646527825604-49d0e07bfc47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec une carrosserie en fibre de carbone en 1992 ?",
+    "correct_answer": "McLaren",
     "incorrect_answers": [
       "Ferrari",
       "Porsche",
-      "Audi"
+      "Lotus"
     ],
-    "imageUrl": "https://images.pexels.com/photos/9703049/pexels-photo-9703049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "La McLaren F1 a utilisé ce matériau pour allier légèreté et résistance.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972895598-133a63b3240c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion détient le record de vitesse en vol avec réacteur (Mach 3,2) en 1976 ?",
-    "correct_answer": "MiG-25",
+    "question": "Quel avion a été le premier à utiliser un siège éjectable en 1942 ?",
+    "correct_answer": "Heinkel He 280",
     "incorrect_answers": [
-      "SR-71 Blackbird",
-      "Concorde",
-      "X-15"
+      "Messerschmitt Me 262",
+      "Focke-Wulf Fw 190",
+      "Junkers Ju 87"
     ],
-    "imageUrl": "https://images.pexels.com/photos/4289348/pexels-photo-4289348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Ce chasseur allemand a testé le premier siège éjectable opérationnel.",
+    "imageUrl": "https://images.unsplash.com/photo-1711902158029-2d501bf1add2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique à la voile en solitaire en moins de 7 jours en 2008 ?",
-    "correct_answer": "Francis Joyon (IDEC 2)",
+    "question": "Quel bateau a été le premier à traverser l'Atlantique à la voile en solitaire en 1969 ?",
+    "correct_answer": "Pen Duick III",
     "incorrect_answers": [
-      "Loïck Peyron",
-      "Ellen MacArthur",
-      "Thomas Coville"
+      "Joshua",
+      "Moorhen",
+      "Gypsy Moth IV"
     ],
-    "imageUrl": "https://images.pexels.com/photos/17462927/pexels-photo-17462927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Éric Tabarly a remporté la Transat en solitaire avec ce voilier.",
+    "imageUrl": "https://images.unsplash.com/photo-1732282602488-6871e291515c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train détient le record de vitesse sur rail en Corée du Sud (421,4 km/h) en 2013 ?",
-    "correct_answer": "KTX-I",
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur Wankel en 1967 ?",
+    "correct_answer": "NSU",
     "incorrect_answers": [
-      "TGV POS",
-      "Shinkansen L0",
-      "ICE 4"
+      "Mazda",
+      "Toyota",
+      "Citroën"
     ],
-    "imageUrl": "https://images.pexels.com/photos/19191919/pexels-photo-19191919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "La NSU Spider a popularisé le moteur rotatif avant Mazda.",
+    "imageUrl": "https://images.unsplash.com/photo-1616868206123-1139c545d504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a produit la première voiture à moteur V12 atmosphérique en série en 1937 ?",
-    "correct_answer": "Mercedes-Benz (W125)",
+    "question": "Quel avion a été le premier à voler autour du monde sans escale en 1986 ?",
+    "correct_answer": "Rutan Voyager",
     "incorrect_answers": [
-      "Auto Union",
-      "Bugatti",
-      "Delahaye"
+      "Solar Impulse",
+      "GlobalFlyer",
+      "Spirit of St. Louis"
     ],
-    "imageUrl": "https://images.pexels.com/photos/20426936/pexels-photo-20426936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Piloté par Dick Rutan et Jeana Yeager, il a volé 9 jours sans ravitaillement.",
+    "imageUrl": "https://images.unsplash.com/photo-1656690232266-fcfcc466a538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion détient le record de vitesse en vol avec turboréacteur (Mach 3,35) en 1976 ?",
-    "correct_answer": "SR-71 Blackbird",
+    "question": "Quel bateau a été le premier à franchir le cap Horn en 1616 ?",
+    "correct_answer": "Eendracht",
     "incorrect_answers": [
-      "MiG-25",
-      "Concorde",
-      "X-43"
+      "Batavia",
+      "Duyfken",
+      "Halve Maen"
     ],
-    "imageUrl": "https://images.pexels.com/photos/33468934/pexels-photo-33468934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Ce navire néerlandais, commandé par Willem Schouten, a franchi le cap Horn.",
+    "imageUrl": "https://images.unsplash.com/photo-1738810476853-657e3f53cd68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique à la voile en solitaire en moins de 5 jours en 2017 ?",
-    "correct_answer": "François Gabart (Macif)",
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur V12 en 1915 ?",
+    "correct_answer": "Packard",
     "incorrect_answers": [
-      "Thomas Coville",
-      "Francis Joyon",
-      "Alex Thomson"
+      "Cadillac",
+      "Pierce-Arrow",
+      "Duesenberg"
     ],
-    "imageUrl": "https://images.pexels.com/photos/33801720/pexels-photo-33801720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "La Packard Twin Six a lancé le V12 dans l'automobile.",
+    "imageUrl": "https://images.unsplash.com/photo-1738810477492-51f66570f959?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train détient le record de vitesse sur rail au Royaume-Uni (375 km/h) en 1989 ?",
-    "correct_answer": "InterCity 225",
+    "question": "Quel avion a été le premier à utiliser un radar de bord opérationnel en 1940 ?",
+    "correct_answer": "Boulton Paul Defiant",
     "incorrect_answers": [
-      "TGV POS",
-      "ICE 4",
-      "Shinkansen L0"
+      "Supermarine Spitfire",
+      "Hawker Hurricane",
+      "Messerschmitt Bf 109"
     ],
-    "imageUrl": "https://images.pexels.com/photos/35837817/pexels-photo-35837817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Ce chasseur britannique a testé le radar AI Mk. IV contre les bombardiers.",
+    "imageUrl": "https://images.unsplash.com/photo-1771979624124-f0e5914969a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur a produit la première voiture à moteur V8 diesel en série en 1999 ?",
-    "correct_answer": "Volkswagen (TDI)",
+    "question": "Quel bateau a remporté la première édition de la Whitbread Round the World Race en 1973-1974 ?",
+    "correct_answer": "Sayula II",
+    "incorrect_answers": [
+      "Flyer",
+      "Great Britain II",
+      "King's Legend"
+    ],
+    "explanation": "Ce voilier mexicain a remporté la première course autour du monde en équipage.",
+    "imageUrl": "https://images.unsplash.com/photo-1747255915670-cfa9c30f7663?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec une boîte de vitesses automatique en 1939 ?",
+    "correct_answer": "Oldsmobile",
+    "incorrect_answers": [
+      "Cadillac",
+      "Packard",
+      "Chrysler"
+    ],
+    "explanation": "L'Oldsmobile Hydra-Matic a popularisé la boîte automatique.",
+    "imageUrl": "https://images.unsplash.com/photo-1738810477012-99c73e84e940?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à franchir l'Atlantique Nord en solitaire en 1927 ?",
+    "correct_answer": "Spirit of St. Louis",
+    "incorrect_answers": [
+      "Lockheed Vega",
+      "Ryan NYP",
+      "Travel Air"
+    ],
+    "explanation": "Charles Lindbergh a relié New York à Paris en 33 heures.",
+    "imageUrl": "https://images.unsplash.com/photo-1701177527271-46237ec32eaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à franchir le détroit de Magellan en 1520 ?",
+    "correct_answer": "Trinidad",
+    "incorrect_answers": [
+      "Victoria",
+      "San Antonio",
+      "Concepción"
+    ],
+    "explanation": "Ce navire de Magellan a traversé le détroit lors de son tour du monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1716189582937-1733877e52cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur turbo en 1962 ?",
+    "correct_answer": "Chevrolet",
+    "incorrect_answers": [
+      "Saab",
+      "BMW",
+      "Porsche"
+    ],
+    "explanation": "La Chevrolet Corvair Monza Spyder a popularisé le turbo dans l'automobile.",
+    "imageUrl": "https://images.unsplash.com/photo-1643055359228-9c33c2a2b9b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à utiliser un réacteur à double flux en 1960 ?",
+    "correct_answer": "Boeing 707",
+    "incorrect_answers": [
+      "Douglas DC-8",
+      "Convair 880",
+      "Sud Aviation Caravelle"
+    ],
+    "explanation": "Le JT3D de Pratt & Whitney a révolutionné l'aviation commerciale.",
+    "imageUrl": "https://images.unsplash.com/photo-1766801075426-a942804e63ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à franchir le cap de Bonne-Espérance en 1488 ?",
+    "correct_answer": "São Cristóvão",
+    "incorrect_answers": [
+      "São Gabriel",
+      "Victoria",
+      "Trinidad"
+    ],
+    "explanation": "Bartolomeu Dias a atteint ce cap avec ce navire portugais.",
+    "imageUrl": "https://images.unsplash.com/photo-1649367770298-d92bd42ad74c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec une suspension active en 1989 ?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Mercedes-Benz",
+      "BMW",
+      "Jaguar"
+    ],
+    "explanation": "La Toyota Soarer a introduit la suspension TEMS, premier système actif.",
+    "imageUrl": "https://images.unsplash.com/photo-1721786956014-ca0260014542?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à utiliser un système fly-by-wire en 1972 ?",
+    "correct_answer": "Lockheed L-1011 TriStar",
+    "incorrect_answers": [
+      "Boeing 747",
+      "Airbus A300",
+      "McDonnell Douglas DC-10"
+    ],
+    "explanation": "Ce système électronique a remplacé les commandes mécaniques traditionnelles.",
+    "imageUrl": "https://images.unsplash.com/photo-1772542089573-f9bfba264be1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à franchir le détroit de Béring en 1728 ?",
+    "correct_answer": "Saint Gabriel",
+    "incorrect_answers": [
+      "Saint Pierre",
+      "Vostok",
+      "Mirny"
+    ],
+    "explanation": "Vitus Béring a traversé ce détroit avec ce navire russe.",
+    "imageUrl": "https://images.unsplash.com/photo-1722445716793-b5f9984a37dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur hybride en 1997 ?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Ford",
+      "General Motors"
+    ],
+    "explanation": "La Toyota Prius a lancé l'ère des véhicules hybrides modernes.",
+    "imageUrl": "https://images.unsplash.com/photo-1767884162407-62d7850e77d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à utiliser un système de navigation inertielle en 1958 ?",
+    "correct_answer": "Boeing 707",
+    "incorrect_answers": [
+      "Douglas DC-8",
+      "Lockheed L-188 Electra",
+      "Convair 880"
+    ],
+    "explanation": "Ce système a permis une navigation précise sans dépendre des balises au sol.",
+    "imageUrl": "https://images.unsplash.com/photo-1754431353326-302f454a1475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à franchir le canal de Panama en 1914 ?",
+    "correct_answer": "SS Ancon",
+    "incorrect_answers": [
+      "SS Cristobal",
+      "SS Panama",
+      "SS Balboa"
+    ],
+    "explanation": "Ce cargo américain a marqué l'ouverture du canal sous contrôle américain.",
+    "imageUrl": "https://images.unsplash.com/photo-1722026743838-9657436b04dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur V6 en 1959 ?",
+    "correct_answer": "Buick",
+    "incorrect_answers": [
+      "Ford",
+      "Chrysler",
+      "Oldsmobile"
+    ],
+    "explanation": "Le Buick Special a lancé le V6 dans l'industrie automobile.",
+    "imageUrl": "https://images.unsplash.com/photo-1743884256037-d6cb7f07c27a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à utiliser un système de contrôle de vol électrique en 1984 ?",
+    "correct_answer": "Airbus A320",
+    "incorrect_answers": [
+      "Boeing 757",
+      "McDonnell Douglas MD-80",
+      "Lockheed L-1011"
+    ],
+    "explanation": "L'A320 a révolutionné l'aviation avec ses commandes électriques.",
+    "imageUrl": "https://images.unsplash.com/photo-1762772576885-b010e734640e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a été le premier à franchir le détroit de Gibraltar en 711 ?",
+    "correct_answer": "Bateau des Omeyyades",
+    "incorrect_answers": [
+      "Santa Maria",
+      "La Niña",
+      "Pinta"
+    ],
+    "explanation": "Les forces musulmanes ont traversé ce détroit pour envahir l'Europe.",
+    "imageUrl": "https://images.unsplash.com/photo-1737224139300-c300b269f6c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur rotatif Wankel en 1967 ?",
+    "correct_answer": "NSU",
+    "incorrect_answers": [
+      "Mazda",
+      "Toyota",
+      "BMW"
+    ],
+    "explanation": "La NSU Ro 80 a popularisé le moteur rotatif avant Mazda.",
+    "imageUrl": "https://images.unsplash.com/photo-1617564992607-d759d75105e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à utiliser un système de radar météorologique en 1958 ?",
+    "correct_answer": "Boeing 707",
+    "incorrect_answers": [
+      "Douglas DC-8",
+      "Lockheed L-188",
+      "Convair 880"
+    ],
+    "explanation": "Ce système a permis d'éviter les zones de turbulence et d'orages.",
+    "imageUrl": "https://images.unsplash.com/photo-1659232095989-9d1ae7bbc290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec une transmission intégrale permanente en 1980 ?",
+    "correct_answer": "Audi",
+    "incorrect_answers": [
+      "Subaru",
+      "Mercedes-Benz",
+      "Land Rover"
+    ],
+    "explanation": "L'Audi Quattro a révolutionné les véhicules tout-terrain.",
+    "imageUrl": "https://images.unsplash.com/photo-1667072830266-32558fccae2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à utiliser un système de navigation par satellite en 1995 ?",
+    "correct_answer": "Boeing 777",
+    "incorrect_answers": [
+      "Airbus A320",
+      "McDonnell Douglas MD-11",
+      "Lockheed L-1011"
+    ],
+    "explanation": "Le 777 a été le premier avion certifié pour le GPS en vol.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972900974-826de5d22691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur V10 en 1991 ?",
+    "correct_answer": "Lamborghini",
+    "incorrect_answers": [
+      "Ferrari",
+      "Porsche",
+      "Jaguar"
+    ],
+    "explanation": "La Lamborghini Diablo a lancé le V10 dans les supercars.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972897821-e4cd391da84d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à utiliser un système de freinage par inversion de poussée en 1952 ?",
+    "correct_answer": "De Havilland Comet",
+    "incorrect_answers": [
+      "Boeing 707",
+      "Douglas DC-6",
+      "Lockheed Constellation"
+    ],
+    "explanation": "Ce système a permis des atterrissages plus courts et sécurisés.",
+    "imageUrl": "https://images.unsplash.com/photo-1710412898926-14a175edcf2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur V8 diesel en 1999 ?",
+    "correct_answer": "Volkswagen",
     "incorrect_answers": [
       "BMW",
       "Mercedes-Benz",
       "Audi"
     ],
-    "imageUrl": "https://images.pexels.com/photos/33894120/pexels-photo-33894120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Le VW Touareg a lancé le V8 diesel dans les SUV.",
+    "imageUrl": "https://images.unsplash.com/photo-1540653639894-3af969ae9dc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fHZlaGljbGVzJTIwY2FycyUyMGF2aWF0aW9uJTIwdHJhbnNwb3J0fGVufDB8fHx8MTc3OTc5ODMyOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion détient le record de vitesse en vol avec statoréacteur (Mach 9,6) en 2004 ?",
-    "correct_answer": "NASA X-43",
+    "question": "Quel avion a été le premier à utiliser un système de commandes de vol électriques numériques en 1988 ?",
+    "correct_answer": "Airbus A320",
     "incorrect_answers": [
-      "SR-71 Blackbird",
-      "MiG-25",
-      "X-15"
+      "Boeing 757",
+      "McDonnell Douglas MD-11",
+      "Lockheed L-1011"
     ],
-    "imageUrl": "https://images.pexels.com/photos/17295870/pexels-photo-17295870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "L'A320 a marqué l'ère des commandes électriques modernes.",
+    "imageUrl": "https://images.unsplash.com/photo-1729215459766-538d1f06cfe2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique à la voile en solitaire en moins de 4 jours en 2020 ?",
-    "correct_answer": "Thomas Coville (Sails of Change)",
+    "question": "Quel constructeur a produit la première voiture de série avec un moteur W12 en 2001 ?",
+    "correct_answer": "Audi",
     "incorrect_answers": [
-      "Francis Joyon",
-      "François Gabart",
-      "Alex Thomson"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/36935148/pexels-photo-36935148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel train détient le record de vitesse sur rail en Russie (260 km/h) en 1988 ?",
-    "correct_answer": "ER200",
-    "incorrect_answers": [
-      "TGV POS",
-      "Shinkansen L0",
-      "ICE 4"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/19167805/pexels-photo-19167805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel constructeur a produit la première voiture à moteur V10 diesel en série en 2000 ?",
-    "correct_answer": "Audi (R8 TDI concept)",
-    "incorrect_answers": [
+      "Volkswagen",
       "BMW",
-      "Mercedes-Benz",
-      "Volkswagen"
+      "Mercedes-Benz"
     ],
-    "imageUrl": "https://images.pexels.com/photos/29066371/pexels-photo-29066371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "L'Audi A8 W12 a lancé ce moteur dans les berlines de luxe.",
+    "imageUrl": "https://images.unsplash.com/photo-1595527144678-f31a906ef447?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion détient le record de vitesse en vol avec turboréacteur après 2000 (Mach 3,1) ?",
-    "correct_answer": "MiG-31",
+    "question": "Quel avion a été le premier à utiliser un système de détection de cisaillement du vent en 1985 ?",
+    "correct_answer": "Boeing 737",
     "incorrect_answers": [
-      "SR-71 Blackbird",
-      "Concorde",
-      "X-51"
+      "Airbus A320",
+      "McDonnell Douglas MD-80",
+      "Lockheed L-1011"
     ],
-    "imageUrl": "https://images.pexels.com/photos/14843802/pexels-photo-14843802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-  },
-  {
-    "question": "Quel bateau a réalisé la première traversée de l'Atlantique à la voile en solitaire en moins de 3 jours en 2021 ?",
-    "correct_answer": "Clarisse Crémer (Banque Populaire)",
-    "incorrect_answers": [
-      "Thomas Coville",
-      "François Gabart",
-      "Charlie Dalin"
-    ],
-    "imageUrl": "https://images.pexels.com/photos/3868895/pexels-photo-3868895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "explanation": "Ce système a amélioré la sécurité lors des atterrissages.",
+    "imageUrl": "https://images.unsplash.com/photo-1616867919424-ff07a96e7326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

@@ -20,5 +20,6 @@ data class QuestionEntity(
     val isAnsweredCorrectly: Boolean = false,
     val positionInPool: Int = 0,
     val lot: Int = 1,
-    val attempts: Int = 0
+    val attempts: Int = 0,
+    val explanation: String? = null
 )

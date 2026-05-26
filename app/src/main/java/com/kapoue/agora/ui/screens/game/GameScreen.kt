@@ -100,26 +100,28 @@ fun GameScreen(
                         fontFamily = LatoFamily,
                         textAlign = TextAlign.Center
                     )
-                    Button(
-                        onClick = { viewModel.retry() },
-                        colors = ButtonDefaults.buttonColors(containerColor = AgoraGold),
-                        shape = RoundedCornerShape(8.dp)
-                    ) {
-                        Text(
-                            text = "Réessayer",
-                            fontFamily = CinzelFamily,
-                            color = Color.Black
-                        )
+                    if (!uiState.isComingSoon) {
+                        Button(
+                            onClick = { viewModel.retry() },
+                            colors = ButtonDefaults.buttonColors(containerColor = AgoraGold),
+                            shape = RoundedCornerShape(8.dp)
+                        ) {
+                            Text(
+                                text = "Réessayer",
+                                fontFamily = CinzelFamily,
+                                color = Color.Black
+                            )
+                        }
                     }
                     Button(
                         onClick = onHomeClick,
-                        colors = ButtonDefaults.buttonColors(containerColor = AgoraSurface),
+                        colors = ButtonDefaults.buttonColors(containerColor = if (uiState.isComingSoon) AgoraGold else AgoraSurface),
                         shape = RoundedCornerShape(8.dp)
                     ) {
                         Text(
                             text = "Accueil",
                             fontFamily = CinzelFamily,
-                            color = AgoraWhite
+                            color = if (uiState.isComingSoon) Color.Black else AgoraWhite
                         )
                     }
                 }
@@ -315,6 +317,19 @@ fun GameScreen(
                                     fontSize = 14.sp,
                                     color = AgoraCorrectLight
                                 )
+                                val explanation = uiState.explanation
+                                if (!explanation.isNullOrBlank()) {
+                                    Spacer(modifier = Modifier.height(8.dp))
+                                    Text(
+                                        text = explanation,
+                                        fontFamily = LatoFamily,
+                                        fontWeight = FontWeight.Normal,
+                                        fontStyle = FontStyle.Italic,
+                                        fontSize = 13.sp,
+                                        color = AgoraStone,
+                                        lineHeight = 19.sp
+                                    )
+                                }
                             }
                         }
                     }

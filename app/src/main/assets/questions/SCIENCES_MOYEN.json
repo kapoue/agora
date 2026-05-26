@@ -1,572 +1,706 @@
 [
   {
-    "question": "Quel élément chimique a pour symbole 'Fe' dans le tableau périodique ?",
-    "correct_answer": "Fer",
+    "question": "Quel élément chimique a pour symbole 'Au' et est utilisé en joaillerie ?",
+    "correct_answer": "Or",
     "incorrect_answers": [
-      "Fluor",
-      "Fermium",
-      "Francium"
+      "Argent",
+      "Platine",
+      "Cuivre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1630959302661-0005f0bb0b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le symbole 'Au' vient du latin 'Aurum', utilisé depuis l'Antiquité pour l'or.",
+    "imageUrl": "https://images.unsplash.com/photo-1576670159805-622729b5b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle planète du système solaire est connue pour ses anneaux visibles ?",
-    "correct_answer": "Saturne",
+    "question": "Quel est le nom de la plus grande lune de Saturne, connue pour ses lacs d'hydrocarbures ?",
+    "correct_answer": "Titan",
     "incorrect_answers": [
-      "Jupiter",
-      "Uranus",
-      "Neptune"
+      "Europe",
+      "Ganymède",
+      "Encelade"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1614308457932-e16d85c5d053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Titan possède une atmosphère dense et des lacs de méthane liquide.",
+    "imageUrl": "https://images.unsplash.com/photo-1742137587486-fdef8cdd25bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel gaz est principalement responsable de l'effet de serre sur Terre ?",
-    "correct_answer": "Dioxyde de carbone",
+    "question": "Quel scientifique a formulé la loi de la gravitation universelle au XVIIe siècle ?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": [
+      "Galilée",
+      "Einstein",
+      "Kepler"
+    ],
+    "explanation": "Newton a publié ses travaux dans 'Principia Mathematica' en 1687.",
+    "imageUrl": "https://images.unsplash.com/photo-1630959302661-0005f0bb0b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel gaz compose majoritairement l'atmosphère terrestre ?",
+    "correct_answer": "Azote",
     "incorrect_answers": [
       "Oxygène",
-      "Azote",
-      "Hélium"
+      "Dioxyde de carbone",
+      "Argon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766713203219-8ca06e1f4db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'azote représente environ 78% de l'atmosphère, contre 21% pour l'oxygène.",
+    "imageUrl": "https://images.unsplash.com/photo-1762951317733-9e800909e93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel organe du corps humain produit l'insuline ?",
     "correct_answer": "Pancréas",
     "incorrect_answers": [
       "Foie",
-      "Rein",
-      "Cœur"
+      "Rate",
+      "Estomac"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928261664-bfcf023fbc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les cellules bêta des îlots de Langerhans dans le pancréas sécrètent l'insuline.",
+    "imageUrl": "https://images.unsplash.com/photo-1614308457932-e16d85c5d053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la formule chimique de l'eau ?",
-    "correct_answer": "H2O",
+    "question": "Quel phénomène physique explique la formation des arcs-en-ciel ?",
+    "correct_answer": "Dispersion de la lumière",
     "incorrect_answers": [
-      "CO2",
-      "NaCl",
-      "O2"
+      "Réflexion totale",
+      "Diffraction",
+      "Interférence"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1566216867955-5b2e8c77e45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La réfraction et la dispersion de la lumière dans les gouttes d'eau créent les arcs-en-ciel.",
+    "imageUrl": "https://images.unsplash.com/photo-1610547939489-73202bc6afda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel scientifique a formulé les lois du mouvement et la théorie de la gravitation ?",
-    "correct_answer": "Isaac Newton",
+    "question": "Quel est le nom du premier satellite artificiel lancé dans l'espace en 1957 ?",
+    "correct_answer": "Spoutnik 1",
     "incorrect_answers": [
-      "Albert Einstein",
-      "Galilée",
-      "Nikola Tesla"
+      "Apollo 11",
+      "Vostok 1",
+      "Explorer 1"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1684259498900-afdea87b1a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Spoutnik 1, lancé par l'URSS, a marqué le début de l'ère spatiale.",
+    "imageUrl": "https://images.unsplash.com/photo-1760960067586-3999b9aae844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le plus grand organe du corps humain ?",
-    "correct_answer": "Peau",
+    "question": "Quel métal est le meilleur conducteur électrique à température ambiante ?",
+    "correct_answer": "Argent",
     "incorrect_answers": [
-      "Foie",
-      "Cerveau",
-      "Poumon"
+      "Cuivre",
+      "Or",
+      "Aluminium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775148582526-75c707421350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'argent a la conductivité électrique la plus élevée, mais le cuivre est plus utilisé pour son coût.",
+    "imageUrl": "https://images.unsplash.com/photo-1618281228519-81136b42f6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle molécule est responsable de la transmission de l'information génétique ?",
+    "question": "Quel gaz à effet de serre est principalement responsable du réchauffement climatique actuel ?",
+    "correct_answer": "Dioxyde de carbone",
+    "incorrect_answers": [
+      "Méthane",
+      "Protoxyde d'azote",
+      "Vapeur d'eau"
+    ],
+    "explanation": "Le CO2, issu des combustibles fossiles, est le principal contributeur au changement climatique.",
+    "imageUrl": "https://images.unsplash.com/photo-1618826470964-f6f8b3ae52aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la théorie expliquant l'expansion de l'Univers ?",
+    "correct_answer": "Big Bang",
+    "incorrect_answers": [
+      "Théorie de l'état stationnaire",
+      "Théorie du Big Crunch",
+      "Théorie des cordes"
+    ],
+    "explanation": "Le Big Bang décrit l'expansion de l'Univers à partir d'un état extrêmement dense et chaud.",
+    "imageUrl": "https://images.unsplash.com/photo-1569512756636-2100074a089e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel élément chimique a le numéro atomique 1 ?",
+    "correct_answer": "Hydrogène",
+    "incorrect_answers": [
+      "Hélium",
+      "Oxygène",
+      "Carbone"
+    ],
+    "explanation": "L'hydrogène est le premier élément du tableau périodique, avec un seul proton.",
+    "imageUrl": "https://images.unsplash.com/photo-1748261347902-451fb437e8fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel les plantes produisent de l'oxygène ?",
+    "correct_answer": "Photosynthèse",
+    "incorrect_answers": [
+      "Respiration",
+      "Fermentation",
+      "Transpiration"
+    ],
+    "explanation": "La photosynthèse convertit le CO2 et l'eau en glucose et oxygène grâce à la lumière.",
+    "imageUrl": "https://images.unsplash.com/photo-1766297247072-93fd815afef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel physicien a découvert la radioactivité en 1896 ?",
+    "correct_answer": "Henri Becquerel",
+    "incorrect_answers": [
+      "Marie Curie",
+      "Pierre Curie",
+      "Ernest Rutherford"
+    ],
+    "explanation": "Becquerel a observé l'émission spontanée de rayonnements par l'uranium.",
+    "imageUrl": "https://images.unsplash.com/photo-1570723989345-3a537f60a9c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la force qui maintient les planètes en orbite autour du Soleil ?",
+    "correct_answer": "Gravité",
+    "incorrect_answers": [
+      "Force électromagnétique",
+      "Force nucléaire",
+      "Force de Coriolis"
+    ],
+    "explanation": "La gravité, décrite par Newton, est la force attractive entre masses.",
+    "imageUrl": "https://images.unsplash.com/photo-1742137587510-389de3549208?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier mammifère cloné en 1996 ?",
+    "correct_answer": "Dolly",
+    "incorrect_answers": [
+      "Molly",
+      "Polly",
+      "Holly"
+    ],
+    "explanation": "Dolly, une brebis, a été clonée par transfert de noyau cellulaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1631556759597-96df19797d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la particule subatomique sans charge électrique ?",
+    "correct_answer": "Neutron",
+    "incorrect_answers": [
+      "Proton",
+      "Électron",
+      "Positon"
+    ],
+    "explanation": "Le neutron, découvert par Chadwick en 1932, est présent dans le noyau atomique.",
+    "imageUrl": "https://images.unsplash.com/photo-1631556761867-50fd6cf7f0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel un solide passe directement à l'état gazeux ?",
+    "correct_answer": "Sublimation",
+    "incorrect_answers": [
+      "Condensation",
+      "Vaporisation",
+      "Fusion"
+    ],
+    "explanation": "La sublimation est observable avec la glace carbonique (CO2 solide).",
+    "imageUrl": "https://images.unsplash.com/photo-1736710744807-cc278de00afa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de l'unité de mesure de l'intensité lumineuse ?",
+    "correct_answer": "Candela",
+    "incorrect_answers": [
+      "Lux",
+      "Lumen",
+      "Watt"
+    ],
+    "explanation": "La candela mesure l'intensité lumineuse dans une direction donnée.",
+    "imageUrl": "https://images.unsplash.com/photo-1603895544146-3b0636f1348f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la maladie causée par une carence en vitamine C ?",
+    "correct_answer": "Scorbut",
+    "incorrect_answers": [
+      "Rachitisme",
+      "Béribéri",
+      "Pellagre"
+    ],
+    "explanation": "Le scorbut, connu des marins, provoque des saignements et la chute des dents.",
+    "imageUrl": "https://images.unsplash.com/photo-1684259498900-afdea87b1a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier antibiotique découvert en 1928 ?",
+    "correct_answer": "Pénicilline",
+    "incorrect_answers": [
+      "Streptomycine",
+      "Tétracycline",
+      "Érythromycine"
+    ],
+    "explanation": "Fleming a découvert la pénicilline grâce à une contamination par un champignon.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928309809-776bf9db8658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la couche protectrice de la Terre qui absorbe les UV ?",
+    "correct_answer": "Couche d'ozone",
+    "incorrect_answers": [
+      "Ionosphère",
+      "Stratosphère",
+      "Magnétosphère"
+    ],
+    "explanation": "La couche d'ozone, située dans la stratosphère, protège des rayonnements UV nocifs.",
+    "imageUrl": "https://images.unsplash.com/photo-1575467678971-7cd5c2937dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel une cellule se divise pour former deux cellules filles identiques ?",
+    "correct_answer": "Mitose",
+    "incorrect_answers": [
+      "Méiose",
+      "Fission binaire",
+      "Apoptose"
+    ],
+    "explanation": "La mitose permet la croissance et la réparation des tissus chez les eucaryotes.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928261664-bfcf023fbc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier homme à avoir marché sur la Lune en 1969 ?",
+    "correct_answer": "Neil Armstrong",
+    "incorrect_answers": [
+      "Buzz Aldrin",
+      "Yuri Gagarine",
+      "John Glenn"
+    ],
+    "explanation": "Armstrong a prononcé la phrase célèbre 'Un petit pas pour l'homme...'",
+    "imageUrl": "https://images.unsplash.com/photo-1631556760646-50241850eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du phénomène où un liquide monte dans un tube fin par capillarité ?",
+    "correct_answer": "Capillarité",
+    "incorrect_answers": [
+      "Osmose",
+      "Diffusion",
+      "Turgescence"
+    ],
+    "explanation": "La capillarité permet aux plantes de transporter l'eau dans leurs tiges.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928321679-560bb453f190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la théorie expliquant le mouvement des planètes autour du Soleil ?",
+    "correct_answer": "Lois de Kepler",
+    "incorrect_answers": [
+      "Lois de Newton",
+      "Théorie de Ptolémée",
+      "Théorie de Copernic"
+    ],
+    "explanation": "Kepler a décrit des orbites elliptiques et des vitesses variables des planètes.",
+    "imageUrl": "https://images.unsplash.com/photo-1777631587017-ab434588da3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du gaz utilisé dans les dirigeables avant d'être remplacé par l'hélium ?",
+    "correct_answer": "Hydrogène",
+    "incorrect_answers": [
+      "Azote",
+      "Oxygène",
+      "Protoxyde d'azote"
+    ],
+    "explanation": "L'hydrogène était utilisé pour sa légèreté, mais son inflammabilité a causé des accidents.",
+    "imageUrl": "https://images.unsplash.com/photo-1552256028-2c58c3cbfa7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la maladie génétique causant une accumulation de mucus dans les poumons ?",
+    "correct_answer": "Mucoviscidose",
+    "incorrect_answers": [
+      "Drépanocytose",
+      "Hémophilie",
+      "Phénylcétonurie"
+    ],
+    "explanation": "La mucoviscidose est causée par une mutation du gène CFTR.",
+    "imageUrl": "https://images.unsplash.com/photo-1760738999560-bcb2a000938a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel une substance passe de l'état gazeux à l'état liquide ?",
+    "correct_answer": "Condensation",
+    "incorrect_answers": [
+      "Vaporisation",
+      "Sublimation",
+      "Fusion"
+    ],
+    "explanation": "La condensation se produit lorsque la vapeur d'eau se refroidit et forme des gouttelettes.",
+    "imageUrl": "https://images.unsplash.com/photo-1727803649916-49969a3bddcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la particule qui transporte l'information génétique dans les cellules ?",
     "correct_answer": "ADN",
     "incorrect_answers": [
       "ARN",
       "Protéine",
       "Glucide"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763066472871-a49d025f9f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'ADN, sous forme de double hélice, contient les instructions pour la vie.",
+    "imageUrl": "https://images.unsplash.com/photo-1748261347768-a32434751a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel phénomène naturel est à l'origine des aurores boréales ?",
-    "correct_answer": "Particules solaires",
+    "question": "Quel est le nom du premier vaccin créé par Edward Jenner en 1796 ?",
+    "correct_answer": "Vaccin contre la variole",
     "incorrect_answers": [
-      "Éclipses lunaires",
-      "Orages magnétiques",
-      "Réflexion de la Lune"
+      "Vaccin contre la rage",
+      "Vaccin contre la polio",
+      "Vaccin contre la tuberculose"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1676293107432-1b6753581201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Jenner a utilisé le virus de la vaccine pour immuniser contre la variole.",
+    "imageUrl": "https://images.unsplash.com/photo-1568742280287-3824b9ff7fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier satellite artificiel envoyé dans l'espace ?",
-    "correct_answer": "Spoutnik 1",
+    "question": "Quel est le nom de la force qui s'oppose au mouvement d'un objet dans un fluide ?",
+    "correct_answer": "Frottement",
     "incorrect_answers": [
-      "Apollo 11",
-      "Voyager 1",
-      "Hubble"
+      "Gravité",
+      "Poussée d'Archimède",
+      "Tension superficielle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631816290138-9f0f79cada3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le frottement fluide dépend de la viscosité du fluide et de la forme de l'objet.",
+    "imageUrl": "https://images.unsplash.com/photo-1636721174787-850cf30bc35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la vitesse de la lumière dans le vide ?",
-    "correct_answer": "299 792 km/s",
-    "incorrect_answers": [
-      "150 000 km/s",
-      "500 000 km/s",
-      "1 000 000 km/s"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1575467678971-7cd5c2937dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel gaz est libéré lors de la photosynthèse ?",
-    "correct_answer": "Oxygène",
-    "incorrect_answers": [
-      "Dioxyde de carbone",
-      "Azote",
-      "Hydrogène"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610547939489-73202bc6afda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les plantes perdent de l'eau ?",
-    "correct_answer": "Transpiration",
-    "incorrect_answers": [
-      "Photosynthèse",
-      "Respiration",
-      "Absorption"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1636721174787-850cf30bc35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle maladie est causée par une carence en vitamine C ?",
-    "correct_answer": "Scorbut",
-    "incorrect_answers": [
-      "Rachitisme",
-      "Béribéri",
-      "Anémie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1760960067586-3999b9aae844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la théorie qui explique l'expansion de l'Univers ?",
-    "correct_answer": "Big Bang",
-    "incorrect_answers": [
-      "Théorie de l'état stationnaire",
-      "Théorie des cordes",
-      "Théorie du chaos"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1742137587486-fdef8cdd25bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel élément chimique est le plus abondant dans l'atmosphère terrestre ?",
-    "correct_answer": "Azote",
-    "incorrect_answers": [
-      "Oxygène",
-      "Argon",
-      "Dioxyde de carbone"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928355784-b05f7a78b842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les cellules se divisent pour former de nouvelles cellules ?",
-    "correct_answer": "Mitose",
-    "incorrect_answers": [
-      "Méiose",
-      "Fission",
-      "Fusion"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1727803649916-49969a3bddcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle invention est attribuée à Alexander Graham Bell ?",
-    "correct_answer": "Téléphone",
-    "incorrect_answers": [
-      "Radio",
-      "Électricité",
-      "Avion"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848567-a24f55473cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la force qui maintient les planètes en orbite autour du Soleil ?",
-    "correct_answer": "Gravité",
-    "incorrect_answers": [
-      "Électromagnétisme",
-      "Force nucléaire",
-      "Friction"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766297247072-93fd815afef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les plantes convertissent la lumière en énergie chimique ?",
-    "correct_answer": "Photosynthèse",
-    "incorrect_answers": [
-      "Respiration",
-      "Fermentation",
-      "Combustion"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1552256028-2c58c3cbfa7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel gaz est utilisé dans les ballons pour qu'ils flottent ?",
-    "correct_answer": "Hélium",
-    "incorrect_answers": [
-      "Hydrogène",
-      "Oxygène",
-      "Dioxyde de carbone"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766297248076-2848d8d0d464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la couche protectrice de la Terre qui absorbe les rayons UV ?",
-    "correct_answer": "Couche d'ozone",
-    "incorrect_answers": [
-      "Atmosphère",
-      "Magnétosphère",
-      "Ionosphère"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616046560582-41ac3c954715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les cellules meurent de manière programmée ?",
+    "question": "Quel est le nom du processus par lequel une cellule meurt de manière programmée ?",
     "correct_answer": "Apoptose",
     "incorrect_answers": [
       "Nécrose",
       "Mitose",
       "Méiose"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1736710744807-cc278de00afa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'apoptose est essentielle pour éliminer les cellules endommagées ou inutiles.",
+    "imageUrl": "https://images.unsplash.com/photo-1556201977-1df3c782a58e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la première loi de la thermodynamique ?",
-    "correct_answer": "Conservation de l'énergie",
+    "question": "Quel est le nom de la loi qui relie la pression et le volume d'un gaz à température constante ?",
+    "correct_answer": "Loi de Boyle-Mariotte",
     "incorrect_answers": [
-      "Entropie",
-      "Principe de Carnot",
-      "Loi de Boyle"
+      "Loi de Charles",
+      "Loi de Gay-Lussac",
+      "Loi des gaz parfaits"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734160-3a2f6f73f3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette loi stipule que P × V = constante pour un gaz à température fixe.",
+    "imageUrl": "https://images.unsplash.com/photo-1742137587486-fdef8cdd25bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes absorbent l'eau du sol ?",
-    "correct_answer": "Absorption racinaire",
+    "question": "Quel est le nom du premier animal envoyé dans l'espace en 1948 ?",
+    "correct_answer": "La mouche du vinaigre",
     "incorrect_answers": [
-      "Transpiration",
-      "Photosynthèse",
-      "Respiration"
+      "Le chien Laïka",
+      "Le singe Albert",
+      "La souris"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1568742280287-3824b9ff7fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Des mouches du vinaigre ont été envoyées par les États-Unis pour étudier les effets des radiations.",
+    "imageUrl": "https://images.unsplash.com/photo-1763066472871-a49d025f9f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules produisent de l'énergie ?",
-    "correct_answer": "Respiration cellulaire",
+    "question": "Quel est le nom de la théorie expliquant la structure de l'atome avec des électrons en orbites ?",
+    "correct_answer": "Modèle de Bohr",
     "incorrect_answers": [
-      "Photosynthèse",
-      "Fermentation",
-      "Combustion"
+      "Modèle de Rutherford",
+      "Modèle de Thomson",
+      "Modèle quantique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758573467057-99f26217b2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Bohr a proposé des niveaux d'énergie discrets pour les électrons en 1913.",
+    "imageUrl": "https://images.unsplash.com/photo-1669344319065-61282714d7ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la théorie qui explique l'origine des espèces ?",
-    "correct_answer": "Évolution",
+    "question": "Quel est le nom du gaz responsable de l'effet de serre le plus puissant à court terme ?",
+    "correct_answer": "Méthane",
     "incorrect_answers": [
-      "Créationnisme",
-      "Lamarckisme",
-      "Fixisme"
+      "Dioxyde de carbone",
+      "Protoxyde d'azote",
+      "Vapeur d'eau"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1569512756636-2100074a089e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le méthane a un potentiel de réchauffement 28 fois supérieur au CO2 sur 100 ans.",
+    "imageUrl": "https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes libèrent de l'oxygène ?",
-    "correct_answer": "Photosynthèse",
+    "question": "Quel est le nom de la maladie causée par une carence en vitamine D ?",
+    "correct_answer": "Rachitisme",
     "incorrect_answers": [
-      "Respiration",
-      "Fermentation",
-      "Transpiration"
+      "Scorbut",
+      "Béribéri",
+      "Pellagre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928374389-6eeee0e5e4ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le rachitisme provoque un ramollissement des os chez les enfants.",
+    "imageUrl": "https://images.unsplash.com/photo-1657269946528-fb9aa16fd925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules se spécialisent ?",
-    "correct_answer": "Différenciation cellulaire",
-    "incorrect_answers": [
-      "Mitose",
-      "Méiose",
-      "Apoptose"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1748261347768-a32434751a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la théorie qui explique la structure de l'ADN ?",
-    "correct_answer": "Double hélice",
-    "incorrect_answers": [
-      "Simple brin",
-      "Triple hélice",
-      "Quadruple hélice"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1742137587512-1276fbcf973c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les plantes fabriquent leur nourriture ?",
-    "correct_answer": "Photosynthèse",
-    "incorrect_answers": [
-      "Respiration",
-      "Fermentation",
-      "Transpiration"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les cellules se reproduisent ?",
-    "correct_answer": "Mitose",
-    "incorrect_answers": [
-      "Méiose",
-      "Apoptose",
-      "Nécrose"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625794877-b808168ba474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les cellules meurent de manière non programmée ?",
-    "correct_answer": "Nécrose",
-    "incorrect_answers": [
-      "Apoptose",
-      "Mitose",
-      "Méiose"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762951317733-9e800909e93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les plantes perdent de l'eau par leurs feuilles ?",
-    "correct_answer": "Transpiration",
-    "incorrect_answers": [
-      "Photosynthèse",
-      "Respiration",
-      "Absorption"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les cellules produisent de l'ATP ?",
-    "correct_answer": "Respiration cellulaire",
-    "incorrect_answers": [
-      "Photosynthèse",
-      "Fermentation",
-      "Combustion"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556759597-96df19797d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les plantes absorbent le dioxyde de carbone ?",
-    "correct_answer": "Photosynthèse",
-    "incorrect_answers": [
-      "Respiration",
-      "Fermentation",
-      "Transpiration"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1748261347902-451fb437e8fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les cellules se divisent pour former des gamètes ?",
+    "question": "Quel est le nom du processus par lequel une cellule se divise pour former des gamètes ?",
     "correct_answer": "Méiose",
     "incorrect_answers": [
       "Mitose",
-      "Apoptose",
-      "Nécrose"
+      "Fission binaire",
+      "Budding"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556761867-50fd6cf7f0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La méiose réduit de moitié le nombre de chromosomes pour former des ovules ou spermatozoïdes.",
+    "imageUrl": "https://images.unsplash.com/photo-1616046560582-41ac3c954715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes stockent l'énergie ?",
-    "correct_answer": "Photosynthèse",
+    "question": "Quel est le nom du premier élément chimique synthétisé artificiellement en 1940 ?",
+    "correct_answer": "Technétium",
     "incorrect_answers": [
-      "Respiration",
-      "Fermentation",
-      "Transpiration"
+      "Plutonium",
+      "Neptunium",
+      "Prométhium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1636751179475-516561a802c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le technétium, de numéro atomique 43, n'existe pas naturellement sur Terre.",
+    "imageUrl": "https://images.unsplash.com/photo-1643625794877-b808168ba474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules communiquent entre elles ?",
-    "correct_answer": "Signalisation cellulaire",
+    "question": "Quel est le nom de la loi qui décrit la relation entre courant, tension et résistance ?",
+    "correct_answer": "Loi d'Ohm",
     "incorrect_answers": [
-      "Mitose",
-      "Méiose",
-      "Apoptose"
+      "Loi de Joule",
+      "Loi de Faraday",
+      "Loi de Lenz"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1576670159805-622729b5b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "U = R × I, où U est la tension, R la résistance et I l'intensité.",
+    "imageUrl": "https://images.unsplash.com/photo-1766713203219-8ca06e1f4db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes libèrent du dioxyde de carbone ?",
-    "correct_answer": "Respiration",
+    "question": "Quel est le nom du phénomène où la lumière change de direction en passant d'un milieu à un autre ?",
+    "correct_answer": "Réfraction",
     "incorrect_answers": [
-      "Photosynthèse",
-      "Fermentation",
-      "Transpiration"
+      "Réflexion",
+      "Diffraction",
+      "Interférence"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1657269946528-fb9aa16fd925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La réfraction explique pourquoi un bâton semble plié dans l'eau.",
+    "imageUrl": "https://images.unsplash.com/photo-1775148582526-75c707421350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules se réparent ?",
-    "correct_answer": "Mitose",
+    "question": "Quel est le nom de la maladie neurodégénérative causant des tremblements involontaires ?",
+    "correct_answer": "Maladie de Parkinson",
     "incorrect_answers": [
-      "Méiose",
-      "Apoptose",
-      "Nécrose"
+      "Alzheimer",
+      "Sclérose en plaques",
+      "Épilepsie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760738999560-bcb2a000938a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Parkinson est liée à la dégénérescence des neurones produisant la dopamine.",
+    "imageUrl": "https://images.unsplash.com/photo-1631816290138-9f0f79cada3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes absorbent la lumière ?",
-    "correct_answer": "Photosynthèse",
+    "question": "Quel est le nom du processus par lequel une substance se dissout dans un solvant ?",
+    "correct_answer": "Dissolution",
     "incorrect_answers": [
-      "Respiration",
-      "Fermentation",
-      "Transpiration"
+      "Sublimation",
+      "Condensation",
+      "Vaporisation"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928299025-47892a76808a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La dissolution dépend de la polarité des molécules et de la température.",
+    "imageUrl": "https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules produisent des protéines ?",
-    "correct_answer": "Traduction",
+    "question": "Quel est le nom du premier humain à avoir voyagé dans l'espace en 1961 ?",
+    "correct_answer": "Yuri Gagarine",
     "incorrect_answers": [
-      "Transcription",
-      "Réplication",
-      "Mitose"
+      "Neil Armstrong",
+      "John Glenn",
+      "Valentina Terechkova"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556760646-50241850eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Gagarine a effectué un tour de la Terre à bord de Vostok 1.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928374389-6eeee0e5e4ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes perdent des feuilles ?",
-    "correct_answer": "Déciduité",
+    "question": "Quel est le nom de la théorie expliquant la propagation des ondes électromagnétiques ?",
+    "correct_answer": "Théorie de Maxwell",
     "incorrect_answers": [
-      "Photosynthèse",
-      "Respiration",
-      "Transpiration"
+      "Théorie de la relativité",
+      "Théorie quantique",
+      "Théorie des cordes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1603895544146-3b0636f1348f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Maxwell a unifié électricité et magnétisme en quatre équations.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules se divisent pour former des tissus ?",
-    "correct_answer": "Mitose",
+    "question": "Quel est le nom du gaz utilisé dans les extincteurs pour étouffer les flammes ?",
+    "correct_answer": "Dioxyde de carbone",
     "incorrect_answers": [
-      "Méiose",
-      "Apoptose",
-      "Nécrose"
+      "Oxygène",
+      "Azote",
+      "Hélium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1581056771306-166fa643838c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le CO2 remplace l'oxygène et refroidit le feu par sublimation.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928333621-949abc1ec6f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes stockent l'eau ?",
-    "correct_answer": "Turgescence",
+    "question": "Quel est le nom de la maladie causée par une carence en vitamine B1 ?",
+    "correct_answer": "Béribéri",
     "incorrect_answers": [
-      "Photosynthèse",
-      "Respiration",
-      "Transpiration"
+      "Scorbut",
+      "Rachitisme",
+      "Pellagre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928309809-776bf9db8658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le béribéri affecte le système nerveux et cardiovasculaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928298849-325cec8771c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules meurent de vieillesse ?",
-    "correct_answer": "Sénescence",
+    "question": "Quel est le nom du processus par lequel une plante tourne vers la lumière ?",
+    "correct_answer": "Phototropisme",
     "incorrect_answers": [
-      "Apoptose",
-      "Nécrose",
-      "Mitose"
+      "Gravitropisme",
+      "Hydrotropisme",
+      "Thigmotropisme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928321679-560bb453f190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le phototropisme est médié par l'hormone auxine.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928355784-b05f7a78b842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes libèrent de l'eau sous forme de vapeur ?",
-    "correct_answer": "Transpiration",
+    "question": "Quel est le nom du premier ordinateur électronique programmable en 1946 ?",
+    "correct_answer": "ENIAC",
     "incorrect_answers": [
-      "Photosynthèse",
-      "Respiration",
-      "Absorption"
+      "Colossus",
+      "Mark I",
+      "Z3"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1643625668608-6e135f415c2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'ENIAC pesait 30 tonnes et utilisait 18 000 tubes à vide.",
+    "imageUrl": "https://images.unsplash.com/photo-1636751179475-516561a802c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules produisent de l'ADN ?",
-    "correct_answer": "Réplication",
+    "question": "Quel est le nom de la particule subatomique qui compose les protons et neutrons ?",
+    "correct_answer": "Quark",
     "incorrect_answers": [
-      "Transcription",
-      "Traduction",
-      "Mitose"
+      "Lepton",
+      "Boson",
+      "Neutrino"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les quarks sont liés par la force nucléaire forte et n'existent pas isolément.",
+    "imageUrl": "https://images.unsplash.com/photo-1551811372-3ad1df6d6403?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes absorbent les nutriments ?",
-    "correct_answer": "Absorption racinaire",
+    "question": "Quel est le nom du phénomène où un corps céleste passe devant un autre depuis notre point de vue ?",
+    "correct_answer": "Transit",
     "incorrect_answers": [
-      "Photosynthèse",
-      "Respiration",
-      "Transpiration"
+      "Éclipse",
+      "Occultation",
+      "Conjonction"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1602928333621-949abc1ec6f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Un transit de Vénus devant le Soleil a permis de mesurer la distance Terre-Soleil.",
+    "imageUrl": "https://images.unsplash.com/photo-1676293107432-1b6753581201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules se multiplient ?",
-    "correct_answer": "Mitose",
+    "question": "Quel est le nom de la loi qui décrit la conservation de l'énergie dans un système isolé ?",
+    "correct_answer": "Premier principe de la thermodynamique",
     "incorrect_answers": [
-      "Méiose",
-      "Apoptose",
-      "Nécrose"
+      "Deuxième principe",
+      "Loi de conservation de la masse",
+      "Loi de l'entropie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1684259498786-ffaf1ec5c5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'énergie ne peut être ni créée ni détruite, seulement transformée.",
+    "imageUrl": "https://images.unsplash.com/photo-1758573467057-99f26217b2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes libèrent de l'oxygène la nuit ?",
-    "correct_answer": "Respiration",
+    "question": "Quel est le nom de la maladie causée par une carence en iode ?",
+    "correct_answer": "Goitre",
     "incorrect_answers": [
-      "Photosynthèse",
-      "Fermentation",
-      "Transpiration"
+      "Scorbut",
+      "Rachitisme",
+      "Béribéri"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1551811372-3ad1df6d6403?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le goitre provoque un gonflement de la thyroïde dû à un manque d'iode.",
+    "imageUrl": "https://images.unsplash.com/photo-1766297248076-2848d8d0d464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules se spécialisent en organes ?",
-    "correct_answer": "Différenciation cellulaire",
+    "question": "Quel est le nom du processus par lequel une cellule ingère une particule solide ?",
+    "correct_answer": "Phagocytose",
     "incorrect_answers": [
-      "Mitose",
-      "Méiose",
-      "Apoptose"
+      "Pinocytose",
+      "Endocytose",
+      "Exocytose"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1777631587017-ab434588da3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La phagocytose est utilisée par les globules blancs pour éliminer les pathogènes.",
+    "imageUrl": "https://images.unsplash.com/photo-1742137587512-1276fbcf973c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes stockent l'énergie solaire ?",
-    "correct_answer": "Photosynthèse",
+    "question": "Quel est le nom de la théorie expliquant la formation des trous noirs ?",
+    "correct_answer": "Relativité générale",
     "incorrect_answers": [
-      "Respiration",
-      "Fermentation",
-      "Transpiration"
+      "Théorie quantique",
+      "Théorie des cordes",
+      "Mécanique newtonienne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1570723989345-3a537f60a9c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Einstein a prédit les trous noirs comme solutions de ses équations.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848567-a24f55473cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules communiquent via des signaux chimiques ?",
-    "correct_answer": "Signalisation cellulaire",
+    "question": "Quel est le nom du gaz utilisé dans les ampoules à incandescence avant d'être remplacé ?",
+    "correct_answer": "Argon",
     "incorrect_answers": [
-      "Mitose",
-      "Méiose",
-      "Apoptose"
+      "Azote",
+      "Oxygène",
+      "Krypton"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618281228519-81136b42f6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'argon, inerte, prolonge la durée de vie du filament en évitant l'oxydation.",
+    "imageUrl": "https://images.unsplash.com/photo-1566216867955-5b2e8c77e45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes absorbent le dioxyde de carbone la nuit ?",
-    "correct_answer": "Respiration",
+    "question": "Quel est le nom de la maladie génétique causant une accumulation de fer dans le corps ?",
+    "correct_answer": "Hémochromatose",
     "incorrect_answers": [
-      "Photosynthèse",
-      "Fermentation",
-      "Transpiration"
+      "Mucoviscidose",
+      "Drépanocytose",
+      "Phénylcétonurie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1556201977-1df3c782a58e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'hémochromatose peut causer des lésions hépatiques et cardiaques.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734160-3a2f6f73f3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules se divisent pour former des organes ?",
-    "correct_answer": "Mitose",
+    "question": "Quel est le nom du processus par lequel une plante produit des graines sans fécondation ?",
+    "correct_answer": "Apomixie",
     "incorrect_answers": [
-      "Méiose",
-      "Apoptose",
-      "Nécrose"
+      "Pollinisation",
+      "Fécondation croisée",
+      "Hybridation"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618826470964-f6f8b3ae52aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'apomixie permet une reproduction asexuée chez certaines plantes.",
+    "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la loi qui décrit la relation entre la température et le volume d'un gaz ?",
+    "correct_answer": "Loi de Charles",
+    "incorrect_answers": [
+      "Loi de Boyle",
+      "Loi de Gay-Lussac",
+      "Loi des gaz parfaits"
+    ],
+    "explanation": "V/T = constante pour une pression donnée, où V est le volume et T la température.",
+    "imageUrl": "https://images.unsplash.com/photo-1684259498786-ffaf1ec5c5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier animal cloné à partir d'une cellule adulte en 1996 ?",
+    "correct_answer": "Dolly la brebis",
+    "incorrect_answers": [
+      "Polly le porc",
+      "Molly la vache",
+      "Holly le cheval"
+    ],
+    "explanation": "Dolly a été créée par transfert de noyau cellulaire à partir d'une cellule mammaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1581056771306-166fa643838c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la particule qui transmet la force électromagnétique ?",
+    "correct_answer": "Photon",
+    "incorrect_answers": [
+      "Gluon",
+      "Boson W",
+      "Graviton"
+    ],
+    "explanation": "Le photon est la particule associée aux ondes électromagnétiques.",
+    "imageUrl": null
+  },
+  {
+    "question": "Quel est le nom du phénomène où un liquide ne mouille pas une surface ?",
+    "correct_answer": "Non-mouillage",
+    "incorrect_answers": [
+      "Mouillage",
+      "Capillarité",
+      "Tension superficielle"
+    ],
+    "explanation": "Le non-mouillage est observable avec le mercure ou les feuilles de lotus.",
+    "imageUrl": null
+  },
+  {
+    "question": "Quel est le nom de la maladie causée par une carence en vitamine A ?",
+    "correct_answer": "Cécité nocturne",
+    "incorrect_answers": [
+      "Scorbut",
+      "Rachitisme",
+      "Béribéri"
+    ],
+    "explanation": "La carence en vitamine A affecte la vision et la santé de la peau.",
+    "imageUrl": null
+  },
+  {
+    "question": "Quel est le nom du processus par lequel une cellule libère des substances dans le milieu extracellulaire ?",
+    "correct_answer": "Exocytose",
+    "incorrect_answers": [
+      "Endocytose",
+      "Pinocytose",
+      "Phagocytose"
+    ],
+    "explanation": "L'exocytose permet la sécrétion d'hormones ou d'enzymes.",
+    "imageUrl": null
   }
 ]

@@ -1,22 +1,34 @@
 #!/usr/bin/env python3
 """
 Script de préparation de release Agora.
-Étape 1 : Génère les questions QCM via Gemini (si manquantes ou --force).
-Étape 2 : Récupère 30 URLs d'images par thème×difficulté (Unsplash → Pexels → Pixabay)
+Étape 1 : Génère les questions QCM via Mistral (Gemini en fallback si quota dépassé).
+Étape 2 : Récupère les URLs d'images par thème×difficulté (Unsplash → Pexels → Pixabay)
           et les injecte dans les fichiers JSON de questions (champ "imageUrl" par question).
-Étape 3 : Monte la version patch (x.y.z → x.y.z+1) dans app/build.gradle.kts,
-          puis fait git add + commit + tag (sauf si --no-git).
+
+Les deux étapes sont indépendantes et peuvent être lancées séparément :
+  - Questions : toutes les 2-3 semaines (contenu)
+  - Images    : tous les 2-3 mois (URLs Unsplash périment)
 
 Les clés API sont lues depuis local.properties à la racine du projet agora.
 Elles ne transitent jamais dans le code source ni dans l'APK.
 
 Usage :
-    python prepare_release.py                    # Génère les manquants + toutes les images + bump version
-    python prepare_release.py --force            # Régénère tout (questions + images) + bump version
-    python prepare_release.py --images-only      # Rafraîchit uniquement les images + bump version
-    python prepare_release.py --theme HISTOIRE   # Un seul thème
-    python prepare_release.py --difficulty DEBUTANT  # Une seule difficulté
-    python prepare_release.py --no-git           # Ne fait pas le commit/tag git
+    # Questions uniquement (pas d'images)
+    python3 prepare_release.py --no-images               # Génère les fichiers manquants
+    python3 prepare_release.py --no-images --force       # Régénère tout
+    python3 prepare_release.py --no-images --theme HISTOIRE          # Un seul thème
+    python3 prepare_release.py --no-images --theme HISTOIRE --difficulty DEBUTANT
+
+    # Images uniquement (ne touche pas aux questions)
+    python3 prepare_release.py --images-only             # Tous les thèmes
+    python3 prepare_release.py --images-only --theme HISTOIRE        # Un seul thème
+
+    # Les deux en une passe (comportement par défaut)
+    python3 prepare_release.py                           # Manquants + images
+    python3 prepare_release.py --force                   # Tout régénérer
+
+    # Options communes
+    python3 prepare_release.py --no-git                  # Sans commit/tag git
 """
 
 import argparse
@@ -81,6 +93,8 @@ THEMES = {
     "MYTHOLOGIE":    ("mythology ancient gods temple",   "Mythologie (dieux grecs, romains, nordiques, égyptiens, héros mythologiques, créatures légendaires)"),
     "ANIMAUX":       ("wild animals nature wildlife",    "Animaux (espèces animales, comportements, habitats naturels, records animaliers, classification zoologique)"),
     "VEHICULES":     ("vehicles cars aviation transport","Véhicules (voitures, avions, bateaux, trains, histoire des transports, records de vitesse)"),
+    "GASTRONOMIE":   ("gourmet food cuisine chef",       "Gastronomie (cuisine du monde, techniques culinaires, chefs étoilés, vins, fromages, gastronomie française et internationale, recettes emblématiques)"),
+    "JEUX_VIDEO":    ("video games controller gaming",   "Jeux vidéo (jeux cultes, consoles, studios de développement, personnages iconiques, histoire du jeu vidéo, records et récompenses)"),
 }
 
 DIFFICULTIES = {
@@ -112,12 +126,18 @@ RÈGLES ANTI-DOUBLONS (OBLIGATOIRES) :
 - Varie au maximum les angles : dates, lieux, personnes, œuvres, définitions, records, anecdotes, étymologies...
 - Si le thème est pointu, élargis aux sous-domaines connexes plutôt que de répéter les mêmes sujets
 
+EXPLICATION (OBLIGATOIRE) :
+- Chaque question doit inclure un champ "explanation" : une phrase courte (1-2 phrases max) qui explique pourquoi la bonne réponse est correcte
+- L'explication doit apporter un contexte ou un fait mémorisable, pas juste répéter la réponse
+- Longueur : 20 à 120 caractères
+
 Réponds UNIQUEMENT avec un tableau JSON valide, sans texte avant ou après, sans balises markdown :
 [
   {{
     "question": "Texte de la question ?",
     "correct_answer": "La bonne réponse",
-    "incorrect_answers": ["Mauvaise réponse 1", "Mauvaise réponse 2", "Mauvaise réponse 3"]
+    "incorrect_answers": ["Mauvaise réponse 1", "Mauvaise réponse 2", "Mauvaise réponse 3"],
+    "explanation": "Courte explication mémorisable de la bonne réponse."
   }}
 ]"""
 
@@ -161,11 +181,14 @@ def validate_questions(questions: list) -> list:
             and len(q["incorrect_answers"]) == 3
             and all(isinstance(a, str) for a in q["incorrect_answers"])
         ):
-            valid.append({
+            entry = {
                 "question": str(q["question"]).strip(),
                 "correct_answer": str(q["correct_answer"]).strip(),
                 "incorrect_answers": [str(a).strip() for a in q["incorrect_answers"]],
-            })
+            }
+            if "explanation" in q and isinstance(q["explanation"], str) and q["explanation"].strip():
+                entry["explanation"] = str(q["explanation"]).strip()
+            valid.append(entry)
     return valid
 
 
@@ -382,11 +405,16 @@ def git_commit_and_tag(version: str) -> None:
 def main():
     parser = argparse.ArgumentParser(description="Prépare la release Agora (questions + images)")
     parser.add_argument("--force",       action="store_true", help="Régénère questions et images même si déjà présents")
-    parser.add_argument("--images-only", action="store_true", help="Rafraîchit uniquement les images")
+    parser.add_argument("--images-only", action="store_true", help="Rafraîchit uniquement les images (ne touche pas aux questions)")
+    parser.add_argument("--no-images",   action="store_true", help="Génère uniquement les questions (pas d'images)")
     parser.add_argument("--theme",       type=str, help="Traite uniquement ce thème (ex: HISTOIRE)")
     parser.add_argument("--difficulty",  type=str, help="Traite uniquement cette difficulté (ex: DEBUTANT)")
     parser.add_argument("--no-git",      action="store_true", help="Ne fait pas le commit/tag git")
     args = parser.parse_args()
+
+    if args.images_only and args.no_images:
+        print("⚠  --images-only et --no-images sont incompatibles")
+        return
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     api_keys = load_api_keys()
@@ -396,12 +424,13 @@ def main():
     total = len(themes) * len(difficulties)
 
     print(f"\n{'='*60}")
+    mode = "images seules" if args.images_only else ("questions seules" if args.no_images else "questions + images")
     print(f"  AGORA — Préparation release")
-    print(f"  {total} combinaisons | images-only={args.images_only} | force={args.force}")
+    print(f"  {total} combinaisons | mode={mode} | force={args.force}")
     print(f"  Sortie : {os.path.abspath(OUTPUT_DIR)}")
     print(f"{'='*60}\n")
 
-    # Providers LLM : Mistral en premier, Gemini en fallback (inutilisés si --images-only)
+    # Providers LLM : Mistral en premier, Gemini en fallback (inutilisés si --images-only ou --no-images sans génération)
     if not args.images_only:
         providers = []
         mistral_key = api_keys.get("MISTRAL_API_KEY", "")
@@ -463,6 +492,10 @@ def main():
                             time.sleep(DELAY_BETWEEN_CALLS)
 
                 # ── Étape 2 : Images ────────────────────────────────────────
+                if args.no_images:
+                    print(f"    Images    : ignorées (--no-images)")
+                    continue
+
                 if not os.path.exists(filepath):
                     print(f"    ⚠  Fichier JSON absent, images ignorées")
                     continue

@@ -26,7 +26,7 @@ object DatabaseModule {
             AgoraDatabase::class.java,
             "agora_database"
         )
-            .addMigrations(AgoraDatabase.MIGRATION_1_2, AgoraDatabase.MIGRATION_2_3)
+            .addMigrations(AgoraDatabase.MIGRATION_1_2, AgoraDatabase.MIGRATION_2_3, AgoraDatabase.MIGRATION_3_4, AgoraDatabase.MIGRATION_4_5)
             .build()
     }
 

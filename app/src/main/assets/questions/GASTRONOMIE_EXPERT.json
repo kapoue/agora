@@ -1,0 +1,673 @@
+[
+  {
+    "question": "Quel chef français a obtenu la première étoile Michelin en 1926 pour son restaurant La Pyramide à Vienne ?",
+    "correct_answer": "Fernand Point",
+    "incorrect_answers": [
+      "Auguste Escoffier",
+      "Paul Bocuse",
+      "Marie-Antoine Carême"
+    ],
+    "explanation": "Fernand Point a révolutionné la cuisine française moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1565895405139-e188df996e0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage italien est traditionnellement fabriqué avec du lait de brebis et vieilli dans des grottes de la région des Abruzzes ?",
+    "correct_answer": "Pecorino di Fossa",
+    "incorrect_answers": [
+      "Gorgonzola",
+      "Parmigiano Reggiano",
+      "Mozzarella di Bufala"
+    ],
+    "explanation": "Pecorino di Fossa est affiné dans des fosses creusées dans la roche.",
+    "imageUrl": "https://images.unsplash.com/photo-1673720111782-9d14bcbd97db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin français est produit exclusivement à partir du cépage Syrah dans la vallée du Rhône ?",
+    "correct_answer": "Hermitage",
+    "incorrect_answers": [
+      "Châteauneuf-du-Pape",
+      "Saint-Émilion",
+      "Sancerre"
+    ],
+    "explanation": "L'Hermitage est un vin rouge puissant et complexe.",
+    "imageUrl": "https://images.unsplash.com/photo-1565895405138-6c3a1555da6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat japonais est préparé avec des œufs battus cuits lentement à basse température dans un bouillon dashi ?",
+    "correct_answer": "Chawanmushi",
+    "incorrect_answers": [
+      "Okonomiyaki",
+      "Takoyaki",
+      "Yakitori"
+    ],
+    "explanation": "Chawanmushi est une spécialité de la cuisine kaiseki.",
+    "imageUrl": "https://images.unsplash.com/photo-1775497973007-8ba67e4d07d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef espagnol a popularisé la technique de la cuisson sous-vide dans les années 1970 ?",
+    "correct_answer": "Ferran Adrià",
+    "incorrect_answers": [
+      "Juan Mari Arzak",
+      "Sergi Arola",
+      "Andoni Luis Aduriz"
+    ],
+    "explanation": "Ferran Adrià a révolutionné la gastronomie avec l'élBulli.",
+    "imageUrl": "https://images.unsplash.com/photo-1775497950035-38677f62bb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage français est protégé par une AOP et fabriqué uniquement avec du lait cru de chèvre ?",
+    "correct_answer": "Crottin de Chavignol",
+    "incorrect_answers": [
+      "Camembert de Normandie",
+      "Reblochon",
+      "Bleu d'Auvergne"
+    ],
+    "explanation": "Le Crottin de Chavignol est un fromage de la Loire.",
+    "imageUrl": "https://images.unsplash.com/photo-1750943082166-8753023ff83a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin italien est produit dans la région de la Toscane à partir de Sangiovese et vieilli en fûts de chêne ?",
+    "correct_answer": "Brunello di Montalcino",
+    "incorrect_answers": [
+      "Barolo",
+      "Chianti Classico",
+      "Prosecco"
+    ],
+    "explanation": "Brunello di Montalcino est un vin rouge corsé et structuré.",
+    "imageUrl": "https://images.unsplash.com/photo-1764397514739-57a0ac81330d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat mexicain est composé de tortillas garnies de viande, de fromage et de piments, puis grillées ?",
+    "correct_answer": "Quesadilla",
+    "incorrect_answers": [
+      "Taco",
+      "Enchilada",
+      "Tamale"
+    ],
+    "explanation": "La quesadilla est une spécialité de la cuisine mexicaine.",
+    "imageUrl": "https://images.unsplash.com/photo-1761095596591-a56b0296c190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a créé la recette du soufflé au fromage en 1782 ?",
+    "correct_answer": "Marie-Antoine Carême",
+    "incorrect_answers": [
+      "Auguste Escoffier",
+      "Paul Bocuse",
+      "Fernand Point"
+    ],
+    "explanation": "Carême est considéré comme le père de la cuisine française moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1750943081248-833d71a2ab8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage suisse est fabriqué avec du lait de vache et présente des trous caractéristiques ?",
+    "correct_answer": "Emmental",
+    "incorrect_answers": [
+      "Gruyère",
+      "Appenzeller",
+      "Tête de Moine"
+    ],
+    "explanation": "L'Emmental est reconnaissable à ses gros trous dus à la fermentation.",
+    "imageUrl": "https://images.unsplash.com/photo-1774970885523-a6d56e4fbc40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin français est produit dans la région de Bordeaux à partir des cépages Merlot et Cabernet Franc ?",
+    "correct_answer": "Saint-Émilion",
+    "incorrect_answers": [
+      "Pauillac",
+      "Margaux",
+      "Sauternes"
+    ],
+    "explanation": "Saint-Émilion est un vin rouge charnu et fruité.",
+    "imageUrl": "https://images.unsplash.com/photo-1566670735661-a3af40a3b4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat italien est une pâte feuilletée garnie de ricotta, d'épinards et de parmesan ?",
+    "correct_answer": "Cannelloni",
+    "incorrect_answers": [
+      "Lasagne",
+      "Ravioli",
+      "Tortellini"
+    ],
+    "explanation": "Les cannelloni sont souvent gratinés au four.",
+    "imageUrl": "https://images.unsplash.com/photo-1761095596588-e85f6a028894?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a obtenu 3 étoiles Michelin pour son restaurant L'Ambroisie à Paris ?",
+    "correct_answer": "Mathieu Viannay",
+    "incorrect_answers": [
+      "Alain Ducasse",
+      "Joël Robuchon",
+      "Yannick Alléno"
+    ],
+    "explanation": "Mathieu Viannay a succédé à son père dans la gestion du restaurant.",
+    "imageUrl": "https://images.unsplash.com/photo-1750943047277-7d7b263cd97e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage italien est fabriqué avec du lait de bufflonne et présente une texture filante ?",
+    "correct_answer": "Mozzarella di Bufala",
+    "incorrect_answers": [
+      "Pecorino Romano",
+      "Gorgonzola",
+      "Taleggio"
+    ],
+    "explanation": "La mozzarella di bufala est une spécialité de Campanie.",
+    "imageUrl": "https://images.unsplash.com/photo-1761095596765-c8abe01d3aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin espagnol est produit dans la région de la Rioja à partir du cépage Tempranillo ?",
+    "correct_answer": "Rioja Reserva",
+    "incorrect_answers": [
+      "Ribera del Duero",
+      "Priorat",
+      "Cava"
+    ],
+    "explanation": "Rioja Reserva est un vin rouge vieilli en fût de chêne.",
+    "imageUrl": "https://images.unsplash.com/photo-1769955817432-641929f613f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat japonais est une soupe miso garnie de tofu, d'algues et de champignons ?",
+    "correct_answer": "Miso-shiru",
+    "incorrect_answers": [
+      "Ramen",
+      "Udon",
+      "Soba"
+    ],
+    "explanation": "Le miso-shiru est un plat traditionnel du petit-déjeuner japonais.",
+    "imageUrl": "https://images.unsplash.com/photo-1776580688714-6bbb5603e594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a inventé la recette du boeuf bourguignon au XIXe siècle ?",
+    "correct_answer": "Auguste Escoffier",
+    "incorrect_answers": [
+      "Marie-Antoine Carême",
+      "Paul Bocuse",
+      "Fernand Point"
+    ],
+    "explanation": "Escoffier a codifié la cuisine française moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1768179690909-6468edbd7eb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage français est fabriqué avec du lait de brebis et présente une croûte naturelle fleurie ?",
+    "correct_answer": "Roquefort",
+    "incorrect_answers": [
+      "Camembert",
+      "Reblochon",
+      "Brie de Meaux"
+    ],
+    "explanation": "Le Roquefort est affiné dans les caves naturelles de Roquefort-sur-Soulzon.",
+    "imageUrl": "https://images.unsplash.com/photo-1673720111785-4f189a234616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin italien est produit dans la région du Piémont à partir du cépage Nebbiolo ?",
+    "correct_answer": "Barolo",
+    "incorrect_answers": [
+      "Chianti",
+      "Prosecco",
+      "Soave"
+    ],
+    "explanation": "Le Barolo est surnommé le 'roi des vins'.",
+    "imageUrl": "https://images.unsplash.com/photo-1673720111918-9463ea963d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat mexicain est une galette de maïs garnie de viande, de haricots et de salsa ?",
+    "correct_answer": "Tlayuda",
+    "incorrect_answers": [
+      "Burrito",
+      "Taco",
+      "Enchilada"
+    ],
+    "explanation": "La tlayuda est une spécialité de l'État d'Oaxaca.",
+    "imageUrl": "https://images.unsplash.com/photo-1564851287875-fb73b71f0e4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a popularisé la cuisine moléculaire dans les années 1990 ?",
+    "correct_answer": "Hervé This",
+    "incorrect_answers": [
+      "Ferran Adrià",
+      "Pierre Gagnaire",
+      "Michel Bras"
+    ],
+    "explanation": "Hervé This est le père de la gastronomie moléculaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1750943041213-db8328856b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage français est fabriqué avec du lait de vache et présente une croûte lavée à l'eau-de-vie ?",
+    "correct_answer": "Époisses",
+    "incorrect_answers": [
+      "Munster",
+      "Pont-l'Évêque",
+      "Livarot"
+    ],
+    "explanation": "L'Époisses est un fromage fort et crémeux.",
+    "imageUrl": "https://images.unsplash.com/photo-1771508558305-11364b4069b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin français est produit dans la région de la Bourgogne à partir du cépage Pinot Noir ?",
+    "correct_answer": "Gevrey-Chambertin",
+    "incorrect_answers": [
+      "Chablis",
+      "Pouilly-Fuissé",
+      "Mâcon-Villages"
+    ],
+    "explanation": "Gevrey-Chambertin est un vin rouge élégant et complexe.",
+    "imageUrl": "https://images.unsplash.com/photo-1564683214963-f09d6724be6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat italien est une pâte à base de semoule de blé dur, coupée en petits morceaux ?",
+    "correct_answer": "Couscous",
+    "incorrect_answers": [
+      "Risotto",
+      "Polenta",
+      "Gnocchi"
+    ],
+    "explanation": "Le couscous est une spécialité maghrébine popularisée en Italie.",
+    "imageUrl": "https://images.unsplash.com/photo-1776353744117-9e8595e8092c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a obtenu 3 étoiles Michelin pour son restaurant L'Astrance à Paris ?",
+    "correct_answer": "Pascal Barbot",
+    "incorrect_answers": [
+      "Alain Ducasse",
+      "Joël Robuchon",
+      "Yannick Alléno"
+    ],
+    "explanation": "Pascal Barbot a ouvert L'Astrance en 2001.",
+    "imageUrl": "https://images.unsplash.com/photo-1768849352371-24837caf2179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage italien est fabriqué avec du lait de vache et présente une forme de roue plate ?",
+    "correct_answer": "Parmigiano Reggiano",
+    "incorrect_answers": [
+      "Pecorino Romano",
+      "Gorgonzola",
+      "Taleggio"
+    ],
+    "explanation": "Le Parmigiano Reggiano est affiné pendant au moins 12 mois.",
+    "imageUrl": "https://images.unsplash.com/photo-1779315239094-c3936462a928?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin espagnol est produit dans la région de la Catalogne à partir du cépage Macabeo ?",
+    "correct_answer": "Cava",
+    "incorrect_answers": [
+      "Rioja",
+      "Ribera del Duero",
+      "Priorat"
+    ],
+    "explanation": "Le Cava est un vin effervescent similaire au Champagne.",
+    "imageUrl": "https://images.unsplash.com/photo-1769955817432-641929f613f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat japonais est une soupe de nouilles garnie de porc, d'œuf et de légumes ?",
+    "correct_answer": "Ramen",
+    "incorrect_answers": [
+      "Udon",
+      "Soba",
+      "Yakitori"
+    ],
+    "explanation": "Le ramen est un plat emblématique de la cuisine japonaise.",
+    "imageUrl": "https://images.unsplash.com/photo-1701272544428-46efe11e44d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a créé la recette du coq au vin au XVIIIe siècle ?",
+    "correct_answer": "Marie-Antoine Carême",
+    "incorrect_answers": [
+      "Auguste Escoffier",
+      "Paul Bocuse",
+      "Fernand Point"
+    ],
+    "explanation": "Carême a popularisé ce plat dans la cuisine bourgeoise.",
+    "imageUrl": "https://images.unsplash.com/photo-1673720111789-e2cff16bea90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage français est fabriqué avec du lait de chèvre et présente une forme de pyramide ?",
+    "correct_answer": "Valençay",
+    "incorrect_answers": [
+      "Crottin de Chavignol",
+      "Sainte-Maure",
+      "Chabichou"
+    ],
+    "explanation": "Le Valençay est souvent recouvert de cendre ou de poivre.",
+    "imageUrl": "https://images.unsplash.com/photo-1775497950071-965cf9e20b2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin français est produit dans la région de la Vallée de la Loire à partir du cépage Chenin Blanc ?",
+    "correct_answer": "Vouvray",
+    "incorrect_answers": [
+      "Sancerre",
+      "Pouilly-Fumé",
+      "Muscadet"
+    ],
+    "explanation": "Le Vouvray peut être sec, moelleux ou liquoreux.",
+    "imageUrl": "https://images.unsplash.com/photo-1750943036999-81e666b2296c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat italien est une pâte feuilletée garnie de tomates, de mozzarella et de basilic ?",
+    "correct_answer": "Focaccia",
+    "incorrect_answers": [
+      "Pizza",
+      "Calzone",
+      "Bruschetta"
+    ],
+    "explanation": "La focaccia est une spécialité de la cuisine italienne.",
+    "imageUrl": "https://images.unsplash.com/photo-1768849352377-996d0f6e4810?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a obtenu 3 étoiles Michelin pour son restaurant Le Grand Véfour à Paris ?",
+    "correct_answer": "Guy Martin",
+    "incorrect_answers": [
+      "Alain Ducasse",
+      "Joël Robuchon",
+      "Yannick Alléno"
+    ],
+    "explanation": "Guy Martin a repris Le Grand Véfour en 1992.",
+    "imageUrl": "https://images.unsplash.com/photo-1759277513190-c1685c3792fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage italien est fabriqué avec du lait de bufflonne et présente une texture crémeuse ?",
+    "correct_answer": "Burrata",
+    "incorrect_answers": [
+      "Mozzarella",
+      "Ricotta",
+      "Pecorino"
+    ],
+    "explanation": "La burrata est une spécialité des Pouilles.",
+    "imageUrl": "https://images.unsplash.com/photo-1772329337236-efa977335a7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin espagnol est produit dans la région de la Ribera del Duero à partir du cépage Tempranillo ?",
+    "correct_answer": "Vega Sicilia",
+    "incorrect_answers": [
+      "Rioja",
+      "Priorat",
+      "Cava"
+    ],
+    "explanation": "Vega Sicilia est l'un des vins les plus prestigieux d'Espagne.",
+    "imageUrl": "https://images.unsplash.com/photo-1776483083332-4605f8d8f5a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat japonais est une brochette de poulet grillée, marinée dans une sauce teriyaki ?",
+    "correct_answer": "Yakitori",
+    "incorrect_answers": [
+      "Okonomiyaki",
+      "Takoyaki",
+      "Kushiyaki"
+    ],
+    "explanation": "Le yakitori est un plat populaire servi dans les izakayas.",
+    "imageUrl": "https://images.unsplash.com/photo-1764397514727-32cbff5e5f9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a créé la recette du soufflé au chocolat au XIXe siècle ?",
+    "correct_answer": "Auguste Escoffier",
+    "incorrect_answers": [
+      "Marie-Antoine Carême",
+      "Paul Bocuse",
+      "Fernand Point"
+    ],
+    "explanation": "Escoffier a perfectionné la technique du soufflé.",
+    "imageUrl": "https://images.unsplash.com/photo-1768849352374-f50f9e304a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage français est fabriqué avec du lait de vache et présente une croûte lavée à l'eau-de-vie de cidre ?",
+    "correct_answer": "Pont-l'Évêque",
+    "incorrect_answers": [
+      "Camembert",
+      "Livarot",
+      "Munster"
+    ],
+    "explanation": "Le Pont-l'Évêque est un fromage normand ancien.",
+    "imageUrl": "https://images.unsplash.com/photo-1750943083065-58c643ff3343?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin français est produit dans la région de la Provence à partir du cépage Grenache ?",
+    "correct_answer": "Bandol",
+    "incorrect_answers": [
+      "Côtes de Provence",
+      "Bellet",
+      "Palette"
+    ],
+    "explanation": "Le Bandol est un vin rouge puissant et épicé.",
+    "imageUrl": "https://images.unsplash.com/photo-1759741558362-9dd97b848ae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat italien est une pâte à base de riz, souvent servie en soupe ?",
+    "correct_answer": "Risotto",
+    "incorrect_answers": [
+      "Polenta",
+      "Gnocchi",
+      "Lasagne"
+    ],
+    "explanation": "Le risotto est une spécialité de la cuisine milanaise.",
+    "imageUrl": "https://images.unsplash.com/photo-1673720111781-32fd12e8185d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a obtenu 3 étoiles Michelin pour son restaurant Le Cinq à Paris ?",
+    "correct_answer": "Christian Le Squer",
+    "incorrect_answers": [
+      "Alain Ducasse",
+      "Joël Robuchon",
+      "Yannick Alléno"
+    ],
+    "explanation": "Christian Le Squer a dirigé Le Cinq pendant 15 ans.",
+    "imageUrl": "https://images.unsplash.com/photo-1775498053538-ec293e32b963?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage italien est fabriqué avec du lait de vache et présente une croûte naturelle fleurie ?",
+    "correct_answer": "Taleggio",
+    "incorrect_answers": [
+      "Parmigiano Reggiano",
+      "Gorgonzola",
+      "Pecorino Romano"
+    ],
+    "explanation": "Le Taleggio est un fromage lombard à pâte molle.",
+    "imageUrl": "https://images.unsplash.com/photo-1777206910487-c3ba07050948?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin espagnol est produit dans la région de la Rioja à partir du cépage Garnacha ?",
+    "correct_answer": "Navarra",
+    "incorrect_answers": [
+      "Priorat",
+      "Ribera del Duero",
+      "Cava"
+    ],
+    "explanation": "Le Navarra est un vin rouge fruité et accessible.",
+    "imageUrl": "https://images.unsplash.com/photo-1758580815331-44e9214c3e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat japonais est une soupe de nouilles garnie de bœuf, de légumes et d'un œuf poché ?",
+    "correct_answer": "Pho",
+    "incorrect_answers": [
+      "Ramen",
+      "Udon",
+      "Soba"
+    ],
+    "explanation": "Le pho est un plat emblématique du Vietnam.",
+    "imageUrl": "https://images.unsplash.com/photo-1772329375454-ac4f170e57a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a créé la recette du canard à l'orange au XVIIIe siècle ?",
+    "correct_answer": "Marie-Antoine Carême",
+    "incorrect_answers": [
+      "Auguste Escoffier",
+      "Paul Bocuse",
+      "Fernand Point"
+    ],
+    "explanation": "Carême a popularisé ce plat dans la cuisine française.",
+    "imageUrl": "https://images.unsplash.com/photo-1763376360111-3597e5877517?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage français est fabriqué avec du lait de chèvre et présente une forme de bûche ?",
+    "correct_answer": "Sainte-Maure",
+    "incorrect_answers": [
+      "Crottin de Chavignol",
+      "Valençay",
+      "Chabichou"
+    ],
+    "explanation": "La Sainte-Maure est souvent recouverte de cendre.",
+    "imageUrl": "https://images.unsplash.com/photo-1758892170660-3ad271f3d672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin français est produit dans la région de l'Alsace à partir du cépage Gewurztraminer ?",
+    "correct_answer": "Grand Cru Gewurztraminer",
+    "incorrect_answers": [
+      "Riesling",
+      "Pinot Gris",
+      "Sylvaner"
+    ],
+    "explanation": "Le Gewurztraminer est un vin blanc aromatique et puissant.",
+    "imageUrl": "https://images.unsplash.com/photo-1771513495996-d34083e0d551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat italien est une pâte à base de semoule de blé dur, coupée en rubans larges ?",
+    "correct_answer": "Pappardelle",
+    "incorrect_answers": [
+      "Tagliatelle",
+      "Fettuccine",
+      "Lasagne"
+    ],
+    "explanation": "Les pappardelle sont souvent servies avec des sauces riches.",
+    "imageUrl": "https://images.unsplash.com/photo-1777897371931-af00228044d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a obtenu 3 étoiles Michelin pour son restaurant L'Oustau de Baumanière ?",
+    "correct_answer": "Jean-André Charial",
+    "incorrect_answers": [
+      "Alain Ducasse",
+      "Joël Robuchon",
+      "Yannick Alléno"
+    ],
+    "explanation": "Jean-André Charial a repris l'Oustau en 1985.",
+    "imageUrl": "https://images.unsplash.com/photo-1772311698901-efc1fb8a4bfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage italien est fabriqué avec du lait de brebis et présente une texture friable ?",
+    "correct_answer": "Pecorino Romano",
+    "incorrect_answers": [
+      "Parmigiano Reggiano",
+      "Gorgonzola",
+      "Taleggio"
+    ],
+    "explanation": "Le Pecorino Romano est un fromage sarde ou romain.",
+    "imageUrl": "https://images.unsplash.com/photo-1769596717694-dc2a0a55e5d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin espagnol est produit dans la région de la Priorat à partir du cépage Garnacha ?",
+    "correct_answer": "Clos Mogador",
+    "incorrect_answers": [
+      "Rioja",
+      "Ribera del Duero",
+      "Navarra"
+    ],
+    "explanation": "Clos Mogador est un vin rouge puissant et concentré.",
+    "imageUrl": "https://images.unsplash.com/photo-1761095596635-065d5e13b116?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat japonais est une soupe de nouilles garnie de porc, de légumes et de sauce miso ?",
+    "correct_answer": "Tonkotsu ramen",
+    "incorrect_answers": [
+      "Shoyu ramen",
+      "Miso ramen",
+      "Shio ramen"
+    ],
+    "explanation": "Le tonkotsu ramen est originaire de Fukuoka.",
+    "imageUrl": "https://images.unsplash.com/photo-1750943079462-87bad58cf43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a créé la recette du gratin dauphinois au XVIIIe siècle ?",
+    "correct_answer": "François-Louis Beauvilliers",
+    "incorrect_answers": [
+      "Marie-Antoine Carême",
+      "Auguste Escoffier",
+      "Paul Bocuse"
+    ],
+    "explanation": "Le gratin dauphinois est un plat traditionnel de la cuisine française.",
+    "imageUrl": "https://images.unsplash.com/photo-1770832161810-04cff861da2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage français est fabriqué avec du lait de vache et présente une croûte naturelle fleurie ?",
+    "correct_answer": "Brie de Meaux",
+    "incorrect_answers": [
+      "Camembert",
+      "Reblochon",
+      "Époisses"
+    ],
+    "explanation": "Le Brie de Meaux est un fromage AOP depuis 1980.",
+    "imageUrl": "https://images.unsplash.com/photo-1759521296144-fe6f2d2dc769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin français est produit dans la région de la Bourgogne à partir du cépage Chardonnay ?",
+    "correct_answer": "Meursault",
+    "incorrect_answers": [
+      "Pouilly-Fuissé",
+      "Chablis",
+      "Montrachet"
+    ],
+    "explanation": "Le Meursault est un vin blanc riche et beurré.",
+    "imageUrl": "https://images.unsplash.com/photo-1777897352830-3355142a33d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat italien est une pâte à base de semoule de blé dur, coupée en petits morceaux ronds ?",
+    "correct_answer": "Orzo",
+    "incorrect_answers": [
+      "Risotto",
+      "Gnocchi",
+      "Lasagne"
+    ],
+    "explanation": "L'orzo est souvent utilisé dans les soupes.",
+    "imageUrl": "https://images.unsplash.com/photo-1750943082020-4969b2a63084?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a obtenu 3 étoiles Michelin pour son restaurant Le Louis XV à Monaco ?",
+    "correct_answer": "Alain Ducasse",
+    "incorrect_answers": [
+      "Joël Robuchon",
+      "Yannick Alléno",
+      "Christian Le Squer"
+    ],
+    "explanation": "Alain Ducasse a ouvert Le Louis XV en 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1766232315004-25980447bb19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fromage italien est fabriqué avec du lait de vache et présente une texture filante ?",
+    "correct_answer": "Provolone",
+    "incorrect_answers": [
+      "Mozzarella",
+      "Parmigiano Reggiano",
+      "Gorgonzola"
+    ],
+    "explanation": "Le provolone est souvent affiné pendant plusieurs mois.",
+    "imageUrl": "https://images.unsplash.com/photo-1673720111806-1d26f1e18f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fGdvdXJtZXQlMjBmb29kJTIwY3Vpc2luZSUyMGNoZWZ8ZW58MHx8fHwxNzc5Nzk4NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel vin espagnol est produit dans la région de la Rueda à partir du cépage Verdejo ?",
+    "correct_answer": "Marqués de Riscal Verdejo",
+    "incorrect_answers": [
+      "Rioja",
+      "Ribera del Duero",
+      "Cava"
+    ],
+    "explanation": "Le Verdejo est un cépage blanc aromatique.",
+    "imageUrl": "https://images.unsplash.com/photo-1772329314591-4e3e4a8425ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTg0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel plat japonais est une soupe de nouilles garnie de légumes, de tofu et de sauce soja ?",
+    "correct_answer": "Udon",
+    "incorrect_answers": [
+      "Ramen",
+      "Soba",
+      "Pho"
+    ],
+    "explanation": "L'udon est une spécialité de la cuisine japonaise.",
+    "imageUrl": "https://images.unsplash.com/photo-1759521296013-559479e2a891?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Z291cm1ldCUyMGZvb2QlMjBjdWlzaW5lJTIwY2hlZnxlbnwwfHx8fDE3Nzk3OTgzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel chef français a créé la recette du pot-au-feu au XVIIIe siècle ?",
+    "correct_answer": "Marie-Antoine Carême",
+    "incorrect_answers": [
+      "Auguste Escoffier",
+      "Paul Bocuse",
+      "Fernand Point"
+    ],
+    "explanation": "Le pot-au-feu est un plat traditionnel de la cuisine française.",
+    "imageUrl": null
+  }
+]

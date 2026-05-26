@@ -1,23 +1,47 @@
 [
   {
-    "question": "Quel animal est connu pour porter sa maison sur son dos ?",
-    "correct_answer": "L'escargot",
+    "question": "Quel est l'animal terrestre le plus rapide au monde ?",
+    "correct_answer": "Le guépard",
     "incorrect_answers": [
-      "La tortue",
-      "Le hérisson",
-      "Le crabe"
+      "Le lion",
+      "Le lièvre",
+      "Le kangourou"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1678048632070-b65d83de6e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTEwNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il peut atteindre 110 km/h en sprint sur de courtes distances.",
+    "imageUrl": "https://images.unsplash.com/photo-1616308913711-c2c719dc2ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le plus grand animal terrestre actuel ?",
+    "question": "Quel animal est connu pour changer de couleur selon son environnement ?",
+    "correct_answer": "Le caméléon",
+    "incorrect_answers": [
+      "Le lézard",
+      "Le serpent",
+      "Le poulpe"
+    ],
+    "explanation": "Ses cellules spéciales, les chromatophores, lui permettent de s'adapter.",
+    "imageUrl": "https://images.unsplash.com/photo-1626754413194-6f9b45d3397c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus grand mammifère terrestre actuel ?",
     "correct_answer": "L'éléphant d'Afrique",
     "incorrect_answers": [
       "Le rhinocéros",
       "L'hippopotame",
       "La girafe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1677915762983-c64fc9152c45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il peut peser jusqu'à 7 tonnes et mesurer 4 mètres au garrot.",
+    "imageUrl": "https://images.unsplash.com/photo-1678048632070-b65d83de6e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTc5Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal pond les plus gros œufs du monde ?",
+    "correct_answer": "L'autruche",
+    "incorrect_answers": [
+      "L'émeu",
+      "Le nandou",
+      "Le casoar"
+    ],
+    "explanation": "Ses œufs pèsent environ 1,5 kg, soit l'équivalent de 24 œufs de poule.",
+    "imageUrl": "https://images.unsplash.com/photo-1757860090531-6d34825c5dd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel animal est surnommé le 'roi de la jungle' ?",
@@ -25,259 +49,120 @@
     "incorrect_answers": [
       "Le tigre",
       "Le léopard",
-      "Le gorille"
+      "Le jaguar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1669406047620-509b197b9125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il vit en groupe et domine les autres prédateurs africains.",
+    "imageUrl": "https://images.unsplash.com/photo-1715890434417-40229a310620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de répéter des mots humains ?",
-    "correct_answer": "Le perroquet",
+    "question": "Quel animal est capable de voler sans battre des ailes ?",
+    "correct_answer": "Le planeur",
     "incorrect_answers": [
-      "Le corbeau",
+      "Le colibri",
+      "L'aigle",
+      "Le vautour"
+    ],
+    "explanation": "Certains écureuils volants ou serpents volants planent entre les arbres.",
+    "imageUrl": "https://images.unsplash.com/photo-1701430916245-c126556b6da0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le symbole de la paix dans de nombreuses cultures ?",
+    "correct_answer": "La colombe",
+    "incorrect_answers": [
+      "Le cygne",
       "Le pigeon",
-      "Le canari"
+      "Le paon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1678048632153-d961f9c37a48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTEwNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Dans la Bible, une colombe ramène un rameau d'olivier à Noé.",
+    "imageUrl": "https://images.unsplash.com/photo-1728557349552-c1660fbdff7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal hiberne en hiver ?",
-    "correct_answer": "L'ours",
+    "question": "Quel animal est le plus gros animal marin ?",
+    "correct_answer": "La baleine bleue",
     "incorrect_answers": [
-      "Le renard",
-      "Le loup",
-      "Le cerf"
+      "Le requin blanc",
+      "Le cachalot",
+      "Le calmar géant"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1731994634956-94a42f6b6290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Elle peut mesurer jusqu'à 30 mètres et peser 200 tonnes.",
+    "imageUrl": "https://images.unsplash.com/photo-1650044215771-ecfea2760b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTc5Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal a la capacité de régénérer sa queue ?",
-    "correct_answer": "Le lézard",
+    "question": "Quel animal est connu pour sa mémoire exceptionnelle ?",
+    "correct_answer": "L'éléphant",
     "incorrect_answers": [
-      "Le serpent",
-      "Le crocodile",
-      "La salamandre"
+      "Le chien",
+      "Le dauphin",
+      "Le singe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1718647507338-4dc7b6e6ff86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il se souvient des lieux et des individus pendant des décennies.",
+    "imageUrl": "https://images.unsplash.com/photo-1610714050385-eec2009e935a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est l'animal le plus rapide sur terre ?",
-    "correct_answer": "Le guépard",
+    "question": "Quel animal est le seul mammifère capable de voler activement ?",
+    "correct_answer": "La chauve-souris",
     "incorrect_answers": [
-      "Le lion",
-      "Le lièvre",
-      "Le cheval"
+      "Le colibri",
+      "Le papillon",
+      "L'écureuil volant"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1563644786008-051ff259517c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ses ailes membraneuses lui permettent de battre des ailes comme un oiseau.",
+    "imageUrl": "https://images.unsplash.com/photo-1607268102039-3e470cf6e263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal pond les plus gros œufs ?",
+    "question": "Quel animal est le plus grand reptile vivant aujourd'hui ?",
+    "correct_answer": "Le crocodile marin",
+    "incorrect_answers": [
+      "L'alligator",
+      "Le varan de Komodo",
+      "Le python"
+    ],
+    "explanation": "Il peut atteindre 7 mètres de long et vit en Asie et en Australie.",
+    "imageUrl": "https://images.unsplash.com/photo-1707515637645-7b9ed1e1597f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus gros oiseau incapable de voler ?",
     "correct_answer": "L'autruche",
     "incorrect_answers": [
       "L'émeu",
-      "Le cygne",
-      "Le paon"
+      "Le casoar",
+      "Le kiwi"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1678048632134-79d0c6ebbd53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTEwNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Elle peut courir à 70 km/h et pond des œufs de 1,5 kg.",
+    "imageUrl": "https://images.unsplash.com/photo-1674114411719-199c28e587b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est herbivore et vit dans l'eau ?",
-    "correct_answer": "Le lamantin",
+    "question": "Quel animal est connu pour sa capacité à régénérer ses membres ?",
+    "correct_answer": "Le triton",
     "incorrect_answers": [
-      "Le dauphin",
-      "Le requin",
-      "Le phoque"
+      "La salamandre",
+      "Le lézard",
+      "Le poisson-zèbre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916185-f80c51edf37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il peut faire repousser une patte ou une queue en quelques semaines.",
+    "imageUrl": "https://images.unsplash.com/photo-1674114411719-199c28e587b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est connu pour ses rayures noires et blanches ?",
-    "correct_answer": "Le zèbre",
+    "question": "Quel animal est le plus venimeux au monde ?",
+    "correct_answer": "La méduse-boîte",
     "incorrect_answers": [
-      "Le tigre",
-      "Le guépard",
-      "Le léopard"
+      "Le cobra",
+      "Le serpent corail",
+      "La pieuvre à anneaux bleus"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1611590278089-8dce9a70ed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand mammifère marin ?",
-    "correct_answer": "La baleine bleue",
-    "incorrect_answers": [
-      "Le cachalot",
-      "Le dauphin",
-      "Le requin blanc"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610714050385-eec2009e935a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal a la capacité de changer de couleur pour se camoufler ?",
-    "correct_answer": "Le caméléon",
-    "incorrect_answers": [
-      "Le gecko",
-      "Le lézard vert",
-      "Le serpent"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1626754413194-6f9b45d3397c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le symbole de la paix ?",
-    "correct_answer": "La colombe",
-    "incorrect_answers": [
-      "Le pigeon",
-      "L'aigle",
-      "Le cygne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1716107647226-6d25730fe348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de voler à l'envers ?",
-    "correct_answer": "Le colibri",
-    "incorrect_answers": [
-      "Le papillon",
-      "L'hirondelle",
-      "Le moineau"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1715890434417-40229a310620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand oiseau capable de voler ?",
-    "correct_answer": "L'albatros",
-    "incorrect_answers": [
-      "L'autruche",
-      "L'aigle",
-      "Le condor"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1678048632050-2e3a3ee69ab0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour ses défenses en ivoire ?",
-    "correct_answer": "L'éléphant",
-    "incorrect_answers": [
-      "Le rhinocéros",
-      "Le sanglier",
-      "Le morse"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1660384908980-5235825bd120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Son venin peut tuer un humain en quelques minutes.",
+    "imageUrl": "https://images.unsplash.com/photo-1679807276408-9f7d7501340f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel animal est le plus grand prédateur terrestre ?",
     "correct_answer": "L'ours polaire",
     "incorrect_answers": [
-      "Le lion",
       "Le tigre",
-      "Le loup"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916184-94724f1ad9b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de sauter le plus haut par rapport à sa taille ?",
-    "correct_answer": "La puce",
-    "incorrect_answers": [
-      "Le kangourou",
-      "Le lièvre",
-      "Le lapin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1717379758408-5f96cd93cdb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour son chant mélodieux ?",
-    "correct_answer": "Le rossignol",
-    "incorrect_answers": [
-      "Le merle",
-      "Le moineau",
-      "Le canari"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1677915762650-ae9b94927467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTEwNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand reptile actuel ?",
-    "correct_answer": "Le crocodile marin",
-    "incorrect_answers": [
-      "L'alligator",
-      "Le varan",
-      "Le serpent"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916245-c126556b6da0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de produire de la lumière ?",
-    "correct_answer": "La luciole",
-    "incorrect_answers": [
-      "Le ver de terre",
-      "Le papillon",
-      "Le scarabée"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1678048632154-71cbdd7dcf62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour son chant nocturne ?",
-    "correct_answer": "Le hibou",
-    "incorrect_answers": [
-      "Le corbeau",
-      "Le pigeon",
-      "Le merle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1650044215771-ecfea2760b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTEwNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand félin d'Amérique ?",
-    "correct_answer": "Le jaguar",
-    "incorrect_answers": [
-      "Le puma",
       "Le lion",
-      "Le léopard"
+      "Le loup gris"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774625010223-16d426362b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de marcher sur l'eau ?",
-    "correct_answer": "Le basilic",
-    "incorrect_answers": [
-      "Le lézard",
-      "Le serpent",
-      "Le caméléon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1651707265633-6043d4606339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTEwNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour sa danse nuptiale ?",
-    "correct_answer": "Le paon",
-    "incorrect_answers": [
-      "Le faisan",
-      "Le coq",
-      "Le canard"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1597608291399-dce29050450b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand rongeur du monde ?",
-    "correct_answer": "Le capybara",
-    "incorrect_answers": [
-      "Le castor",
-      "Le rat",
-      "Le hamster"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1636704169578-c4c3d9a90b0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de dormir en volant ?",
-    "correct_answer": "L'albatros",
-    "incorrect_answers": [
-      "Le colibri",
-      "Le pigeon",
-      "Le vautour"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1598131478675-8d9e4b40be1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour sa carapace dure ?",
-    "correct_answer": "La tortue",
-    "incorrect_answers": [
-      "Le hérisson",
-      "Le pangolin",
-      "Le tatou"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1597642111053-d2e8abc1f031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il chasse principalement les phoques sur la banquise arctique.",
+    "imageUrl": "https://images.unsplash.com/photo-1640886907876-33506d50a4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel animal est le plus grand primate après l'homme ?",
@@ -287,266 +172,513 @@
       "L'orang-outan",
       "Le bonobo"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1705889518185-71612a3efa08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les gorilles mâles adultes peuvent peser jusqu'à 200 kg.",
+    "imageUrl": "https://images.unsplash.com/photo-1738165176802-4577c1e0edab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est capable de marcher sur deux pattes ?",
-    "correct_answer": "Le kangourou",
+    "question": "Quel animal est connu pour son chant mélodieux et complexe ?",
+    "correct_answer": "Le rossignol",
     "incorrect_answers": [
-      "Le lapin",
-      "Le lièvre",
-      "Le cerf"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1726335849487-fd5d3b63b87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour son chant puissant et long ?",
-    "correct_answer": "Le coq",
-    "incorrect_answers": [
-      "Le paon",
-      "Le faisan",
-      "Le dindon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1738165176802-4577c1e0edab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand oiseau de proie ?",
-    "correct_answer": "Le condor",
-    "incorrect_answers": [
-      "L'aigle",
-      "Le faucon",
-      "Le vautour"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916209-9edd81753328?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de retenir sa respiration le plus longtemps ?",
-    "correct_answer": "La baleine",
-    "incorrect_answers": [
-      "Le dauphin",
-      "Le phoque",
-      "Le crocodile"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1668701649406-83c46add1b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour ses plumes colorées et son bec long ?",
-    "correct_answer": "Le toucan",
-    "incorrect_answers": [
-      "Le perroquet",
-      "Le colibri",
-      "Le paon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1597642097469-fe3ad5c269ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand animal volant actuel ?",
-    "correct_answer": "L'albatros",
-    "incorrect_answers": [
-      "L'aigle",
-      "Le condor",
-      "Le vautour"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1707515637645-7b9ed1e1597f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de se déplacer en arrière ?",
-    "correct_answer": "Le crabe",
-    "incorrect_answers": [
-      "Le homard",
-      "L'écrevisse",
-      "Le bernard-l'ermite"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1725206076077-1b5cdb82bac3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour son chant mélodieux et varié ?",
-    "correct_answer": "Le merle",
-    "incorrect_answers": [
-      "Le rossignol",
-      "Le canari",
-      "Le moineau"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1591089570621-ea86c99a09a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand mammifère terrestre après l'éléphant ?",
-    "correct_answer": "Le rhinocéros",
-    "incorrect_answers": [
-      "L'hippopotame",
-      "Le buffle",
-      "Le girafe"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1615148109219-6af9bff46b80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de changer de sexe au cours de sa vie ?",
-    "correct_answer": "Le poisson-clown",
-    "incorrect_answers": [
-      "Le saumon",
-      "Le thon",
-      "Le requin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1757860090531-6d34825c5dd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour ses cornes torsadées ?",
-    "correct_answer": "Le mouflon",
-    "incorrect_answers": [
-      "Le cerf",
-      "Le bouquetin",
-      "Le chamois"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1640886907876-33506d50a4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand félin d'Asie ?",
-    "correct_answer": "Le tigre",
-    "incorrect_answers": [
-      "Le lion",
-      "Le léopard",
-      "Le jaguar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1636797521934-c6e69e592a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de marcher sur les murs et les plafonds ?",
-    "correct_answer": "Le gecko",
-    "incorrect_answers": [
-      "Le lézard",
-      "Le caméléon",
-      "Le serpent"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1606804235853-a2bdff23724b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTEwNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour son chant strident et puissant ?",
-    "correct_answer": "L'aigle",
-    "incorrect_answers": [
-      "Le faucon",
-      "Le vautour",
-      "Le condor"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1707536484510-99d0c9875b2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand animal terrestre d'Australie ?",
-    "correct_answer": "Le kangourou",
-    "incorrect_answers": [
-      "L'émeu",
-      "Le wombat",
-      "Le koala"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916212-0615c1458af0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de survivre sans eau pendant plusieurs années ?",
-    "correct_answer": "Le dromadaire",
-    "incorrect_answers": [
-      "Le chameau",
-      "Le yak",
-      "Le buffle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631820018357-7527ff384843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour ses rayures orange et noires ?",
-    "correct_answer": "Le tigre",
-    "incorrect_answers": [
-      "Le léopard",
-      "Le guépard",
-      "Le jaguar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616308913711-c2c719dc2ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est le plus grand oiseau d'Amérique du Sud ?",
-    "correct_answer": "Le nandou",
-    "incorrect_answers": [
-      "L'autruche",
-      "L'émeu",
-      "Le casoar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1678048632412-f18bbbd3662a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTEwNDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est capable de se reproduire par parthénogenèse ?",
-    "correct_answer": "Le lézard",
-    "incorrect_answers": [
-      "Le serpent",
-      "Le crocodile",
-      "La salamandre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1607268102039-3e470cf6e263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel animal est connu pour son chant doux et apaisant ?",
-    "correct_answer": "Le pigeon",
-    "incorrect_answers": [
-      "Le moineau",
       "Le merle",
-      "Le canari"
+      "Le canari",
+      "Le pigeon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1674114411719-199c28e587b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il est célèbre pour ses vocalises variées et son répertoire étendu.",
+    "imageUrl": "https://images.unsplash.com/photo-1677915762983-c64fc9152c45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus grand rongeur d'Amérique du Sud ?",
+    "question": "Quel animal est le plus grand félin d'Amérique ?",
+    "correct_answer": "Le jaguar",
+    "incorrect_answers": [
+      "Le puma",
+      "Le lynx",
+      "Le guépard"
+    ],
+    "explanation": "Il est plus massif que le puma et vit en Amérique centrale et du Sud.",
+    "imageUrl": "https://images.unsplash.com/photo-1731994634956-94a42f6b6290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand rongeur du monde ?",
     "correct_answer": "Le capybara",
     "incorrect_answers": [
       "Le castor",
       "Le rat",
-      "Le hamster"
+      "L'écureuil"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1728025131138-e05d5b0e2b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il peut peser jusqu'à 77 kg et vit en Amérique du Sud.",
+    "imageUrl": "https://images.unsplash.com/photo-1598205846732-468768d073d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est capable de nager à l'envers ?",
-    "correct_answer": "L'hippopotame",
+    "question": "Quel animal est connu pour sa capacité à imiter la voix humaine ?",
+    "correct_answer": "Le perroquet",
     "incorrect_answers": [
-      "Le crocodile",
-      "Le dauphin",
-      "Le lamantin"
+      "Le mainate",
+      "Le corbeau",
+      "Le geai"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916181-57f287a69146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Certains perroquets, comme l'Ara, reproduisent des mots avec précision.",
+    "imageUrl": "https://images.unsplash.com/photo-1678048632134-79d0c6ebbd53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTc5Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est connu pour ses plumes irisées et son chant complexe ?",
+    "question": "Quel animal est le plus grand amphibien du monde ?",
+    "correct_answer": "Le salamandre géante de Chine",
+    "incorrect_answers": [
+      "La grenouille",
+      "Le crapaud",
+      "Le triton"
+    ],
+    "explanation": "Elle peut mesurer jusqu'à 1,8 mètre et vit dans les rivières chinoises.",
+    "imageUrl": "https://images.unsplash.com/photo-1717379758408-5f96cd93cdb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand insecte vivant ?",
+    "correct_answer": "Le phasme",
+    "incorrect_answers": [
+      "Le scarabée",
+      "Le papillon",
+      "La sauterelle"
+    ],
+    "explanation": "Certaines espèces atteignent 55 cm de long, comme le phasme de Malaisie.",
+    "imageUrl": "https://images.unsplash.com/photo-1726335849487-fd5d3b63b87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand oiseau de proie diurne ?",
+    "correct_answer": "Le condor des Andes",
+    "incorrect_answers": [
+      "L'aigle royal",
+      "Le vautour",
+      "Le faucon pèlerin"
+    ],
+    "explanation": "Son envergure peut dépasser 3 mètres et il plane sur de longues distances.",
+    "imageUrl": "https://images.unsplash.com/photo-1631820018357-7527ff384843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand mammifère marin après la baleine bleue ?",
+    "correct_answer": "Le cachalot",
+    "incorrect_answers": [
+      "L'orque",
+      "Le dauphin",
+      "Le requin blanc"
+    ],
+    "explanation": "Il peut plonger à plus de 2 000 mètres de profondeur pour chasser.",
+    "imageUrl": "https://images.unsplash.com/photo-1593923428221-c59c39b35581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand serpent venimeux ?",
+    "correct_answer": "Le cobra royal",
+    "incorrect_answers": [
+      "Le mamba noir",
+      "Le serpent corail",
+      "La vipère"
+    ],
+    "explanation": "Il peut atteindre 5,5 mètres et son venin est très puissant.",
+    "imageUrl": "https://images.unsplash.com/photo-1597642097469-fe3ad5c269ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à fourrure ?",
+    "correct_answer": "L'ours polaire",
+    "incorrect_answers": [
+      "Le grizzli",
+      "Le renard arctique",
+      "Le phoque"
+    ],
+    "explanation": "Sa fourrure épaisse le protège du froid extrême de l'Arctique.",
+    "imageUrl": "https://images.unsplash.com/photo-1701430916181-57f287a69146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal terrestre d'Australie ?",
+    "correct_answer": "Le kangourou rouge",
+    "incorrect_answers": [
+      "Le wombat",
+      "Le koala",
+      "L'émeu"
+    ],
+    "explanation": "Il peut mesurer 2 mètres et peser jusqu'à 90 kg.",
+    "imageUrl": "https://images.unsplash.com/photo-1716107647226-6d25730fe348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à cornes ?",
+    "correct_answer": "Le rhinocéros",
+    "incorrect_answers": [
+      "Le buffle",
+      "Le taureau",
+      "Le cerf"
+    ],
+    "explanation": "Ses cornes sont en kératine, comme nos cheveux, et peuvent peser 10 kg.",
+    "imageUrl": "https://images.unsplash.com/photo-1707536484510-99d0c9875b2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à écailles ?",
+    "correct_answer": "Le pangolin",
+    "incorrect_answers": [
+      "Le tatou",
+      "Le paresseux",
+      "Le fourmilier"
+    ],
+    "explanation": "Ses écailles sont faites de kératine et le protègent des prédateurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1701430916209-9edd81753328?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes ?",
+    "correct_answer": "L'autruche",
+    "incorrect_answers": [
+      "L'émeu",
+      "Le nandou",
+      "Le casoar"
+    ],
+    "explanation": "Ses plumes sont utilisées pour fabriquer des vêtements et des décorations.",
+    "imageUrl": "https://images.unsplash.com/photo-1598131478675-8d9e4b40be1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à carapace ?",
+    "correct_answer": "La tortue luth",
+    "incorrect_answers": [
+      "La tortue d'Hermann",
+      "La tortue géante des Galápagos",
+      "La tortue molle"
+    ],
+    "explanation": "Sa carapace peut mesurer jusqu'à 2,5 mètres et elle vit dans les océans.",
+    "imageUrl": "https://images.unsplash.com/photo-1677915762650-ae9b94927467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTc5Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à venin dans ses glandes ?",
+    "correct_answer": "Le serpent à sonnette",
+    "incorrect_answers": [
+      "Le cobra",
+      "La vipère",
+      "Le mamba noir"
+    ],
+    "explanation": "Son venin est injecté par des crochets creux et peut tuer en quelques heures.",
+    "imageUrl": "https://images.unsplash.com/photo-1611590278089-8dce9a70ed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à poils noirs et blancs ?",
+    "correct_answer": "Le zèbre",
+    "incorrect_answers": [
+      "Le panda",
+      "Le blaireau",
+      "Le putois"
+    ],
+    "explanation": "Ses rayures uniques servent à le camoufler et à repousser les insectes.",
+    "imageUrl": "https://images.unsplash.com/photo-1671006185939-27507226c356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes noires ?",
+    "correct_answer": "Le corbeau",
+    "incorrect_answers": [
+      "Le corbeau freux",
+      "Le geai",
+      "Le merle"
+    ],
+    "explanation": "Il est considéré comme l'un des oiseaux les plus intelligents.",
+    "imageUrl": "https://images.unsplash.com/photo-1678048632168-39fdc9f781a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à écailles brillantes ?",
+    "correct_answer": "Le poisson-clown",
+    "incorrect_answers": [
+      "Le poisson-perroquet",
+      "Le poisson-lion",
+      "Le poisson-ange"
+    ],
+    "explanation": "Ses couleurs vives proviennent de cellules spéciales appelées iridophores.",
+    "imageUrl": "https://images.unsplash.com/photo-1707536484356-86ca44981e49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes colorées ?",
     "correct_answer": "Le paon",
     "incorrect_answers": [
       "Le faisan",
       "Le coq",
-      "Le dindon"
+      "Le canard mandarin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1671006185939-27507226c356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Son plumage irisé est utilisé pour séduire les femelles lors des parades nuptiales.",
+    "imageUrl": "https://images.unsplash.com/photo-1718647507338-4dc7b6e6ff86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus grand mammifère marin après la baleine ?",
-    "correct_answer": "Le cachalot",
+    "question": "Quel animal est le plus grand animal à fourrure rousse ?",
+    "correct_answer": "Le renard roux",
     "incorrect_answers": [
-      "Le dauphin",
-      "Le requin blanc",
-      "Le phoque"
+      "Le lynx",
+      "Le coyote",
+      "Le furet"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1658004354495-2877ace1c158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il est présent sur tous les continents sauf l'Antarctique.",
+    "imageUrl": "https://images.unsplash.com/photo-1705889518185-71612a3efa08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est capable de se déplacer en sautant sur ses pattes arrière ?",
-    "correct_answer": "Le kangourou",
+    "question": "Quel animal est le plus grand animal à carapace dure ?",
+    "correct_answer": "La tortue géante des Galápagos",
     "incorrect_answers": [
-      "Le lièvre",
-      "Le lapin",
-      "Le cerf"
+      "La tortue d'Hermann",
+      "La tortue molle",
+      "La tortue luth"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1593923428221-c59c39b35581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Sa carapace peut supporter le poids d'un humain adulte.",
+    "imageUrl": "https://images.unsplash.com/photo-1712330139932-148053efc401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est connu pour son chant nocturne et mélodieux ?",
-    "correct_answer": "Le rossignol",
+    "question": "Quel animal est le plus grand animal à plumes blanches ?",
+    "correct_answer": "Le cygne",
     "incorrect_answers": [
-      "Le merle",
-      "Le moineau",
-      "Le canari"
+      "L'oie",
+      "Le héron",
+      "Le pélican"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1728557349552-c1660fbdff7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il est souvent associé à la pureté et à la grâce dans de nombreuses cultures.",
+    "imageUrl": "https://images.unsplash.com/photo-1660384908980-5235825bd120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à fourrure grise ?",
+    "correct_answer": "Le loup gris",
+    "incorrect_answers": [
+      "Le renard arctique",
+      "Le lynx",
+      "Le coyote"
+    ],
+    "explanation": "Il vit en meute et chasse en groupe pour capturer de grosses proies.",
+    "imageUrl": "https://images.unsplash.com/photo-1678048632050-2e3a3ee69ab0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à écailles vertes ?",
+    "correct_answer": "Le python vert",
+    "incorrect_answers": [
+      "Le serpent des blés",
+      "Le boa constrictor",
+      "Le cobra vert"
+    ],
+    "explanation": "Il vit dans les forêts tropicales d'Asie du Sud-Est.",
+    "imageUrl": "https://images.unsplash.com/photo-1728025139514-72890f2c69d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes bleues ?",
+    "correct_answer": "L'ara macao",
+    "incorrect_answers": [
+      "Le geai bleu",
+      "Le martin-pêcheur",
+      "Le paon bleu"
+    ],
+    "explanation": "Son plumage bleu vif est dû à la diffraction de la lumière sur ses plumes.",
+    "imageUrl": "https://images.unsplash.com/photo-1636704169578-c4c3d9a90b0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à fourrure brune ?",
+    "correct_answer": "L'ours brun",
+    "incorrect_answers": [
+      "Le sanglier",
+      "Le cerf",
+      "Le blaireau"
+    ],
+    "explanation": "Il peut peser jusqu'à 500 kg et vit dans les forêts d'Europe et d'Amérique du Nord.",
+    "imageUrl": "https://images.unsplash.com/photo-1606804235853-a2bdff23724b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTc5Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes rouges ?",
+    "correct_answer": "Le cardinal rouge",
+    "incorrect_answers": [
+      "Le flamant rose",
+      "Le pivert rouge",
+      "Le tangara écarlate"
+    ],
+    "explanation": "Le mâle est reconnaissable à son plumage rouge vif, symbole de l'État de l'Illinois.",
+    "imageUrl": "https://images.unsplash.com/photo-1668701649406-83c46add1b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à écailles dorées ?",
+    "correct_answer": "Le poisson-ange emperador",
+    "incorrect_answers": [
+      "Le poisson-clown",
+      "Le poisson-perroquet",
+      "Le poisson-lion"
+    ],
+    "explanation": "Ses écailles brillantes reflètent la lumière comme de l'or.",
+    "imageUrl": "https://images.unsplash.com/photo-1669406047620-509b197b9125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à fourrure noire ?",
+    "correct_answer": "Le panthère noire",
+    "incorrect_answers": [
+      "Le léopard noir",
+      "Le jaguar noir",
+      "Le lynx noir"
+    ],
+    "explanation": "Sa couleur est due à une mutation génétique appelée mélanisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1678048632412-f18bbbd3662a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTc5Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes jaunes ?",
+    "correct_answer": "Le canari",
+    "incorrect_answers": [
+      "Le serin",
+      "Le bouvreuil",
+      "Le chardonneret"
+    ],
+    "explanation": "Il est souvent élevé comme animal de compagnie pour son chant mélodieux.",
+    "imageUrl": "https://images.unsplash.com/photo-1636797521934-c6e69e592a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à écailles argentées ?",
+    "correct_answer": "Le poisson-argent",
+    "incorrect_answers": [
+      "Le hareng",
+      "La sardine",
+      "Le maquereau"
+    ],
+    "explanation": "Ses écailles reflètent la lumière pour le camouflage dans les eaux profondes.",
+    "imageUrl": "https://images.unsplash.com/photo-1591089570621-ea86c99a09a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à fourrure blanche ?",
+    "correct_answer": "L'ours blanc",
+    "incorrect_answers": [
+      "Le renard arctique",
+      "Le lièvre arctique",
+      "Le lagopède alpin"
+    ],
+    "explanation": "Sa fourrure le protège du froid extrême de l'Arctique.",
+    "imageUrl": "https://images.unsplash.com/photo-1651707265633-6043d4606339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTc5Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes grises ?",
+    "correct_answer": "Le pigeon",
+    "incorrect_answers": [
+      "Le corbeau",
+      "Le geai",
+      "Le moineau"
+    ],
+    "explanation": "Il est souvent associé à la paix et à la fidélité dans de nombreuses cultures.",
+    "imageUrl": "https://images.unsplash.com/photo-1597642111053-d2e8abc1f031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à écailles bleues ?",
+    "correct_answer": "Le poisson-ange bleu",
+    "incorrect_answers": [
+      "Le poisson-perroquet bleu",
+      "Le poisson-lion bleu",
+      "Le poisson-clown bleu"
+    ],
+    "explanation": "Ses couleurs vives proviennent de pigments spécifiques dans ses écailles.",
+    "imageUrl": "https://images.unsplash.com/photo-1728025131138-e05d5b0e2b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à fourrure tachetée ?",
+    "correct_answer": "Le léopard",
+    "incorrect_answers": [
+      "Le guépard",
+      "Le jaguar",
+      "Le serval"
+    ],
+    "explanation": "Ses rosettes lui permettent de se camoufler dans les herbes hautes.",
+    "imageUrl": "https://images.unsplash.com/photo-1597608291399-dce29050450b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes multicolores ?",
+    "correct_answer": "Le toucan",
+    "incorrect_answers": [
+      "Le perroquet",
+      "Le mainate",
+      "Le lori"
+    ],
+    "explanation": "Son bec coloré est utilisé pour attraper des fruits et des insectes.",
+    "imageUrl": "https://images.unsplash.com/photo-1615148109219-6af9bff46b80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à écailles rouges ?",
+    "correct_answer": "Le poisson-lion",
+    "incorrect_answers": [
+      "Le poisson-clown rouge",
+      "Le poisson-perroquet rouge",
+      "Le poisson-ange rouge"
+    ],
+    "explanation": "Ses épines venimeuses le protègent des prédateurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1678048632153-d961f9c37a48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTc5Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à fourrure rayée ?",
+    "correct_answer": "Le tigre",
+    "incorrect_answers": [
+      "Le zèbre",
+      "Le chat tigre",
+      "Le raton laveur"
+    ],
+    "explanation": "Ses rayures sont uniques à chaque individu, comme une empreinte digitale.",
+    "imageUrl": "https://images.unsplash.com/photo-1774625010223-16d426362b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes noires et blanches ?",
+    "correct_answer": "Le pingouin",
+    "incorrect_answers": [
+      "Le manchot",
+      "Le cormoran",
+      "Le guillemot"
+    ],
+    "explanation": "Il est adapté à la vie aquatique et peut nager à grande vitesse.",
+    "imageUrl": "https://images.unsplash.com/photo-1701430916212-0615c1458af0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à écailles vertes et noires ?",
+    "correct_answer": "Le serpent vert",
+    "incorrect_answers": [
+      "Le python vert",
+      "Le boa constrictor vert",
+      "Le cobra vert"
+    ],
+    "explanation": "Il vit dans les forêts tropicales et se nourrit principalement d'insectes.",
+    "imageUrl": "https://images.unsplash.com/photo-1658004354495-2877ace1c158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à fourrure dorée ?",
+    "correct_answer": "Le lion d'Afrique",
+    "incorrect_answers": [
+      "Le tigre doré",
+      "Le léopard doré",
+      "Le jaguar doré"
+    ],
+    "explanation": "Son pelage doré lui permet de se fondre dans les herbes sèches.",
+    "imageUrl": "https://images.unsplash.com/photo-1678048632154-71cbdd7dcf62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHx3aWxkJTIwYW5pbWFscyUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3OTc5Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes roses ?",
+    "correct_answer": "Le flamant rose",
+    "incorrect_answers": [
+      "Le pélican rose",
+      "Le héron rose",
+      "Le ibis rose"
+    ],
+    "explanation": "Sa couleur rose provient des caroténoïdes présents dans son alimentation.",
+    "imageUrl": "https://images.unsplash.com/photo-1701430916212-0615c1458af0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à écailles jaunes ?",
+    "correct_answer": "Le poisson-perroquet jaune",
+    "incorrect_answers": [
+      "Le poisson-ange jaune",
+      "Le poisson-lion jaune",
+      "Le poisson-clown jaune"
+    ],
+    "explanation": "Il se nourrit d'algues et de coraux, contribuant à la santé des récifs.",
+    "imageUrl": "https://images.unsplash.com/photo-1563644786008-051ff259517c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est le plus grand animal à fourrure marron ?",
+    "correct_answer": "Le cerf",
+    "incorrect_answers": [
+      "Le sanglier",
+      "Le renard roux",
+      "Le blaireau"
+    ],
+    "explanation": "Les mâles portent des bois qui tombent et repoussent chaque année.",
+    "imageUrl": null
+  },
+  {
+    "question": "Quel animal est le plus grand animal à plumes orange ?",
+    "correct_answer": "Le cardinal orange",
+    "incorrect_answers": [
+      "Le tangara écarlate",
+      "Le pivert orange",
+      "Le geai orange"
+    ],
+    "explanation": "Le mâle est reconnaissable à son plumage orange vif, symbole de l'État de l'Ohio.",
+    "imageUrl": null
   }
 ]

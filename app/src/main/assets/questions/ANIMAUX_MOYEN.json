@@ -1,572 +1,673 @@
 [
   {
-    "question": "Quel mammifère marin est connu pour chanter des mélodies complexes et prolongées ?",
-    "correct_answer": "Baleine à bosse",
+    "question": "Quel mammifère est le seul à pouvoir voler de manière active et prolongée ?",
+    "correct_answer": "La chauve-souris",
     "incorrect_answers": [
-      "Dauphin",
-      "Orque",
-      "Phoque"
+      "L'écureuil volant",
+      "Le dermanoptère",
+      "Le colugo"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1757858849087-7095a55a0550?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les chauves-souris sont les seuls mammifères dotés d'ailes permettant un vol autonome et soutenu.",
+    "imageUrl": "https://images.unsplash.com/photo-1728025131138-e05d5b0e2b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de voler à reculons grâce à ses ailes battantes rapides ?",
-    "correct_answer": "Colibri",
+    "question": "Quel animal marin est capable de changer la couleur et la texture de sa peau en une fraction de seconde pour se camoufler ?",
+    "correct_answer": "Le poulpe",
     "incorrect_answers": [
-      "Martin-pêcheur",
-      "Hirondelle",
-      "Pigeon"
+      "L'hippocampe",
+      "La raie manta",
+      "Le poisson-pierre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1712330139932-148053efc401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les poulpes, maîtres du camouflage, utilisent des chromatophores pour s'adapter instantanément à leur environnement.",
+    "imageUrl": "https://images.unsplash.com/photo-1563644786008-051ff259517c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel reptile peut changer de couleur pour se camoufler ou communiquer ?",
-    "correct_answer": "Caméléon",
+    "question": "Quelle est la principale caractéristique de la reproduction chez les monotrèmes, comme l'échidné et l'ornithorynque ?",
+    "correct_answer": "Ils pondent des œufs",
     "incorrect_answers": [
-      "Iguane",
-      "Tortue",
-      "Crocodile"
+      "Ils sont vivipares avec une gestation très courte",
+      "Ils se reproduisent par bourgeonnement",
+      "Ils sont hermaphrodites simultanés"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1729172032242-4c18f49b1c43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les monotrèmes sont des mammifères primitifs uniques, les seuls à pondre des œufs plutôt que de donner naissance à des petits vivants.",
+    "imageUrl": "https://images.unsplash.com/photo-1663521051474-6c8b75bff0c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus rapide à la course sur de courtes distances ?",
-    "correct_answer": "Guépard",
+    "question": "Quel phénomène migratoire spectaculaire est entrepris annuellement par les gnous dans le Serengeti ?",
+    "correct_answer": "La Grande Migration",
     "incorrect_answers": [
-      "Lion",
-      "Gazelle",
-      "Springbok"
+      "Le Grand Trek",
+      "La Transhumance",
+      "L'Exode de la Savane"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1640886907876-33506d50a4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Grande Migration des gnous est l'une des plus grandes migrations animales terrestres, suivant les pluies saisonnières.",
+    "imageUrl": "https://images.unsplash.com/photo-1607268102039-3e470cf6e263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel insecte produit de la soie pour tisser son cocon ?",
-    "correct_answer": "Ver à soie",
+    "question": "Quelle espèce de poisson est réputée pour sa capacité à produire de puissantes décharges électriques ?",
+    "correct_answer": "L'anguille électrique",
     "incorrect_answers": [
-      "Fourmi",
-      "Abeille",
-      "Moustique"
+      "Le poisson-chat",
+      "Le barbot",
+      "Le poisson-globe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1563644786008-051ff259517c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'anguille électrique peut générer des chocs allant jusqu'à 600 volts pour se défendre ou chasser ses proies.",
+    "imageUrl": "https://images.unsplash.com/photo-1726335849092-a9870a096165?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal possède le plus grand nombre de dents parmi les mammifères ?",
-    "correct_answer": "Dauphin",
+    "question": "Quel oiseau est célèbre pour son chant complexe et sa capacité à imiter les sons de son environnement ?",
+    "correct_answer": "Le rossignol",
     "incorrect_answers": [
-      "Éléphant",
-      "Sanglier",
-      "Rat"
+      "Le pic vert",
+      "Le grand-duc",
+      "Le cormoran"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1663762027600-c56c71870790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le rossignol est renommé pour la richesse et la variété de ses vocalises, souvent interprétées la nuit.",
+    "imageUrl": "https://images.unsplash.com/photo-1657189542100-cdffd7adebb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est le plus grand du monde en termes de taille et de poids ?",
-    "correct_answer": "Autruche",
+    "question": "Quel est le plus grand félin sauvage du monde ?",
+    "correct_answer": "Le tigre de Sibérie",
     "incorrect_answers": [
-      "Émeu",
-      "Nandou",
-      "Cassowaire"
+      "Le lion d'Afrique",
+      "Le jaguar",
+      "Le léopard des neiges"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1556032743-e5c0cda93bf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le tigre de Sibérie, ou tigre de l'Amour, est la plus grande sous-espèce de tigre et le plus grand félin sauvage.",
+    "imageUrl": "https://images.unsplash.com/photo-1668701649406-83c46add1b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est surnommé le 'loup des mers' pour sa stratégie de chasse en groupe ?",
-    "correct_answer": "Orque",
+    "question": "Quel type d'animal est le paresseux, connu pour sa lenteur extrême ?",
+    "correct_answer": "Un mammifère",
     "incorrect_answers": [
-      "Dauphin",
-      "Requin blanc",
-      "Phoque"
+      "Un reptile",
+      "Un marsupial",
+      "Un amphibien"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1728557349552-c1660fbdff7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le paresseux est un mammifère arboricole d'Amérique Centrale et du Sud, célèbre pour son métabolisme lent.",
+    "imageUrl": "https://images.unsplash.com/photo-1711011998211-98f4fbe5f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est capable de régénérer une partie de son corps, comme une patte ou une queue ?",
-    "correct_answer": "Salamandre",
+    "question": "Quel est le principal régime alimentaire d'un panda géant ?",
+    "correct_answer": "Le bambou",
     "incorrect_answers": [
-      "Lézard",
-      "Grenouille",
-      "Crapaud"
+      "Des insectes et des fruits",
+      "De petits rongeurs",
+      "Des poissons et des algues"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1663521051474-6c8b75bff0c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le panda géant est un carnivore qui a évolué pour se nourrir presque exclusivement de bambou, malgré son système digestif de carnivore.",
+    "imageUrl": "https://images.unsplash.com/photo-1728025139514-72890f2c69d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est connu pour imiter les sons humains et les bruits de son environnement ?",
-    "correct_answer": "Perroquet",
+    "question": "Quel reptile marin est le plus grand du monde, pouvant atteindre plus de 6 mètres de long ?",
+    "correct_answer": "Le crocodile marin",
     "incorrect_answers": [
-      "Corbeau",
-      "Pie",
-      "Mainate"
+      "Le caïman noir",
+      "L'anaconda vert",
+      "Le dragon de Komodo"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1617660772291-e5d67b4610dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le crocodile marin est le plus grand reptile vivant, redoutable prédateur des estuaires et zones côtières.",
+    "imageUrl": "https://images.unsplash.com/photo-1603966474815-85d21585ffb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère est le seul capable de voler activement grâce à ses ailes membraneuses ?",
-    "correct_answer": "Chauve-souris",
+    "question": "Quel phénomène est caractéristique des oiseaux migrateurs parcourant de longues distances ?",
+    "correct_answer": "L'orientation magnétique",
     "incorrect_answers": [
-      "Écureuil volant",
-      "Lémurien",
-      "Opossum"
+      "La bioluminescence",
+      "L'écholocation",
+      "La cryogénie naturelle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1653326243366-39679dc05642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "De nombreux oiseaux migrateurs utilisent le champ magnétique terrestre comme boussole pour s'orienter.",
+    "imageUrl": "https://images.unsplash.com/photo-1593923428221-c59c39b35581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus venimeux au monde selon le nombre de décès annuels ?",
-    "correct_answer": "Méduse-boîte",
+    "question": "Quel animal est l'hôte intermédiaire du parasite responsable de la schistosomiase, une maladie tropicale ?",
+    "correct_answer": "Le gastéropode aquatique (escargot d'eau douce)",
     "incorrect_answers": [
-      "Cobra royal",
-      "Scorpion",
-      "Araignée Phoneutria"
+      "Le moustique anophèle",
+      "La mouche tsé-tsé",
+      "Le tique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1668701644378-209c3e9f7e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Certains escargots d'eau douce sont essentiels au cycle de vie des schistosomes, causant la schistosomiase.",
+    "imageUrl": "https://images.unsplash.com/photo-1779657130882-c60732f7a305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de plonger à plus de 1 000 mètres de profondeur pour chasser ?",
-    "correct_answer": "Pingouin empereur",
+    "question": "Quelle est la principale fonction des narines chez le narval ?",
+    "correct_answer": "Respirer de l'air",
     "incorrect_answers": [
-      "Albatros",
-      "Cormoran",
-      "Fou de Bassan"
+      "Localiser ses proies par électro-réception",
+      "Filtrer le plancton",
+      "Communiquer par infrasons"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1689797216602-fb2ce418cf7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Comme tous les mammifères marins, le narval remonte à la surface pour respirer l'air grâce à ses narines.",
+    "imageUrl": "https://images.unsplash.com/photo-1669406047620-509b197b9125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère est le plus lent au monde, se déplaçant à une vitesse maximale de 0,24 km/h ?",
-    "correct_answer": "Paresseux",
+    "question": "Quel insecte social est capable de cultiver des champignons pour se nourrir ?",
+    "correct_answer": "La fourmi coupe-feuille",
     "incorrect_answers": [
-      "Tortue géante",
-      "Écureuil",
-      "Koala"
+      "La termite soldat",
+      "L'abeille mellifère",
+      "La guêpe maçon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1653326200806-aa37ffb0d865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les fourmis coupe-feuilles découpent des feuilles pour en faire un substrat sur lequel elles cultivent des champignons.",
+    "imageUrl": "https://images.unsplash.com/photo-1653326200806-aa37ffb0d865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus grand prédateur terrestre actuel ?",
-    "correct_answer": "Ours polaire",
+    "question": "Quelle adaptation permet aux animaux du désert, comme le fennec, de mieux résister à la chaleur ?",
+    "correct_answer": "De grandes oreilles pour dissiper la chaleur",
     "incorrect_answers": [
-      "Lion",
-      "Tigre",
-      "Hippopotame"
+      "Un pelage noir absorbant la chaleur",
+      "Des pattes palmées pour nager",
+      "Des yeux télescopiques"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916184-94724f1ad9b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les grandes oreilles du fennec sont fortement vascularisées et aident à refroidir son corps par convection.",
+    "imageUrl": "https://images.unsplash.com/photo-1728025131138-e05d5b0e2b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel insecte est responsable de la pollinisation de plus de 75 % des cultures mondiales ?",
-    "correct_answer": "Abeille",
+    "question": "Quel est le mécanisme de défense unique du poisson-globe ?",
+    "correct_answer": "Il se gonfle d'eau ou d'air",
     "incorrect_answers": [
-      "Papillon",
-      "Mouche",
-      "Fourmi"
+      "Il libère un venin paralysant",
+      "Il émet des ultrasons",
+      "Il se camoufle en pierre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1732520524359-d65ff5c3cb69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le poisson-globe avale de l'eau ou de l'air pour doubler de volume, dressant ses épines et dissuadant les prédateurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1707536484356-86ca44981e49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel reptile est capable de survivre sans nourriture pendant plus d'un an ?",
-    "correct_answer": "Crocodile",
+    "question": "Quelle particularité distingue le kangourou des autres mammifères en termes de reproduction ?",
+    "correct_answer": "Il donne naissance à un embryon immature qui finit son développement dans une poche",
     "incorrect_answers": [
-      "Tortue",
-      "Serpent",
-      "Lézard"
+      "Il est ovipare",
+      "La femelle féconde ses ovules en dehors de son corps",
+      "La gestation dure moins d'une semaine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631820018357-7527ff384843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les kangourous sont des marsupiaux, leurs petits naissent à un stade très précoce et poursuivent leur développement dans le marsupium.",
+    "imageUrl": "https://images.unsplash.com/photo-1708522101004-0718712b4547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus lourd du monde, pesant jusqu'à 150 tonnes ?",
-    "correct_answer": "Baleine bleue",
+    "question": "Quel poisson est célèbre pour son long rostre en forme de scie, utilisé pour chasser ?",
+    "correct_answer": "Le poisson-scie",
     "incorrect_answers": [
-      "Éléphant de forêt",
-      "Hippopotame",
-      "Rhinocéros"
+      "L'espadon",
+      "Le marlin",
+      "Le requin-marteau"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774625010223-16d426362b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le poisson-scie utilise son rostre dentelé pour débusquer et assommer ses proies dans les fonds marins.",
+    "imageUrl": "https://images.unsplash.com/photo-1663762027600-c56c71870790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de détecter un champ électrique émis par ses proies sous l'eau ?",
-    "correct_answer": "Martin-pêcheur",
+    "question": "Quel grand primate africain est connu pour ses impressionnantes constructions de nids en hauteur pour dormir ?",
+    "correct_answer": "Le chimpanzé",
     "incorrect_answers": [
-      "Cormoran",
-      "Héron",
-      "Fou"
+      "Le babouin",
+      "Le gorille",
+      "L'orang-outan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1683355931765-6c8e573e69af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les chimpanzés construisent des nids élaborés dans les arbres chaque nuit pour dormir en sécurité.",
+    "imageUrl": "https://images.unsplash.com/photo-1712330139932-148053efc401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de dormir en nageant, une moitié de son cerveau restant éveillée ?",
-    "correct_answer": "Dauphin",
+    "question": "Quelle est la principale cause de la coloration rose des flamants roses ?",
+    "correct_answer": "Leur régime alimentaire riche en pigments caroténoïdes",
     "incorrect_answers": [
-      "Baleine",
-      "Phoque",
-      "Lamantin"
+      "Une mutation génétique",
+      "La présence de métaux lourds dans leur habitat",
+      "Une toxine bactérienne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1605933189727-f23157f6442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les pigments caroténoïdes présents dans les algues et crustacés qu'ils consomment donnent leur couleur aux flamants.",
+    "imageUrl": "https://images.unsplash.com/photo-1605933189727-f23157f6442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus résistant à la déshydratation, pouvant survivre sans eau pendant 10 ans ?",
-    "correct_answer": "Tardigrade",
+    "question": "Quel amphibien est capable de régénérer la plupart de ses organes, y compris son cerveau et ses membres ?",
+    "correct_answer": "L'axolotl",
     "incorrect_answers": [
-      "Scorpion",
-      "Caméléon",
-      "Lézard du désert"
+      "La grenouille-taureau",
+      "Le triton crêté",
+      "La salamandre tachetée"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1718647507338-4dc7b6e6ff86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'axolotl est un urodèle mexicain doté d'une capacité de régénération tissulaire et organique exceptionnelle.",
+    "imageUrl": "https://images.unsplash.com/photo-1491930334092-1bb43e54af1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est le seul capable de voler en continu pendant plus de 6 mois sans se poser ?",
-    "correct_answer": "Albatros hurleur",
+    "question": "Quel est le nom du groupe d'animaux qui ne possèdent pas de colonne vertébrale ?",
+    "correct_answer": "Les invertébrés",
     "incorrect_answers": [
-      "Puffin",
-      "Faucon pèlerin",
-      "Martinet noir"
+      "Les protozoaires",
+      "Les vertébrés",
+      "Les amniotes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1708522101004-0718712b4547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les invertébrés constituent la grande majorité des espèces animales et se caractérisent par l'absence de squelette interne osseux.",
+    "imageUrl": "https://images.unsplash.com/photo-1679807276408-9f7d7501340f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère est le plus grand herbivore terrestre après l'éléphant ?",
-    "correct_answer": "Hippopotame",
+    "question": "Quel animal marin est célèbre pour sa bioluminescence et sa capacité à vivre en symbiose avec des algues ?",
+    "correct_answer": "Le corail",
     "incorrect_answers": [
-      "Rhinocéros",
-      "Girafe",
-      "Bison"
+      "L'anémone de mer",
+      "La méduse",
+      "Le concombre de mer"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1679807276408-9f7d7501340f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les coraux sont des animaux coloniaux qui vivent en symbiose avec des zooxanthelles, leur donnant couleur et énergie.",
+    "imageUrl": "https://images.unsplash.com/photo-1705889518185-71612a3efa08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est capable de produire de la lumière bioluminescente pour communiquer ou attirer des proies ?",
-    "correct_answer": "Lucioles",
+    "question": "Quelle est la caractéristique principale du vol de l'albatros ?",
+    "correct_answer": "Le vol plané dynamique",
     "incorrect_answers": [
-      "Méduses",
-      "Vers luisants",
-      "Calmars"
+      "Le vol stationnaire",
+      "Le vol battu rapide",
+      "Le vol acrobatique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1603966474815-85d21585ffb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'albatros est un maître du vol plané dynamique, utilisant les courants aériens au-dessus des vagues pour parcourir de longues distances sans effort.",
+    "imageUrl": "https://images.unsplash.com/photo-1707515637645-7b9ed1e1597f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel reptile est le plus long du monde, pouvant mesurer jusqu'à 10 mètres ?",
-    "correct_answer": "Python réticulé",
+    "question": "Quel animal est capable d'hiberner pendant de très longues périodes, parfois plusieurs mois ?",
+    "correct_answer": "La marmotte",
     "incorrect_answers": [
-      "Anaconda",
-      "Cobra royal",
-      "Vipère"
+      "Le cerf",
+      "Le loup",
+      "Le sanglier"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1641046741761-d0f286ab6f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La marmotte est un rongeur qui hiberne profondément pendant l'hiver, réduisant drastiquement son métabolisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1757860090531-6d34825c5dd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de naviguer en utilisant le champ magnétique terrestre ?",
-    "correct_answer": "Baleine grise",
+    "question": "Quel est le nom de la période pendant laquelle les serpents muent leur peau ?",
+    "correct_answer": "L'exuviation",
     "incorrect_answers": [
-      "Dauphin",
-      "Orque",
-      "Phoque"
+      "La desquamation",
+      "La folliculation",
+      "L'épilation"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1657189542100-cdffd7adebb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'exuviation est le processus par lequel les serpents, comme d'autres reptiles, se débarrassent de leur ancienne peau.",
+    "imageUrl": "https://images.unsplash.com/photo-1622429797416-2bc41e302300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de marcher sous l'eau pour attraper ses proies ?",
-    "correct_answer": "Cincle plongeur",
+    "question": "Quel petit insecte est connu pour sa capacité à transporter des charges jusqu'à 50 fois son propre poids ?",
+    "correct_answer": "La fourmi",
     "incorrect_answers": [
-      "Martin-pêcheur",
-      "Héron",
-      "Pingouin"
+      "Le scarabée bousier",
+      "La coccinelle",
+      "Le puceron"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1658004354495-2877ace1c158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les fourmis sont incroyablement fortes proportionnellement à leur taille, capables de soulever des objets très lourds.",
+    "imageUrl": "https://images.unsplash.com/photo-1757858849087-7095a55a0550?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus rapide en vol, atteignant 389 km/h en piqué ?",
-    "correct_answer": "Faucon pèlerin",
+    "question": "Quel est le nom de la danse rituelle effectuée par les abeilles pour indiquer la direction et la distance d'une source de nourriture ?",
+    "correct_answer": "La danse frétillante",
     "incorrect_answers": [
-      "Aigle royal",
-      "Faucon hobereau",
-      "Martin-pêcheur"
+      "La danse du soleil",
+      "La danse des sept voiles",
+      "La danse circulaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1671006185939-27507226c356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La danse frétillante est une forme de communication complexe utilisée par les abeilles ouvrières pour informer leurs congénères.",
+    "imageUrl": "https://images.unsplash.com/photo-1668701644378-209c3e9f7e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère est le seul capable de voler sans ailes, en planant sur de longues distances ?",
-    "correct_answer": "Écureuil volant",
+    "question": "Quel grand cétacé est célèbre pour ses chants complexes et mélodieux qui peuvent durer des heures ?",
+    "correct_answer": "La baleine à bosse",
     "incorrect_answers": [
-      "Lémurien",
-      "Opossum",
-      "Colugo"
+      "Le cachalot",
+      "L'orque",
+      "Le béluga"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1610714050385-eec2009e935a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les baleines à bosse mâles produisent des chants élaborés, probablement pour la parade nuptiale.",
+    "imageUrl": "https://images.unsplash.com/photo-1731994634956-94a42f6b6290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel insecte est capable de soulever 50 fois son propre poids ?",
-    "correct_answer": "Fourmi",
+    "question": "Quel mammifère est le seul à être véritablement venimeux ?",
+    "correct_answer": "L'ornithorynque",
     "incorrect_answers": [
-      "Abeille",
-      "Scarabée",
-      "Mante religieuse"
+      "La chauve-souris vampire",
+      "Le musaraigne aquatique",
+      "Le loris lent"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1617660772347-fb9896f92872?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le mâle de l'ornithorynque possède un éperon venimeux sur ses pattes arrière, pouvant délivrer une toxine douloureuse.",
+    "imageUrl": "https://images.unsplash.com/photo-1709829421603-ce7c6a8f3154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel reptile est le seul à posséder une carapace osseuse et une carapace cornée ?",
-    "correct_answer": "Tortue",
+    "question": "Quel oiseau est incapable de voler et est le plus grand et le plus lourd du monde ?",
+    "correct_answer": "L'autruche",
     "incorrect_answers": [
-      "Crocodile",
-      "Lézard",
-      "Serpent"
+      "L'émeu",
+      "Le nandou",
+      "Le casoar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1593923428221-c59c39b35581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'autruche est le plus grand oiseau vivant, elle ne peut pas voler mais est une coureuse très rapide.",
+    "imageUrl": "https://images.unsplash.com/photo-1726335849487-fd5d3b63b87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de communiquer en utilisant des dialectes régionaux ?",
-    "correct_answer": "Baleine à bosse",
+    "question": "Quel animal est connu pour sa capacité à projeter un jet d'eau sur ses proies pour les faire tomber ?",
+    "correct_answer": "Le poisson archer",
     "incorrect_answers": [
-      "Dauphin",
-      "Orque",
-      "Phoque"
+      "Le poisson-clown",
+      "Le poisson-spatule",
+      "Le poisson-lune"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1728025131138-e05d5b0e2b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le poisson archer crache avec précision un jet d'eau pour faire tomber les insectes posés sur la végétation au-dessus de l'eau.",
+    "imageUrl": "https://images.unsplash.com/photo-1774625010223-16d426362b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de reconnaître un humain après plusieurs années de séparation ?",
-    "correct_answer": "Corbeau",
+    "question": "Quel insecte est souvent utilisé comme indicateur de la qualité de l'eau en raison de sa sensibilité à la pollution ?",
+    "correct_answer": "La larve d'éphémère",
     "incorrect_answers": [
-      "Pie",
-      "Perroquet",
-      "Mainate"
+      "Le moucheron",
+      "Le coléoptère",
+      "La blatte"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1715890434417-40229a310620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les larves d'éphémères nécessitent une eau très propre et sont donc de bons bio-indicateurs de l'absence de pollution.",
+    "imageUrl": "https://images.unsplash.com/photo-1640886907876-33506d50a4ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus venimeux au monde en termes de dose létale pour l'homme ?",
-    "correct_answer": "Méduse-boîte",
+    "question": "Quel est le nom du comportement où un animal feint la mort pour échapper à un prédateur ?",
+    "correct_answer": "La thanatose",
     "incorrect_answers": [
-      "Cobra royal",
-      "Scorpion",
-      "Araignée Phoneutria"
+      "La nécrophobie",
+      "La catalepsie",
+      "L'hypnose animale"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1656769953565-91b35bb2cc7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La thanatose est une stratégie de défense où l'animal simule sa propre mort pour dissuader les prédateurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1641046741761-d0f286ab6f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère est le seul à pondre des œufs tout en étant un mammifère ?",
-    "correct_answer": "Ornithorynque",
+    "question": "Quel mammifère est le plus grand animal terrestre ?",
+    "correct_answer": "L'éléphant d'Afrique",
     "incorrect_answers": [
-      "Échidné",
-      "Fourmilier",
-      "Taupe"
+      "Le rhinocéros blanc",
+      "L'hippopotame",
+      "La girafe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1726335849092-a9870a096165?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'éléphant d'Afrique est non seulement le plus grand mammifère terrestre, mais aussi le plus lourd.",
+    "imageUrl": "https://images.unsplash.com/photo-1742500778370-f1f92e427d40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de voler à une altitude de plus de 10 000 mètres ?",
-    "correct_answer": "Oie à tête barrée",
+    "question": "Quelle est la principale source de nourriture pour les koalas ?",
+    "correct_answer": "Les feuilles d'eucalyptus",
     "incorrect_answers": [
-      "Condor",
-      "Vautour",
-      "Faucon pèlerin"
+      "Le miel",
+      "Les fruits de la passion",
+      "Les racines de fougères"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1674114411719-199c28e587b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les koalas ont un régime alimentaire très spécialisé, se nourrissant presque exclusivement de feuilles d'eucalyptus.",
+    "imageUrl": "https://images.unsplash.com/photo-1696776156652-1bd7a1ac4727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel reptile est capable de changer de sexe en fonction de la température d'incubation ?",
-    "correct_answer": "Tortue luth",
+    "question": "Quel animal est capable de survivre à des températures extrêmes et au vide spatial grâce à la cryptobiose ?",
+    "correct_answer": "Le tardigrade",
     "incorrect_answers": [
-      "Crocodile",
-      "Lézard",
-      "Serpent"
+      "Le nématode",
+      "L'amibe",
+      "Le rotifère"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1622429797416-2bc41e302300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le tardigrade, ou 'ours d'eau', est célèbre pour sa résilience et sa capacité à entrer en cryptobiose, résistant à des conditions extrêmes.",
+    "imageUrl": "https://images.unsplash.com/photo-1715890434417-40229a310620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de produire des sons à des fréquences inaudibles pour l'homme ?",
-    "correct_answer": "Cachalot",
+    "question": "Quel type de venin, présent chez certaines vipères, affecte la coagulation sanguine ?",
+    "correct_answer": "Le venin hémotoxique",
     "incorrect_answers": [
-      "Baleine bleue",
-      "Dauphin",
-      "Orque"
+      "Le venin neurotoxique",
+      "Le venin myotoxique",
+      "Le venin cytotoxique"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1705889518185-71612a3efa08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le venin hémotoxique agit sur le sang et le système circulatoire, provoquant des hémorragies et des nécroses.",
+    "imageUrl": "https://images.unsplash.com/photo-1610714050385-eec2009e935a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel insecte est capable de survivre à des températures extrêmes de -70°C ?",
-    "correct_answer": "Moustique de l'Arctique",
+    "question": "Quel oiseau est connu pour construire des nids élaborés suspendus aux arbres, souvent avec une entrée étroite ?",
+    "correct_answer": "Le tisserin",
     "incorrect_answers": [
-      "Fourmi du désert",
-      "Abeille",
-      "Papillon"
+      "Le roitelet",
+      "Le martinet",
+      "Le moineau"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1607268102039-3e470cf6e263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les tisserins sont des oiseaux africains et asiatiques, célèbres pour la complexité de leurs nids tressés.",
+    "imageUrl": "https://images.unsplash.com/photo-1556032743-e5c0cda93bf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est le plus petit du monde, mesurant seulement 5 cm de long ?",
-    "correct_answer": "Colibri d'Hélène",
+    "question": "Quel mammifère est connu pour sa capacité à écholocaliser dans l'eau ?",
+    "correct_answer": "Le dauphin",
     "incorrect_answers": [
-      "Mésange",
-      "Moineau",
-      "Rossignol"
+      "Le phoque",
+      "Le lamantin",
+      "La loutre de mer"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1658285175819-f6390bde98de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les dauphins utilisent l'écholocation pour naviguer, localiser leurs proies et communiquer sous l'eau.",
+    "imageUrl": "https://images.unsplash.com/photo-1718647507338-4dc7b6e6ff86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère est le plus grand rongeur du monde, pouvant peser jusqu'à 60 kg ?",
-    "correct_answer": "Capybara",
+    "question": "Quelle est la principale menace pour la survie du pangolin ?",
+    "correct_answer": "Le braconnage et le trafic illégal de ses écailles et de sa chair",
     "incorrect_answers": [
-      "Castor",
-      "Porc-épic",
-      "Lapin géant"
+      "La perte de son habitat due à la déforestation",
+      "Les maladies infectieuses",
+      "La compétition avec d'autres espèces"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1625598176870-b1c49127d063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le pangolin est le mammifère le plus trafiqué au monde, menacé par la demande de ses écailles en médecine traditionnelle.",
+    "imageUrl": "https://images.unsplash.com/photo-1617660772291-e5d67b4610dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel reptile est capable de régénérer une partie de son cerveau ?",
-    "correct_answer": "Lézard",
+    "question": "Quel animal marin est capable de se cloner et de régénérer ses membres perdus ?",
+    "correct_answer": "L'étoile de mer",
     "incorrect_answers": [
-      "Serpent",
-      "Tortue",
-      "Crocodile"
+      "Le crabe royal",
+      "La langouste",
+      "L'oursin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707536484356-86ca44981e49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les étoiles de mer ont une incroyable capacité de régénération ; un seul bras peut reformer un animal entier.",
+    "imageUrl": "https://images.unsplash.com/photo-1728557349552-c1660fbdff7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le seul à posséder trois cœurs ?",
-    "correct_answer": "Pieuvre",
+    "question": "Quel est le nom de la mue complète des plumes chez les oiseaux ?",
+    "correct_answer": "La mue",
     "incorrect_answers": [
-      "Calmar",
-      "Seiche",
-      "Céphalopode"
+      "La pilosité",
+      "L'écaille",
+      "Le plumage"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1611590278089-8dce9a70ed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La mue est le renouvellement périodique du plumage chez les oiseaux, essentiel pour l'entretien et le vol.",
+    "imageUrl": "https://images.unsplash.com/photo-1611590278089-8dce9a70ed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de voler en arrière et de planer sans battre des ailes ?",
-    "correct_answer": "Colibri",
+    "question": "Quel insecte est souvent confondu avec un papillon, mais se distingue par ses antennes en forme de massue et son corps plus robuste ?",
+    "correct_answer": "Le sphinx",
     "incorrect_answers": [
-      "Martin-pêcheur",
-      "Hirondelle",
-      "Pigeon"
+      "La libellule",
+      "Le bourdon",
+      "Le bombyx"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707515637645-7b9ed1e1597f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les sphinx sont des papillons de nuit caractérisés par leur corps robuste et leur vol rapide, souvent confondus avec les bourdons.",
+    "imageUrl": "https://images.unsplash.com/photo-1617660772347-fb9896f92872?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère est le plus grand prédateur des océans en termes de taille ?",
-    "correct_answer": "Grand requin blanc",
+    "question": "Quelle est l'adaptation permettant à certains poissons des profondeurs de produire leur propre lumière ?",
+    "correct_answer": "La bioluminescence",
     "incorrect_answers": [
-      "Orque",
-      "Baleine bleue",
-      "Cachalot"
+      "La thermoluminescence",
+      "L'électroluminescence",
+      "La chimiluminescence"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1669406047620-509b197b9125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La bioluminescence, production de lumière par des organismes vivants, est courante chez les animaux des abysses pour la chasse et l'attraction.",
+    "imageUrl": "https://images.unsplash.com/photo-1653326243366-39679dc05642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel insecte est capable de produire du miel et de la cire comme les abeilles ?",
-    "correct_answer": "Guêpe sociale",
+    "question": "Quel prédateur marin est connu pour sa morsure la plus puissante du règne animal ?",
+    "correct_answer": "Le crocodile marin",
     "incorrect_answers": [
-      "Fourmi",
-      "Moustique",
-      "Papillon"
+      "Le grand requin blanc",
+      "L'orque",
+      "Le cachalot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1728025139514-72890f2c69d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le crocodile marin possède la mâchoire la plus puissante, capable d'exercer une force de plusieurs tonnes par centimètre carré.",
+    "imageUrl": "https://images.unsplash.com/photo-1658004354495-2877ace1c158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel reptile est le plus venimeux au monde, avec un venin capable de tuer un humain en moins d'une heure ?",
-    "correct_answer": "Taïpan du désert",
+    "question": "Quel animal est le plus rapide sur terre ?",
+    "correct_answer": "Le guépard",
     "incorrect_answers": [
-      "Cobra royal",
-      "Mamba noir",
-      "Vipère"
+      "L'antilope springbok",
+      "Le lévrier",
+      "Le lion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1591089570621-ea86c99a09a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le guépard est l'animal terrestre le plus rapide, capable d'atteindre des vitesses de 110 à 120 km/h sur de courtes distances.",
+    "imageUrl": "https://images.unsplash.com/photo-1683355931765-6c8e573e69af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de dormir en flottant verticalement ?",
-    "correct_answer": "Baleine à bosse",
+    "question": "Quel phénomène est la raison principale de la mort de milliers de poissons lors de la marée rouge ?",
+    "correct_answer": "L'appauvrissement en oxygène de l'eau",
     "incorrect_answers": [
-      "Dauphin",
-      "Orque",
-      "Phoque"
+      "L'augmentation de la salinité",
+      "La surchauffe de l'eau",
+      "L'acidification de l'eau"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1726335849487-fd5d3b63b87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La prolifération d'algues lors d'une marée rouge consomme l'oxygène, entraînant l'hypoxie et la mort des poissons.",
+    "imageUrl": "https://images.unsplash.com/photo-1625598176870-b1c49127d063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de détecter les champs magnétiques pour s'orienter lors de ses migrations ?",
-    "correct_answer": "Pigeon voyageur",
+    "question": "Quel est le nom du groupe de mammifères qui se caractérisent par un pouce opposable ?",
+    "correct_answer": "Les primates",
     "incorrect_answers": [
-      "Hirondelle",
-      "Cigogne",
-      "Canard"
+      "Les rongeurs",
+      "Les carnivores",
+      "Les cétacés"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1711011998211-98f4fbe5f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les primates sont un ordre de mammifères qui inclut l'Homme, caractérisé par un pouce opposable et une grande agilité manuelle.",
+    "imageUrl": "https://images.unsplash.com/photo-1674114411719-199c28e587b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le seul à posséder une trompe préhensile en plus de ses membres ?",
-    "correct_answer": "Éléphant",
+    "question": "Quel animal marin est le plus grand du monde ?",
+    "correct_answer": "La baleine bleue",
     "incorrect_answers": [
-      "Tapir",
-      "Rhinocéros",
-      "Hippopotame"
+      "Le cachalot",
+      "Le requin-baleine",
+      "La rorqual commun"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707759408971-3c9358b450c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La baleine bleue est non seulement le plus grand animal marin, mais aussi le plus grand animal ayant jamais vécu sur Terre.",
+    "imageUrl": "https://images.unsplash.com/photo-1591089570621-ea86c99a09a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel reptile est capable de survivre à une perte de 50 % de son eau corporelle ?",
-    "correct_answer": "Lézard du désert",
+    "question": "Quel animal est connu pour sa capacité à régurgiter des boules de poils et d'os indigestes, appelées pelotes de réjection ?",
+    "correct_answer": "Le hibou",
     "incorrect_answers": [
-      "Serpent",
-      "Tortue",
-      "Crocodile"
+      "Le faucon",
+      "L'aigle",
+      "Le vautour"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616308913711-c2c719dc2ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les hiboux et les chouettes régurgitent régulièrement des pelotes de réjection contenant les parties non digérées de leurs proies.",
+    "imageUrl": "https://images.unsplash.com/photo-1616308913711-c2c719dc2ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère marin est capable de produire des sons à des fréquences ultrasoniques pour chasser ?",
-    "correct_answer": "Dauphin",
+    "question": "Quelle adaptation permet aux caméléons de changer de couleur ?",
+    "correct_answer": "Des cellules pigmentaires spécialisées (chromatophores)",
     "incorrect_answers": [
-      "Baleine",
-      "Orque",
-      "Phoque"
+      "Une couche de kératine modifiable",
+      "Un système nerveux autonome unique",
+      "Une réaction chimique à la lumière"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916185-f80c51edf37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les chromatophores permettent aux caméléons d'adapter leur couleur en fonction de leur humeur, de la température et de l'environnement.",
+    "imageUrl": "https://images.unsplash.com/photo-1701430916245-c126556b6da0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel oiseau est capable de voler sans s'arrêter pendant 8 mois pour ses migrations ?",
-    "correct_answer": "Martin-pêcheur d'Europe",
+    "question": "Quel reptile est le plus grand serpent du monde en longueur ?",
+    "correct_answer": "Le python réticulé",
     "incorrect_answers": [
-      "Hirondelle",
-      "Cigogne",
-      "Faucon"
+      "L'anaconda vert",
+      "Le boa constricteur",
+      "Le cobra royal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1709829421603-ce7c6a8f3154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le python réticulé peut atteindre plus de 6 mètres, le rendant le plus long serpent du monde, bien que l'anaconda soit plus lourd.",
+    "imageUrl": "https://images.unsplash.com/photo-1658285175819-f6390bde98de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel insecte est capable de survivre à une exposition aux radiations 1 000 fois supérieure à la dose mortelle pour l'homme ?",
-    "correct_answer": "Tardigrade",
+    "question": "Quelle est la principale menace pour les tortues marines ?",
+    "correct_answer": "La pollution plastique et la capture accidentelle dans les filets de pêche",
     "incorrect_answers": [
-      "Fourmi",
-      "Abeille",
-      "Cafard"
+      "Les maladies naturelles",
+      "La compétition avec les poissons",
+      "Les attaques de requins"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1725206076077-1b5cdb82bac3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La pollution plastique et les prises accessoires sont les fléaux majeurs qui menacent les populations de tortues marines.",
+    "imageUrl": "https://images.unsplash.com/photo-1689797216602-fb2ce418cf7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mammifère est le seul à posséder une fourrure imperméable et une couche de graisse isolante ?",
-    "correct_answer": "Otarie",
+    "question": "Quel phénomène biologique est un état d'activité réduite chez certains animaux en réponse à la chaleur et la sécheresse ?",
+    "correct_answer": "L'estivation",
     "incorrect_answers": [
-      "Phoque",
-      "Loup marin",
-      "Loutre"
+      "L'hibernation",
+      "La diapause",
+      "La torpeur"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1701430916245-c126556b6da0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'estivation est un état de dormance similaire à l'hibernation, mais induit par la chaleur et le manque d'eau, typique des climats arides.",
+    "imageUrl": "https://images.unsplash.com/photo-1680113989065-fe7bbf080a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel reptile est capable de changer de couleur en quelques secondes pour communiquer ou se camoufler ?",
-    "correct_answer": "Caméléon",
+    "question": "Quel est le seul animal capable de digérer les os ?",
+    "correct_answer": "Le gypaète barbu",
     "incorrect_answers": [
-      "Gecko",
-      "Iguane",
-      "Lézard"
+      "Le loup",
+      "L'hyène tachetée",
+      "Le chacal doré"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1696776156652-1bd7a1ac4727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le gypaète barbu est un charognard qui lâche les os en hauteur pour les briser et les ingérer, grâce à un acide gastrique très puissant.",
+    "imageUrl": "https://images.unsplash.com/photo-1707759408971-3c9358b450c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel animal est le plus grand rongeur d'Amérique du Sud, pouvant peser jusqu'à 80 kg ?",
-    "correct_answer": "Capybara",
+    "question": "Quel type de régime alimentaire est celui des rongeurs ?",
+    "correct_answer": "Herbivore ou omnivore",
     "incorrect_answers": [
-      "Agouti",
-      "Paca",
-      "Chinchilla"
+      "Strictement carnivore",
+      "Frugivore exclusif",
+      "Nectarivore"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1722081415322-7557e8c22ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzkxMDQyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les rongeurs, comme les souris ou les écureuils, ont des régimes variés, principalement basés sur les végétaux, mais peuvent manger de tout.",
+    "imageUrl": "https://images.unsplash.com/photo-1656769953565-91b35bb2cc7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel animal est connu pour construire des barrages complexes pour créer des habitats aquatiques ?",
+    "correct_answer": "Le castor",
+    "incorrect_answers": [
+      "La loutre",
+      "Le rat musqué",
+      "Le ragondin"
+    ],
+    "explanation": "Les castors sont des ingénieurs écologiques, construisant des barrages qui modifient considérablement leur environnement.",
+    "imageUrl": "https://images.unsplash.com/photo-1701430916212-0615c1458af0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du processus par lequel les amphibiens passent de la larve aquatique à l'adulte terrestre ?",
+    "correct_answer": "La métamorphose",
+    "incorrect_answers": [
+      "La pupaison",
+      "L'incubation",
+      "La germination"
+    ],
+    "explanation": "La métamorphose est une transformation spectaculaire qui permet aux amphibiens de passer d'une vie aquatique à une vie terrestre.",
+    "imageUrl": "https://images.unsplash.com/photo-1631820018357-7527ff384843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus grand insecte volant par envergure ?",
+    "correct_answer": "Le papillon atlas",
+    "incorrect_answers": [
+      "Le scarabée Hercule",
+      "La mante religieuse",
+      "Le frelon géant"
+    ],
+    "explanation": "Le papillon atlas, originaire d'Asie, possède une envergure pouvant atteindre plus de 25 centimètres, ce qui en fait le plus grand papillon du monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1671006185939-27507226c356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8d2lsZCUyMGFuaW1hbHMlMjBuYXR1cmUlMjB3aWxkbGlmZXxlbnwwfHx8fDE3Nzk3OTc5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle particularité anatomique permet au colibri de voler sur place et même en arrière ?",
+    "correct_answer": "Ses ailes battent en forme de 8",
+    "incorrect_answers": [
+      "Ses os sont creux et légers",
+      "Il a des muscles pectoraux hypertrophiés",
+      "Son cœur bat très lentement"
+    ],
+    "explanation": "Les ailes du colibri, battant à haute fréquence dans un mouvement de huit, lui confèrent une agilité de vol unique, y compris le vol stationnaire et arrière.",
+    "imageUrl": null
   }
 ]

@@ -1,0 +1,651 @@
+[
+  {
+    "question": "Quel est le premier jeu vidéo commercialisé au monde ?",
+    "correct_answer": "Pong",
+    "incorrect_answers": [
+      "Tetris",
+      "Pac-Man",
+      "Super Mario Bros."
+    ],
+    "explanation": "Pong, sorti en 1972 par Atari, est considéré comme le premier jeu vidéo grand public.",
+    "imageUrl": "https://images.unsplash.com/photo-1577741314755-048d8525d31e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a popularisé le jeu en ligne avec ses manettes sans fil ?",
+    "correct_answer": "Nintendo Wii",
+    "incorrect_answers": [
+      "PlayStation 2",
+      "Xbox 360",
+      "Game Boy Advance"
+    ],
+    "explanation": "La Wii, sortie en 2006, a introduit le jeu en ligne via sa boutique Wii Shop Channel.",
+    "imageUrl": "https://images.unsplash.com/photo-1542549237432-a176cb9d5e5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'The Legend of Zelda' ?",
+    "correct_answer": "Nintendo",
+    "incorrect_answers": [
+      "Square Enix",
+      "Capcom",
+      "Konami"
+    ],
+    "explanation": "Nintendo a développé The Legend of Zelda, sorti en 1986 sur NES.",
+    "imageUrl": "https://images.unsplash.com/photo-1580327344181-c1163234e5a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est connu pour sauter sur des plateformes ?",
+    "correct_answer": "Mario",
+    "incorrect_answers": [
+      "Sonic",
+      "Kratos",
+      "Link"
+    ],
+    "explanation": "Mario, créé par Nintendo en 1981, est le plombier le plus célèbre du jeu vidéo.",
+    "imageUrl": "https://images.unsplash.com/photo-1670535788315-6b7d64aa020c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des disques Blu-ray ?",
+    "correct_answer": "PlayStation 3",
+    "incorrect_answers": [
+      "Xbox 360",
+      "GameCube",
+      "Dreamcast"
+    ],
+    "explanation": "La PS3, sortie en 2006, a adopté le Blu-ray comme support principal.",
+    "imageUrl": "https://images.unsplash.com/photo-1597933437986-5b61315e70fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu est célèbre pour ses blocs colorés qui tombent ?",
+    "correct_answer": "Tetris",
+    "incorrect_answers": [
+      "Pac-Man",
+      "Space Invaders",
+      "Donkey Kong"
+    ],
+    "explanation": "Tetris, créé en 1984, est un puzzle où des formes géométriques tombent et s'assemblent.",
+    "imageUrl": "https://images.unsplash.com/photo-1749135583860-4e2ead09c1c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Minecraft' ?",
+    "correct_answer": "Mojang",
+    "incorrect_answers": [
+      "Ubisoft",
+      "Electronic Arts",
+      "Rockstar Games"
+    ],
+    "explanation": "Mojang, fondé par Markus Persson, a créé Minecraft en 2011.",
+    "imageUrl": "https://images.unsplash.com/photo-1632312527375-bd5d5a0d3484?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo porte un chapeau rouge et une salopette ?",
+    "correct_answer": "Mario",
+    "incorrect_answers": [
+      "Luigi",
+      "Wario",
+      "Bowser"
+    ],
+    "explanation": "Mario, créé par Nintendo, est reconnaissable à sa tenue rouge et bleue.",
+    "imageUrl": "https://images.unsplash.com/photo-1580234831315-438a4813685c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a introduit le premier joystick analogique ?",
+    "correct_answer": "Nintendo 64",
+    "incorrect_answers": [
+      "PlayStation 1",
+      "Sega Saturn",
+      "Atari 2600"
+    ],
+    "explanation": "La Nintendo 64, sortie en 1996, a popularisé le joystick analogique pour les jeux 3D.",
+    "imageUrl": "https://images.unsplash.com/photo-1580234811497-9df7fd2f357e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un hérisson bleu qui court très vite ?",
+    "correct_answer": "Sonic",
+    "incorrect_answers": [
+      "Crash Bandicoot",
+      "Spyro",
+      "Rayman"
+    ],
+    "explanation": "Sonic, créé par Sega en 1991, est un hérisson bleu connu pour sa vitesse.",
+    "imageUrl": "https://images.unsplash.com/photo-1604846887565-640d2f52d564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Grand Theft Auto' ?",
+    "correct_answer": "Rockstar Games",
+    "incorrect_answers": [
+      "Ubisoft",
+      "Electronic Arts",
+      "Nintendo"
+    ],
+    "explanation": "Rockstar Games, filiale de Take-Two, a développé la série GTA depuis 1997.",
+    "imageUrl": "https://images.unsplash.com/photo-1643489096329-ab168c1c8d14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un chasseur de monstres avec une épée ?",
+    "correct_answer": "Kratos",
+    "incorrect_answers": [
+      "Cloud",
+      "Sora",
+      "Alucard"
+    ],
+    "explanation": "Kratos, protagoniste de God of War, est un guerrier spartiate combattant des dieux.",
+    "imageUrl": "https://images.unsplash.com/photo-1554213352-5ffe6534af08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des cartes mémoire ?",
+    "correct_answer": "Game Boy",
+    "incorrect_answers": [
+      "NES",
+      "Sega Genesis",
+      "PlayStation"
+    ],
+    "explanation": "La Game Boy, sortie en 1989, a introduit les cartes mémoire pour sauvegarder les parties.",
+    "imageUrl": "https://images.unsplash.com/photo-1603565913235-382c62d3b2ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un plombier qui sauve une princesse ?",
+    "correct_answer": "Super Mario Bros.",
+    "incorrect_answers": [
+      "Donkey Kong",
+      "Zelda",
+      "Metroid"
+    ],
+    "explanation": "Super Mario Bros., sorti en 1985, suit Mario sauvant la princesse Peach.",
+    "imageUrl": "https://images.unsplash.com/photo-1602610411365-76e8c2a88e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Fortnite' ?",
+    "correct_answer": "Epic Games",
+    "incorrect_answers": [
+      "Riot Games",
+      "Valve",
+      "Blizzard Entertainment"
+    ],
+    "explanation": "Epic Games, fondé en 1991, a développé Fortnite en 2017.",
+    "imageUrl": "https://images.unsplash.com/photo-1630135816557-e9af210550f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un aventurier avec une tunique verte ?",
+    "correct_answer": "Link",
+    "incorrect_answers": [
+      "Zelda",
+      "Ganon",
+      "Epona"
+    ],
+    "explanation": "Link, héros de The Legend of Zelda, porte souvent une tunique verte.",
+    "imageUrl": "https://images.unsplash.com/photo-1638431755905-631694da8921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser un écran tactile ?",
+    "correct_answer": "Nintendo DS",
+    "incorrect_answers": [
+      "Game Boy Advance",
+      "PlayStation Portable",
+      "Xbox"
+    ],
+    "explanation": "La Nintendo DS, sortie en 2004, a popularisé l'écran tactile dans les consoles portables.",
+    "imageUrl": "https://images.unsplash.com/photo-1572537577590-ac6a88150100?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHx2aWRlbyUyMGdhbWVzJTIwY29udHJvbGxlciUyMGdhbWluZ3xlbnwwfHx8fDE3Nzk3OTg0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage jaune qui mange des points ?",
+    "correct_answer": "Pac-Man",
+    "incorrect_answers": [
+      "Ms. Pac-Man",
+      "Dig Dug",
+      "Galaga"
+    ],
+    "explanation": "Pac-Man, créé en 1980, est un personnage jaune qui mange des pac-gommes.",
+    "imageUrl": "https://images.unsplash.com/photo-1600861194942-f883de0dfe96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHx2aWRlbyUyMGdhbWVzJTIwY29udHJvbGxlciUyMGdhbWluZ3xlbnwwfHx8fDE3Nzk3OTg0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'The Witcher 3' ?",
+    "correct_answer": "CD Projekt Red",
+    "incorrect_answers": [
+      "BioWare",
+      "FromSoftware",
+      "Naughty Dog"
+    ],
+    "explanation": "CD Projekt Red, studio polonais, a créé The Witcher 3 en 2015.",
+    "imageUrl": "https://images.unsplash.com/photo-1654484520941-ebbba5b77fec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un chasseur de primes avec un blaster ?",
+    "correct_answer": "Samus Aran",
+    "incorrect_answers": [
+      "Kratos",
+      "Master Chief",
+      "Marcus Fenix"
+    ],
+    "explanation": "Samus Aran, héroïne de Metroid, est une chasseuse de primes en armure.",
+    "imageUrl": "https://images.unsplash.com/photo-1486572788966-cfd3df1f5b42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHx2aWRlbyUyMGdhbWVzJTIwY29udHJvbGxlciUyMGdhbWluZ3xlbnwwfHx8fDE3Nzk3OTg0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des graphismes 3D ?",
+    "correct_answer": "Sega Saturn",
+    "incorrect_answers": [
+      "Nintendo 64",
+      "PlayStation 1",
+      "Atari Jaguar"
+    ],
+    "explanation": "La Sega Saturn, sortie en 1994, a popularisé les graphismes 3D en temps réel.",
+    "imageUrl": "https://images.unsplash.com/photo-1586182987320-4f376d39d787?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHx2aWRlbyUyMGdhbWVzJTIwY29udHJvbGxlciUyMGdhbWluZ3xlbnwwfHx8fDE3Nzk3OTg0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit survivre à des zombies ?",
+    "correct_answer": "Resident Evil",
+    "incorrect_answers": [
+      "Silent Hill",
+      "Dead Space",
+      "Left 4 Dead"
+    ],
+    "explanation": "Resident Evil, créé en 1996, est un survival horror mettant en scène des zombies.",
+    "imageUrl": "https://images.unsplash.com/photo-1631896928983-2c94ea6f97e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Call of Duty' ?",
+    "correct_answer": "Infinity Ward",
+    "incorrect_answers": [
+      "Ubisoft",
+      "EA DICE",
+      "Bungie"
+    ],
+    "explanation": "Infinity Ward, fondé en 2002, a développé le premier Call of Duty.",
+    "imageUrl": "https://images.unsplash.com/photo-1603009516102-14d93178f395?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un guerrier viking ?",
+    "correct_answer": "Kratos",
+    "incorrect_answers": [
+      "Aloy",
+      "Geralt de Riv",
+      "Arthur Morgan"
+    ],
+    "explanation": "Kratos, dans God of War, est un guerrier spartiate devenu dieu nordique.",
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1580234820596-0876d136e6d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des manettes sans fil ?",
+    "correct_answer": "Nintendo Wii",
+    "incorrect_answers": [
+      "PlayStation 3",
+      "Xbox 360",
+      "GameCube"
+    ],
+    "explanation": "La Wii, sortie en 2006, a popularisé les manettes sans fil avec détection de mouvement.",
+    "imageUrl": "https://images.unsplash.com/photo-1665041974623-d398d035023e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit éviter des obstacles ?",
+    "correct_answer": "Flappy Bird",
+    "incorrect_answers": [
+      "Tetris",
+      "Angry Birds",
+      "Candy Crush"
+    ],
+    "explanation": "Flappy Bird, créé en 2013, est un jeu où le joueur fait passer un oiseau entre des tuyaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1616341316676-fb436b96f99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Among Us' ?",
+    "correct_answer": "InnerSloth",
+    "incorrect_answers": [
+      "Mojang",
+      "Epic Games",
+      "Riot Games"
+    ],
+    "explanation": "InnerSloth, studio indépendant, a créé Among Us en 2018.",
+    "imageUrl": "https://images.unsplash.com/photo-1482855549413-2a6c9b1955a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un plombier vert ?",
+    "correct_answer": "Luigi",
+    "incorrect_answers": [
+      "Mario",
+      "Wario",
+      "Bowser"
+    ],
+    "explanation": "Luigi, frère de Mario, est un plombier vert apparu en 1983.",
+    "imageUrl": "https://images.unsplash.com/photo-1665592512676-840f7b669aeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des graphismes HD ?",
+    "correct_answer": "Xbox 360",
+    "incorrect_answers": [
+      "PlayStation 3",
+      "Wii",
+      "GameCube"
+    ],
+    "explanation": "L'Xbox 360, sortie en 2005, a popularisé les graphismes HD dans les consoles.",
+    "imageUrl": "https://images.unsplash.com/photo-1585620385456-4759f9b5c7d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHx2aWRlbyUyMGdhbWVzJTIwY29udHJvbGxlciUyMGdhbWluZ3xlbnwwfHx8fDE3Nzk3OTg0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit résoudre des énigmes ?",
+    "correct_answer": "Portal",
+    "incorrect_answers": [
+      "Half-Life",
+      "Doom",
+      "Quake"
+    ],
+    "explanation": "Portal, créé en 2007, est un puzzle game avec un pistolet à portails.",
+    "imageUrl": "https://images.unsplash.com/photo-1554410637-1a8267402b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Dark Souls' ?",
+    "correct_answer": "FromSoftware",
+    "incorrect_answers": [
+      "Nintendo",
+      "Capcom",
+      "Square Enix"
+    ],
+    "explanation": "FromSoftware, studio japonais, a créé Dark Souls en 2011.",
+    "imageUrl": "https://images.unsplash.com/photo-1593118247619-e2d6f056869e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un chasseur de monstres avec un arc ?",
+    "correct_answer": "Aloy",
+    "incorrect_answers": [
+      "Samus Aran",
+      "Lara Croft",
+      "Jill Valentine"
+    ],
+    "explanation": "Aloy, héroïne de Horizon Zero Dawn, utilise un arc pour chasser des machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1604586398467-32924c78b879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser un disque dur ?",
+    "correct_answer": "Xbox",
+    "incorrect_answers": [
+      "PlayStation 2",
+      "GameCube",
+      "Dreamcast"
+    ],
+    "explanation": "La Xbox originale, sortie en 2001, a intégré un disque dur pour sauvegarder les jeux.",
+    "imageUrl": "https://images.unsplash.com/photo-1708235094342-2c550599223f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit survivre dans un monde ouvert ?",
+    "correct_answer": "The Legend of Zelda: Breath of the Wild",
+    "incorrect_answers": [
+      "Skyrim",
+      "Red Dead Redemption 2",
+      "GTA V"
+    ],
+    "explanation": "Breath of the Wild, sorti en 2017, est un jeu d'aventure en monde ouvert.",
+    "imageUrl": "https://images.unsplash.com/photo-1659101967085-36dc2abaeca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Overwatch' ?",
+    "correct_answer": "Blizzard Entertainment",
+    "incorrect_answers": [
+      "Riot Games",
+      "Valve",
+      "Bungie"
+    ],
+    "explanation": "Blizzard Entertainment a développé Overwatch, sorti en 2016.",
+    "imageUrl": "https://images.unsplash.com/photo-1603985753826-30c036e8804d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un guerrier avec une épée et un bouclier ?",
+    "correct_answer": "Arthur Morgan",
+    "incorrect_answers": [
+      "Kratos",
+      "Geralt de Riv",
+      "Cloud Strife"
+    ],
+    "explanation": "Arthur Morgan, protagoniste de Red Dead Redemption 2, est un hors-la-loi avec une épée.",
+    "imageUrl": "https://images.unsplash.com/photo-1665041982909-8a86864a1e49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des graphismes 16 bits ?",
+    "correct_answer": "Sega Mega Drive",
+    "incorrect_answers": [
+      "Super Nintendo",
+      "Neo Geo",
+      "TurboGrafx-16"
+    ],
+    "explanation": "La Mega Drive, sortie en 1988, a popularisé les graphismes 16 bits.",
+    "imageUrl": "https://images.unsplash.com/photo-1537963447914-dbc04b81de27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit éviter des fantômes ?",
+    "correct_answer": "Pac-Man",
+    "incorrect_answers": [
+      "Ms. Pac-Man",
+      "Galaga",
+      "Space Invaders"
+    ],
+    "explanation": "Dans Pac-Man, le joueur doit éviter les fantômes pour survivre.",
+    "imageUrl": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGdhbWVzJTIwY29udHJvbGxlciUyMGdhbWluZ3xlbnwwfHx8fDE3Nzk3OTg0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Final Fantasy VII' ?",
+    "correct_answer": "Square Enix",
+    "incorrect_answers": [
+      "Nintendo",
+      "Capcom",
+      "Konami"
+    ],
+    "explanation": "Square Enix (anciennement Square) a créé Final Fantasy VII en 1997.",
+    "imageUrl": "https://images.unsplash.com/photo-1507457379470-08b800bebc67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un chasseur de primes avec une armure ?",
+    "correct_answer": "Master Chief",
+    "incorrect_answers": [
+      "Kratos",
+      "Samus Aran",
+      "Marcus Fenix"
+    ],
+    "explanation": "Master Chief, protagoniste de Halo, porte une armure de combat MJOLNIR.",
+    "imageUrl": "https://images.unsplash.com/photo-1543973277-5020ef836640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des manettes à retour de force ?",
+    "correct_answer": "Nintendo 64",
+    "incorrect_answers": [
+      "PlayStation 1",
+      "Sega Saturn",
+      "GameCube"
+    ],
+    "explanation": "La Nintendo 64, sortie en 1996, a introduit les vibrations dans les manettes.",
+    "imageUrl": "https://images.unsplash.com/photo-1616801060191-6085bad82f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit construire des structures ?",
+    "correct_answer": "Minecraft",
+    "incorrect_answers": [
+      "Terraria",
+      "Stardew Valley",
+      "Roblox"
+    ],
+    "explanation": "Minecraft permet de construire des structures avec des blocs dans un monde ouvert.",
+    "imageUrl": "https://images.unsplash.com/photo-1567027757540-7b572280fa22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'God of War' ?",
+    "correct_answer": "Santa Monica Studio",
+    "incorrect_answers": [
+      "Naughty Dog",
+      "CD Projekt Red",
+      "FromSoftware"
+    ],
+    "explanation": "Santa Monica Studio, filiale de Sony, a créé la série God of War.",
+    "imageUrl": "https://images.unsplash.com/photo-1605899435973-ca2d1a8861cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un aventurier avec une épée magique ?",
+    "correct_answer": "Geralt de Riv",
+    "incorrect_answers": [
+      "Link",
+      "Cloud Strife",
+      "Kratos"
+    ],
+    "explanation": "Geralt de Riv, héros de The Witcher, manie une épée en argent.",
+    "imageUrl": "https://images.unsplash.com/photo-1499551660540-eaf0697882f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des graphismes vectoriels ?",
+    "correct_answer": "Atari VCS (2600)",
+    "incorrect_answers": [
+      "Intellivision",
+      "ColecoVision",
+      "Neo Geo"
+    ],
+    "explanation": "L'Atari 2600, sortie en 1977, utilisait des graphismes vectoriels pour certains jeux.",
+    "imageUrl": "https://images.unsplash.com/photo-1580234797602-22c37b2a6230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit survivre dans un donjon ?",
+    "correct_answer": "The Binding of Isaac",
+    "incorrect_answers": [
+      "Dark Souls",
+      "Diablo",
+      "Hades"
+    ],
+    "explanation": "The Binding of Isaac est un roguelike où le joueur explore des donjons.",
+    "imageUrl": "https://images.unsplash.com/photo-1691359006593-3481cc87c36a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Doom' ?",
+    "correct_answer": "id Software",
+    "incorrect_answers": [
+      "Valve",
+      "Bungie",
+      "Rare"
+    ],
+    "explanation": "id Software a développé Doom en 1993, pionnier du FPS.",
+    "imageUrl": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHx2aWRlbyUyMGdhbWVzJTIwY29udHJvbGxlciUyMGdhbWluZ3xlbnwwfHx8fDE3Nzk3OTg0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un guerrier avec une épée et un bouclier en bois ?",
+    "correct_answer": "Link",
+    "incorrect_answers": [
+      "Arthur Morgan",
+      "Geralt de Riv",
+      "Kratos"
+    ],
+    "explanation": "Link, dans The Legend of Zelda, utilise souvent une épée en bois au début.",
+    "imageUrl": "https://images.unsplash.com/photo-1531594896955-305cf81269f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des graphismes 3D en temps réel ?",
+    "correct_answer": "Sega Saturn",
+    "incorrect_answers": [
+      "PlayStation 1",
+      "Nintendo 64",
+      "3DO"
+    ],
+    "explanation": "La Sega Saturn, sortie en 1994, a popularisé les graphismes 3D en temps réel.",
+    "imageUrl": "https://images.unsplash.com/photo-1580327332925-a10e6cb11baa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit éviter des obstacles en courant ?",
+    "correct_answer": "Temple Run",
+    "incorrect_answers": [
+      "Subway Surfers",
+      "Canabalt",
+      "Sonic the Hedgehog"
+    ],
+    "explanation": "Temple Run est un jeu mobile où le joueur court et évite des obstacles.",
+    "imageUrl": "https://images.unsplash.com/photo-1492044715545-15ddedd84e5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Half-Life' ?",
+    "correct_answer": "Valve",
+    "incorrect_answers": [
+      "id Software",
+      "Bungie",
+      "Rare"
+    ],
+    "explanation": "Valve a créé Half-Life en 1998, un FPS révolutionnaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1590845947376-2638caa89309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un chasseur de monstres avec une épée et un bouclier ?",
+    "correct_answer": "Arthur Morgan",
+    "incorrect_answers": [
+      "Kratos",
+      "Geralt de Riv",
+      "Link"
+    ],
+    "explanation": "Arthur Morgan, dans Red Dead Redemption 2, chasse des animaux avec une épée.",
+    "imageUrl": "https://images.unsplash.com/photo-1526509867162-5b0c0d1b4b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des manettes à écran tactile ?",
+    "correct_answer": "PlayStation Vita",
+    "incorrect_answers": [
+      "Nintendo 3DS",
+      "Xbox One",
+      "Wii U"
+    ],
+    "explanation": "La PlayStation Vita, sortie en 2011, a intégré un écran tactile arrière.",
+    "imageUrl": "https://images.unsplash.com/photo-1630051822408-b80dde2f5681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit résoudre des énigmes dans un asile ?",
+    "correct_answer": "Silent Hill",
+    "incorrect_answers": [
+      "Resident Evil",
+      "Dead Space",
+      "Alan Wake"
+    ],
+    "explanation": "Silent Hill est un survival horror connu pour ses énigmes psychologiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1586697594225-fa3102a1ca30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'The Elder Scrolls V: Skyrim' ?",
+    "correct_answer": "Bethesda Game Studios",
+    "incorrect_answers": [
+      "BioWare",
+      "CD Projekt Red",
+      "Naughty Dog"
+    ],
+    "explanation": "Bethesda Game Studios a créé Skyrim en 2011, un RPG en monde ouvert.",
+    "imageUrl": "https://images.unsplash.com/photo-1700155007323-1e4f4e58d627?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de jeu vidéo est un aventurier avec une épée et un bouclier en métal ?",
+    "correct_answer": "Cloud Strife",
+    "incorrect_answers": [
+      "Link",
+      "Geralt de Riv",
+      "Kratos"
+    ],
+    "explanation": "Cloud Strife, héros de Final Fantasy VII, manie une épée massive en métal.",
+    "imageUrl": "https://images.unsplash.com/photo-1623786159887-8a747d692e8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle console a été la première à utiliser des graphismes HDMI ?",
+    "correct_answer": "Xbox 360",
+    "incorrect_answers": [
+      "PlayStation 3",
+      "Wii",
+      "GameCube"
+    ],
+    "explanation": "L'Xbox 360, sortie en 2005, a popularisé la sortie HDMI pour les consoles.",
+    "imageUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHx2aWRlbyUyMGdhbWVzJTIwY29udHJvbGxlciUyMGdhbWluZ3xlbnwwfHx8fDE3Nzk3OTg0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu met en scène un personnage qui doit survivre dans un vaisseau spatial ?",
+    "correct_answer": "Dead Space",
+    "incorrect_answers": [
+      "Mass Effect",
+      "Halo",
+      "System Shock"
+    ],
+    "explanation": "Dead Space est un survival horror se déroulant dans un vaisseau spatial.",
+    "imageUrl": "https://images.unsplash.com/photo-1690733363722-fdaf2a5fb7ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Uncharted' ?",
+    "correct_answer": "Naughty Dog",
+    "incorrect_answers": [
+      "Santa Monica Studio",
+      "Insomniac Games",
+      "Rockstar Games"
+    ],
+    "explanation": "Naughty Dog a créé la série Uncharted, un mélange d'action et d'aventure.",
+    "imageUrl": "https://images.unsplash.com/photo-1585881728919-5c0ce925ad10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  }
+]

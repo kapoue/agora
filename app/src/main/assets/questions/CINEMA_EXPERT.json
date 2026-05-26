@@ -1,113 +1,80 @@
 [
   {
-    "question": "Quel réalisateur a tourné le premier long-métrage entièrement en couleurs, 'Becky Sharp' (1935), utilisant le procédé Technicolor à trois bandes ?",
-    "correct_answer": "Rouben Mamoulian",
+    "question": "Quel réalisateur a tourné le premier long-métrage d'animation en images de synthèse, 'Toy Story' (1995) ?",
+    "correct_answer": "John Lasseter",
     "incorrect_answers": [
-      "Michael Curtiz",
-      "Vincente Minnelli",
-      "George Cukor"
+      "Hayao Miyazaki",
+      "Steven Spielberg",
+      "Tim Burton"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1595270308058-9768eb05862c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "John Lasseter était le directeur créatif des studios Pixar.",
+    "imageUrl": "https://images.unsplash.com/photo-1553377102-31f26497d1d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Dans quel film de Stanley Kubrick le personnage de HAL 9000 prononce-t-il la phrase 'Désolé, Dave, je ne peux pas faire ça' ?",
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2020, devenant le premier film en langue étrangère à gagner cette catégorie ?",
+    "correct_answer": "Parasite",
+    "incorrect_answers": [
+      "Roma",
+      "The Irishman",
+      "Joker"
+    ],
+    "explanation": "Parasite, réalisé par Bong Joon-ho, a marqué l'histoire des Oscars.",
+    "imageUrl": "https://images.unsplash.com/photo-1685838885743-0f059251d573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a incarné le personnage de Tyler Durden dans 'Fight Club' (1999) ?",
+    "correct_answer": "Brad Pitt",
+    "incorrect_answers": [
+      "Leonardo DiCaprio",
+      "Edward Norton",
+      "Joaquin Phoenix"
+    ],
+    "explanation": "Brad Pitt partage l'affiche avec Edward Norton dans ce film culte.",
+    "imageUrl": "https://images.unsplash.com/photo-1537044751776-d5fb12da424d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur est connu pour avoir inventé le plan-séquence dans 'La Corde' (1948) ?",
+    "correct_answer": "Alfred Hitchcock",
+    "incorrect_answers": [
+      "Orson Welles",
+      "Stanley Kubrick",
+      "Martin Scorsese"
+    ],
+    "explanation": "Hitchcock a utilisé un plan-séquence simulé pour créer une tension unique.",
+    "imageUrl": "https://images.unsplash.com/photo-1543238825-7307761a433b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de Stanley Kubrick est souvent cité comme le premier à utiliser des effets spéciaux révolutionnaires pour l'époque ?",
     "correct_answer": "2001, l'Odyssée de l'espace",
     "incorrect_answers": [
       "Shining",
       "Orange mécanique",
       "Barry Lyndon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1582874007327-42d7cf9d6a1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Kubrick a collaboré avec des scientifiques pour créer des effets réalistes.",
+    "imageUrl": "https://images.unsplash.com/photo-1512412632857-b93f6ecce335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour son rôle dans 'Le Silence des agneaux' (1991) ?",
+    "question": "Quel réalisateur français est associé au mouvement du 'Cinéma du look' des années 1980 ?",
+    "correct_answer": "Luc Besson",
+    "incorrect_answers": [
+      "Jean-Luc Godard",
+      "François Truffaut",
+      "Agnès Varda"
+    ],
+    "explanation": "Besson a marqué cette période avec des films comme 'Le Grand Bleu'.",
+    "imageUrl": "https://images.unsplash.com/photo-1558365904-e77a613549e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYxMDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a remporté un Oscar pour son rôle dans 'Le Silence des agneaux' (1991) ?",
     "correct_answer": "Anthony Hopkins",
     "incorrect_answers": [
       "Jodie Foster",
       "Scott Glenn",
       "Ted Levine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1512412632857-b93f6ecce335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur français est connu pour avoir inventé le 'plan-séquence' dans son film 'La Jetée' (1962), composé presque entièrement de photographies ?",
-    "correct_answer": "Chris Marker",
-    "incorrect_answers": [
-      "Jean-Luc Godard",
-      "François Truffaut",
-      "Alain Resnais"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1647534605086-2a788fe5ad12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Akira Kurosawa a inspiré le western 'Le Bon, la Brute et le Truand' de Sergio Leone ?",
-    "correct_answer": "Yojimbo",
-    "incorrect_answers": [
-      "Rashomon",
-      "Les Sept Samouraïs",
-      "Throne of Blood"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553377102-31f26497d1d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel cinéaste a réalisé 'Le Mépris', film culte avec Brigitte Bardot et Jack Palance, adapté d'un roman d'Alberto Moravia ?",
-    "correct_answer": "Jean-Luc Godard",
-    "incorrect_answers": [
-      "François Truffaut",
-      "Louis Malle",
-      "Roger Vadim"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1654881192428-074e3d27ef55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a incarné le personnage de Vito Corleone dans 'Le Parrain' (1972) et 'Le Parrain II' (1974) ?",
-    "correct_answer": "Marlon Brando",
-    "incorrect_answers": [
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1572925140875-d30aebb64ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Cuirassé Potemkine', film de propagande soviétique devenu un classique du montage cinématographique ?",
-    "correct_answer": "Sergueï Eisenstein",
-    "incorrect_answers": [
-      "Dziga Vertov",
-      "Vsevolod Poudovkine",
-      "Aleksandr Dovjenko"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1510867461263-2876b3bc4bf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de David Lynch a remporté la Palme d'Or à Cannes en 1990 ?",
-    "correct_answer": "Sailor et Lula",
-    "incorrect_answers": [
-      "Blue Velvet",
-      "Mulholland Drive",
-      "Twin Peaks: Fire Walk with Me"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1622829118131-27ab20ded438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a joué le rôle de Travis Bickle dans 'Taxi Driver' (1976) ?",
-    "correct_answer": "Robert De Niro",
-    "incorrect_answers": [
-      "Al Pacino",
-      "Dustin Hoffman",
-      "Jack Nicholson"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1613908137518-06348dea40e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Persona', film suédois de 1966 considéré comme un chef-d'œuvre du cinéma psychologique ?",
-    "correct_answer": "Ingmar Bergman",
-    "incorrect_answers": [
-      "Federico Fellini",
-      "Luis Buñuel",
-      "Akira Kurosawa"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1512025316832-8658f04f8a83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Hopkins a remporté l'Oscar du meilleur acteur pour son interprétation de Hannibal Lecter.",
+    "imageUrl": "https://images.unsplash.com/photo-1639615058024-abd22129cafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel film de Quentin Tarantino a remporté la Palme d'Or à Cannes en 1994 ?",
@@ -117,386 +84,392 @@
       "Kill Bill",
       "Inglourious Basterds"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1543238825-7307761a433b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Pulp Fiction a marqué un tournant dans l'histoire du cinéma indépendant.",
+    "imageUrl": "https://images.unsplash.com/photo-1520904504199-f040f78d6f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour son rôle dans 'Forrest Gump' (1994) ?",
-    "correct_answer": "Tom Hanks",
-    "incorrect_answers": [
-      "Robin Williams",
-      "Gary Sinise",
-      "Mykelti Williamson"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618934042859-38d5f6efc549?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Metropolis', film expressionniste allemand de 1927, considéré comme un précurseur de la science-fiction ?",
-    "correct_answer": "Fritz Lang",
-    "incorrect_answers": [
-      "F.W. Murnau",
-      "Robert Wiene",
-      "G.W. Pabst"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1533247126815-e24374cdcc21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Stanley Kubrick a été interdit en France jusqu'en 1975 pour obscénité ?",
-    "correct_answer": "Orange mécanique",
-    "incorrect_answers": [
-      "Shining",
-      "2001, l'Odyssée de l'espace",
-      "Barry Lyndon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1693645325820-03c4be5b7031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a incarné le Joker dans le film 'The Dark Knight' (2008) ?",
-    "correct_answer": "Heath Ledger",
-    "incorrect_answers": [
-      "Joaquin Phoenix",
-      "Jack Nicholson",
-      "Jared Leto"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1512790315962-66cbcd3eb8ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Voyage de Chihiro', film d'animation japonais ayant remporté l'Oscar du meilleur film d'animation en 2003 ?",
-    "correct_answer": "Hayao Miyazaki",
-    "incorrect_answers": [
-      "Isao Takahata",
-      "Mamoru Hosoda",
-      "Satoshi Kon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1515975375753-7ea7401d0898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Francis Ford Coppola a remporté 5 Oscars en 1975, dont celui du meilleur film ?",
-    "correct_answer": "Le Parrain II",
-    "incorrect_answers": [
-      "Le Parrain",
-      "Apocalypse Now",
-      "The Conversation"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1514077386104-9d9504da577b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a joué le rôle de Michael Corleone dans 'Le Parrain' et 'Le Parrain II' ?",
-    "correct_answer": "Al Pacino",
-    "incorrect_answers": [
-      "Marlon Brando",
-      "Robert De Niro",
-      "James Caan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1637248466668-64a4ebb097fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné '8½', film autobiographique italien de 1963, considéré comme un chef-d'œuvre du cinéma moderne ?",
-    "correct_answer": "Federico Fellini",
-    "incorrect_answers": [
-      "Michelangelo Antonioni",
-      "Luchino Visconti",
-      "Pier Paolo Pasolini"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1517444929422-105b184a5104?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Steven Spielberg a remporté l'Oscar du meilleur film en 1994 ?",
-    "correct_answer": "La Liste de Schindler",
-    "incorrect_answers": [
-      "Jurassic Park",
-      "Indiana Jones et la Dernière Croisade",
-      "E.T. l'extra-terrestre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1685838885743-0f059251d573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour son rôle dans 'Rain Man' (1988) ?",
-    "correct_answer": "Dustin Hoffman",
-    "incorrect_answers": [
-      "Tom Cruise",
-      "Val Kilmer",
-      "Kevin Spacey"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610899633400-4fd20fba13fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Cabinet du Dr. Caligari', film expressionniste allemand de 1920 ?",
-    "correct_answer": "Robert Wiene",
-    "incorrect_answers": [
-      "F.W. Murnau",
-      "Fritz Lang",
-      "G.W. Pabst"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1620981503602-37a9d8bf9d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Martin Scorsese a remporté la Palme d'Or à Cannes en 2004 ?",
-    "correct_answer": "Les Infiltrés",
-    "incorrect_answers": [
-      "Taxi Driver",
-      "Casino",
-      "The Departed"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1587319303796-ba11a5208840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a joué le rôle de Vito Andolini dans 'Le Parrain II', jeune version du personnage ?",
-    "correct_answer": "Robert De Niro",
-    "incorrect_answers": [
-      "Al Pacino",
-      "Marlon Brando",
-      "James Caan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1493599588594-dc6ae2c099bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'L'Avventura', film italien de 1960 considéré comme un chef-d'œuvre du néoréalisme ?",
-    "correct_answer": "Michelangelo Antonioni",
-    "incorrect_answers": [
-      "Federico Fellini",
-      "Luchino Visconti",
-      "Roberto Rossellini"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574712255203-2400beeb4bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Quentin Tarantino a remporté l'Oscar du meilleur film en 1995 ?",
-    "correct_answer": "Pulp Fiction",
-    "incorrect_answers": [
-      "Reservoir Dogs",
-      "Kill Bill: Volume 1",
-      "Inglourious Basterds"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1595272839837-801709db9fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour son rôle dans 'There Will Be Blood' (2007) ?",
-    "correct_answer": "Daniel Day-Lewis",
-    "incorrect_answers": [
-      "Joaquin Phoenix",
-      "Robert Downey Jr.",
-      "Javier Bardem"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1650060176005-884bbe9f499a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Cuirassé Potemkine', film soviétique de 1925 devenu un symbole du montage cinématographique ?",
-    "correct_answer": "Sergueï Eisenstein",
-    "incorrect_answers": [
-      "Dziga Vertov",
-      "Vsevolod Poudovkine",
-      "Aleksandr Dovjenko"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1543235074-9ef49e58ecd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Stanley Kubrick a été tourné en partie avec des objectifs spéciaux pour créer des effets de lentille distordue ?",
-    "correct_answer": "Shining",
-    "incorrect_answers": [
-      "2001, l'Odyssée de l'espace",
-      "Orange mécanique",
-      "Barry Lyndon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775559002277-e1bcb4e5574d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a joué le rôle de Hannibal Lecter dans 'Le Silence des agneaux' (1991) ?",
-    "correct_answer": "Anthony Hopkins",
-    "incorrect_answers": [
-      "Jodie Foster",
-      "Scott Glenn",
-      "Anthony Perkins"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1678655538413-b0f9623b0f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Persona', film suédois de 1966 explorant la dualité des personnages ?",
-    "correct_answer": "Ingmar Bergman",
-    "incorrect_answers": [
-      "Federico Fellini",
-      "Luis Buñuel",
-      "Akira Kurosawa"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1639615058024-abd22129cafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Akira Kurosawa a inspiré 'Star Wars' de George Lucas ?",
-    "correct_answer": "La Forteresse cachée",
-    "incorrect_answers": [
-      "Rashomon",
-      "Les Sept Samouraïs",
-      "Throne of Blood"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1557407616-b2c2dd424ee4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Mépris', film franco-italien de 1963 avec Brigitte Bardot et Jack Palance ?",
+    "question": "Quel réalisateur a tourné 'Le Mépris' (1963) avec Brigitte Bardot et Jack Palance ?",
     "correct_answer": "Jean-Luc Godard",
     "incorrect_answers": [
       "François Truffaut",
-      "Louis Malle",
-      "Roger Vadim"
+      "Alain Resnais",
+      "Jacques Rivette"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1583421487713-3adbe43732cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Godard a adapté le roman d'Alberto Moravia pour ce film emblématique.",
+    "imageUrl": "https://images.unsplash.com/photo-1557407616-b2c2dd424ee4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour son rôle dans 'One Flew Over the Cuckoo's Nest' (1975) ?",
-    "correct_answer": "Jack Nicholson",
+    "question": "Quel film de Sergio Leone a popularisé le genre du western spaghetti ?",
+    "correct_answer": "Le Bon, la Brute et le Truand",
     "incorrect_answers": [
-      "Marlon Brando",
-      "Dustin Hoffman",
-      "Robert De Niro"
+      "Il était une fois dans l'Ouest",
+      "Pour une poignée de dollars",
+      "Le Bon, la Brute et le Mal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1587319331522-349361826cd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Avec Clint Eastwood, ce film a redéfini le western dans les années 1960.",
+    "imageUrl": "https://images.unsplash.com/photo-1775559002277-e1bcb4e5574d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de David Lynch a remporté le Lion d'Or à Venise en 2001 ?",
-    "correct_answer": "Mulholland Drive",
+    "question": "Quel réalisateur japonais a tourné 'Seven Samouraïs' (1954), souvent considéré comme un chef-d'œuvre ?",
+    "correct_answer": "Akira Kurosawa",
     "incorrect_answers": [
-      "Blue Velvet",
-      "Twin Peaks: Fire Walk with Me",
-      "Lost Highway"
+      "Hayao Miyazaki",
+      "Takeshi Kitano",
+      "Mikio Naruse"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1742613713092-43e5f56be531?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Kurosawa a influencé des générations de réalisateurs occidentaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1517445297835-99352d12c747?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a tourné 'Le Voyage de Chihiro', film d'animation japonais primé à Berlin en 2002 ?",
-    "correct_answer": "Hayao Miyazaki",
-    "incorrect_answers": [
-      "Isao Takahata",
-      "Mamoru Hosoda",
-      "Satoshi Kon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1530832477500-e4aa52f550a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Francis Ford Coppola a remporté l'Oscar du meilleur film en 1973 ?",
-    "correct_answer": "Le Parrain",
-    "incorrect_answers": [
-      "Le Parrain II",
-      "Apocalypse Now",
-      "The Conversation"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1769699167703-9a1c72115d65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné '8½', film italien de 1963 considéré comme une autobiographie cinématographique ?",
-    "correct_answer": "Federico Fellini",
-    "incorrect_answers": [
-      "Michelangelo Antonioni",
-      "Luchino Visconti",
-      "Pier Paolo Pasolini"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1620981478761-3e5589cb09ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Steven Spielberg a remporté l'Oscar du meilleur film en 1998 ?",
-    "correct_answer": "Il faut sauver le soldat Ryan",
-    "incorrect_answers": [
-      "Jurassic Park",
-      "E.T. l'extra-terrestre",
-      "La Liste de Schindler"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1500883004191-41545391b020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour son rôle dans 'The King's Speech' (2010) ?",
-    "correct_answer": "Colin Firth",
-    "incorrect_answers": [
-      "Geoffrey Rush",
-      "Helena Bonham Carter",
-      "Guy Pearce"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1654257649889-556ac8ad947d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Metropolis', film allemand de 1927 considéré comme un chef-d'œuvre du cinéma expressionniste ?",
-    "correct_answer": "Fritz Lang",
-    "incorrect_answers": [
-      "F.W. Murnau",
-      "Robert Wiene",
-      "G.W. Pabst"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1645149837372-e8a93219ab93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de Martin Scorsese a remporté l'Oscar du meilleur film en 2006 ?",
-    "correct_answer": "Les Infiltrés",
-    "incorrect_answers": [
-      "Taxi Driver",
-      "Casino",
-      "The Departed"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1623506252439-8e91eed8a993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur a joué le rôle de Vito Corleone dans 'Le Parrain' (1972) ?",
+    "question": "Quel acteur a incarné le personnage de Vito Corleone dans 'Le Parrain' (1972) ?",
     "correct_answer": "Marlon Brando",
     "incorrect_answers": [
       "Al Pacino",
       "Robert De Niro",
       "James Caan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-45f82016c7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Brando a remporté l'Oscar du meilleur acteur pour ce rôle.",
+    "imageUrl": "https://images.unsplash.com/photo-1589824545633-3b298bc1fb12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a tourné 'L'Avventura', film italien de 1960 marquant le début du néoréalisme moderne ?",
-    "correct_answer": "Michelangelo Antonioni",
+    "question": "Quel réalisateur a tourné 'Blade Runner' (1982), un film culte de science-fiction ?",
+    "correct_answer": "Ridley Scott",
     "incorrect_answers": [
-      "Federico Fellini",
-      "Luchino Visconti",
-      "Roberto Rossellini"
+      "James Cameron",
+      "George Lucas",
+      "Steven Spielberg"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1655734335178-c51d9e048677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Scott a créé un univers visuel unique avec ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1500883004191-41545391b020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de Quentin Tarantino a remporté l'Oscar du meilleur scénario original en 1995 ?",
-    "correct_answer": "Pulp Fiction",
+    "question": "Quel film de Federico Fellini a remporté l'Oscar du meilleur film étranger en 1957 ?",
+    "correct_answer": "La Strada",
     "incorrect_answers": [
-      "Reservoir Dogs",
-      "Kill Bill: Volume 1",
-      "Inglourious Basterds"
+      "8½",
+      "La Dolce Vita",
+      "Amarcord"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1514076529215-03662283365b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Fellini a reçu l'Oscar pour ce film poétique et tragique.",
+    "imageUrl": "https://images.unsplash.com/photo-1645149837372-e8a93219ab93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour son rôle dans 'Gladiator' (2000) ?",
-    "correct_answer": "Russell Crowe",
+    "question": "Quel réalisateur a tourné 'Le Voyage de Chihiro' (2001), un film d'animation japonais ?",
+    "correct_answer": "Hayao Miyazaki",
     "incorrect_answers": [
-      "Joaquin Phoenix",
-      "Jude Law",
-      "Richard Harris"
+      "Isao Takahata",
+      "Satoshi Kon",
+      "Mamoru Hosoda"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1537044751776-d5fb12da424d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Miyazaki a créé un univers fantastique avec ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1614368052447-c0d6f3f0052b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de Stanley Kubrick a été tourné avec des décors réels à l'intérieur d'un hôtel abandonné ?",
-    "correct_answer": "Shining",
+    "question": "Quel acteur a incarné le personnage de Forrest Gump dans le film éponyme ?",
+    "correct_answer": "Tom Hanks",
     "incorrect_answers": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Brad Pitt"
+    ],
+    "explanation": "Hanks a remporté l'Oscar du meilleur acteur pour ce rôle.",
+    "imageUrl": "https://images.unsplash.com/photo-1510867461263-2876b3bc4bf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Cuirassé Potemkine' (1925), un film muet révolutionnaire ?",
+    "correct_answer": "Sergei Eisenstein",
+    "incorrect_answers": [
+      "Dziga Vertov",
+      "Vsevolod Poudovkine",
+      "Alexander Dovzhenko"
+    ],
+    "explanation": "Eisenstein a utilisé le montage pour créer une narration puissante.",
+    "imageUrl": "https://images.unsplash.com/photo-1587319331522-349361826cd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de Stanley Kubrick a été interdit en France jusqu'en 1980 ?",
+    "correct_answer": "Orange mécanique",
+    "incorrect_answers": [
+      "Shining",
       "2001, l'Odyssée de l'espace",
-      "Orange mécanique",
-      "Barry Lyndon"
+      "Full Metal Jacket"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1595270542459-2ec51c109e48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le film a été censuré pour sa violence extrême.",
+    "imageUrl": "https://images.unsplash.com/photo-1610899633400-4fd20fba13fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a tourné 'Persona', film suédois de 1966 explorant la psyché humaine ?",
-    "correct_answer": "Ingmar Bergman",
+    "question": "Quel réalisateur a tourné 'Le Salaire de la peur' (1953), un film d'aventure et de suspense ?",
+    "correct_answer": "Henri-Georges Clouzot",
     "incorrect_answers": [
-      "Federico Fellini",
-      "Luis Buñuel",
-      "Akira Kurosawa"
+      "Jean Renoir",
+      "Marcel Carné",
+      "René Clément"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1514078156858-22cfc7e23147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Clouzot a remporté la Palme d'Or pour ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1654257649889-556ac8ad947d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a tourné 'Le Mépris', film franco-italien de 1963 avec Brigitte Bardot ?",
+    "question": "Quel acteur a incarné le personnage de Vito Andolini dans 'Le Parrain II' (1974) ?",
+    "correct_answer": "Robert De Niro",
+    "incorrect_answers": [
+      "Al Pacino",
+      "Marlon Brando",
+      "James Caan"
+    ],
+    "explanation": "De Niro a remporté l'Oscar du meilleur second rôle pour ce rôle.",
+    "imageUrl": "https://images.unsplash.com/photo-1587319303796-ba11a5208840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Metropolis' (1927), un film muet de science-fiction ?",
+    "correct_answer": "Fritz Lang",
+    "incorrect_answers": [
+      "F.W. Murnau",
+      "Robert Wiene",
+      "Georg Wilhelm Pabst"
+    ],
+    "explanation": "Metropolis est considéré comme un chef-d'œuvre du cinéma expressionniste.",
+    "imageUrl": "https://images.unsplash.com/photo-1622829118131-27ab20ded438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYxMDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de David Lynch a remporté la Palme d'Or en 1990 ?",
+    "correct_answer": "Sailor et Lula",
+    "incorrect_answers": [
+      "Blue Velvet",
+      "Mulholland Drive",
+      "Twin Peaks: Fire Walk with Me"
+    ],
+    "explanation": "Ce film noir a marqué le cinéma indépendant américain.",
+    "imageUrl": "https://images.unsplash.com/photo-1514077386104-9d9504da577b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Mépris' (1963) avec Brigitte Bardot ?",
     "correct_answer": "Jean-Luc Godard",
     "incorrect_answers": [
       "François Truffaut",
-      "Louis Malle",
-      "Roger Vadim"
+      "Alain Resnais",
+      "Jacques Rivette"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1506512297096-1305c7da1919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5MTA0MTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Godard a adapté le roman d'Alberto Moravia pour ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1622829118151-1cfabdf11a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a incarné le personnage de Travis Bickle dans 'Taxi Driver' (1976) ?",
+    "correct_answer": "Robert De Niro",
+    "incorrect_answers": [
+      "Al Pacino",
+      "Dustin Hoffman",
+      "Jack Nicholson"
+    ],
+    "explanation": "De Niro a remporté un Oscar pour ce rôle emblématique.",
+    "imageUrl": "https://images.unsplash.com/photo-1650060176005-884bbe9f499a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Voyage de Chihiro' (2001) ?",
+    "correct_answer": "Hayao Miyazaki",
+    "incorrect_answers": [
+      "Isao Takahata",
+      "Satoshi Kon",
+      "Mamoru Hosoda"
+    ],
+    "explanation": "Miyazaki a créé un univers fantastique avec ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1512025316832-8658f04f8a83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de Stanley Kubrick a été tourné en Irlande du Nord ?",
+    "correct_answer": "Barry Lyndon",
+    "incorrect_answers": [
+      "Shining",
+      "2001, l'Odyssée de l'espace",
+      "Full Metal Jacket"
+    ],
+    "explanation": "Kubrick a utilisé les paysages irlandais pour recréer l'Europe du XVIIIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1514076529215-03662283365b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Salaire de la peur' (1953) ?",
+    "correct_answer": "Henri-Georges Clouzot",
+    "incorrect_answers": [
+      "Jean Renoir",
+      "Marcel Carné",
+      "René Clément"
+    ],
+    "explanation": "Clouzot a remporté la Palme d'Or pour ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1583421487713-3adbe43732cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Bon, la Brute et le Truand' (1966) ?",
+    "correct_answer": "Sergio Leone",
+    "incorrect_answers": [
+      "Federico Fellini",
+      "Pier Paolo Pasolini",
+      "Luchino Visconti"
+    ],
+    "explanation": "Leone a popularisé le western spaghetti avec ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1548913577-3d12f36c294b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de Akira Kurosawa a remporté l'Oscar du meilleur film étranger en 1976 ?",
+    "correct_answer": "Dersou Ouzala",
+    "incorrect_answers": [
+      "Ran",
+      "Les Sept Samouraïs",
+      "Rêves"
+    ],
+    "explanation": "Kurosawa a tourné ce film en URSS avec des acteurs russes.",
+    "imageUrl": "https://images.unsplash.com/photo-1620981503602-37a9d8bf9d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYxMDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Cuirassé Potemkine' (1925) ?",
+    "correct_answer": "Sergei Eisenstein",
+    "incorrect_answers": [
+      "Dziga Vertov",
+      "Vsevolod Poudovkine",
+      "Alexander Dovzhenko"
+    ],
+    "explanation": "Eisenstein a révolutionné le montage avec ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1655734335178-c51d9e048677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a incarné le personnage de Hannibal Lecter dans 'Le Silence des agneaux' ?",
+    "correct_answer": "Anthony Hopkins",
+    "incorrect_answers": [
+      "Jodie Foster",
+      "Scott Glenn",
+      "Ted Levine"
+    ],
+    "explanation": "Hopkins a remporté l'Oscar du meilleur acteur pour ce rôle.",
+    "imageUrl": "https://images.unsplash.com/photo-1575507479801-ddc008fb487f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Metropolis' (1927) ?",
+    "correct_answer": "Fritz Lang",
+    "incorrect_answers": [
+      "F.W. Murnau",
+      "Robert Wiene",
+      "Georg Wilhelm Pabst"
+    ],
+    "explanation": "Metropolis est un chef-d'œuvre du cinéma expressionniste allemand.",
+    "imageUrl": "https://images.unsplash.com/photo-1510282271343-fdc3dea55439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a incarné le personnage de Vito Andolini dans 'Le Parrain II' ?",
+    "correct_answer": "Robert De Niro",
+    "incorrect_answers": [
+      "Al Pacino",
+      "Marlon Brando",
+      "James Caan"
+    ],
+    "explanation": "De Niro a remporté l'Oscar du meilleur second rôle pour ce rôle.",
+    "imageUrl": "https://images.unsplash.com/photo-1620981468099-f3170a81e471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Blade Runner' (1982) ?",
+    "correct_answer": "Ridley Scott",
+    "incorrect_answers": [
+      "James Cameron",
+      "George Lucas",
+      "Steven Spielberg"
+    ],
+    "explanation": "Scott a créé un univers visuel unique avec ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1596765961658-7f8e7d129a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYxMDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a incarné le personnage de Forrest Gump ?",
+    "correct_answer": "Tom Hanks",
+    "incorrect_answers": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Brad Pitt"
+    ],
+    "explanation": "Hanks a remporté l'Oscar du meilleur acteur pour ce rôle.",
+    "imageUrl": "https://images.unsplash.com/photo-1515975375753-7ea7401d0898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de Quentin Tarantino a remporté la Palme d'Or en 1994 ?",
+    "correct_answer": "Pulp Fiction",
+    "incorrect_answers": [
+      "Reservoir Dogs",
+      "Kill Bill",
+      "Inglourious Basterds"
+    ],
+    "explanation": "Pulp Fiction a marqué un tournant dans l'histoire du cinéma indépendant.",
+    "imageUrl": "https://images.unsplash.com/photo-1614030126544-b79b92e29e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Silence des agneaux' (1991) ?",
+    "correct_answer": "Jonathan Demme",
+    "incorrect_answers": [
+      "Martin Scorsese",
+      "Brian De Palma",
+      "David Fincher"
+    ],
+    "explanation": "Demme a remporté l'Oscar du meilleur réalisateur pour ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1595270542459-2ec51c109e48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a incarné le personnage de Tyler Durden dans 'Fight Club' ?",
+    "correct_answer": "Brad Pitt",
+    "incorrect_answers": [
+      "Leonardo DiCaprio",
+      "Edward Norton",
+      "Joaquin Phoenix"
+    ],
+    "explanation": "Pitt partage l'affiche avec Edward Norton dans ce film culte.",
+    "imageUrl": "https://images.unsplash.com/photo-1506512297096-1305c7da1919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'La Corde' (1948) ?",
+    "correct_answer": "Alfred Hitchcock",
+    "incorrect_answers": [
+      "Orson Welles",
+      "Stanley Kubrick",
+      "Martin Scorsese"
+    ],
+    "explanation": "Hitchcock a utilisé un plan-séquence simulé pour créer une tension unique.",
+    "imageUrl": "https://images.unsplash.com/photo-1637248466668-64a4ebb097fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film de Stanley Kubrick est souvent cité comme le premier à utiliser des effets spéciaux révolutionnaires ?",
+    "correct_answer": "2001, l'Odyssée de l'espace",
+    "incorrect_answers": [
+      "Shining",
+      "Orange mécanique",
+      "Barry Lyndon"
+    ],
+    "explanation": "Kubrick a collaboré avec des scientifiques pour créer des effets réalistes.",
+    "imageUrl": "https://images.unsplash.com/photo-1595270308058-9768eb05862c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a remporté un Oscar pour son rôle dans 'Le Silence des agneaux' ?",
+    "correct_answer": "Anthony Hopkins",
+    "incorrect_answers": [
+      "Jodie Foster",
+      "Scott Glenn",
+      "Ted Levine"
+    ],
+    "explanation": "Hopkins a remporté l'Oscar du meilleur acteur pour son interprétation de Hannibal Lecter.",
+    "imageUrl": "https://images.unsplash.com/photo-1514078156858-22cfc7e23147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur japonais a tourné 'Seven Samouraïs' (1954) ?",
+    "correct_answer": "Akira Kurosawa",
+    "incorrect_answers": [
+      "Hayao Miyazaki",
+      "Takeshi Kitano",
+      "Mikio Naruse"
+    ],
+    "explanation": "Kurosawa a influencé des générations de réalisateurs occidentaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1517444929422-105b184a5104?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fGNpbmVtYSUyMGZpbG0lMjBjYW1lcmF8ZW58MHx8fHwxNzc5Nzk2MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur a incarné le personnage de Vito Corleone dans 'Le Parrain' ?",
+    "correct_answer": "Marlon Brando",
+    "incorrect_answers": [
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan"
+    ],
+    "explanation": "Brando a remporté l'Oscar du meilleur acteur pour ce rôle.",
+    "imageUrl": "https://images.unsplash.com/photo-1514077886732-9b375df6f77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

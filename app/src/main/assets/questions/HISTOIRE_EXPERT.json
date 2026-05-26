@@ -1,602 +1,640 @@
 [
   {
-    "question": "Quel traité mit fin à la guerre de Sept Ans en 1763 ?",
+    "question": "Quel traité signé en 1763 mit fin à la guerre de Sept Ans entre la France et le Royaume-Uni ?",
     "correct_answer": "Traité de Paris",
     "incorrect_answers": [
       "Traité de Versailles",
       "Traité de Vienne",
-      "Traité de Tordesillas"
+      "Traité de Londres"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1771744500546-4bc0680290f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce traité cède le Canada et la Louisiane à l'est du Mississippi à la Grande-Bretagne.",
+    "imageUrl": "https://images.unsplash.com/photo-1775129840823-99f061586a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le dernier empereur romain d'Occident déposé en 476 ?",
+    "question": "Qui fut le dernier empereur romain d'Occident, déposé en 476 par Odoacre ?",
     "correct_answer": "Romulus Augustule",
     "incorrect_answers": [
-      "Néron",
-      "Caligula",
-      "Odoacre"
+      "Julien l'Apostat",
+      "Honorius",
+      "Théodose Ier"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765219711338-05c3e4db2d22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Son règne symbolise la chute de l'Empire romain d'Occident.",
+    "imageUrl": "https://images.unsplash.com/photo-1761701826174-f7d2e0b0974c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel événement marqua le début de la Révolution française en 1789 ?",
+    "question": "Quel événement marqua le début de la Révolution française le 14 juillet 1789 ?",
     "correct_answer": "Prise de la Bastille",
     "incorrect_answers": [
       "Serment du Jeu de Paume",
-      "Déclaration des Droits de l'Homme",
-      "Chute de la monarchie"
+      "Chute de la monarchie",
+      "Déclaration des droits de l'homme"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767842931243-0c29041a9e6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Bastille, symbole de l'absolutisme, fut prise par le peuple parisien.",
+    "imageUrl": "https://images.unsplash.com/photo-1771966738168-83218d95c81b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel général carthaginois traversa les Alpes avec des éléphants ?",
-    "correct_answer": "Hannibal Barca",
-    "incorrect_answers": [
-      "Scipion l'Africain",
-      "Hamilcar Barca",
-      "Hasdrubal"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771245463034-f96caf4392e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année eut lieu la bataille de Waterloo ?",
-    "correct_answer": "1815",
-    "incorrect_answers": [
-      "1805",
-      "1812",
-      "1821"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758779529326-5e5044d19d27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel empire fut dirigé par Charlemagne au IXe siècle ?",
-    "correct_answer": "Empire carolingien",
-    "incorrect_answers": [
-      "Empire romain",
-      "Empire byzantin",
-      "Empire ottoman"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1762092630818-0d5e41719498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui fut le premier empereur de Chine unifiée en 221 av. J.-C. ?",
-    "correct_answer": "Qin Shi Huang",
-    "incorrect_answers": [
-      "Han Wudi",
-      "Liu Bang",
-      "Sun Yat-sen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1779018400727-3fa0e97760dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité mit fin à la Première Guerre mondiale en 1919 ?",
-    "correct_answer": "Traité de Versailles",
-    "incorrect_answers": [
-      "Traité de Saint-Germain",
-      "Traité de Sèvres",
-      "Traité de Trianon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777752896317-cc4b2809e2bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel explorateur portugais atteignit les Indes par la route maritime en 1498 ?",
+    "question": "Quel explorateur portugais fut le premier Européen à atteindre l'Inde par la route maritime en 1498 ?",
     "correct_answer": "Vasco de Gama",
     "incorrect_answers": [
       "Christophe Colomb",
       "Fernand de Magellan",
       "Bartolomeu Dias"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761943705455-e91845c0a539?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il contourna l'Afrique par le cap de Bonne-Espérance pour atteindre Calicut.",
+    "imageUrl": "https://images.unsplash.com/photo-1761347604361-297ef9a75f5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel événement déclencha la guerre de Cent Ans en 1337 ?",
-    "correct_answer": "Revendication d'Édouard III au trône de France",
+    "question": "Quel philosophe des Lumières publia en 1776 'De l'esprit des lois', fondant la théorie de la séparation des pouvoirs ?",
+    "correct_answer": "Montesquieu",
     "incorrect_answers": [
-      "Assassinat de Jeanne d'Arc",
-      "Traité de Troyes",
-      "Siège d'Orléans"
+      "Voltaire",
+      "Rousseau",
+      "Diderot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764145798489-5150f7d574df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Son œuvre influence encore les constitutions modernes.",
+    "imageUrl": "https://images.unsplash.com/photo-1762092630818-0d5e41719498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le fondateur de la dynastie des Tang en Chine en 618 ?",
-    "correct_answer": "Li Yuan",
+    "question": "Quel conflit opposa en 1853-1856 la Russie à une coalition incluant la France et le Royaume-Uni ?",
+    "correct_answer": "Guerre de Crimée",
     "incorrect_answers": [
-      "Wu Zetian",
-      "Tang Taizong",
-      "Song Taizu"
+      "Guerre de Sécession",
+      "Guerre franco-prussienne",
+      "Guerre de Sept Ans"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1773341732057-c483ec3df492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce conflit éclata pour le contrôle des lieux saints en Palestine.",
+    "imageUrl": "https://images.unsplash.com/photo-1761143487063-c74ad86b5eee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année eut lieu la chute de Constantinople aux mains des Ottomans ?",
-    "correct_answer": "1453",
+    "question": "Quel empereur byzantin rédigea le 'Corpus Juris Civilis', fondement du droit romain ?",
+    "correct_answer": "Justinien Ier",
     "incorrect_answers": [
-      "1354",
-      "1492",
-      "1529"
+      "Constantin Ier",
+      "Théodose II",
+      "Héraclius"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758683683791-c0efafbc4471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce code juridique unifia et modernisa le droit byzantin.",
+    "imageUrl": "https://images.unsplash.com/photo-1761143563470-f819edeb5ba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel philosophe grec fut condamné à mort en 399 av. J.-C. ?",
+    "question": "Quel traité en 1815 réorganisa l'Europe après la chute de Napoléon ?",
+    "correct_answer": "Congrès de Vienne",
+    "incorrect_answers": [
+      "Traité de Paris",
+      "Traité de Tilsit",
+      "Traité de Versailles"
+    ],
+    "explanation": "Il rétablit l'équilibre des puissances et instaure la Sainte-Alliance.",
+    "imageUrl": "https://images.unsplash.com/photo-1775233861699-60b3a1f557a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roi de France fut surnommé 'le Roi-Soleil' pour son absolutisme et son mécénat ?",
+    "correct_answer": "Louis XIV",
+    "incorrect_answers": [
+      "Louis XIII",
+      "François Ier",
+      "Henri IV"
+    ],
+    "explanation": "Son règne dura 72 ans, le plus long de l'histoire européenne.",
+    "imageUrl": "https://images.unsplash.com/photo-1762762901720-a1fa7273844d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel événement en 1917 marqua l'entrée en guerre des États-Unis lors de la Première Guerre mondiale ?",
+    "correct_answer": "Naufrage du Lusitania",
+    "incorrect_answers": [
+      "Attentat de Sarajevo",
+      "Traité de Brest-Litovsk",
+      "Bataille de Verdun"
+    ],
+    "explanation": "Le torpillage du paquebot par un sous-marin allemand choqua l'opinion américaine.",
+    "imageUrl": "https://images.unsplash.com/photo-1779636855953-4b3f7a3b4895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe chinois du VIe siècle av. J.-C. fonda le confucianisme ?",
+    "correct_answer": "Confucius",
+    "incorrect_answers": [
+      "Lao-Tseu",
+      "Mencius",
+      "Sun Tzu"
+    ],
+    "explanation": "Son enseignement prône l'harmonie sociale par la vertu et le respect des rites.",
+    "imageUrl": "https://images.unsplash.com/photo-1774306949863-1ea075e2a342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité en 1919 officialisa la fin de la Première Guerre mondiale ?",
+    "correct_answer": "Traité de Versailles",
+    "incorrect_answers": [
+      "Traité de Saint-Germain",
+      "Traité de Trianon",
+      "Traité de Sèvres"
+    ],
+    "explanation": "Il imposa de lourdes réparations à l'Allemagne, alimentant le ressentiment.",
+    "imageUrl": "https://images.unsplash.com/photo-1758915464817-1ced97e87e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel explorateur espagnol découvrit en 1519 la route maritime vers les Philippines ?",
+    "correct_answer": "Fernand de Magellan",
+    "incorrect_answers": [
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Vasco Núñez de Balboa"
+    ],
+    "explanation": "Il fut tué aux Philippines, mais son expédition acheva le premier tour du monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1765215391520-7deb63d26c05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel événement en 1929 marqua le début de la Grande Dépression aux États-Unis ?",
+    "correct_answer": "Krach boursier de Wall Street",
+    "incorrect_answers": [
+      "Assassinat de Kennedy",
+      "New Deal",
+      "Prohibition"
+    ],
+    "explanation": "Le jeudi noir (24 octobre) vit s'effondrer les cours boursiers.",
+    "imageUrl": "https://images.unsplash.com/photo-1771245463034-f96caf4392e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empereur romain fit construire le mur d'Hadrien en 122 pour marquer la frontière de la Bretagne ?",
+    "correct_answer": "Hadrien",
+    "incorrect_answers": [
+      "Néron",
+      "Trajan",
+      "Marc Aurèle"
+    ],
+    "explanation": "Ce mur en Écosse marquait la limite nord de l'Empire romain.",
+    "imageUrl": "https://images.unsplash.com/photo-1763567764927-b3784b91f112?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité en 1807 entre la France et la Russie mit fin à la guerre franco-russe ?",
+    "correct_answer": "Traité de Tilsit",
+    "incorrect_answers": [
+      "Traité de Paris",
+      "Traité de Vienne",
+      "Traité de Presbourg"
+    ],
+    "explanation": "Napoléon et Alexandre Ier scellèrent une alliance temporaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1758811489552-a75d4e44d49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe grec du Ve siècle av. J.-C. fut condamné à mort pour impiété et corruption de la jeunesse ?",
     "correct_answer": "Socrate",
     "incorrect_answers": [
       "Platon",
       "Aristote",
-      "Socrate"
+      "Diogène"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1764686621196-adfb23afb1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il but la ciguë après son procès, devenant un martyr de la philosophie.",
+    "imageUrl": "https://images.unsplash.com/photo-1765219711338-05c3e4db2d22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel traité mit fin à la guerre de Trente Ans en 1648 ?",
-    "correct_answer": "Paix de Westphalie",
+    "question": "Quel événement en 1941 marqua l'entrée en guerre des États-Unis lors de la Seconde Guerre mondiale ?",
+    "correct_answer": "Attaque de Pearl Harbor",
     "incorrect_answers": [
-      "Traité de Münster",
-      "Traité de Prague",
-      "Traité d'Utrecht"
+      "Débarquement de Normandie",
+      "Bataille de Stalingrad",
+      "Chute de Berlin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761143471911-1d343db5d5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'attaque japonaise du 7 décembre 1941 poussa les États-Unis à rejoindre les Alliés.",
+    "imageUrl": "https://images.unsplash.com/photo-1770172351627-d1264006f7ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le premier calife de l'islam après la mort de Mahomet ?",
-    "correct_answer": "Abou Bakr",
+    "question": "Quel empereur ottoman fut surnommé 'le Conquérant' pour avoir pris Constantinople en 1453 ?",
+    "correct_answer": "Mehmed II",
     "incorrect_answers": [
-      "Ali",
-      "Omar",
-      "Othman"
+      "Soliman le Magnifique",
+      "Sélim Ier",
+      "Abdulhamid II"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763374046991-632df3a66127?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il mit fin à l'Empire byzantin après un siège de 53 jours.",
+    "imageUrl": "https://images.unsplash.com/photo-1777752896317-cc4b2809e2bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel événement marqua le début de la guerre froide en 1947 ?",
-    "correct_answer": "Doctrine Truman",
-    "incorrect_answers": [
-      "Blocus de Berlin",
-      "Guerre de Corée",
-      "Crise des missiles"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1773813080538-8568cce37c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roi de France fut surnommé le 'Roi-Soleil' ?",
-    "correct_answer": "Louis XIV",
-    "incorrect_answers": [
-      "Louis XIII",
-      "Louis XV",
-      "Henri IV"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767724942096-5c49620ca599?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année eut lieu la bataille de Stalingrad ?",
-    "correct_answer": "1942",
-    "incorrect_answers": [
-      "1941",
-      "1943",
-      "1944"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758915464840-5b3dcd000619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel empire fut détruit par les Mongols en 1258 ?",
-    "correct_answer": "Califat abbasside",
-    "incorrect_answers": [
-      "Empire byzantin",
-      "Empire khwarezmien",
-      "Dynastie Song"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1759136513068-46b72dfa57e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui fut le premier président des États-Unis ?",
-    "correct_answer": "George Washington",
-    "incorrect_answers": [
-      "Thomas Jefferson",
-      "Abraham Lincoln",
-      "John Adams"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761056920622-94346373099e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité mit fin à la guerre de Succession d'Espagne en 1713 ?",
+    "question": "Quel traité en 1713 mit fin à la guerre de Succession d'Espagne ?",
     "correct_answer": "Traité d'Utrecht",
     "incorrect_answers": [
       "Traité de Rastatt",
-      "Traité de Baden",
+      "Traité de Bade",
       "Traité de Paris"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761863825460-544ae26137be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il consacra la domination britannique en Europe et en Amérique.",
+    "imageUrl": "https://images.unsplash.com/photo-1761056920622-94346373099e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel explorateur espagnol découvrit le Mexique en 1519 ?",
+    "question": "Quel philosophe allemand du XIXe siècle écrivit 'Le Capital' et fonda le marxisme ?",
+    "correct_answer": "Karl Marx",
+    "incorrect_answers": [
+      "Friedrich Engels",
+      "Georg Hegel",
+      "Max Weber"
+    ],
+    "explanation": "Son œuvre analysa le capitalisme et proposa une révolution prolétarienne.",
+    "imageUrl": "https://images.unsplash.com/photo-1774306949863-1ea075e2a342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel événement en 1961 marqua le début de la construction du mur séparant Berlin-Est et Berlin-Ouest ?",
+    "correct_answer": "Construction du mur de Berlin",
+    "incorrect_answers": [
+      "Chute du mur",
+      "Crise des missiles",
+      "Guerre froide"
+    ],
+    "explanation": "Érigé le 13 août 1961 pour stopper l'exode des Allemands de l'Est.",
+    "imageUrl": "https://images.unsplash.com/photo-1761984336932-3f535187dcae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel explorateur portugais fut le premier à doubler le cap de Bonne-Espérance en 1488 ?",
+    "correct_answer": "Bartolomeu Dias",
+    "incorrect_answers": [
+      "Vasco de Gama",
+      "Fernão Gomes",
+      "Diogo Cão"
+    ],
+    "explanation": "Il ouvrit la route maritime vers l'océan Indien.",
+    "imageUrl": "https://images.unsplash.com/photo-1760893407526-4cbe47cbed8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité en 1871 mit fin à la guerre franco-prussienne ?",
+    "correct_answer": "Traité de Francfort",
+    "incorrect_answers": [
+      "Traité de Versailles",
+      "Traité de Berlin",
+      "Traité de Vienne"
+    ],
+    "explanation": "Il imposa à la France l'annexion de l'Alsace-Lorraine.",
+    "imageUrl": "https://images.unsplash.com/photo-1767037447555-9a6b100ce724?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe grec du IVe siècle av. J.-C. fut le précepteur d'Alexandre le Grand ?",
+    "correct_answer": "Aristote",
+    "incorrect_answers": [
+      "Platon",
+      "Socrate",
+      "Diogène"
+    ],
+    "explanation": "Il fonda le Lycée et influença la pensée occidentale.",
+    "imageUrl": "https://images.unsplash.com/photo-1777846553316-d9e3ff5df5e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel événement en 1939 marqua le début de la Seconde Guerre mondiale en Europe ?",
+    "correct_answer": "Invasion de la Pologne",
+    "incorrect_answers": [
+      "Traité de Munich",
+      "Anschluss",
+      "Nuit de Cristal"
+    ],
+    "explanation": "L'Allemagne nazie envahit la Pologne le 1er septembre 1939.",
+    "imageUrl": "https://images.unsplash.com/photo-1515318650024-02fe7e49c5b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empereur romain fit construire le Colisée en 80 ap. J.-C. ?",
+    "correct_answer": "Vespasien",
+    "incorrect_answers": [
+      "Néron",
+      "Titus",
+      "Auguste"
+    ],
+    "explanation": "Il lança les travaux pour apaiser la population après le grand incendie de Rome.",
+    "imageUrl": "https://images.unsplash.com/photo-1773813080538-8568cce37c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité en 1920 officialisa la création de la Société des Nations ?",
+    "correct_answer": "Traité de Versailles",
+    "incorrect_answers": [
+      "Pacte Briand-Kellogg",
+      "Traité de Saint-Germain",
+      "Traité de Sèvres"
+    ],
+    "explanation": "Woodrow Wilson en fut l'un des principaux promoteurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1765081508256-fc4224d697b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe français du XVIIIe siècle écrivit 'Candide' et critiqua l'optimisme métaphysique ?",
+    "correct_answer": "Voltaire",
+    "incorrect_answers": [
+      "Rousseau",
+      "Diderot",
+      "Montesquieu"
+    ],
+    "explanation": "Son conte philosophique dénonce la philosophie de Leibniz.",
+    "imageUrl": "https://images.unsplash.com/photo-1777830801475-e012c3249afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel événement en 1945 marqua la fin de la Seconde Guerre mondiale en Europe ?",
+    "correct_answer": "Chute de Berlin",
+    "incorrect_answers": [
+      "Débarquement de Normandie",
+      "Bombardements d'Hiroshima",
+      "Traité de Potsdam"
+    ],
+    "explanation": "L'Armée rouge prit Berlin le 2 mai 1945, entraînant la capitulation allemande.",
+    "imageUrl": "https://images.unsplash.com/photo-1777924984889-754a3acf9565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empereur romain divisa l'Empire en deux en 285 pour mieux le gouverner ?",
+    "correct_answer": "Dioclétien",
+    "incorrect_answers": [
+      "Constantin Ier",
+      "Théodose Ier",
+      "Marc Aurèle"
+    ],
+    "explanation": "Il instaura la tétrarchie pour stabiliser l'Empire.",
+    "imageUrl": "https://images.unsplash.com/photo-1765121717136-f416076e84de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité en 1814 mit fin à la guerre entre la France et la Sixième Coalition ?",
+    "correct_answer": "Traité de Paris",
+    "incorrect_answers": [
+      "Traité de Vienne",
+      "Traité de Fontainebleau",
+      "Traité de Chaumont"
+    ],
+    "explanation": "Il rétablit les frontières de la France à celles de 1790.",
+    "imageUrl": "https://images.unsplash.com/photo-1775129841048-fee913742822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe grec du Ve siècle av. J.-C. fut le maître de Platon et fonda l'Académie ?",
+    "correct_answer": "Socrate",
+    "incorrect_answers": [
+      "Aristote",
+      "Platon",
+      "Xénophon"
+    ],
+    "explanation": "Il n'a laissé aucun écrit, mais son enseignement fut transmis par ses disciples.",
+    "imageUrl": "https://images.unsplash.com/photo-1761923350888-333fe22fede0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel événement en 1954 marqua la fin de la guerre d'Indochine ?",
+    "correct_answer": "Bataille de Dien Bien Phu",
+    "incorrect_answers": [
+      "Traité de Genève",
+      "Chute de Saigon",
+      "Guerre du Vietnam"
+    ],
+    "explanation": "La défaite française en mai 1954 entraîna la fin de la présence coloniale.",
+    "imageUrl": "https://images.unsplash.com/photo-1761143471911-1d343db5d5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empereur romain fit construire le Panthéon de Rome en 126 ap. J.-C. ?",
+    "correct_answer": "Hadrien",
+    "incorrect_answers": [
+      "Auguste",
+      "Trajan",
+      "Marc Aurèle"
+    ],
+    "explanation": "Son dôme, intact aujourd'hui, est un chef-d'œuvre d'ingénierie antique.",
+    "imageUrl": "https://images.unsplash.com/photo-1759136513068-46b72dfa57e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel traité en 1918 mit fin à la guerre entre la Russie et les Empires centraux ?",
+    "correct_answer": "Traité de Brest-Litovsk",
+    "incorrect_answers": [
+      "Traité de Versailles",
+      "Traité de Saint-Germain",
+      "Traité de Sèvres"
+    ],
+    "explanation": "La Russie bolchevique céda d'immenses territoires à l'Allemagne.",
+    "imageUrl": "https://images.unsplash.com/photo-1766999708483-53228220322a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel philosophe allemand du XIXe siècle écrivit 'Ainsi parlait Zarathoustra' ?",
+    "correct_answer": "Friedrich Nietzsche",
+    "incorrect_answers": [
+      "Arthur Schopenhauer",
+      "Georg Hegel",
+      "Karl Marx"
+    ],
+    "explanation": "Son œuvre annonce la 'mort de Dieu' et la surhumanité.",
+    "imageUrl": "https://images.unsplash.com/photo-1777846553316-d9e3ff5df5e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel événement en 1968 marqua le début des réformes du Printemps de Prague ?",
+    "correct_answer": "Arrivée d'Alexandre Dubček",
+    "incorrect_answers": [
+      "Invasion soviétique",
+      "Chute du mur de Berlin",
+      "Révolte de Budapest"
+    ],
+    "explanation": "Son programme de 'socialisme à visage humain' fut écrasé par les chars soviétiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1764685762015-64e977de2be6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel explorateur espagnol conquit l'Empire aztèque en 1521 ?",
     "correct_answer": "Hernán Cortés",
     "incorrect_answers": [
       "Francisco Pizarro",
       "Vasco Núñez de Balboa",
-      "Juan Ponce de León"
+      "Pedro de Valdivia"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758915464817-1ced97e87e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il s'allia aux Tlaxcaltèques pour vaincre Moctezuma II.",
+    "imageUrl": "https://images.unsplash.com/photo-1775649134690-8a616cd3974c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année eut lieu la révolution russe d'Octobre ?",
-    "correct_answer": "1917",
+    "question": "Quel traité en 1783 mit fin à la guerre d'Indépendance américaine ?",
+    "correct_answer": "Traité de Paris",
     "incorrect_answers": [
-      "1905",
-      "1921",
-      "1936"
+      "Traité de Versailles",
+      "Traité de Vienne",
+      "Traité de Londres"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1515318650024-02fe7e49c5b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il reconnut l'indépendance des États-Unis et fixa leurs frontières.",
+    "imageUrl": "https://images.unsplash.com/photo-1758811489552-a75d4e44d49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel empereur romain fit construire le mur d'Hadrien ?",
-    "correct_answer": "Hadrien",
+    "question": "Quel philosophe grec du IVe siècle av. J.-C. fonda l'école du Lycée ?",
+    "correct_answer": "Aristote",
     "incorrect_answers": [
-      "Trajan",
-      "Néron",
+      "Platon",
+      "Socrate",
+      "Diogène"
+    ],
+    "explanation": "Il fut le précepteur d'Alexandre le Grand avant de fonder sa propre école.",
+    "imageUrl": "https://images.unsplash.com/photo-1767842931243-0c29041a9e6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel événement en 1989 marqua la chute du bloc communiste en Europe ?",
+    "correct_answer": "Chute du mur de Berlin",
+    "incorrect_answers": [
+      "Révolte de Budapest",
+      "Printemps de Prague",
+      "Guerre froide"
+    ],
+    "explanation": "Le 9 novembre 1989, la frontière entre les deux Allemagnes s'ouvrit.",
+    "imageUrl": "https://images.unsplash.com/photo-1763567764933-898877f97d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel empereur romain fit construire la colonne Trajane en 113 ap. J.-C. ?",
+    "correct_answer": "Trajan",
+    "incorrect_answers": [
+      "Auguste",
+      "Hadrien",
       "Marc Aurèle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1763734546251-cdc4d465ce4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce monument célèbre ses victoires en Dacie (actuelle Roumanie).",
+    "imageUrl": "https://images.unsplash.com/photo-1764686619445-88e2cac11025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel traité mit fin à la guerre de Crimée en 1856 ?",
-    "correct_answer": "Traité de Paris",
+    "question": "Quel traité en 1923 officialisa le partage de l'Empire ottoman après la Première Guerre mondiale ?",
+    "correct_answer": "Traité de Lausanne",
     "incorrect_answers": [
-      "Traité de Vienne",
-      "Traité de Berlin",
-      "Traité de San Stefano"
+      "Traité de Sèvres",
+      "Traité de Trianon",
+      "Traité de Neuilly"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766832432462-8f793eea0bc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il remplaça le traité de Sèvres et fixa les frontières de la Turquie moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1763734546291-e89d8457d63e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le dernier pharaon d'Égypte avant la conquête romaine ?",
-    "correct_answer": "Cléopâtre VII",
+    "question": "Quel philosophe français du XVIIIe siècle écrivit 'Le Contrat social' ?",
+    "correct_answer": "Jean-Jacques Rousseau",
     "incorrect_answers": [
-      "Ramsès II",
-      "Toutânkhamon",
-      "Hatchepsout"
+      "Voltaire",
+      "Diderot",
+      "Montesquieu"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775233861699-60b3a1f557a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Son œuvre fonda la théorie de la souveraineté populaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1775832683448-7f5d0847cefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année eut lieu la bataille de Hastings ?",
-    "correct_answer": "1066",
+    "question": "Quel événement en 1948 marqua la création de l'État d'Israël ?",
+    "correct_answer": "Déclaration d'indépendance d'Israël",
     "incorrect_answers": [
-      "1054",
-      "1096",
-      "1102"
+      "Guerre des Six Jours",
+      "Accords d'Oslo",
+      "Guerre du Kippour"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1767037447555-9a6b100ce724?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "David Ben Gourion proclama l'État d'Israël le 14 mai 1948.",
+    "imageUrl": "https://images.unsplash.com/photo-1763567764927-b3784b91f112?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel empire fut dirigé par Soliman le Magnifique au XVIe siècle ?",
-    "correct_answer": "Empire ottoman",
+    "question": "Quel empereur romain fit construire le forum de Trajan en 112 ap. J.-C. ?",
+    "correct_answer": "Trajan",
     "incorrect_answers": [
-      "Empire moghol",
-      "Empire safavide",
-      "Empire byzantin"
+      "Auguste",
+      "Néron",
+      "Commode"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770172351627-d1264006f7ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce forum, le plus grand de Rome, célébrait ses victoires militaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1779633239815-7665da97867a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le premier empereur du Saint-Empire romain germanique en 800 ?",
-    "correct_answer": "Charlemagne",
-    "incorrect_answers": [
-      "Otton Ier",
-      "Frédéric Barberousse",
-      "Henri IV"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764685762015-64e977de2be6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité mit fin à la guerre de Sept Ans en Amérique du Nord ?",
+    "question": "Quel traité en 1898 mit fin à la guerre hispano-américaine ?",
     "correct_answer": "Traité de Paris",
     "incorrect_answers": [
       "Traité de Versailles",
-      "Traité de Londres",
-      "Traité de Vienne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775649134690-8a616cd3974c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui fut le fondateur de la dynastie des Han en Chine en 206 av. J.-C. ?",
-    "correct_answer": "Liu Bang",
-    "incorrect_answers": [
-      "Qin Shi Huang",
-      "Han Wudi",
-      "Wang Mang"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758915464608-ab5cdb025242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année eut lieu la bataille de Lépante ?",
-    "correct_answer": "1571",
-    "incorrect_answers": [
-      "1521",
-      "1556",
-      "1600"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775603839158-02efbb15ade0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel événement marqua le début de la Réforme protestante en 1517 ?",
-    "correct_answer": "95 thèses de Martin Luther",
-    "incorrect_answers": [
-      "Concile de Trente",
-      "Excommunication de Luther",
-      "Guerre des Paysans"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777830801475-e012c3249afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui fut le premier shogun du Japon en 1603 ?",
-    "correct_answer": "Tokugawa Ieyasu",
-    "incorrect_answers": [
-      "Oda Nobunaga",
-      "Toyotomi Hideyoshi",
-      "Minamoto no Yoritomo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765121717136-f416076e84de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité mit fin à la guerre de Succession d'Autriche en 1748 ?",
-    "correct_answer": "Traité d'Aix-la-Chapelle",
-    "incorrect_answers": [
-      "Traité de Paris",
-      "Traité de Versailles",
-      "Traité de Vienne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763567764933-898877f97d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année eut lieu la chute de l'Empire romain d'Orient (Byzance) ?",
-    "correct_answer": "1453",
-    "incorrect_answers": [
-      "1354",
-      "1492",
-      "1529"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763374005345-34bf974e2b8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel explorateur portugais fut le premier à contourner l'Afrique en 1488 ?",
-    "correct_answer": "Bartolomeu Dias",
-    "incorrect_answers": [
-      "Vasco de Gama",
-      "Fernand de Magellan",
-      "Diogo Cão"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129840823-99f061586a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui fut le dernier empereur de la dynastie Qing en Chine ?",
-    "correct_answer": "Puyi",
-    "incorrect_answers": [
-      "Sun Yat-sen",
-      "Yuan Shikai",
-      "Chiang Kai-shek"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761701826174-f7d2e0b0974c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année eut lieu la bataille de Trafalgar ?",
-    "correct_answer": "1805",
-    "incorrect_answers": [
-      "1798",
-      "1812",
-      "1821"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1767766790812-3322a548dd08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité mit fin à la guerre de Succession de Pologne en 1738 ?",
-    "correct_answer": "Traité de Vienne",
-    "incorrect_answers": [
-      "Traité de Paris",
-      "Traité d'Utrecht",
+      "Traité de Washington",
       "Traité de Berlin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774306949863-1ea075e2a342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Espagne céda Cuba, Porto Rico et les Philippines aux États-Unis.",
+    "imageUrl": "https://images.unsplash.com/photo-1775129893552-9a8877894302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le premier empereur du Japon moderne en 1868 ?",
-    "correct_answer": "Meiji",
+    "question": "Quel philosophe allemand du XIXe siècle écrivit 'L'Idéologie allemande' avec Friedrich Engels ?",
+    "correct_answer": "Karl Marx",
     "incorrect_answers": [
-      "Taishō",
-      "Shōwa",
-      "Nara"
+      "Georg Hegel",
+      "Max Weber",
+      "Friedrich Nietzsche"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775832683448-7f5d0847cefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette œuvre critique la philosophie idéaliste et pose les bases du matérialisme historique.",
+    "imageUrl": "https://images.unsplash.com/photo-1758247868083-baf1a22fd9db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année eut lieu la bataille de Gettysburg ?",
-    "correct_answer": "1863",
+    "question": "Quel événement en 1979 marqua la révolution islamique en Iran ?",
+    "correct_answer": "Chute du Shah",
     "incorrect_answers": [
-      "1861",
-      "1865",
-      "1870"
+      "Guerre Iran-Irak",
+      "Prise d'otages à l'ambassade américaine",
+      "Traité de Versailles"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1762762901720-a1fa7273844d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La monarchie du Shah Reza Pahlavi fut renversée par Khomeini.",
+    "imageUrl": "https://images.unsplash.com/photo-1779633239815-7665da97867a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel empire fut dirigé par Akbar le Grand au XVIe siècle ?",
-    "correct_answer": "Empire moghol",
+    "question": "Quel empereur romain fit construire le pont d'Auguste à Narni en 27 av. J.-C. ?",
+    "correct_answer": "Auguste",
     "incorrect_answers": [
-      "Empire ottoman",
-      "Empire safavide",
-      "Empire khwarezmien"
+      "Néron",
+      "Trajan",
+      "Hadrien"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761923350888-333fe22fede0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce pont, toujours debout, faisait partie de la via Flaminia.",
+    "imageUrl": "https://images.unsplash.com/photo-1759234365868-535ace6f4f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le premier président de la République française en 1848 ?",
-    "correct_answer": "Louis-Napoléon Bonaparte",
+    "question": "Quel traité en 1947 officialisa la fin de la Seconde Guerre mondiale avec le Japon ?",
+    "correct_answer": "Traité de San Francisco",
     "incorrect_answers": [
-      "Adolphe Thiers",
-      "Léon Gambetta",
-      "Jules Grévy"
+      "Traité de Paris",
+      "Traité de Washington",
+      "Traité de Berlin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761347604361-297ef9a75f5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il rétablit la souveraineté japonaise sous occupation américaine.",
+    "imageUrl": "https://images.unsplash.com/photo-1761863825460-544ae26137be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année eut lieu la bataille de Bosworth Field ?",
-    "correct_answer": "1485",
+    "question": "Quel philosophe grec du IVe siècle av. J.-C. fonda l'école cynique ?",
+    "correct_answer": "Diogène de Sinope",
     "incorrect_answers": [
-      "1453",
-      "1471",
-      "1509"
+      "Socrate",
+      "Platon",
+      "Aristote"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1777918714315-c34ab51c91b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il vivait dans un tonneau et rejetait les conventions sociales.",
+    "imageUrl": "https://images.unsplash.com/photo-1777918714315-c34ab51c91b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel traité mit fin à la guerre de Sept Ans en Inde ?",
-    "correct_answer": "Traité de Paris",
+    "question": "Quel événement en 1991 marqua la fin de l'URSS et la guerre froide ?",
+    "correct_answer": "Démission de Gorbatchev",
     "incorrect_answers": [
-      "Traité d'Aix-la-Chapelle",
-      "Traité de Pondichéry",
-      "Traité de Calcutta"
+      "Chute du mur de Berlin",
+      "Traité de Maastricht",
+      "Guerre du Golfe"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761920365490-87667b46b6e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Mikhaïl Gorbatchev démissionna le 25 décembre 1991, dissolvant l'URSS.",
+    "imageUrl": "https://images.unsplash.com/photo-1775603839158-02efbb15ade0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le fondateur de la dynastie des Ming en Chine en 1368 ?",
-    "correct_answer": "Zhu Yuanzhang",
+    "question": "Quel empereur romain fit construire la villa Adriana à Tivoli au IIe siècle ?",
+    "correct_answer": "Hadrien",
     "incorrect_answers": [
-      "Kangxi",
-      "Qianlong",
-      "Hongwu"
+      "Auguste",
+      "Trajan",
+      "Marc Aurèle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1759107351161-11cc72b7c9e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette résidence impériale s'inspirait des monuments grecs.",
+    "imageUrl": "https://images.unsplash.com/photo-1776040106733-54beb73abf67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année eut lieu la bataille de Marignan ?",
-    "correct_answer": "1515",
-    "incorrect_answers": [
-      "1494",
-      "1525",
-      "1559"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129893552-9a8877894302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel événement marqua le début de la guerre de Corée en 1950 ?",
-    "correct_answer": "Invasion de la Corée du Sud par le Nord",
-    "incorrect_answers": [
-      "Blocus de Berlin",
-      "Guerre du Vietnam",
-      "Crise des missiles"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758811489552-a75d4e44d49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui fut le premier tsar de Russie en 1547 ?",
-    "correct_answer": "Ivan IV (le Terrible)",
-    "incorrect_answers": [
-      "Pierre le Grand",
-      "Catherine II",
-      "Alexis Ier"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1771966738168-83218d95c81b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année eut lieu la bataille de Verdun ?",
-    "correct_answer": "1916",
-    "incorrect_answers": [
-      "1914",
-      "1915",
-      "1917"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1763567764927-b3784b91f112?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité mit fin à la guerre de Succession d'Espagne en Europe ?",
-    "correct_answer": "Traité de Rastatt",
-    "incorrect_answers": [
-      "Traité d'Utrecht",
-      "Traité de Bade",
-      "Traité de Paris"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758915464792-a83b054dc48e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui fut le dernier sultan de l'Empire ottoman avant son abolition en 1922 ?",
-    "correct_answer": "Mehmed VI",
-    "incorrect_answers": [
-      "Abdulhamid II",
-      "Mustafa Kemal",
-      "Abdulmecid II"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777846553316-d9e3ff5df5e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année eut lieu la bataille de Kadesh ?",
-    "correct_answer": "1274 av. J.-C.",
-    "incorrect_answers": [
-      "1300 av. J.-C.",
-      "1250 av. J.-C.",
-      "1200 av. J.-C."
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1776040106733-54beb73abf67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel empire fut dirigé par Ashoka au IIIe siècle av. J.-C. ?",
-    "correct_answer": "Empire maurya",
-    "incorrect_answers": [
-      "Empire gupta",
-      "Empire kouchan",
-      "Empire moghol"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761984336932-3f535187dcae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui fut le premier président des États-Unis à être assassiné ?",
-    "correct_answer": "Abraham Lincoln",
-    "incorrect_answers": [
-      "John F. Kennedy",
-      "James A. Garfield",
-      "William McKinley"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761143563470-f819edeb5ba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "En quelle année eut lieu la bataille de Zama ?",
-    "correct_answer": "202 av. J.-C.",
-    "incorrect_answers": [
-      "218 av. J.-C.",
-      "190 av. J.-C.",
-      "146 av. J.-C."
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1761143471911-1d343db5d5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel traité mit fin à la guerre de Succession de Bavière en 1779 ?",
-    "correct_answer": "Traité de Teschen",
+    "question": "Quel traité en 1812 mit fin à la guerre anglo-américaine de 1812 ?",
+    "correct_answer": "Traité de Gand",
     "incorrect_answers": [
       "Traité de Paris",
       "Traité de Vienne",
-      "Traité de Berlin"
+      "Traité de Londres"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1765081508256-fc4224d697b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5MTA0MTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il rétablit le *statu quo ante bellum* entre les deux nations.",
+    "imageUrl": "https://images.unsplash.com/photo-1764686621196-adfb23afb1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui fut le fondateur de la dynastie des Ayyoubides en 1171 ?",
-    "correct_answer": "Saladin",
+    "question": "Quel philosophe français du XVIIIe siècle écrivit 'L'Esprit des lois' ?",
+    "correct_answer": "Montesquieu",
     "incorrect_answers": [
-      "Nur ad-Din",
-      "Al-Adel",
-      "Al-Kamil"
+      "Voltaire",
+      "Rousseau",
+      "Diderot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760196504510-bf2bf5bfbd82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Son œuvre théorisa la séparation des pouvoirs exécutif, législatif et judiciaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1767842931243-0c29041a9e6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3Nzk3OTU3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "En quelle année eut lieu la bataille de Bouvines ?",
-    "correct_answer": "1214",
+    "question": "Quel événement en 1945 marqua la fin de la Seconde Guerre mondiale dans le Pacifique ?",
+    "correct_answer": "Bombardements d'Hiroshima et Nagasaki",
     "incorrect_answers": [
-      "1204",
-      "1223",
-      "1242"
+      "Débarquement de Normandie",
+      "Traité de San Francisco",
+      "Chute de Berlin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1775129893691-1738a89cb921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8YW5jaWVudCUyMGhpc3RvcnklMjBtb251bWVudHxlbnwwfHx8fDE3NzkxMDQxNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les bombes atomiques du 6 et 9 août 1945 forcèrent la capitulation japonaise.",
+    "imageUrl": "https://images.unsplash.com/photo-1758915464829-b914df304dde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fGFuY2llbnQlMjBoaXN0b3J5JTIwbW9udW1lbnR8ZW58MHx8fHwxNzc5Nzk1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

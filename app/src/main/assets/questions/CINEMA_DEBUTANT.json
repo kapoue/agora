@@ -1,13 +1,14 @@
 [
   {
-    "question": "Quel réalisateur a tourné 'Titanic' en 1997 ?",
+    "question": "Quel réalisateur a tourné le film 'Titanic' en 1997 ?",
     "correct_answer": "James Cameron",
     "incorrect_answers": [
       "Steven Spielberg",
-      "Martin Scorsese",
-      "Quentin Tarantino"
+      "Quentin Tarantino",
+      "Martin Scorsese"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1628242787311-758dedb81ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "James Cameron a réalisé 'Titanic', un film culte sorti en 1997.",
+    "imageUrl": "https://images.unsplash.com/photo-1543235074-4768b5c2233c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel acteur incarne Harry Potter dans la saga éponyme ?",
@@ -17,27 +18,19 @@
       "Robert Pattinson",
       "Rupert Grint"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1642266488300-1a57609d73aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Daniel Radcliffe a joué Harry Potter dans les 8 films de la saga.",
+    "imageUrl": "https://images.unsplash.com/photo-1496680392913-a0417ec1a0ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
-    "correct_answer": "Parasite",
-    "incorrect_answers": [
-      "Joker",
-      "1917",
-      "Once Upon a Time in Hollywood"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590292339487-25ad0d60f3c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le premier long-métrage d'animation des studios Pixar ?",
+    "question": "Quel est le premier film d'animation des studios Pixar ?",
     "correct_answer": "Toy Story",
     "incorrect_answers": [
       "Le Monde de Nemo",
       "Les Indestructibles",
       "Vice-Versa"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1457551859869-d4b7ab27184c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Toy Story est sorti en 1995 et marque la naissance des films Pixar.",
+    "imageUrl": "https://images.unsplash.com/photo-1518930107639-f4538ad82a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur français a tourné 'Le Fabuleux Destin d'Amélie Poulain' ?",
@@ -47,117 +40,74 @@
       "François Truffaut",
       "Jean-Luc Godard"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1627071491787-abd84ccf3ccd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Jean-Pierre Jeunet a réalisé ce film culte en 2001.",
+    "imageUrl": "https://images.unsplash.com/photo-1543242594-0476cd61b91f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel acteur joue le rôle de Tony Stark dans les films Marvel ?",
     "correct_answer": "Robert Downey Jr",
     "incorrect_answers": [
       "Chris Evans",
-      "Mark Ruffalo",
-      "Chris Hemsworth"
+      "Chris Hemsworth",
+      "Mark Ruffalo"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1590493066887-a57f0cad53e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Robert Downey Jr incarne Iron Man depuis 2008.",
+    "imageUrl": "https://images.unsplash.com/photo-1583384649873-06f3e4231207?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1975 met en scène un requin géant ?",
-    "correct_answer": "Les Dents de la mer",
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+    "correct_answer": "Parasite",
     "incorrect_answers": [
-      "King Kong",
-      "Godzilla",
-      "Jurassic Park"
+      "Joker",
+      "1917",
+      "Once Upon a Time in Hollywood"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1518930259200-3e5b29f42096?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTEwNDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Parasite, réalisé par Bong Joon-ho, a marqué l'histoire en 2020.",
+    "imageUrl": "https://images.unsplash.com/photo-1579912437184-595291124a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier long-métrage en images animées ?",
+    "correct_answer": "Fantasmagorie",
+    "incorrect_answers": [
+      "Steamboat Willie",
+      "Gertie le dinosaure",
+      "Le Voyage dans la Lune"
+    ],
+    "explanation": "Fantasmagorie, sorti en 1908, est considéré comme le premier dessin animé.",
+    "imageUrl": "https://images.unsplash.com/photo-1590292339438-5fc3be7fca9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur a tourné 'Pulp Fiction' en 1994 ?",
     "correct_answer": "Quentin Tarantino",
     "incorrect_answers": [
       "Martin Scorsese",
-      "Steven Spielberg",
-      "Christopher Nolan"
+      "David Lynch",
+      "Wes Anderson"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1500705077387-65f31ef00c90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Quentin Tarantino a révolutionné le cinéma avec 'Pulp Fiction'.",
+    "imageUrl": "https://images.unsplash.com/photo-1532800181046-044ce9bfd577?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Forrest Gump dans le film éponyme ?",
+    "correct_answer": "Tom Hanks",
+    "incorrect_answers": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Johnny Depp"
+    ],
+    "explanation": "Tom Hanks a remporté l'Oscar pour ce rôle en 1994.",
+    "imageUrl": "https://images.unsplash.com/photo-1607276159787-9ef4db5c0d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTc5NjA0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du chien dans 'Lassie' ?",
-    "correct_answer": "Lassie",
+    "correct_answer": "Colley",
     "incorrect_answers": [
-      "Rex",
-      "Milou",
-      "Balto"
+      "Berger allemand",
+      "Labrador",
+      "Caniche"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1620651575627-2d83969add21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1994 met en scène un homme qui se réveille après 25 ans de coma ?",
-    "correct_answer": "L'Éveil",
-    "incorrect_answers": [
-      "Forrest Gump",
-      "Le Patient anglais",
-      "Rain Man"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-e47cdc7a6b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Parrain' en 1972 ?",
-    "correct_answer": "Francis Ford Coppola",
-    "incorrect_answers": [
-      "Martin Scorsese",
-      "Alfred Hitchcock",
-      "Stanley Kubrick"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1548607634-9f8cfca5d944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne Neo dans 'Matrix' ?",
-    "correct_answer": "Keanu Reeves",
-    "incorrect_answers": [
-      "Tom Cruise",
-      "Brad Pitt",
-      "Leonardo DiCaprio"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1518930107639-f4538ad82a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1982 raconte l'histoire d'un extraterrestre ?",
-    "correct_answer": "E.T. l'extra-terrestre",
-    "incorrect_answers": [
-      "Star Wars",
-      "Rencontres du troisième type",
-      "Alien"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1485662765173-b710c399cd34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'La La Land' en 2016 ?",
-    "correct_answer": "Damien Chazelle",
-    "incorrect_answers": [
-      "Steven Spielberg",
-      "Christopher Nolan",
-      "James Cameron"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1490971588422-52f6262a237a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTEwNDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de Jack Dawson dans 'Titanic' ?",
-    "correct_answer": "Leonardo DiCaprio",
-    "incorrect_answers": [
-      "Brad Pitt",
-      "Tom Cruise",
-      "Johnny Depp"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619473667737-b3abeb860aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1999 met en scène des combats de robots géants ?",
-    "correct_answer": "Matrix",
-    "incorrect_answers": [
-      "Terminator 2",
-      "RoboCop",
-      "Transformers"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1496680154270-b79e35576fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Lassie est une chienne colley, race emblématique du film.",
+    "imageUrl": "https://images.unsplash.com/photo-1496680154270-b79e35576fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur a tourné 'Le Seigneur des Anneaux' ?",
@@ -165,39 +115,120 @@
     "incorrect_answers": [
       "George Lucas",
       "Steven Spielberg",
-      "Martin Scorsese"
+      "James Cameron"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1518929773866-ffd0b4500ff1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Peter Jackson a adapté la trilogie de J.R.R. Tolkien entre 2001 et 2003.",
+    "imageUrl": "https://images.unsplash.com/photo-1742613713092-43e5f56be531?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur incarne Indiana Jones ?",
-    "correct_answer": "Harrison Ford",
+    "question": "Quel acteur incarne Jack Dawson dans 'Titanic' ?",
+    "correct_answer": "Leonardo DiCaprio",
     "incorrect_answers": [
-      "Tom Cruise",
-      "Mel Gibson",
-      "Sean Connery"
+      "Brad Pitt",
+      "Johnny Depp",
+      "Tom Cruise"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1522401195795-1d580bb06720?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Leonardo DiCaprio a rendu ce rôle mythique en 1997.",
+    "imageUrl": "https://images.unsplash.com/photo-1608663003623-2a62ac92df13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1985 met en scène une machine à remonter le temps ?",
-    "correct_answer": "Retour vers le futur",
+    "question": "Quel film a remporté la Palme d'Or à Cannes en 2019 ?",
+    "correct_answer": "Parasite",
     "incorrect_answers": [
-      "La Machine à explorer le temps",
-      "Terminator",
-      "Star Trek"
+      "The Irishman",
+      "Once Upon a Time in Hollywood",
+      "Joker"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1632670467450-bc8f70fe5ad1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Parasite a marqué l'histoire en remportant la Palme d'Or et l'Oscar du meilleur film.",
+    "imageUrl": "https://images.unsplash.com/photo-1632670536499-ebc8bc72892a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a tourné 'Jurassic Park' en 1993 ?",
+    "question": "Quel est le nom du premier film parlant ?",
+    "correct_answer": "Le Chanteur de jazz",
+    "incorrect_answers": [
+      "Metropolis",
+      "Nosferatu",
+      "Le Cuirassé Potemkine"
+    ],
+    "explanation": "Le Chanteur de jazz, sorti en 1927, a marqué la fin de l'ère du muet.",
+    "imageUrl": "https://images.unsplash.com/photo-1621701816825-b5abfadae6c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTc5NjA0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'E.T. l'extra-terrestre' ?",
     "correct_answer": "Steven Spielberg",
     "incorrect_answers": [
       "George Lucas",
-      "James Cameron",
-      "Quentin Tarantino"
+      "Tim Burton",
+      "James Cameron"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1543242594-0476cd61b91f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Steven Spielberg a créé ce film culte en 1982.",
+    "imageUrl": "https://images.unsplash.com/photo-1590493066887-a57f0cad53e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Neo dans 'Matrix' ?",
+    "correct_answer": "Keanu Reeves",
+    "incorrect_answers": [
+      "Brad Pitt",
+      "Tom Cruise",
+      "Will Smith"
+    ],
+    "explanation": "Keanu Reeves incarne Neo dans la trilogie Matrix.",
+    "imageUrl": "https://images.unsplash.com/photo-1457551859869-d4b7ab27184c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2010 ?",
+    "correct_answer": "Démolition Man",
+    "incorrect_answers": [
+      "Avatar",
+      "The Hurt Locker",
+      "Inglourious Basterds"
+    ],
+    "explanation": "Démolition Man, réalisé par Kathryn Bigelow, a marqué l'histoire en 2010.",
+    "imageUrl": "https://images.unsplash.com/photo-1619473667776-48cd8e52d380?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTc5NjA0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Parrain' ?",
+    "correct_answer": "Francis Ford Coppola",
+    "incorrect_answers": [
+      "Martin Scorsese",
+      "Alfred Hitchcock",
+      "Stanley Kubrick"
+    ],
+    "explanation": "Francis Ford Coppola a réalisé cette saga mafieuse culte dans les années 1970.",
+    "imageUrl": "https://images.unsplash.com/photo-1619473667737-b3abeb860aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Jack Sparrow dans 'Pirates des Caraïbes' ?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": [
+      "Orlando Bloom",
+      "Geoffrey Rush",
+      "Kevin McNally"
+    ],
+    "explanation": "Johnny Depp a incarné ce personnage excentrique depuis 2003.",
+    "imageUrl": "https://images.unsplash.com/photo-1485662765173-b710c399cd34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier film en couleur ?",
+    "correct_answer": "Le Monde en couleurs",
+    "incorrect_answers": [
+      "Autant en emporte le vent",
+      "Le Magicien d'Oz",
+      "Blanche-Neige"
+    ],
+    "explanation": "Le Monde en couleurs, sorti en 1935, a marqué l'histoire du cinéma.",
+    "imageUrl": "https://images.unsplash.com/photo-1518929773866-ffd0b4500ff1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Star Wars' ?",
+    "correct_answer": "George Lucas",
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Martin Scorsese"
+    ],
+    "explanation": "George Lucas a créé la saga Star Wars en 1977.",
+    "imageUrl": "https://images.unsplash.com/photo-1640498293268-c7151c778c30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel acteur joue le rôle de Rocky Balboa ?",
@@ -207,117 +238,228 @@
       "Dolph Lundgren",
       "Bruce Willis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1583384649873-06f3e4231207?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Sylvester Stallone a incarné ce boxeur emblématique dans les années 1970.",
+    "imageUrl": "https://images.unsplash.com/photo-1639426106423-62e489d806a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1977 a marqué le début de la saga 'Star Wars' ?",
-    "correct_answer": "Star Wars : Épisode IV",
+    "question": "Quel film a remporté la Palme d'Or à Cannes en 2018 ?",
+    "correct_answer": "Une affaire de famille",
     "incorrect_answers": [
-      "Star Trek",
-      "2001 : L'Odyssée de l'espace",
-      "Rencontres du troisième type"
+      "BlacKkKlansman",
+      "The Favourite",
+      "Capharnaüm"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1607276159787-9ef4db5c0d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTEwNDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Une affaire de famille, réalisé par Hirokazu Kore-eda, a marqué Cannes en 2018.",
+    "imageUrl": "https://images.unsplash.com/photo-1642266488300-1a57609d73aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a tourné 'Le Silence des agneaux' en 1991 ?",
-    "correct_answer": "Jonathan Demme",
+    "question": "Quel réalisateur a tourné 'Psychose' en 1960 ?",
+    "correct_answer": "Alfred Hitchcock",
     "incorrect_answers": [
-      "Martin Scorsese",
-      "Alfred Hitchcock",
-      "Stanley Kubrick"
+      "Stanley Kubrick",
+      "Orson Welles",
+      "Billy Wilder"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1579912437184-595291124a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Alfred Hitchcock a révolutionné le cinéma d'horreur avec 'Psychose'.",
+    "imageUrl": "https://images.unsplash.com/photo-1619099619226-f96e319e3732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTc5NjA0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur incarne James Bond dans 'GoldenEye' ?",
-    "correct_answer": "Pierce Brosnan",
+    "question": "Quel acteur joue le rôle de James Bond dans 'Skyfall' ?",
+    "correct_answer": "Daniel Craig",
     "incorrect_answers": [
+      "Pierce Brosnan",
       "Sean Connery",
-      "Roger Moore",
-      "Daniel Craig"
+      "Roger Moore"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1543235074-4768b5c2233c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Daniel Craig a incarné James Bond dans plusieurs films depuis 2006.",
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-9f8cfca5d944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1999 met en scène un groupe de super-héros ?",
-    "correct_answer": "X-Men",
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2015 ?",
+    "correct_answer": "Birdman",
     "incorrect_answers": [
-      "Les 4 Fantastiques",
-      "Spider-Man",
-      "Les Vengeurs"
+      "Whiplash",
+      "The Grand Budapest Hotel",
+      "Boyhood"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1526007413281-c202e21eedf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Forrest Gump' en 1994 ?",
-    "correct_answer": "Robert Zemeckis",
-    "incorrect_answers": [
-      "Steven Spielberg",
-      "Martin Scorsese",
-      "Quentin Tarantino"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1608663003471-9fe0ded7eb34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de Forrest Gump ?",
-    "correct_answer": "Tom Hanks",
-    "incorrect_answers": [
-      "Leonardo DiCaprio",
-      "Brad Pitt",
-      "Johnny Depp"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1640498293268-c7151c778c30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1993 met en scène un dinosaure cloné ?",
-    "correct_answer": "Jurassic Park",
-    "incorrect_answers": [
-      "Godzilla",
-      "King Kong",
-      "Le Monde perdu"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1486693420891-65cc1fd9994c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Birdman, réalisé par Alejandro González Iñárritu, a marqué l'histoire en 2015.",
+    "imageUrl": "https://images.unsplash.com/photo-1627071491787-abd84ccf3ccd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur a tourné 'Le Roi Lion' en 1994 ?",
-    "correct_answer": "Rob Minkoff et Roger Allers",
+    "correct_answer": "Roger Allers et Rob Minkoff",
     "incorrect_answers": [
-      "Steven Spielberg",
-      "George Lucas",
-      "Peter Jackson"
+      "John Lasseter",
+      "Brad Bird",
+      "Andrew Stanton"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1598703900524-09a0c7defa29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Roi Lion est un classique des studios Disney réalisé par Allers et Minkoff.",
+    "imageUrl": "https://images.unsplash.com/photo-1486693420891-65cc1fd9994c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur incarne Tony Montana dans 'Scarface' ?",
+    "question": "Quel acteur joue le rôle de Tony Montana dans 'Scarface' ?",
     "correct_answer": "Al Pacino",
     "incorrect_answers": [
       "Robert De Niro",
       "Joe Pesci",
-      "Marlon Brando"
+      "James Caan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1732470484504-3f5b8ee9ab70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Al Pacino a incarné ce personnage emblématique en 1983.",
+    "imageUrl": "https://images.unsplash.com/photo-1730182670365-327e319f92da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1984 met en scène un chasseur de vampires ?",
-    "correct_answer": "Ghostbusters",
+    "question": "Quel film a remporté la Palme d'Or à Cannes en 2017 ?",
+    "correct_answer": "The Square",
     "incorrect_answers": [
-      "Blade",
-      "Van Helsing",
-      "Dracula"
+      "120 Battements par minute",
+      "Dunkirk",
+      "The Meyerowitz Stories"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1574304904744-2e6919c5a2a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "The Square, réalisé par Ruben Östlund, a marqué Cannes en 2017.",
+    "imageUrl": "https://images.unsplash.com/photo-1530832227153-9276cf1d19af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné '2001 : L'Odyssée de l'espace' ?",
+    "correct_answer": "Stanley Kubrick",
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "George Lucas",
+      "Ridley Scott"
+    ],
+    "explanation": "Stanley Kubrick a révolutionné la science-fiction avec ce film en 1968.",
+    "imageUrl": "https://images.unsplash.com/photo-1522401195795-1d580bb06720?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Wolverine dans les films X-Men ?",
+    "correct_answer": "Hugh Jackman",
+    "incorrect_answers": [
+      "Ryan Reynolds",
+      "James McAvoy",
+      "Michael Fassbender"
+    ],
+    "explanation": "Hugh Jackman a incarné Wolverine dans 9 films depuis 2000.",
+    "imageUrl": "https://images.unsplash.com/photo-1532800783378-1bed60adaf58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTc5NjA0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2012 ?",
+    "correct_answer": "The Artist",
+    "incorrect_answers": [
+      "Hugo",
+      "The Descendants",
+      "Midnight in Paris"
+    ],
+    "explanation": "The Artist, réalisé par Michel Hazanavicius, a marqué l'histoire en 2012.",
+    "imageUrl": "https://images.unsplash.com/photo-1490971688337-f2c79913ea7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'La La Land' en 2016 ?",
+    "correct_answer": "Damien Chazelle",
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "Quentin Tarantino",
+      "Martin Scorsese"
+    ],
+    "explanation": "Damien Chazelle a réalisé ce film musical culte en 2016.",
+    "imageUrl": "https://images.unsplash.com/photo-1624357574583-2a6fef835b87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Michael Corleone dans 'Le Parrain' ?",
+    "correct_answer": "Al Pacino",
+    "incorrect_answers": [
+      "Marlon Brando",
+      "Robert De Niro",
+      "James Caan"
+    ],
+    "explanation": "Al Pacino a incarné ce personnage emblématique dans les années 1970.",
+    "imageUrl": "https://images.unsplash.com/photo-1589976584421-86fda88fa33a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté la Palme d'Or à Cannes en 2016 ?",
+    "correct_answer": "Moi, Daniel Blake",
+    "incorrect_answers": [
+      "Juste la fin du monde",
+      "American Honey",
+      "Elle"
+    ],
+    "explanation": "Moi, Daniel Blake, réalisé par Ken Loach, a marqué Cannes en 2016.",
+    "imageUrl": "https://images.unsplash.com/photo-1590292339487-25ad0d60f3c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Inception' en 2010 ?",
+    "correct_answer": "Christopher Nolan",
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Quentin Tarantino"
+    ],
+    "explanation": "Christopher Nolan a réalisé ce film de science-fiction culte en 2010.",
+    "imageUrl": "https://images.unsplash.com/photo-1500705077387-65f31ef00c90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Tony Soprano dans la série 'Les Soprano' ?",
+    "correct_answer": "James Gandolfini",
+    "incorrect_answers": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Joe Pesci"
+    ],
+    "explanation": "James Gandolfini a incarné ce personnage emblématique entre 1999 et 2007.",
+    "imageUrl": "https://images.unsplash.com/photo-1523251239923-9969d2b4f95f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2018 ?",
+    "correct_answer": "La Forme de l'eau",
+    "incorrect_answers": [
+      "Get Out",
+      "Three Billboards",
+      "Dunkirk"
+    ],
+    "explanation": "La Forme de l'eau, réalisé par Guillermo del Toro, a marqué l'histoire en 2018.",
+    "imageUrl": "https://images.unsplash.com/photo-1534949378632-3e4e87ec219f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Jurassic Park' en 1993 ?",
+    "correct_answer": "Steven Spielberg",
+    "incorrect_answers": [
+      "George Lucas",
+      "James Cameron",
+      "Martin Scorsese"
+    ],
+    "explanation": "Steven Spielberg a révolutionné les effets spéciaux avec ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1628242787311-758dedb81ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Jack Ryan dans 'Le Fugitif' ?",
+    "correct_answer": "Harrison Ford",
+    "incorrect_answers": [
+      "Tom Cruise",
+      "Mel Gibson",
+      "Bruce Willis"
+    ],
+    "explanation": "Harrison Ford a incarné ce personnage dans plusieurs films des années 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1574882559683-c27d3f9ab471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté la Palme d'Or à Cannes en 2015 ?",
+    "correct_answer": "Dheepan",
+    "incorrect_answers": [
+      "The Lobster",
+      "Son of Saul",
+      "The Assassin"
+    ],
+    "explanation": "Dheepan, réalisé par Jacques Audiard, a marqué Cannes en 2015.",
+    "imageUrl": "https://images.unsplash.com/photo-1520904541532-f47ac41fec59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur a tourné 'Shining' en 1980 ?",
     "correct_answer": "Stanley Kubrick",
     "incorrect_answers": [
       "Alfred Hitchcock",
-      "Martin Scorsese",
-      "Francis Ford Coppola"
+      "David Lynch",
+      "Steven Spielberg"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1514077886732-9b375df6f77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Stanley Kubrick a adapté le roman de Stephen King en 1980.",
+    "imageUrl": "https://images.unsplash.com/photo-1518930259200-3e5b29f42096?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTc5NjA0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel acteur joue le rôle de John McClane dans 'Die Hard' ?",
@@ -327,107 +469,19 @@
       "Sylvester Stallone",
       "Clint Eastwood"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1589824545633-3b298bc1fb12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Bruce Willis a incarné ce héros d'action dans les années 1980.",
+    "imageUrl": "https://images.unsplash.com/photo-1608663003471-9fe0ded7eb34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1995 met en scène un groupe d'enfants dans une maison hantée ?",
-    "correct_answer": "Casper",
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2016 ?",
+    "correct_answer": "Moonlight",
     "incorrect_answers": [
-      "Poltergeist",
-      "SOS Fantômes",
-      "La Maison hantée"
+      "La La Land",
+      "Manchester by the Sea",
+      "Hacksaw Ridge"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1485846147915-69f12fbd03b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Fight Club' en 1999 ?",
-    "correct_answer": "David Fincher",
-    "incorrect_answers": [
-      "Quentin Tarantino",
-      "Martin Scorsese",
-      "Christopher Nolan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1608663003623-2a62ac92df13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne Tyler Durden dans 'Fight Club' ?",
-    "correct_answer": "Brad Pitt",
-    "incorrect_answers": [
-      "Leonardo DiCaprio",
-      "Edward Norton",
-      "Joaquin Phoenix"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1532800783378-1bed60adaf58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTEwNDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1999 met en scène un homme qui se transforme en insecte ?",
-    "correct_answer": "La Métamorphose de Kafka",
-    "incorrect_answers": [
-      "The Fly",
-      "Arachnophobie",
-      "L'Homme mouche"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1612548403247-aa2873e9422d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTEwNDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Inception' en 2010 ?",
-    "correct_answer": "Christopher Nolan",
-    "incorrect_answers": [
-      "Steven Spielberg",
-      "James Cameron",
-      "Martin Scorsese"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1632670536499-ebc8bc72892a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle de Dom Cobb dans 'Inception' ?",
-    "correct_answer": "Leonardo DiCaprio",
-    "incorrect_answers": [
-      "Tom Hardy",
-      "Joseph Gordon-Levitt",
-      "Ellen Page"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1624357574583-2a6fef835b87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1988 met en scène un voyage dans le temps ?",
-    "correct_answer": "Retour vers le futur 2",
-    "incorrect_answers": [
-      "Terminator",
-      "La Machine à explorer le temps",
-      "Star Trek IV"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619473667776-48cd8e52d380?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTEwNDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Grand Bleu' en 1988 ?",
-    "correct_answer": "Luc Besson",
-    "incorrect_answers": [
-      "Jean-Pierre Jeunet",
-      "François Truffaut",
-      "Jean-Luc Godard"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1490971688337-f2c79913ea7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne le Joker dans 'The Dark Knight' ?",
-    "correct_answer": "Heath Ledger",
-    "incorrect_answers": [
-      "Joaquin Phoenix",
-      "Jack Nicholson",
-      "Jared Leto"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1555246384-9e2f17cafb6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1994 met en scène un homme qui vit dans une bulle ?",
-    "correct_answer": "L'Étrange Noël de Monsieur Jack",
-    "incorrect_answers": [
-      "Le Labyrinthe de Pan",
-      "Coraline",
-      "Fantastic Mr. Fox"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1589872307379-0ffdf9829123?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Moonlight, réalisé par Barry Jenkins, a marqué l'histoire en 2016.",
+    "imageUrl": "https://images.unsplash.com/photo-1548607634-e47cdc7a6b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel réalisateur a tourné 'Avatar' en 2009 ?",
@@ -437,166 +491,139 @@
       "George Lucas",
       "Peter Jackson"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1599240211563-17590b1af857?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTEwNDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "James Cameron a révolutionné les effets spéciaux avec ce film.",
+    "imageUrl": "https://images.unsplash.com/photo-1526007413281-c202e21eedf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur joue le rôle de Jake Sully dans 'Avatar' ?",
-    "correct_answer": "Sam Worthington",
+    "question": "Quel acteur joue le rôle de John Wick dans la saga éponyme ?",
+    "correct_answer": "Keanu Reeves",
     "incorrect_answers": [
-      "Leonardo DiCaprio",
       "Tom Cruise",
-      "Brad Pitt"
+      "Brad Pitt",
+      "Jason Statham"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1523251239923-9969d2b4f95f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Keanu Reeves incarne ce personnage depuis 2014.",
+    "imageUrl": "https://images.unsplash.com/photo-1570834322056-ba3e2994ab85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1999 met en scène un groupe de héros dans un asile ?",
-    "correct_answer": "Shining",
+    "question": "Quel film a remporté la Palme d'Or à Cannes en 2014 ?",
+    "correct_answer": "Winter Sleep",
     "incorrect_answers": [
-      "One Flew Over the Cuckoo's Nest",
-      "Vol au-dessus d'un nid de coucou",
-      "The Shining"
+      "Mommy",
+      "The Wonders",
+      "Two Days, One Night"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1619099619226-f96e319e3732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTEwNDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Winter Sleep, réalisé par Nuri Bilge Ceylan, a marqué Cannes en 2014.",
+    "imageUrl": "https://images.unsplash.com/photo-1485846147915-69f12fbd03b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a tourné 'Le Seigneur des Anneaux : La Communauté de l'Anneau' ?",
-    "correct_answer": "Peter Jackson",
+    "question": "Quel réalisateur a tourné 'Fight Club' en 1999 ?",
+    "correct_answer": "David Fincher",
     "incorrect_answers": [
-      "George Lucas",
-      "Steven Spielberg",
+      "Quentin Tarantino",
+      "Martin Scorsese",
+      "Christopher Nolan"
+    ],
+    "explanation": "David Fincher a adapté le roman de Chuck Palahniuk en 1999.",
+    "imageUrl": "https://images.unsplash.com/photo-1612548403247-aa2873e9422d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTc5NjA0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2014 ?",
+    "correct_answer": "Birdman",
+    "incorrect_answers": [
+      "Whiplash",
+      "The Grand Budapest Hotel",
+      "Boyhood"
+    ],
+    "explanation": "Birdman, réalisé par Alejandro González Iñárritu, a marqué l'histoire en 2014.",
+    "imageUrl": "https://images.unsplash.com/photo-1632670467450-bc8f70fe5ad1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Le Silence des agneaux' en 1991 ?",
+    "correct_answer": "Jonathan Demme",
+    "incorrect_answers": [
+      "Alfred Hitchcock",
+      "Stanley Kubrick",
       "Martin Scorsese"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1639426106423-62e489d806a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Jonathan Demme a réalisé ce thriller psychologique culte en 1991.",
+    "imageUrl": "https://images.unsplash.com/photo-1598703900524-09a0c7defa29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur incarne Frodo Sacquet dans 'Le Seigneur des Anneaux' ?",
-    "correct_answer": "Elijah Wood",
+    "question": "Quel acteur joue le rôle de Vito Corleone dans 'Le Parrain' ?",
+    "correct_answer": "Marlon Brando",
     "incorrect_answers": [
-      "Orlando Bloom",
-      "Viggo Mortensen",
-      "Sean Astin"
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1570834322056-ba3e2994ab85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Marlon Brando a incarné ce personnage emblématique en 1972.",
+    "imageUrl": "https://images.unsplash.com/photo-1490971588422-52f6262a237a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTc5NjA0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel film de 1982 met en scène un robot tueur ?",
-    "correct_answer": "Terminator",
+    "question": "Quel film a remporté la Palme d'Or à Cannes en 2013 ?",
+    "correct_answer": "La Vie d'Adèle",
     "incorrect_answers": [
-      "RoboCop",
-      "2001 : L'Odyssée de l'espace",
-      "Blade Runner"
+      "Inside",
+      "Blue Is the Warmest Color",
+      "The Missing Picture"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1520904541532-f47ac41fec59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Vie d'Adèle, réalisé par Abdellatif Kechiche, a marqué Cannes en 2013.",
+    "imageUrl": "https://images.unsplash.com/photo-1555246384-9e2f17cafb6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel réalisateur a tourné 'Pirates des Caraïbes' ?",
+    "question": "Quel réalisateur a tourné 'Retour vers le futur' en 1985 ?",
+    "correct_answer": "Robert Zemeckis",
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "George Lucas",
+      "James Cameron"
+    ],
+    "explanation": "Robert Zemeckis a créé cette trilogie culte dans les années 1980.",
+    "imageUrl": "https://images.unsplash.com/photo-1553166272-e69910ab5ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel acteur joue le rôle de Rocky Balboa dans 'Rocky' ?",
+    "correct_answer": "Sylvester Stallone",
+    "incorrect_answers": [
+      "Arnold Schwarzenegger",
+      "Dolph Lundgren",
+      "Bruce Willis"
+    ],
+    "explanation": "Sylvester Stallone a incarné ce boxeur emblématique en 1976.",
+    "imageUrl": "https://images.unsplash.com/photo-1589872307379-0ffdf9829123?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 2013 ?",
+    "correct_answer": "Argo",
+    "incorrect_answers": [
+      "Lincoln",
+      "Django Unchained",
+      "Zero Dark Thirty"
+    ],
+    "explanation": "Argo, réalisé par Ben Affleck, a marqué l'histoire en 2013.",
+    "imageUrl": "https://images.unsplash.com/photo-1542204625-ca960ca44635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel réalisateur a tourné 'Pirates des Caraïbes' en 2003 ?",
     "correct_answer": "Gore Verbinski",
     "incorrect_answers": [
       "Steven Spielberg",
       "George Lucas",
-      "Peter Jackson"
+      "James Cameron"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1553377102-7479aacccd00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Gore Verbinski a réalisé les premiers films de la saga Pirates des Caraïbes.",
+    "imageUrl": "https://images.unsplash.com/photo-1620651575627-2d83969add21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel acteur joue le rôle de Jack Sparrow dans 'Pirates des Caraïbes' ?",
-    "correct_answer": "Johnny Depp",
+    "question": "Quel film a remporté la Palme d'Or à Cannes en 2012 ?",
+    "correct_answer": "Amour",
     "incorrect_answers": [
-      "Orlando Bloom",
-      "Keira Knightley",
-      "Geoffrey Rush"
+      "The Hunt",
+      "Reality",
+      "The Angels' Share"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1496680392913-a0417ec1a0ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1995 met en scène un homme qui se bat contre des extraterrestres ?",
-    "correct_answer": "Independence Day",
-    "incorrect_answers": [
-      "Men in Black",
-      "Signes",
-      "La Guerre des mondes"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1574882559683-c27d3f9ab471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Le Discours d'un roi' en 2010 ?",
-    "correct_answer": "Tom Hooper",
-    "incorrect_answers": [
-      "Christopher Nolan",
-      "Steven Spielberg",
-      "Martin Scorsese"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590292339438-5fc3be7fca9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle du roi George VI dans 'Le Discours d'un roi' ?",
-    "correct_answer": "Colin Firth",
-    "incorrect_answers": [
-      "Geoffrey Rush",
-      "Guy Pearce",
-      "Helena Bonham Carter"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1532800181046-044ce9bfd577?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 1993 met en scène un homme qui vit dans un monde virtuel ?",
-    "correct_answer": "Jurassic Park",
-    "incorrect_answers": [
-      "Tron",
-      "La Matrice",
-      "eXistenZ"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1589976584421-86fda88fa33a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'The Dark Knight' en 2008 ?",
-    "correct_answer": "Christopher Nolan",
-    "incorrect_answers": [
-      "Steven Spielberg",
-      "Martin Scorsese",
-      "Quentin Tarantino"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1542204625-ca960ca44635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur incarne Harvey Dent dans 'The Dark Knight' ?",
-    "correct_answer": "Aaron Eckhart",
-    "incorrect_answers": [
-      "Christian Bale",
-      "Gary Oldman",
-      "Morgan Freeman"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1553166272-e69910ab5ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel film de 2001 met en scène un homme qui se réveille dans un monde post-apocalyptique ?",
-    "correct_answer": "28 jours plus tard",
-    "incorrect_answers": [
-      "The Road",
-      "I Am Legend",
-      "The Book of Eli"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1530832227153-9276cf1d19af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel réalisateur a tourné 'Amélie Poulain' en 2001 ?",
-    "correct_answer": "Jean-Pierre Jeunet",
-    "incorrect_answers": [
-      "Luc Besson",
-      "François Truffaut",
-      "Jean-Luc Godard"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1730182670365-327e319f92da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3NzkxMDQxODV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel acteur joue le rôle d'Amélie Poulain ?",
-    "correct_answer": "Audrey Tautou",
-    "incorrect_answers": [
-      "Marion Cotillard",
-      "Élodie Bouchez",
-      "Julie Depardieu"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1621701816825-b5abfadae6c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjaW5lbWElMjBmaWxtJTIwY2FtZXJhfGVufDB8fHx8MTc3OTEwNDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Amour, réalisé par Michael Haneke, a marqué Cannes en 2012.",
+    "imageUrl": "https://images.unsplash.com/photo-1732470484504-3f5b8ee9ab70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y2luZW1hJTIwZmlsbSUyMGNhbWVyYXxlbnwwfHx8fDE3Nzk3OTYwNDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

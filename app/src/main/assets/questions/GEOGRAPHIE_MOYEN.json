@@ -1,13 +1,113 @@
 [
   {
-    "question": "Quel est le plus long fleuve du monde ?",
-    "correct_answer": "Nil",
+    "question": "Quel est le plus long fleuve d'Europe ?",
+    "correct_answer": "La Volga",
     "incorrect_answers": [
-      "Amazone",
-      "Mississippi",
-      "Yangtsé"
+      "Le Danube",
+      "Le Rhin",
+      "La Loire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1715559502300-4bc5b5ce6818?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Volga parcourt 3 530 km en Russie, le plus long fleuve entièrement en Europe.",
+    "imageUrl": "https://images.unsplash.com/photo-1723306008397-0b7291a3da7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle capitale est traversée par le fleuve Amazone ?",
+    "correct_answer": "Manaus",
+    "incorrect_answers": [
+      "Belém",
+      "Iquitos",
+      "Lima"
+    ],
+    "explanation": "Manaus est la seule grande ville située directement sur l'Amazone.",
+    "imageUrl": "https://images.unsplash.com/photo-1741719454351-16e387cc6483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays a la plus grande superficie au monde ?",
+    "correct_answer": "Russie",
+    "incorrect_answers": [
+      "Canada",
+      "Chine",
+      "États-Unis"
+    ],
+    "explanation": "Avec 17,1 millions de km², la Russie est le plus vaste pays.",
+    "imageUrl": "https://images.unsplash.com/photo-1543191879-742cb35a3a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle chaîne de montagnes sépare l'Europe de l'Asie ?",
+    "correct_answer": "Oural",
+    "incorrect_answers": [
+      "Caucase",
+      "Alpes",
+      "Himalaya"
+    ],
+    "explanation": "L'Oural marque la frontière naturelle entre les deux continents.",
+    "imageUrl": "https://images.unsplash.com/photo-1677130997509-41a76745b7f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus haut sommet d'Afrique ?",
+    "correct_answer": "Kilimandjaro",
+    "incorrect_answers": [
+      "Mont Kenya",
+      "Mont Stanley",
+      "Mont Elgon"
+    ],
+    "explanation": "Le Kilimandjaro culmine à 5 895 m en Tanzanie.",
+    "imageUrl": "https://images.unsplash.com/photo-1580047953658-7a150491c7d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle mer borde la Turquie à l'ouest ?",
+    "correct_answer": "Mer Égée",
+    "incorrect_answers": [
+      "Mer Noire",
+      "Mer Rouge",
+      "Mer Méditerranée"
+    ],
+    "explanation": "La mer Égée sépare la Turquie de la Grèce.",
+    "imageUrl": "https://images.unsplash.com/photo-1636820244534-285108e20a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays est traversé par le tropique du Capricorne ?",
+    "correct_answer": "Australie",
+    "incorrect_answers": [
+      "Brésil",
+      "Inde",
+      "Afrique du Sud"
+    ],
+    "explanation": "Le tropique du Capricorne traverse le nord de l'Australie.",
+    "imageUrl": "https://images.unsplash.com/photo-1543191878-2baa4ff8a570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la capitale du Bhoutan ?",
+    "correct_answer": "Thimphou",
+    "incorrect_answers": [
+      "Katmandou",
+      "Dacca",
+      "Naypyidaw"
+    ],
+    "explanation": "Thimphou est la capitale du Bhoutan depuis 1955.",
+    "imageUrl": "https://images.unsplash.com/photo-1774779685524-cc735ae11a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fleuve traverse Paris ?",
+    "correct_answer": "La Seine",
+    "incorrect_answers": [
+      "La Loire",
+      "La Marne",
+      "La Garonne"
+    ],
+    "explanation": "La Seine est le fleuve emblématique de la capitale française.",
+    "imageUrl": "https://images.unsplash.com/photo-1554623515-3b2f224b92f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus grand désert chaud du monde ?",
+    "correct_answer": "Sahara",
+    "incorrect_answers": [
+      "Gobi",
+      "Kalahari",
+      "Atacama"
+    ],
+    "explanation": "Le Sahara s'étend sur 9 millions de km² en Afrique du Nord.",
+    "imageUrl": "https://images.unsplash.com/photo-1621408417287-f1fbc243985f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la capitale de la Mongolie ?",
@@ -17,67 +117,41 @@
       "Tachkent",
       "Bichkek"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1456525744438-f8fcd6c82290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Oulan-Bator est la capitale la plus froide du monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1504975692386-cfacf81e1022?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays possède la plus grande superficie forestière au monde ?",
-    "correct_answer": "Russie",
+    "question": "Quel pays possède les plus grandes réserves de pétrole ?",
+    "correct_answer": "Venezuela",
     "incorrect_answers": [
-      "Brésil",
-      "Canada",
+      "Arabie saoudite",
+      "Russie",
       "États-Unis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1554623515-3b2f224b92f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Venezuela détient les plus grandes réserves prouvées de pétrole.",
+    "imageUrl": "https://images.unsplash.com/photo-1741719454371-65162794ba0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Le mont Everest se situe principalement dans quel pays ?",
-    "correct_answer": "Népal",
+    "question": "Quelle mer est la plus salée du monde ?",
+    "correct_answer": "Mer Morte",
     "incorrect_answers": [
-      "Chine",
-      "Inde",
-      "Bhoutan"
+      "Mer Rouge",
+      "Mer Caspienne",
+      "Mer Méditerranée"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1723307060937-b003478a2c03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Mer Morte a une salinité de 34%, dix fois supérieure à l'océan.",
+    "imageUrl": "https://images.unsplash.com/photo-1619392553201-3d9ab3169271?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel océan borde la côte ouest de l'Afrique ?",
-    "correct_answer": "Océan Atlantique",
+    "question": "Quel est le plus long fleuve d'Asie ?",
+    "correct_answer": "Yangtsé",
     "incorrect_answers": [
-      "Océan Indien",
-      "Océan Pacifique",
-      "Océan Austral"
+      "Mékong",
+      "Gange",
+      "Huang He"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580047953658-7a150491c7d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
-    "correct_answer": "Wellington",
-    "incorrect_answers": [
-      "Auckland",
-      "Christchurch",
-      "Hamilton"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1543191878-2baa4ff8a570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fleuve traverse Paris ?",
-    "correct_answer": "Seine",
-    "incorrect_answers": [
-      "Loire",
-      "Rhône",
-      "Garonne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1606933988011-8adbb3ee269a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le plus grand désert du monde ?",
-    "correct_answer": "Désert de l'Antarctique",
-    "incorrect_answers": [
-      "Désert du Sahara",
-      "Désert de Gobi",
-      "Désert d'Arabie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1642619267986-ab9d9aacbfbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Yangtsé parcourt 6 300 km en Chine.",
+    "imageUrl": "https://images.unsplash.com/photo-1692765110860-845d8b3bf496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle est la capitale du Canada ?",
@@ -87,227 +161,52 @@
       "Montréal",
       "Vancouver"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1504975692386-cfacf81e1022?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ottawa est la capitale politique du Canada depuis 1857.",
+    "imageUrl": "https://images.unsplash.com/photo-1630793335371-d20c3a6ceb8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays est traversé par l'équateur et le tropique du Capricorne ?",
-    "correct_answer": "Brésil",
+    "question": "Quel pays est entièrement enclavé en Afrique ?",
+    "correct_answer": "Tchad",
     "incorrect_answers": [
-      "Australie",
-      "Indonésie",
-      "Colombie"
+      "Soudan",
+      "Nigeria",
+      "Éthiopie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1630793335371-d20c3a6ceb8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Tchad n'a aucun accès à la mer.",
+    "imageUrl": "https://images.unsplash.com/photo-1646310368636-34628faac9cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le plus haut sommet d'Europe ?",
-    "correct_answer": "Mont Elbrouz",
+    "question": "Quelle est la plus haute montagne d'Europe ?",
+    "correct_answer": "Elbrouz",
     "incorrect_answers": [
       "Mont Blanc",
-      "Mont Cervin",
-      "Mont Rosa"
+      "Matterhorn",
+      "Dufourspitze"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1651243894771-fbc2527029f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle mer borde la Turquie au nord ?",
-    "correct_answer": "Mer Noire",
-    "incorrect_answers": [
-      "Mer Égée",
-      "Mer Méditerranée",
-      "Mer Caspienne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1636820244534-285108e20a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays possède le plus grand nombre de fuseaux horaires ?",
-    "correct_answer": "France",
-    "incorrect_answers": [
-      "Russie",
-      "États-Unis",
-      "Chine"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758242867435-a99042434f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale de l'Islande ?",
-    "correct_answer": "Reykjavik",
-    "incorrect_answers": [
-      "Oslo",
-      "Helsinki",
-      "Stockholm"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1741719454351-16e387cc6483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Elbrouz culmine à 5 642 m dans le Caucase.",
+    "imageUrl": "https://images.unsplash.com/photo-1705646742193-d0ffd590193b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel fleuve traverse Berlin ?",
-    "correct_answer": "Spree",
+    "correct_answer": "La Spree",
     "incorrect_answers": [
-      "Danube",
-      "Rhin",
-      "Elbe"
+      "Le Rhin",
+      "L'Elbe",
+      "Le Danube"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1551976701-fe64fa693864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Spree est le fleuve emblématique de Berlin.",
+    "imageUrl": "https://images.unsplash.com/photo-1758242867435-a99042434f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le plus grand lac d'eau douce du monde ?",
-    "correct_answer": "Lac Supérieur",
+    "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+    "correct_answer": "Wellington",
     "incorrect_answers": [
-      "Lac Victoria",
-      "Lac Baïkal",
-      "Lac Huron"
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1606933988322-a3cb8968e5ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale du Kenya ?",
-    "correct_answer": "Nairobi",
-    "incorrect_answers": [
-      "Dar es Salam",
-      "Addis-Abeba",
-      "Kampala"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1723307060931-8285f3efb6bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays est situé entre la Thaïlande et le Vietnam ?",
-    "correct_answer": "Cambodge",
-    "incorrect_answers": [
-      "Laos",
-      "Myanmar",
-      "Malaisie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1554446977-558193aaeb5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le point le plus bas de la Terre ?",
-    "correct_answer": "Mer Morte",
-    "incorrect_answers": [
-      "Vallée de la Mort",
-      "Lac Assal",
-      "Fosse des Mariannes"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1621408417287-f1fbc243985f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale de la Suède ?",
-    "correct_answer": "Stockholm",
-    "incorrect_answers": [
-      "Copenhague",
-      "Oslo",
-      "Helsinki"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1723306743301-5690e685fd22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fleuve traverse Vienne ?",
-    "correct_answer": "Danube",
-    "incorrect_answers": [
-      "Rhin",
-      "Elbe",
-      "Vltava"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1644218798861-a152f329f866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le plus grand pays d'Amérique du Sud ?",
-    "correct_answer": "Brésil",
-    "incorrect_answers": [
-      "Argentine",
-      "Colombie",
-      "Pérou"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1610813505759-ec15a7bdbc8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle mer borde la Grèce au sud ?",
-    "correct_answer": "Mer Méditerranée",
-    "incorrect_answers": [
-      "Mer Égée",
-      "Mer Ionienne",
-      "Mer de Crète"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1775563798442-a1b7e114bff7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays possède la plus longue côte maritime ?",
-    "correct_answer": "Canada",
-    "incorrect_answers": [
-      "Australie",
-      "Russie",
-      "Indonésie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1537820839152-7e0df898c5a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale de l'Éthiopie ?",
-    "correct_answer": "Addis-Abeba",
-    "incorrect_answers": [
-      "Nairobi",
-      "Djibouti",
-      "Asmara"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1677130997509-41a76745b7f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fleuve traverse Prague ?",
-    "correct_answer": "Vltava",
-    "incorrect_answers": [
-      "Danube",
-      "Elbe",
-      "Rhin"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619392553201-3d9ab3169271?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le plus grand désert chaud du monde ?",
-    "correct_answer": "Sahara",
-    "incorrect_answers": [
-      "Désert d'Arabie",
-      "Désert de Gobi",
-      "Désert du Kalahari"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1723307061004-6e2e087deae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale de la Finlande ?",
-    "correct_answer": "Helsinki",
-    "incorrect_answers": [
-      "Stockholm",
-      "Oslo",
-      "Copenhague"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1543191879-742cb35a3a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays est traversé par le fleuve Amazone ?",
-    "correct_answer": "Brésil",
-    "incorrect_answers": [
-      "Pérou",
-      "Colombie",
-      "Venezuela"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1590547358801-142dcbe30270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le point culminant de l'Afrique ?",
-    "correct_answer": "Kilimandjaro",
-    "incorrect_answers": [
-      "Mont Kenya",
-      "Mont Stanley",
-      "Mont Ras Dashen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1594098819887-f950c953722e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle mer borde la Turquie à l'ouest ?",
-    "correct_answer": "Mer Égée",
-    "incorrect_answers": [
-      "Mer Noire",
-      "Mer Méditerranée",
-      "Mer Caspienne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1557023279-753a4ae10313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Wellington est la capitale depuis 1865.",
+    "imageUrl": "https://images.unsplash.com/photo-1723307061004-6e2e087deae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel pays possède le plus grand nombre d'îles ?",
@@ -317,27 +216,184 @@
       "Philippines",
       "Japon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1723306743371-38f6666be1a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Suède compte environ 267 000 îles.",
+    "imageUrl": "https://images.unsplash.com/photo-1537820839152-7e0df898c5a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la capitale de la Norvège ?",
-    "correct_answer": "Oslo",
+    "question": "Quelle mer borde la Grèce au sud ?",
+    "correct_answer": "Mer Méditerranée",
     "incorrect_answers": [
-      "Bergen",
-      "Trondheim",
-      "Stavanger"
+      "Mer Égée",
+      "Mer Ionienne",
+      "Mer de Crète"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1774779685524-cc735ae11a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Grèce est bordée par la Méditerranée au sud.",
+    "imageUrl": "https://images.unsplash.com/photo-1646310368798-d245222081ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel fleuve traverse Budapest ?",
-    "correct_answer": "Danube",
+    "question": "Quel est le plus grand lac d'eau douce du monde ?",
+    "correct_answer": "Lac Supérieur",
     "incorrect_answers": [
-      "Tisza",
-      "Rhin",
-      "Elbe"
+      "Lac Victoria",
+      "Lac Baïkal",
+      "Lac Huron"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1526547118874-cdc60d0011e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le lac Supérieur, entre Canada et États-Unis, est le plus vaste.",
+    "imageUrl": "https://images.unsplash.com/photo-1582653402347-a59d799cbb0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la capitale de l'Islande ?",
+    "correct_answer": "Reykjavik",
+    "incorrect_answers": [
+      "Akureyri",
+      "Húsavík",
+      "Vík"
+    ],
+    "explanation": "Reykjavik est la capitale la plus septentrionale du monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1522072176817-41673f7f0ccc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fleuve traverse Rome ?",
+    "correct_answer": "Le Tibre",
+    "incorrect_answers": [
+      "Le Pô",
+      "L'Arno",
+      "Le Rhône"
+    ],
+    "explanation": "Le Tibre est le fleuve historique de Rome.",
+    "imageUrl": "https://images.unsplash.com/photo-1556122492-766a8b354a16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la capitale du Sri Lanka ?",
+    "correct_answer": "Sri Jayawardenepura Kotte",
+    "incorrect_answers": [
+      "Colombo",
+      "Kandy",
+      "Galle"
+    ],
+    "explanation": "Sri Jayawardenepura Kotte est la capitale administrative.",
+    "imageUrl": "https://images.unsplash.com/photo-1641122889427-6d7c4480e0a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays est traversé par l'équateur et le tropique du Capricorne ?",
+    "correct_answer": "Brésil",
+    "incorrect_answers": [
+      "Colombie",
+      "Indonésie",
+      "Kenya"
+    ],
+    "explanation": "Le Brésil est le seul pays traversé par les deux.",
+    "imageUrl": "https://images.unsplash.com/photo-1651243894771-fbc2527029f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la plus haute montagne d'Amérique du Nord ?",
+    "correct_answer": "Denali",
+    "incorrect_answers": [
+      "Mont Whitney",
+      "Mont Elbert",
+      "Mont Logan"
+    ],
+    "explanation": "Le Denali culmine à 6 190 m en Alaska.",
+    "imageUrl": "https://images.unsplash.com/photo-1642619267986-ab9d9aacbfbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+    "correct_answer": "Brésil",
+    "incorrect_answers": [
+      "Argentine",
+      "Pérou",
+      "Colombie"
+    ],
+    "explanation": "Le Brésil couvre 47% du continent sud-américain.",
+    "imageUrl": "https://images.unsplash.com/photo-1715559502300-4bc5b5ce6818?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle mer borde la péninsule arabique à l'est ?",
+    "correct_answer": "Golfe d'Oman",
+    "incorrect_answers": [
+      "Mer Rouge",
+      "Golfe Persique",
+      "Mer d'Arabie"
+    ],
+    "explanation": "Le golfe d'Oman relie le golfe Persique à l'océan Indien.",
+    "imageUrl": "https://images.unsplash.com/photo-1723306743301-5690e685fd22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fleuve traverse Vienne ?",
+    "correct_answer": "Le Danube",
+    "incorrect_answers": [
+      "Le Rhin",
+      "La Vienne",
+      "L'Elbe"
+    ],
+    "explanation": "Le Danube est le deuxième plus long fleuve d'Europe.",
+    "imageUrl": "https://images.unsplash.com/photo-1741719454341-21de7f28a3e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la capitale de la Tanzanie ?",
+    "correct_answer": "Dodoma",
+    "incorrect_answers": [
+      "Dar es Salam",
+      "Arusha",
+      "Mwanza"
+    ],
+    "explanation": "Dodoma est la capitale officielle depuis 1996.",
+    "imageUrl": "https://images.unsplash.com/photo-1526667383715-3c42cbae3d60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays possède le plus long littoral ?",
+    "correct_answer": "Canada",
+    "incorrect_answers": [
+      "Indonésie",
+      "Russie",
+      "Australie"
+    ],
+    "explanation": "Le Canada a 243 000 km de côtes.",
+    "imageUrl": "https://images.unsplash.com/photo-1666209818306-b21749849d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la plus grande île du monde ?",
+    "correct_answer": "Groenland",
+    "incorrect_answers": [
+      "Nouvelle-Guinée",
+      "Bornéo",
+      "Madagascar"
+    ],
+    "explanation": "Le Groenland couvre 2,16 millions de km².",
+    "imageUrl": "https://images.unsplash.com/photo-1610813505759-ec15a7bdbc8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fleuve traverse Prague ?",
+    "correct_answer": "La Vltava",
+    "incorrect_answers": [
+      "Le Danube",
+      "L'Elbe",
+      "La Moldau"
+    ],
+    "explanation": "La Vltava est le fleuve principal de Prague.",
+    "imageUrl": "https://images.unsplash.com/photo-1673086636045-9aa873babc91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays est traversé par le tropique du Cancer et l'équateur ?",
+    "correct_answer": "Mexique",
+    "incorrect_answers": [
+      "Inde",
+      "Nigeria",
+      "Colombie"
+    ],
+    "explanation": "Le Mexique est le seul pays traversé par les deux.",
+    "imageUrl": "https://images.unsplash.com/photo-1567910640027-4029c4d8e9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle mer borde la Norvège à l'ouest ?",
+    "correct_answer": "Mer de Norvège",
+    "incorrect_answers": [
+      "Mer Baltique",
+      "Mer du Nord",
+      "Mer de Barents"
+    ],
+    "explanation": "La mer de Norvège fait partie de l'océan Atlantique.",
+    "imageUrl": "https://images.unsplash.com/photo-1614107151491-6876eecbff89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le plus grand lac d'Europe ?",
@@ -347,187 +403,239 @@
       "Lac Balaton",
       "Lac de Constance"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1572837067417-a7e2cc92a7ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le lac Ladoga, en Russie, couvre 18 000 km².",
+    "imageUrl": "https://images.unsplash.com/photo-1479232284091-c8829ec114ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la capitale du Portugal ?",
-    "correct_answer": "Lisbonne",
+    "question": "Quelle est la capitale de la Malaisie ?",
+    "correct_answer": "Kuala Lumpur",
     "incorrect_answers": [
-      "Porto",
-      "Faro",
-      "Coimbra"
+      "Penang",
+      "Johor Bahru",
+      "Ipoh"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1741719454372-dd05b4af5275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Kuala Lumpur est la capitale officielle depuis 1999.",
+    "imageUrl": "https://images.unsplash.com/photo-1723306743338-04d754fa88e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays est situé entre la Pologne et la Lituanie ?",
-    "correct_answer": "Biélorussie",
+    "question": "Quel fleuve traverse Budapest ?",
+    "correct_answer": "Le Danube",
     "incorrect_answers": [
-      "Lettonie",
-      "Ukraine",
-      "Slovaquie"
+      "Le Tisza",
+      "La Drave",
+      "Le Tibisco"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1741719454371-65162794ba0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Danube divise Budapest en deux parties.",
+    "imageUrl": "https://images.unsplash.com/photo-1526547118874-cdc60d0011e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le point le plus profond de l'océan ?",
-    "correct_answer": "Fosse des Mariannes",
+    "question": "Quelle est la plus haute montagne d'Amérique du Sud ?",
+    "correct_answer": "Aconcagua",
     "incorrect_answers": [
-      "Fosse de Tonga",
-      "Fosse des Philippines",
-      "Fosse de Kermadec"
+      "Huascarán",
+      "Ojos del Salado",
+      "Monte Pissis"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1753045870993-f39ff012c0f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Aconcagua culmine à 6 961 m en Argentine.",
+    "imageUrl": "https://images.unsplash.com/photo-1723306743371-38f6666be1a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la capitale de la Suisse ?",
-    "correct_answer": "Berne",
+    "question": "Quel pays est entièrement enclavé en Asie ?",
+    "correct_answer": "Laos",
     "incorrect_answers": [
-      "Zurich",
-      "Genève",
-      "Bâle"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1741719454341-21de7f28a3e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fleuve traverse Rome ?",
-    "correct_answer": "Tibre",
-    "incorrect_answers": [
-      "Pô",
-      "Arno",
-      "Adige"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1689463819560-141f644d7482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le plus grand pays d'Europe ?",
-    "correct_answer": "Russie",
-    "incorrect_answers": [
-      "Ukraine",
-      "France",
-      "Espagne"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1673086636045-9aa873babc91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle mer borde la Grèce à l'est ?",
-    "correct_answer": "Mer Égée",
-    "incorrect_answers": [
-      "Mer Ionienne",
-      "Mer Méditerranée",
-      "Mer de Crète"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1556122492-766a8b354a16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays possède la plus grande population ?",
-    "correct_answer": "Inde",
-    "incorrect_answers": [
-      "Chine",
-      "États-Unis",
-      "Indonésie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1683576221736-ab17ac9ffe61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale de l'Autriche ?",
-    "correct_answer": "Vienne",
-    "incorrect_answers": [
-      "Salzbourg",
-      "Graz",
-      "Innsbruck"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1584467331230-657db228e24e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel fleuve traverse Madrid ?",
-    "correct_answer": "Manzanares",
-    "incorrect_answers": [
-      "Tage",
-      "Èbre",
-      "Duero"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1582653402347-a59d799cbb0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le plus grand désert d'Amérique du Nord ?",
-    "correct_answer": "Désert de Sonora",
-    "incorrect_answers": [
-      "Désert de Mojave",
-      "Désert du Grand Bassin",
-      "Désert de Chihuahua"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1630793335354-d8af053ac749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale de la Belgique ?",
-    "correct_answer": "Bruxelles",
-    "incorrect_answers": [
-      "Anvers",
-      "Bruges",
-      "Liège"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1567910640027-4029c4d8e9e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays est traversé par le fleuve Yangtsé ?",
-    "correct_answer": "Chine",
-    "incorrect_answers": [
-      "Inde",
+      "Thaïlande",
       "Vietnam",
-      "Thaïlande"
+      "Cambodge"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1646310368798-d245222081ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Laos n'a aucun accès à la mer.",
+    "imageUrl": "https://images.unsplash.com/photo-1551976701-fe64fa693864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le point culminant de l'Europe de l'Ouest ?",
-    "correct_answer": "Mont Blanc",
+    "question": "Quelle mer borde la Finlande au sud ?",
+    "correct_answer": "Mer Baltique",
     "incorrect_answers": [
-      "Pico de Aneto",
-      "Monte Perdido",
-      "Pic du Midi d'Ossau"
+      "Mer de Barents",
+      "Mer Blanche",
+      "Mer du Nord"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1723306744533-bed5a4f696dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La mer Baltique borde la côte sud de la Finlande.",
+    "imageUrl": "https://images.unsplash.com/photo-1689463819560-141f644d7482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus grand désert froid du monde ?",
+    "correct_answer": "Antarctique",
+    "incorrect_answers": [
+      "Groenland",
+      "Sahara",
+      "Gobi"
+    ],
+    "explanation": "L'Antarctique est le plus grand désert polaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1753045870993-f39ff012c0f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la capitale de l'Azerbaïdjan ?",
+    "correct_answer": "Bakou",
+    "incorrect_answers": [
+      "Gandja",
+      "Sumqayıt",
+      "Mingəçevir"
+    ],
+    "explanation": "Bakou est la capitale et plus grande ville d'Azerbaïdjan.",
+    "imageUrl": "https://images.unsplash.com/photo-1644218798861-a152f329f866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel fleuve traverse Varsovie ?",
+    "correct_answer": "La Vistule",
+    "incorrect_answers": [
+      "L'Oder",
+      "La Warta",
+      "Le Bug"
+    ],
+    "explanation": "La Vistule est le principal fleuve de Pologne.",
+    "imageUrl": "https://images.unsplash.com/photo-1584467331230-657db228e24e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la plus grande île des Antilles ?",
+    "correct_answer": "Cuba",
+    "incorrect_answers": [
+      "Haïti",
+      "Jamaïque",
+      "Porto Rico"
+    ],
+    "explanation": "Cuba couvre 110 860 km² dans les Caraïbes.",
+    "imageUrl": "https://images.unsplash.com/photo-1594098819887-f950c953722e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays est traversé par le tropique du Cancer et le tropique du Capricorne ?",
+    "correct_answer": "Mexique",
+    "incorrect_answers": [
+      "Brésil",
+      "Inde",
+      "Australie"
+    ],
+    "explanation": "Le Mexique est le seul pays traversé par les deux tropiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1630793335354-d8af053ac749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle mer borde la Grèce à l'ouest ?",
+    "correct_answer": "Mer Ionienne",
+    "incorrect_answers": [
+      "Mer Égée",
+      "Mer de Crète",
+      "Mer de Libye"
+    ],
+    "explanation": "La mer Ionienne sépare la Grèce de l'Italie.",
+    "imageUrl": "https://images.unsplash.com/photo-1456525744438-f8fcd6c82290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le plus long fleuve d'Amérique du Nord ?",
+    "correct_answer": "Mississippi-Missouri",
+    "incorrect_answers": [
+      "Fleuve Saint-Laurent",
+      "Fleuve Colorado",
+      "Fleuve Mackenzie"
+    ],
+    "explanation": "Le Mississippi-Missouri s'étend sur 6 275 km.",
+    "imageUrl": "https://images.unsplash.com/photo-1746456669381-dfbc2c27c3cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la capitale du Népal ?",
+    "correct_answer": "Katmandou",
+    "incorrect_answers": [
+      "Pokhara",
+      "Biratnagar",
+      "Lalitpur"
+    ],
+    "explanation": "Katmandou est la capitale du Népal depuis 1769.",
+    "imageUrl": "https://images.unsplash.com/photo-1723307060931-8285f3efb6bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays possède le plus grand nombre de fuseaux horaires ?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "Russie",
+      "États-Unis",
+      "Chine"
+    ],
+    "explanation": "La France a 12 fuseaux horaires grâce à ses territoires d'outre-mer.",
+    "imageUrl": "https://images.unsplash.com/photo-1566935843883-66e5038dded6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quelle mer borde la Turquie au sud ?",
     "correct_answer": "Mer Méditerranée",
     "incorrect_answers": [
-      "Mer Égée",
       "Mer Noire",
-      "Mer Caspienne"
+      "Mer Égée",
+      "Mer de Marmara"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1666209818306-b21749849d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Turquie est bordée par la Méditerranée au sud.",
+    "imageUrl": "https://images.unsplash.com/photo-1606933988011-8adbb3ee269a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel pays possède le plus grand nombre de volcans actifs ?",
-    "correct_answer": "Indonésie",
+    "question": "Quel est le plus grand lac d'Afrique ?",
+    "correct_answer": "Lac Victoria",
     "incorrect_answers": [
-      "Japon",
-      "Islande",
-      "États-Unis"
+      "Lac Tanganyika",
+      "Lac Malawi",
+      "Lac Tchad"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1723306008397-0b7291a3da7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le lac Victoria couvre 68 800 km² entre trois pays.",
+    "imageUrl": "https://images.unsplash.com/photo-1723307060937-b003478a2c03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la capitale de la Hongrie ?",
-    "correct_answer": "Budapest",
+    "question": "Quelle est la capitale du Kazakhstan ?",
+    "correct_answer": "Noursoultan",
     "incorrect_answers": [
-      "Debrecen",
-      "Szeged",
-      "Pécs"
+      "Almaty",
+      "Chimkent",
+      "Pavlodar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1526667383715-3c42cbae3d60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Noursoultan est la capitale depuis 1997.",
+    "imageUrl": "https://images.unsplash.com/photo-1779293109173-a5c9a0f71273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel fleuve traverse Amsterdam ?",
-    "correct_answer": "Amstel",
+    "question": "Quel fleuve traverse Athènes ?",
+    "correct_answer": "Aucun fleuve",
     "incorrect_answers": [
-      "Rhin",
-      "Meuse",
-      "Waal"
+      "Le Pénée",
+      "L'Ilisos",
+      "Le Céphise"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1646310368636-34628faac9cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Athènes n'est traversée par aucun fleuve majeur.",
+    "imageUrl": "https://images.unsplash.com/photo-1606933988322-a3cb8968e5ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la plus haute montagne d'Océanie ?",
+    "correct_answer": "Puncak Jaya",
+    "incorrect_answers": [
+      "Mont Kosciuszko",
+      "Mont Wilhelm",
+      "Mont Carstensz"
+    ],
+    "explanation": "Le Puncak Jaya culmine à 4 884 m en Indonésie.",
+    "imageUrl": "https://images.unsplash.com/photo-1557023279-753a4ae10313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel pays est traversé par l'équateur et le tropique du Cancer ?",
+    "correct_answer": "Kenya",
+    "incorrect_answers": [
+      "Indonésie",
+      "Colombie",
+      "Brésil"
+    ],
+    "explanation": "Le Kenya est le seul pays traversé par les deux.",
+    "imageUrl": "https://images.unsplash.com/photo-1554446977-558193aaeb5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle mer borde la Suède à l'est ?",
+    "correct_answer": "Mer Baltique",
+    "incorrect_answers": [
+      "Mer du Nord",
+      "Mer de Norvège",
+      "Mer de Barents"
+    ],
+    "explanation": "La mer Baltique borde la côte est de la Suède.",
+    "imageUrl": "https://images.unsplash.com/photo-1572837067417-a7e2cc92a7ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le plus grand lac d'Amérique du Nord ?",
@@ -537,46 +645,7 @@
       "Lac Michigan",
       "Grand Lac de l'Ours"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1692765110860-845d8b3bf496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale de la Roumanie ?",
-    "correct_answer": "Bucarest",
-    "incorrect_answers": [
-      "Cluj-Napoca",
-      "Timișoara",
-      "Iași"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1479232284091-c8829ec114ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel pays est situé entre la Norvège et la Finlande ?",
-    "correct_answer": "Suède",
-    "incorrect_answers": [
-      "Danemark",
-      "Russie",
-      "Estonie"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1522072176817-41673f7f0ccc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le plus grand désert d'Amérique du Sud ?",
-    "correct_answer": "Désert d'Atacama",
-    "incorrect_answers": [
-      "Désert de Patagonie",
-      "Désert de Monte",
-      "Désert de la Puna"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1723306743338-04d754fa88e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la capitale de la Pologne ?",
-    "correct_answer": "Varsovie",
-    "incorrect_answers": [
-      "Cracovie",
-      "Gdańsk",
-      "Wrocław"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1705646742193-d0ffd590193b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5MTA0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le lac Supérieur est le plus vaste lac d'eau douce au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1775563798442-a1b7e114bff7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8d29ybGQlMjBtYXAlMjBnZW9ncmFwaHklMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzc5Nzk1ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

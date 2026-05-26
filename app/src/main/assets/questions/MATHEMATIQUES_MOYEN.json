@@ -5,598 +5,669 @@
     "incorrect_answers": [
       "Augustin Cauchy",
       "Carl Gauss",
-      "Bernhard Riemann"
+      "Henri Poincaré"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734555-a0e7f15ea33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Francis Guthrie, étudiant en botanique, a posé ce problème de coloration de cartes.",
+    "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui stipule que dans un triangle rectangle, le carré de l'hypoténuse est égal à la somme des carrés des deux autres côtés ?",
+    "question": "Quel est le nom du théorème qui stipule que a² + b² = c² pour un triangle rectangle ?",
     "correct_answer": "Théorème de Pythagore",
     "incorrect_answers": [
       "Théorème de Thalès",
       "Théorème de Fermat",
-      "Théorème de Pascal"
+      "Théorème d'Euclide"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848204-a170e78f1507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Pythagore a démontré cette relation fondamentale en géométrie.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848612-dc8d3c0e9646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a introduit le symbole '∞' pour représenter l'infini ?",
-    "correct_answer": "John Wallis",
+    "question": "Quel mathématicien a inventé le calcul infinitésimal au XVIIe siècle ?",
+    "correct_answer": "Isaac Newton",
     "incorrect_answers": [
-      "Isaac Newton",
       "Leonhard Euler",
-      "René Descartes"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1581089778245-3ce67677f718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de la constante mathématique π (pi) arrondie à 5 décimales ?",
-    "correct_answer": "3.14159",
-    "incorrect_answers": [
-      "3.14160",
-      "3.14259",
-      "3.14149"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733835-c90530b20bdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du mathématicien qui a prouvé le dernier théorème de Fermat en 1994 ?",
-    "correct_answer": "Andrew Wiles",
-    "incorrect_answers": [
-      "Andrew Taylor",
-      "Andrew Smith",
-      "Andrew Brown"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734622-3e0a002b2f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la somme des angles intérieurs d'un pentagone convexe ?",
-    "correct_answer": "540 degrés",
-    "incorrect_answers": [
-      "360 degrés",
-      "720 degrés",
-      "900 degrés"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733761-da7220a410ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a développé le calcul différentiel et intégral indépendamment de Newton ?",
-    "correct_answer": "Gottfried Wilhelm Leibniz",
-    "incorrect_answers": [
-      "Pierre-Simon Laplace",
-      "Joseph-Louis Lagrange",
+      "Bernhard Riemann",
       "Évariste Galois"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1659506688743-4f7bd64f6a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Newton a développé le calcul différentiel et intégral indépendamment de Leibniz.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848791-87860bb29292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la dérivée de la fonction f(x) = 3x² + 2x - 5 ?",
-    "correct_answer": "6x + 2",
+    "question": "Quel est le nom de la constante mathématique égale à environ 2,71828 ?",
+    "correct_answer": "Nombre e",
     "incorrect_answers": [
-      "3x + 2",
-      "6x - 5",
-      "3x² + 2"
+      "Nombre π",
+      "Nombre d'or",
+      "Constante de Planck"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848238-001e0cc182ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "e est la base des logarithmes naturels, fondamentale en analyse.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848261-16a5a9e68811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui énonce que tout nombre premier supérieur à 2 est impair ?",
-    "correct_answer": "Théorème de la parité des nombres premiers",
-    "incorrect_answers": [
-      "Théorème de Goldbach",
-      "Théorème des nombres pairs",
-      "Théorème des nombres impairs"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733814-35d40ac8c4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la probabilité d'obtenir un double six en lançant deux dés équilibrés ?",
-    "correct_answer": "1/36",
-    "incorrect_answers": [
-      "1/6",
-      "1/12",
-      "1/18"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845891-64736626610f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a introduit le concept de nombres complexes au XVIe siècle ?",
-    "correct_answer": "Gerolamo Cardano",
-    "incorrect_answers": [
-      "Niccolò Fontana Tartaglia",
-      "Rafael Bombelli",
-      "Girolamo Saccheri"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848612-dc8d3c0e9646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de l'intégrale ∫(2x + 1)dx entre 0 et 2 ?",
-    "correct_answer": "6",
-    "incorrect_answers": [
-      "4",
-      "5",
-      "8"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845882-288eee8e913e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui stipule que dans un triangle, la somme de deux côtés est toujours supérieure au troisième ?",
-    "correct_answer": "Inégalité triangulaire",
-    "incorrect_answers": [
-      "Théorème de Pythagore",
-      "Théorème de Thalès",
-      "Théorème de la médiane"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848521-ff7e4d136384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a formulé l'hypothèse de Riemann en 1859 ?",
-    "correct_answer": "Bernhard Riemann",
-    "incorrect_answers": [
-      "Georg Friedrich Bernhard Riemann",
-      "Carl Friedrich Gauss",
-      "Felix Klein"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734565-fc8ff6e9ffcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de la dérivée seconde de f(x) = x³ - 3x² + 2x ?",
-    "correct_answer": "6x - 6",
-    "incorrect_answers": [
-      "3x² - 6x + 2",
-      "6x - 3",
-      "x² - 3x + 2"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685849011-b3efeb6e1122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du mathématicien qui a introduit le symbole 'e' pour la base du logarithme naturel ?",
-    "correct_answer": "Leonhard Euler",
-    "incorrect_answers": [
-      "Jacob Bernoulli",
-      "Johann Bernoulli",
-      "Abraham de Moivre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848261-16a5a9e68811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la médiane d'une série de nombres : 2, 4, 6, 8, 10 ?",
-    "correct_answer": "6",
-    "incorrect_answers": [
-      "5",
-      "7",
-      "8"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1694757283921-aefccec06443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel théorème énonce que tout polynôme à coefficients complexes admet au moins une racine complexe ?",
+    "question": "Quel théorème énonce que tout polynôme non constant admet au moins une racine complexe ?",
     "correct_answer": "Théorème de d'Alembert-Gauss",
     "incorrect_answers": [
       "Théorème de Rolle",
-      "Théorème des valeurs intermédiaires",
-      "Théorème de Cauchy"
+      "Théorème de Lagrange",
+      "Théorème de Bézout"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616529927764-173a543493ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce théorème fondamental de l'algèbre a été prouvé par Gauss en 1799.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848663-784d2f7051d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a développé la géométrie non euclidienne au XIXe siècle ?",
-    "correct_answer": "Nikolaï Lobatchevski",
+    "question": "Quel mathématicien a introduit le symbole ∞ pour l'infini ?",
+    "correct_answer": "John Wallis",
     "incorrect_answers": [
-      "Carl Friedrich Gauss",
-      "János Bolyai",
-      "Bernhard Riemann"
+      "Georg Cantor",
+      "Bernhard Bolzano",
+      "René Descartes"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734483-e11fe75480dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Wallis a utilisé ce symbole en 1655 dans son traité sur les sections coniques.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733809-0e53c640d93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la valeur de la limite lim(x→0) (sin x)/x ?",
-    "correct_answer": "1",
+    "question": "Quel est le nom de la courbe plane définie par l'équation y = ax² + bx + c ?",
+    "correct_answer": "Parabole",
     "incorrect_answers": [
-      "0",
-      "∞",
-      "π/2"
+      "Hyperbole",
+      "Ellipse",
+      "Cycloïde"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848791-87860bb29292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La parabole est la trajectoire d'un projectile sous l'effet de la gravité.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733835-c90530b20bdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui stipule que tout nombre entier supérieur à 1 est soit premier, soit produit de nombres premiers ?",
-    "correct_answer": "Théorème fondamental de l'arithmétique",
+    "question": "Quel mathématicien a démontré l'irrationalité de √2 vers 430 av. J.-C. ?",
+    "correct_answer": "Hippase de Métaponte",
     "incorrect_answers": [
-      "Théorème de Fermat",
-      "Théorème de Goldbach",
-      "Théorème d'Euclide"
+      "Euclide",
+      "Archimède",
+      "Pythagore"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848813-a6133f937bfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Hippase a découvert l'irrationalité en étudiant les pentagones réguliers.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848352-c527c32b2054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a introduit le symbole 'i' pour représenter l'unité imaginaire ?",
-    "correct_answer": "Leonhard Euler",
+    "question": "Quel est le nom du paradoxe qui montre que l'ensemble des parties d'un ensemble est toujours plus grand que l'ensemble lui-même ?",
+    "correct_answer": "Paradoxe de Cantor",
     "incorrect_answers": [
-      "Carl Friedrich Gauss",
-      "Abraham de Moivre",
-      "Augustin Cauchy"
+      "Paradoxe de Russell",
+      "Paradoxe de Banach-Tarski",
+      "Paradoxe de Zénon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734006-4a3cb9253a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Georg Cantor a établi ce résultat en théorie des ensembles en 1891.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734622-3e0a002b2f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la valeur de l'intégrale ∫(e^x)dx ?",
-    "correct_answer": "e^x + C",
+    "question": "Quel mathématicien a formulé la conjecture de Poincaré en 1904 ?",
+    "correct_answer": "Henri Poincaré",
     "incorrect_answers": [
-      "e^x",
-      "x e^x + C",
-      "ln(x) + C"
+      "David Hilbert",
+      "Felix Klein",
+      "Emmy Noether"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734556-a34e35ad8c71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette conjecture a été résolue par Grigori Perelman en 2003.",
+    "imageUrl": "https://images.unsplash.com/photo-1659386510402-e93799ec82a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui énonce que la somme des angles extérieurs d'un polygone convexe est égale à 360 degrés ?",
-    "correct_answer": "Théorème de la somme des angles extérieurs",
+    "question": "Quel est le nom de la distribution statistique symétrique en forme de cloche ?",
+    "correct_answer": "Distribution normale",
     "incorrect_answers": [
-      "Théorème de la somme des angles intérieurs",
-      "Théorème de Pythagore",
+      "Distribution uniforme",
+      "Distribution exponentielle",
+      "Distribution de Poisson"
+    ],
+    "explanation": "La courbe de Gauss modélise de nombreux phénomènes naturels.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733761-da7220a410ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a inventé le symbole = pour l'égalité en 1557 ?",
+    "correct_answer": "Robert Recorde",
+    "incorrect_answers": [
+      "John Napier",
+      "Simon Stevin",
+      "François Viète"
+    ],
+    "explanation": "Recorde a choisi ce symbole car deux lignes parallèles sont égales en longueur.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848478-b57d7aff2a9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel théorème stipule que dans un triangle, les médianes sont concourantes ?",
+    "correct_answer": "Théorème de la médiane",
+    "incorrect_answers": [
+      "Théorème de Ceva",
+      "Théorème de Menelaus",
+      "Théorème de Pythagore"
+    ],
+    "explanation": "Le point de concours des médianes est appelé centre de gravité.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733760-71c797cf0b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a développé la géométrie hyperbolique au XIXe siècle ?",
+    "correct_answer": "Nikolai Lobachevski",
+    "incorrect_answers": [
+      "Carl Gauss",
+      "Bernhard Riemann",
+      "Felix Klein"
+    ],
+    "explanation": "Lobachevski a publié ses travaux en 1829, indépendamment de Bolyai.",
+    "imageUrl": "https://images.unsplash.com/photo-1659506688743-4f7bd64f6a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la suite mathématique définie par u₀ = 0, u₁ = 1 et uₙ₊₂ = uₙ₊₁ + uₙ ?",
+    "correct_answer": "Suite de Fibonacci",
+    "incorrect_answers": [
+      "Suite arithmétique",
+      "Suite géométrique",
+      "Suite de Lucas"
+    ],
+    "explanation": "Cette suite apparaît dans la croissance des populations de lapins.",
+    "imageUrl": "https://images.unsplash.com/photo-1599662195404-c76cda0436ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le dernier théorème de Fermat en 1637 ?",
+    "correct_answer": "Pierre de Fermat",
+    "incorrect_answers": [
+      "René Descartes",
+      "Blaise Pascal",
+      "Gottfried Leibniz"
+    ],
+    "explanation": "Ce théorème a été démontré par Andrew Wiles en 1994.",
+    "imageUrl": "https://images.unsplash.com/photo-1608792992053-f397e328a56d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la constante mathématique égale à 3,14159... ?",
+    "correct_answer": "Pi (π)",
+    "incorrect_answers": [
+      "Nombre e",
+      "Nombre d'or",
+      "Constante de Feigenbaum"
+    ],
+    "explanation": "π est le rapport de la circonférence d'un cercle à son diamètre.",
+    "imageUrl": "https://images.unsplash.com/photo-1573871014706-263f4dfec410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit les coordonnées cartésiennes en géométrie ?",
+    "correct_answer": "René Descartes",
+    "incorrect_answers": [
+      "Pierre de Fermat",
+      "Isaac Newton",
+      "Gottfried Leibniz"
+    ],
+    "explanation": "Descartes a publié sa méthode en 1637 dans 'La Géométrie'.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848238-001e0cc182ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel théorème énonce que dans un triangle, les hauteurs sont concourantes ?",
+    "correct_answer": "Théorème de l'orthocentre",
+    "incorrect_answers": [
+      "Théorème de la bissectrice",
+      "Théorème de l'angle inscrit",
       "Théorème de Thalès"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734423-593b9854a31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le point de concours des hauteurs est appelé orthocentre.",
+    "imageUrl": "https://images.unsplash.com/photo-1581089778245-3ce67677f718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a découvert les nombres complexes sous la forme a + bi ?",
+    "correct_answer": "Rafael Bombelli",
+    "incorrect_answers": [
+      "Leonhard Euler",
+      "Carl Gauss",
+      "Girolamo Cardano"
+    ],
+    "explanation": "Bombelli a formalisé ces nombres au XVIe siècle pour résoudre des équations cubiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733760-71c797cf0b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la courbe définie par l'équation x²/a² - y²/b² = 1 ?",
+    "correct_answer": "Hyperbole",
+    "incorrect_answers": [
+      "Parabole",
+      "Ellipse",
+      "Cycloïde"
+    ],
+    "explanation": "L'hyperbole est une conique dont les branches s'éloignent à l'infini.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734314-a2633cef4c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel mathématicien a formulé le théorème des nombres premiers en 1896 ?",
     "correct_answer": "Jacques Hadamard",
     "incorrect_answers": [
-      "Charles de la Vallée-Poussin",
-      "Bernhard Riemann",
-      "Carl Friedrich Gauss"
+      "Henri Poincaré",
+      "Srinivasa Ramanujan",
+      "David Hilbert"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734268-003e12ca57bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce théorème décrit la distribution asymptotique des nombres premiers.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734363-9ca32535183d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la valeur de la dérivée de f(x) = ln(x) ?",
-    "correct_answer": "1/x",
+    "question": "Quel est le nom de la transformation géométrique qui conserve les angles mais pas les distances ?",
+    "correct_answer": "Transformation conforme",
     "incorrect_answers": [
-      "x",
-      "ln(x)/x",
-      "e^x"
+      "Isométrie",
+      "Homothetie",
+      "Symétrie axiale"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848123-01f7a269bfc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les transformations conformes préservent les angles locaux.",
+    "imageUrl": "https://images.unsplash.com/photo-1708011271935-3e109df56fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui stipule que dans un triangle, les médianes se coupent en un point appelé centre de gravité ?",
-    "correct_answer": "Théorème de la médiane",
-    "incorrect_answers": [
-      "Théorème de Pythagore",
-      "Théorème de Thalès",
-      "Théorème de la bissectrice"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733780-4eced3a89d98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a introduit le symbole '∑' pour la sommation ?",
+    "question": "Quel mathématicien a introduit le symbole ∑ pour la sommation en 1755 ?",
     "correct_answer": "Leonhard Euler",
     "incorrect_answers": [
-      "Carl Friedrich Gauss",
-      "Joseph-Louis Lagrange",
-      "Pierre-Simon Laplace"
+      "Carl Gauss",
+      "Joseph Lagrange",
+      "Pierre Laplace"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848663-784d2f7051d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Euler a popularisé cette notation dans ses travaux sur les séries.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733780-4eced3a89d98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la valeur de la limite lim(x→∞) (1 + 1/x)^x ?",
-    "correct_answer": "e",
-    "incorrect_answers": [
-      "0",
-      "1",
-      "∞"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1533709475520-a0745bba78bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui énonce que dans un triangle rectangle, le rapport des côtés est constant pour un angle donné ?",
-    "correct_answer": "Théorème de Thalès",
-    "incorrect_answers": [
-      "Théorème de Pythagore",
-      "Théorème de la médiane",
-      "Théorème de la bissectrice"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1765410850935-d875a630d3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a développé la théorie des groupes au XIXe siècle ?",
-    "correct_answer": "Évariste Galois",
-    "incorrect_answers": [
-      "Augustin Cauchy",
-      "Joseph-Louis Lagrange",
-      "Carl Friedrich Gauss"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1738811744493-a060532f3971?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de l'intégrale ∫(1/(1+x²))dx ?",
-    "correct_answer": "arctan(x) + C",
-    "incorrect_answers": [
-      "ln(1+x²) + C",
-      "x + C",
-      "arcsin(x) + C"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733760-71c797cf0b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui stipule que tout nombre réel est limite d'une suite de nombres rationnels ?",
-    "correct_answer": "Théorème de densité des rationnels",
-    "incorrect_answers": [
-      "Théorème de Bolzano-Weierstrass",
-      "Théorème des valeurs intermédiaires",
-      "Théorème de Heine"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733809-0e53c640d93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a introduit le symbole '√' pour la racine carrée ?",
-    "correct_answer": "Christoff Rudolff",
-    "incorrect_answers": [
-      "René Descartes",
-      "Leonhard Euler",
-      "Pierre-Simon Laplace"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848352-c527c32b2054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de la dérivée de f(x) = e^(2x) ?",
-    "correct_answer": "2e^(2x)",
-    "incorrect_answers": [
-      "e^(2x)",
-      "2x e^(2x)",
-      "e^x"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848303-9fc8c37a7924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui énonce que dans un triangle, les hauteurs se coupent en un point appelé orthocentre ?",
-    "correct_answer": "Théorème de l'orthocentre",
-    "incorrect_answers": [
-      "Théorème de la médiane",
-      "Théorème de la bissectrice",
-      "Théorème de l'incentre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848758-74747f4f0727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a formulé le théorème de la valeur moyenne en calcul différentiel ?",
-    "correct_answer": "Joseph-Louis Lagrange",
-    "incorrect_answers": [
-      "Augustin Cauchy",
-      "Bernhard Riemann",
-      "Carl Friedrich Gauss"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1620621983410-962c3124dc83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de l'intégrale ∫(cos(x))dx ?",
-    "correct_answer": "sin(x) + C",
-    "incorrect_answers": [
-      "cos(x) + C",
-      "-sin(x) + C",
-      "tan(x) + C"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734242-8dbf726479eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui stipule que tout ensemble infini a une bijection avec un de ses sous-ensembles propres ?",
-    "correct_answer": "Théorème de Cantor",
-    "incorrect_answers": [
-      "Théorème de Dedekind",
-      "Théorème de Zorn",
-      "Théorème de Banach"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1708011271935-3e109df56fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a introduit le symbole '∫' pour l'intégrale ?",
-    "correct_answer": "Gottfried Wilhelm Leibniz",
-    "incorrect_answers": [
-      "Isaac Newton",
-      "Leonhard Euler",
-      "Pierre-Simon Laplace"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1699679887117-253155701980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de la limite lim(x→0) (1 - cos(x))/x² ?",
-    "correct_answer": "1/2",
-    "incorrect_answers": [
-      "0",
-      "1",
-      "∞"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848755-7db48b484385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui énonce que dans un triangle, les bissectrices se coupent en un point appelé incentre ?",
+    "question": "Quel théorème stipule que dans un triangle, les bissectrices sont concourantes ?",
     "correct_answer": "Théorème de l'incentre",
     "incorrect_answers": [
-      "Théorème de la médiane",
-      "Théorème de la bissectrice",
-      "Théorème de l'orthocentre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1573871014706-263f4dfec410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a développé la théorie des probabilités au XVIIe siècle ?",
-    "correct_answer": "Blaise Pascal",
-    "incorrect_answers": [
-      "Pierre de Fermat",
-      "Christiaan Huygens",
-      "Jacob Bernoulli"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1599662195404-c76cda0436ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de l'intégrale ∫(x e^x)dx ?",
-    "correct_answer": "x e^x - e^x + C",
-    "incorrect_answers": [
-      "e^x + C",
-      "x² e^x + C",
-      "x e^x + C"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848761-a55e08173622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui stipule que tout ensemble ordonné non vide a un plus petit élément ?",
-    "correct_answer": "Théorème de la borne inférieure",
-    "incorrect_answers": [
-      "Théorème de Zorn",
-      "Théorème de Cantor",
-      "Théorème de Bolzano"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734408-19dd0cc86d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a introduit le symbole '≡' pour la congruence en arithmétique ?",
-    "correct_answer": "Carl Friedrich Gauss",
-    "incorrect_answers": [
-      "Leonhard Euler",
-      "Pierre-Simon Laplace",
-      "Joseph-Louis Lagrange"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734463-98672a67dd1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quelle est la valeur de la dérivée de f(x) = arctan(x) ?",
-    "correct_answer": "1/(1+x²)",
-    "incorrect_answers": [
-      "1/√(1-x²)",
-      "x/√(1+x²)",
-      "-1/(1+x²)"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733726-4c9a728afeb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui énonce que dans un triangle, les perpendiculaires aux milieux des côtés se coupent en un point appelé circumcentre ?",
-    "correct_answer": "Théorème du circumcentre",
-    "incorrect_answers": [
       "Théorème de l'orthocentre",
-      "Théorème de l'incentre",
-      "Théorème de la médiane"
+      "Théorème de la médiane",
+      "Théorème de Ceva"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le point de concours des bissectrices est le centre du cercle inscrit.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734408-19dd0cc86d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a formulé le théorème de la valeur intermédiaire en analyse ?",
-    "correct_answer": "Bernard Bolzano",
+    "question": "Quel mathématicien a développé la théorie des matrices au XIXe siècle ?",
+    "correct_answer": "Arthur Cayley",
+    "incorrect_answers": [
+      "James Sylvester",
+      "Évariste Galois",
+      "Felix Klein"
+    ],
+    "explanation": "Cayley a formalisé l'algèbre des matrices en 1858.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734483-e11fe75480dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la courbe plane définie par l'équation x = a(t - sin t), y = a(1 - cos t) ?",
+    "correct_answer": "Cycloïde",
+    "incorrect_answers": [
+      "Cardioïde",
+      "Lemniscate",
+      "Spirale d'Archimède"
+    ],
+    "explanation": "La cycloïde est la trajectoire d'un point sur un cercle roulant sans glisser.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734423-593b9854a31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de la valeur intermédiaire en 1817 ?",
+    "correct_answer": "Bernhard Bolzano",
     "incorrect_answers": [
       "Augustin Cauchy",
       "Karl Weierstrass",
+      "Henri Lebesgue"
+    ],
+    "explanation": "Ce théorème est fondamental en analyse réelle pour les fonctions continues.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734463-98672a67dd1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la constante mathématique égale à 1,618... ?",
+    "correct_answer": "Nombre d'or (φ)",
+    "incorrect_answers": [
+      "Pi (π)",
+      "Nombre e",
+      "Constante de Planck"
+    ],
+    "explanation": "Le nombre d'or apparaît dans les proportions du rectangle d'or et la suite de Fibonacci.",
+    "imageUrl": "https://images.unsplash.com/photo-1694757283921-aefccec06443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit le concept de groupe en algèbre en 1832 ?",
+    "correct_answer": "Évariste Galois",
+    "incorrect_answers": [
+      "Niels Abel",
+      "Augustin Cauchy",
+      "Felix Klein"
+    ],
+    "explanation": "Galois a utilisé les groupes pour étudier les équations polynomiales.",
+    "imageUrl": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel théorème énonce que dans un triangle, les médiatrices sont concourantes ?",
+    "correct_answer": "Théorème du cercle circonscrit",
+    "incorrect_answers": [
+      "Théorème de l'incentre",
+      "Théorème de l'orthocentre",
+      "Théorème de Ceva"
+    ],
+    "explanation": "Le point de concours des médiatrices est le centre du cercle circonscrit.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685849011-b3efeb6e1122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a développé la géométrie projective au XIXe siècle ?",
+    "correct_answer": "Jean-Victor Poncelet",
+    "incorrect_answers": [
+      "Gaspard Monge",
+      "Carl Gauss",
       "Bernhard Riemann"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734614-63fe30c18b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Poncelet a formalisé les propriétés invariantes par projection.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848204-a170e78f1507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la valeur de l'intégrale ∫(1/√(1-x²))dx ?",
-    "correct_answer": "arcsin(x) + C",
+    "question": "Quel est le nom de la distribution statistique discrète modélisant des événements rares ?",
+    "correct_answer": "Distribution de Poisson",
     "incorrect_answers": [
-      "arccos(x) + C",
-      "arctan(x) + C",
-      "ln|x| + C"
+      "Distribution normale",
+      "Distribution binomiale",
+      "Distribution exponentielle"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La loi de Poisson décrit le nombre d'événements survenant dans un intervalle fixe.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733897-80154016629f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui stipule que tout ensemble fini non vide a un plus grand élément ?",
-    "correct_answer": "Théorème de la borne supérieure",
+    "question": "Quel mathématicien a formulé le théorème de la valeur moyenne en 1823 ?",
+    "correct_answer": "Augustin Cauchy",
     "incorrect_answers": [
-      "Théorème de Zorn",
-      "Théorème de Cantor",
-      "Théorème de Bolzano"
+      "Karl Weierstrass",
+      "Bernhard Bolzano",
+      "Henri Lebesgue"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1608792992053-f397e328a56d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce théorème relie la dérivée d'une fonction à sa pente moyenne.",
+    "imageUrl": "https://images.unsplash.com/photo-1674293924679-19e1ab501e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a introduit le symbole '∂' pour les dérivées partielles ?",
-    "correct_answer": "Adrien-Marie Legendre",
+    "question": "Quel est le nom de la courbe définie par l'équation r = a(1 + cos θ) en coordonnées polaires ?",
+    "correct_answer": "Cardioïde",
     "incorrect_answers": [
-      "Carl Friedrich Gauss",
-      "Leonhard Euler",
-      "Pierre-Simon Laplace"
+      "Lemniscate",
+      "Spirale d'Archimède",
+      "Cycloïde"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845872-4edbf0e76014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La cardioïde est la trajectoire d'un point sur un cercle roulant autour d'un autre cercle de même rayon.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848123-01f7a269bfc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la valeur de la limite lim(x→∞) (ln(x))/x ?",
-    "correct_answer": "0",
+    "question": "Quel mathématicien a introduit le symbole ∫ pour l'intégrale en 1675 ?",
+    "correct_answer": "Gottfried Leibniz",
     "incorrect_answers": [
-      "1",
-      "∞",
-      "-∞"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848478-b57d7aff2a9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du théorème qui énonce que dans un triangle, les médiatrices se coupent en un point appelé circumcentre ?",
-    "correct_answer": "Théorème du circumcentre",
-    "incorrect_answers": [
-      "Théorème de l'orthocentre",
-      "Théorème de l'incentre",
-      "Théorème de la médiane"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734226-e5a8327bf502?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a développé la géométrie analytique au XVIIe siècle ?",
-    "correct_answer": "René Descartes",
-    "incorrect_answers": [
-      "Pierre de Fermat",
       "Isaac Newton",
-      "Gottfried Wilhelm Leibniz"
+      "Pierre de Fermat",
+      "Jakob Bernoulli"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733876-3bb63d3da1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Leibniz a choisi ce symbole car il ressemble à un 'S' allongé pour 'somme'.",
+    "imageUrl": "https://images.unsplash.com/photo-1765410850935-d875a630d3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la valeur de l'intégrale ∫(x²)dx ?",
-    "correct_answer": "x³/3 + C",
+    "question": "Quel théorème stipule que dans un triangle, les céviennes sont concourantes si et seulement si un certain produit est égal à 1 ?",
+    "correct_answer": "Théorème de Ceva",
     "incorrect_answers": [
-      "x² + C",
-      "x³ + C",
-      "2x + C"
+      "Théorème de Menelaus",
+      "Théorème de Thalès",
+      "Théorème de Pythagore"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733897-80154016629f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce théorème généralise les propriétés de concourance des droites dans un triangle.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685845891-64736626610f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui stipule que tout ensemble infini dénombrable a la même cardinalité que l'ensemble des entiers naturels ?",
-    "correct_answer": "Théorème de Cantor",
+    "question": "Quel mathématicien a développé la théorie des ensembles au XIXe siècle ?",
+    "correct_answer": "Georg Cantor",
     "incorrect_answers": [
-      "Théorème de Dedekind",
-      "Théorème de Zorn",
-      "Théorème de Banach"
+      "Richard Dedekind",
+      "Felix Hausdorff",
+      "Kurt Gödel"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734314-a2633cef4c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cantor a fondé la théorie des ensembles et introduit les nombres transfinis.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734006-4a3cb9253a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel mathématicien a introduit le symbole '∇' pour l'opérateur nabla ?",
+    "question": "Quel est le nom de la courbe plane définie par l'équation x²/a² + y²/b² = 1 ?",
+    "correct_answer": "Ellipse",
+    "incorrect_answers": [
+      "Hyperbole",
+      "Parabole",
+      "Cycloïde"
+    ],
+    "explanation": "L'ellipse est une conique dont la somme des distances aux foyers est constante.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848758-74747f4f0727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de la divergence en analyse vectorielle ?",
+    "correct_answer": "Carl Gauss",
+    "incorrect_answers": [
+      "George Stokes",
+      "James Maxwell",
+      "Henri Poincaré"
+    ],
+    "explanation": "Ce théorème relie le flux d'un champ vectoriel à travers une surface à sa divergence.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734614-63fe30c18b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la constante mathématique égale à 0,5772... ?",
+    "correct_answer": "Constante d'Euler-Mascheroni (γ)",
+    "incorrect_answers": [
+      "Nombre e",
+      "Pi (π)",
+      "Constante de Feigenbaum"
+    ],
+    "explanation": "Cette constante apparaît dans l'étude de la fonction gamma et des séries harmoniques.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734242-8dbf726479eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit le concept de vecteur en physique mathématique ?",
     "correct_answer": "William Rowan Hamilton",
     "incorrect_answers": [
-      "Carl Friedrich Gauss",
-      "James Clerk Maxwell",
+      "Hermann Grassmann",
+      "Josiah Gibbs",
       "Oliver Heaviside"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734301-1e6ef045145f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Hamilton a développé les quaternions, précurseurs de l'algèbre vectorielle.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733876-3bb63d3da1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quelle est la valeur de la dérivée de f(x) = sin(2x) ?",
-    "correct_answer": "2cos(2x)",
+    "question": "Quel théorème énonce que dans un triangle, les côtés sont proportionnels aux sinus des angles opposés ?",
+    "correct_answer": "Théorème des sinus",
     "incorrect_answers": [
-      "cos(2x)",
-      "-2sin(2x)",
-      "2sin(x)cos(x)"
+      "Théorème de Pythagore",
+      "Théorème de Thalès",
+      "Théorème de Ceva"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734363-9ca32535183d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce théorème est utile pour résoudre des triangles non rectangles.",
+    "imageUrl": "https://images.unsplash.com/photo-1699679887117-253155701980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du théorème qui énonce que tout ensemble ordonné inductif non vide a un élément maximal ?",
-    "correct_answer": "Théorème de Zorn",
+    "question": "Quel mathématicien a développé la théorie des graphes au XVIIIe siècle ?",
+    "correct_answer": "Leonhard Euler",
     "incorrect_answers": [
-      "Théorème de Cantor",
-      "Théorème de Bolzano",
-      "Théorème de Heine"
+      "Pierre de Fermat",
+      "Carl Gauss",
+      "Bernhard Riemann"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1659386510402-e93799ec82a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Euler a résolu le problème des sept ponts de Königsberg en 1736.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734226-e5a8327bf502?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la courbe définie par l'équation r = aθ en coordonnées polaires ?",
+    "correct_answer": "Spirale d'Archimède",
+    "incorrect_answers": [
+      "Lemniscate",
+      "Cardioïde",
+      "Cycloïde"
+    ],
+    "explanation": "Cette spirale a une distance constante entre ses spires.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734565-fc8ff6e9ffcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de Rolle en 1691 ?",
+    "correct_answer": "Michel Rolle",
+    "incorrect_answers": [
+      "Isaac Newton",
+      "Gottfried Leibniz",
+      "Pierre Varignon"
+    ],
+    "explanation": "Ce théorème est un cas particulier du théorème des accroissements finis.",
+    "imageUrl": "https://images.unsplash.com/photo-1533709475520-a0745bba78bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la distribution statistique modélisant des événements à deux issues possibles ?",
+    "correct_answer": "Distribution binomiale",
+    "incorrect_answers": [
+      "Distribution normale",
+      "Distribution de Poisson",
+      "Distribution exponentielle"
+    ],
+    "explanation": "La loi binomiale décrit le nombre de succès dans une série d'essais indépendants.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733814-35d40ac8c4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit le concept de dérivée en calcul différentiel ?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": [
+      "Gottfried Leibniz",
+      "Pierre de Fermat",
+      "Augustin Cauchy"
+    ],
+    "explanation": "Newton a développé la notion de fluxion pour décrire les taux de variation.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733726-4c9a728afeb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel théorème stipule que dans un triangle, si une droite est parallèle à un côté, elle divise les deux autres côtés proportionnellement ?",
+    "correct_answer": "Théorème de Thalès",
+    "incorrect_answers": [
+      "Théorème de Pythagore",
+      "Théorème de Ceva",
+      "Théorème des sinus"
+    ],
+    "explanation": "Ce théorème est fondamental en géométrie euclidienne.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734556-a34e35ad8c71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a développé la théorie des fonctions analytiques au XIXe siècle ?",
+    "correct_answer": "Karl Weierstrass",
+    "incorrect_answers": [
+      "Bernhard Riemann",
+      "Augustin Cauchy",
+      "Henri Poincaré"
+    ],
+    "explanation": "Weierstrass a formalisé la notion de fonction analytique et de convergence uniforme.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848521-ff7e4d136384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la courbe plane définie par l'équation (x²/a²) - (y²/b²) = 1 ?",
+    "correct_answer": "Hyperbole équilatère",
+    "incorrect_answers": [
+      "Parabole",
+      "Ellipse",
+      "Cycloïde"
+    ],
+    "explanation": "Lorsque a = b, l'hyperbole est dite équilatère et ses asymptotes sont perpendiculaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1616529927764-173a543493ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de la limite centrale en probabilités ?",
+    "correct_answer": "Pierre-Simon Laplace",
+    "incorrect_answers": [
+      "Carl Gauss",
+      "Simeon Poisson",
+      "Andrei Kolmogorov"
+    ],
+    "explanation": "Ce théorème explique pourquoi de nombreux phénomènes naturels suivent une distribution normale.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734301-1e6ef045145f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la constante mathématique égale à 2,5066... ?",
+    "correct_answer": "Constante de la loi normale (1/√(2π))",
+    "incorrect_answers": [
+      "Nombre e",
+      "Pi (π)",
+      "Constante d'Euler-Mascheroni"
+    ],
+    "explanation": "Cette constante apparaît dans la formule de la densité de la loi normale centrée réduite.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848813-a6133f937bfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit le concept de matrice orthogonale en algèbre linéaire ?",
+    "correct_answer": "Arthur Cayley",
+    "incorrect_answers": [
+      "James Sylvester",
+      "Évariste Galois",
+      "Felix Klein"
+    ],
+    "explanation": "Cayley a étudié les matrices dont l'inverse est égale à la transposée.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685845882-288eee8e913e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel théorème énonce que dans un triangle rectangle, la hauteur relative à l'hypoténuse est moyenne géométrique des deux segments qu'elle détermine ?",
+    "correct_answer": "Théorème de la hauteur",
+    "incorrect_answers": [
+      "Théorème de Pythagore",
+      "Théorème de Thalès",
+      "Théorème de Ceva"
+    ],
+    "explanation": "Ce théorème est une conséquence de la similitude des triangles formés.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685845872-4edbf0e76014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a développé la théorie des nombres algébriques au XIXe siècle ?",
+    "correct_answer": "Richard Dedekind",
+    "incorrect_answers": [
+      "Carl Gauss",
+      "Ernst Kummer",
+      "David Hilbert"
+    ],
+    "explanation": "Dedekind a introduit les idéaux pour généraliser la notion de divisibilité.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848303-9fc8c37a7924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la courbe définie par l'équation x³ + y³ = 3axy en coordonnées cartésiennes ?",
+    "correct_answer": "Folium de Descartes",
+    "incorrect_answers": [
+      "Lemniscate",
+      "Cardioïde",
+      "Cycloïde"
+    ],
+    "explanation": "Cette courbe en forme de boucle a été étudiée par René Descartes en 1638.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734268-003e12ca57bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé le théorème de la bijection en topologie ?",
+    "correct_answer": "Luitzen Brouwer",
+    "incorrect_answers": [
+      "Henri Poincaré",
+      "Felix Hausdorff",
+      "Kurt Gödel"
+    ],
+    "explanation": "Ce théorème stipule qu'une application continue bijective d'un espace compact vers un espace de Hausdorff est un homéomorphisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848761-a55e08173622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom de la distribution statistique modélisant le temps entre deux événements successifs dans un processus de Poisson ?",
+    "correct_answer": "Distribution exponentielle",
+    "incorrect_answers": [
+      "Distribution normale",
+      "Distribution de Poisson",
+      "Distribution binomiale"
+    ],
+    "explanation": "Cette loi décrit des phénomènes comme la désintégration radioactive ou les files d'attente.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848755-7db48b484385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a introduit le concept de tenseur en géométrie différentielle ?",
+    "correct_answer": "Gregorio Ricci-Curbastro",
+    "incorrect_answers": [
+      "Tullio Levi-Civita",
+      "Bernhard Riemann",
+      "Élie Cartan"
+    ],
+    "explanation": "Ricci a développé le calcul tensoriel, essentiel en relativité générale.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734555-a0e7f15ea33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel théorème stipule que dans un triangle, les angles inscrits interceptant le même arc sont égaux ?",
+    "correct_answer": "Théorème de l'angle inscrit",
+    "incorrect_answers": [
+      "Théorème de Thalès",
+      "Théorème de Pythagore",
+      "Théorème de Ceva"
+    ],
+    "explanation": "Ce théorème est fondamental en géométrie du cercle.",
+    "imageUrl": null
   }
 ]

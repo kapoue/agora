@@ -1,572 +1,662 @@
 [
   {
-    "question": "Quel est le résultat de 2 + 2 × 3 ?",
-    "correct_answer": "8",
-    "incorrect_answers": [
-      "10",
-      "6",
-      "12"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTEwNDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le carré de 5 ?",
-    "correct_answer": "25",
-    "incorrect_answers": [
-      "10",
-      "15",
-      "50"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848069-5a747851f32c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le périmètre d'un carré de côté 4 cm ?",
-    "correct_answer": "16 cm",
-    "incorrect_answers": [
-      "8 cm",
-      "12 cm",
-      "20 cm"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734226-e5a8327bf502?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'inverse de 0,5 ?",
-    "correct_answer": "2",
-    "incorrect_answers": [
-      "0,2",
-      "5",
-      "1"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734363-9ca32535183d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 10 ÷ 2 × 5 ?",
-    "correct_answer": "25",
-    "incorrect_answers": [
-      "10",
-      "20",
-      "50"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845891-64736626610f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le volume d'un cube d'arête 3 cm ?",
-    "correct_answer": "27 cm³",
-    "incorrect_answers": [
-      "9 cm³",
-      "12 cm³",
-      "81 cm³"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685849011-b3efeb6e1122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 7 × (3 + 2) ?",
-    "correct_answer": "35",
-    "incorrect_answers": [
-      "17",
-      "25",
-      "42"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTEwNDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le plus grand nombre premier inférieur à 10 ?",
-    "correct_answer": "7",
-    "incorrect_answers": [
-      "5",
-      "9",
-      "11"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848761-a55e08173622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de √16 ?",
-    "correct_answer": "4",
-    "incorrect_answers": [
-      "2",
-      "8",
-      "16"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848754-0aa566b4ddf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est l'aire d'un rectangle de 5 cm sur 3 cm ?",
-    "correct_answer": "15 cm²",
-    "incorrect_answers": [
-      "8 cm²",
-      "10 cm²",
-      "20 cm²"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1659386510402-e93799ec82a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel mathématicien a formulé le théorème de Pythagore ?",
+    "question": "Quel mathématicien grec a énoncé le théorème de Pythagore ?",
     "correct_answer": "Pythagore",
     "incorrect_answers": [
       "Euclide",
       "Archimède",
       "Thalès"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733809-0e53c640d93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Pythagore a vécu au VIe siècle av. J.-C. et a fondé une école mathématique en Italie.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685845902-acd5db1b532b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 15 - 7 + 3 ?",
-    "correct_answer": "11",
+    "question": "Quelle est la somme des angles d'un triangle ?",
+    "correct_answer": "180 degrés",
     "incorrect_answers": [
-      "5",
-      "8",
-      "25"
+      "90 degrés",
+      "270 degrés",
+      "360 degrés"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733699-04d6544f2655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette propriété est valable pour tous les triangles, quelle que soit leur forme.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685849145-cd8bfb57ab2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 0,25 × 4 ?",
-    "correct_answer": "1",
+    "question": "Quel est le symbole mathématique de l'infini ?",
+    "correct_answer": "∞",
     "incorrect_answers": [
-      "0,1",
-      "0,5",
-      "10"
+      "∑",
+      "∫",
+      "≈"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733876-3bb63d3da1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le symbole ∞ a été introduit par le mathématicien John Wallis au XVIIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734303-e85757067f28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 100 ÷ 4 ?",
-    "correct_answer": "25",
-    "incorrect_answers": [
-      "20",
-      "50",
-      "10"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848204-a170e78f1507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 3² + 4² ?",
-    "correct_answer": "25",
-    "incorrect_answers": [
-      "7",
-      "12",
-      "14"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1648126506800-a7b1412fcadf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 1 + 2 + 3 + 4 + 5 ?",
-    "correct_answer": "15",
+    "question": "Quelle est la racine carrée de 144 ?",
+    "correct_answer": "12",
     "incorrect_answers": [
       "10",
-      "20",
-      "25"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848951-35cfbf688e14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTEwNDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 9 × 9 ?",
-    "correct_answer": "81",
-    "incorrect_answers": [
-      "18",
-      "36",
-      "72"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848238-001e0cc182ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 10 - 3 × 2 ?",
-    "correct_answer": "4",
-    "incorrect_answers": [
-      "7",
       "14",
       "16"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734242-8dbf726479eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "12 × 12 = 144, donc la racine carrée de 144 est 12.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848691-3933bc2aa3ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTc5Nzc5OXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 2 × (5 + 3) ?",
-    "correct_answer": "16",
+    "question": "Quel est le plus grand nombre premier connu en 2023 ?",
+    "correct_answer": "2^82 589 933 - 1",
     "incorrect_answers": [
-      "10",
+      "2^100 000 - 1",
+      "2^50 000 - 1",
+      "2^70 000 - 1"
+    ],
+    "explanation": "Ce nombre, découvert en 2018, possède plus de 24 millions de chiffres.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848478-b57d7aff2a9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la formule de l'aire d'un cercle ?",
+    "correct_answer": "π × rayon²",
+    "incorrect_answers": [
+      "π × diamètre",
+      "2 × π × rayon",
+      "rayon × rayon"
+    ],
+    "explanation": "La formule utilise le rayon et le nombre π (pi) pour calculer l'aire.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848204-a170e78f1507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a inventé le système de coordonnées cartésiennes ?",
+    "correct_answer": "René Descartes",
+    "incorrect_answers": [
+      "Isaac Newton",
+      "Blaise Pascal",
+      "Pierre-Simon Laplace"
+    ],
+    "explanation": "Descartes a introduit ce système au XVIIe siècle pour lier algèbre et géométrie.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734301-1e6ef045145f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la valeur de π (pi) arrondie à deux décimales ?",
+    "correct_answer": "3,14",
+    "incorrect_answers": [
+      "3,12",
+      "3,16",
+      "3,20"
+    ],
+    "explanation": "π est un nombre irrationnel dont les décimales ne se répètent jamais.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733760-71c797cf0b05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le résultat de 5 × (3 + 2) ?",
+    "correct_answer": "25",
+    "incorrect_answers": [
       "13",
-      "18"
+      "20",
+      "17"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734671-21838fcd724e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "On effectue d'abord l'addition entre parenthèses : 3 + 2 = 5, puis 5 × 5 = 25.",
+    "imageUrl": "https://images.unsplash.com/photo-1659386510402-e93799ec82a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 12 ÷ 3 ?",
-    "correct_answer": "4",
+    "question": "Quelle est la définition d'un nombre premier ?",
+    "correct_answer": "Un nombre divisible seulement par 1 et lui-même",
     "incorrect_answers": [
-      "3",
-      "6",
-      "9"
+      "Un nombre pair",
+      "Un nombre impair",
+      "Un nombre négatif"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845882-288eee8e913e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les nombres premiers sont les briques de base de l'arithmétique.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734242-8dbf726479eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 1 + 1 ?",
-    "correct_answer": "2",
+    "question": "Quel est le résultat de 10 ÷ 0 ?",
+    "correct_answer": "Indéfini",
     "incorrect_answers": [
       "0",
-      "1",
-      "3"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734303-e85757067f28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 5 × 5 ?",
-    "correct_answer": "25",
-    "incorrect_answers": [
       "10",
-      "15",
-      "20"
+      "Infinie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848352-c527c32b2054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La division par zéro est impossible en mathématiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1648126506800-a7b1412fcadf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 100 - 50 ?",
-    "correct_answer": "50",
+    "question": "Quelle est la formule du périmètre d'un carré ?",
+    "correct_answer": "4 × côté",
     "incorrect_answers": [
-      "40",
-      "60",
-      "75"
+      "côté × côté",
+      "2 × (longueur + largeur)",
+      "π × diamètre"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734423-593b9854a31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Un carré a quatre côtés de même longueur, d'où la formule.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734311-f25c8d2de991?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 8 ÷ 2 ?",
-    "correct_answer": "4",
+    "question": "Quel mathématicien a résolu le problème des ponts de Königsberg ?",
+    "correct_answer": "Leonhard Euler",
     "incorrect_answers": [
-      "2",
-      "6",
-      "16"
+      "Carl Friedrich Gauss",
+      "Bernhard Riemann",
+      "Joseph-Louis Lagrange"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770719269462-d3c1ed7e184f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Euler a posé les bases de la théorie des graphes en 1736.",
+    "imageUrl": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTc5Nzc5OXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 3 × 4 ?",
-    "correct_answer": "12",
-    "incorrect_answers": [
-      "7",
-      "8",
-      "16"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848755-7db48b484385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 7 + 5 ?",
-    "correct_answer": "12",
-    "incorrect_answers": [
-      "2",
-      "10",
-      "15"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734301-1e6ef045145f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 6 × 6 ?",
-    "correct_answer": "36",
-    "incorrect_answers": [
-      "12",
-      "18",
-      "24"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1585875350095-933e478b7e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTEwNDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 15 - 8 ?",
-    "correct_answer": "7",
-    "incorrect_answers": [
-      "5",
-      "10",
-      "12"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734343-491353d96a81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 9 + 9 ?",
-    "correct_answer": "18",
-    "incorrect_answers": [
-      "9",
-      "12",
-      "27"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685849145-cd8bfb57ab2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 4 × 7 ?",
-    "correct_answer": "28",
-    "incorrect_answers": [
-      "11",
-      "14",
-      "21"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848813-a6133f937bfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 20 ÷ 5 ?",
-    "correct_answer": "4",
-    "incorrect_answers": [
-      "2",
-      "5",
-      "10"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848758-74747f4f0727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 11 - 4 ?",
-    "correct_answer": "7",
-    "incorrect_answers": [
-      "3",
-      "6",
-      "9"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848766-06f00193020e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 3 × 3 ?",
-    "correct_answer": "9",
-    "incorrect_answers": [
-      "3",
-      "6",
-      "12"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734483-e11fe75480dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 14 + 6 ?",
-    "correct_answer": "20",
-    "incorrect_answers": [
-      "10",
-      "12",
-      "18"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734312-5134968399a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 5 × 4 ?",
-    "correct_answer": "20",
-    "incorrect_answers": [
-      "9",
-      "10",
-      "15"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848478-b57d7aff2a9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 16 - 7 ?",
-    "correct_answer": "9",
-    "incorrect_answers": [
-      "3",
-      "7",
-      "10"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 8 + 8 ?",
-    "correct_answer": "16",
-    "incorrect_answers": [
-      "8",
-      "12",
-      "24"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848123-01f7a269bfc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 6 × 3 ?",
-    "correct_answer": "18",
-    "incorrect_answers": [
-      "9",
-      "12",
-      "21"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1573871014706-263f4dfec410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 13 - 5 ?",
+    "question": "Quelle est la valeur de 2 puissance 3 ?",
     "correct_answer": "8",
     "incorrect_answers": [
-      "3",
       "6",
-      "10"
+      "9",
+      "12"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734314-a2633cef4c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "2^3 = 2 × 2 × 2 = 8.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848951-35cfbf688e14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTc5Nzc5OXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 2 × 9 ?",
-    "correct_answer": "18",
+    "question": "Quel est le théorème qui énonce que a² + b² = c² dans un triangle rectangle ?",
+    "correct_answer": "Théorème de Pythagore",
     "incorrect_answers": [
-      "11",
-      "16",
-      "27"
+      "Théorème de Thalès",
+      "Théorème de Fermat",
+      "Théorème d'Euclide"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848612-dc8d3c0e9646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce théorème relie les côtés d'un triangle rectangle.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848761-a55e08173622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 25 ÷ 5 ?",
+    "question": "Quelle est la moyenne de 4, 6 et 8 ?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "5",
+      "7",
+      "8"
+    ],
+    "explanation": "La moyenne est calculée en additionnant les nombres et en divisant par leur nombre.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848697-b5fb55f87407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTc5Nzc5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le symbole de la division ?",
+    "correct_answer": "÷",
+    "incorrect_answers": [
+      "×",
+      "+",
+      "-"
+    ],
+    "explanation": "Le symbole ÷ est utilisé pour représenter l'opération de division.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848813-a6133f937bfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la somme de 15 et de 27 ?",
+    "correct_answer": "42",
+    "incorrect_answers": [
+      "32",
+      "40",
+      "52"
+    ],
+    "explanation": "15 + 27 = 42.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733699-04d6544f2655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a découvert la loi de la gravitation ?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": [
+      "Albert Einstein",
+      "Galilée",
+      "Johannes Kepler"
+    ],
+    "explanation": "Newton a formulé cette loi au XVIIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la formule de l'aire d'un rectangle ?",
+    "correct_answer": "longueur × largeur",
+    "incorrect_answers": [
+      "base × hauteur",
+      "π × rayon²",
+      "côté × côté"
+    ],
+    "explanation": "L'aire d'un rectangle se calcule en multipliant ses deux dimensions.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848352-c527c32b2054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le résultat de 12 - 5 ?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "6",
+      "8",
+      "9"
+    ],
+    "explanation": "12 moins 5 égale 7.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734226-e5a8327bf502?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la définition d'un nombre pair ?",
+    "correct_answer": "Un nombre divisible par 2",
+    "incorrect_answers": [
+      "Un nombre divisible par 3",
+      "Un nombre premier",
+      "Un nombre négatif"
+    ],
+    "explanation": "Les nombres pairs sont ceux qui se terminent par 0, 2, 4, 6 ou 8.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733685-7e0f30c35a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le symbole de l'égalité ?",
+    "correct_answer": "=",
+    "incorrect_answers": [
+      "≠",
+      "≈",
+      "≡"
+    ],
+    "explanation": "Le symbole = indique que deux quantités sont égales.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848061-3080d0780285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTc5Nzc5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la valeur de 3 puissance 2 ?",
+    "correct_answer": "9",
+    "incorrect_answers": [
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "3^2 = 3 × 3 = 9.",
+    "imageUrl": "https://images.unsplash.com/photo-1585875350095-933e478b7e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTc5Nzc5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a inventé le calcul infinitésimal ?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": [
+      "Gottfried Leibniz",
+      "Pierre-Simon Laplace",
+      "Évariste Galois"
+    ],
+    "explanation": "Newton et Leibniz ont développé indépendamment ce calcul au XVIIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848612-dc8d3c0e9646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la formule du volume d'un cube ?",
+    "correct_answer": "côté × côté × côté",
+    "incorrect_answers": [
+      "longueur × largeur",
+      "π × rayon³",
+      "4 × π × rayon²"
+    ],
+    "explanation": "Un cube a trois dimensions égales, d'où la formule.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848766-06f00193020e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le résultat de 8 × 7 ?",
+    "correct_answer": "56",
+    "incorrect_answers": [
+      "48",
+      "64",
+      "72"
+    ],
+    "explanation": "8 multiplié par 7 donne 56.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848238-001e0cc182ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la définition d'un nombre impair ?",
+    "correct_answer": "Un nombre non divisible par 2",
+    "incorrect_answers": [
+      "Un nombre divisible par 4",
+      "Un nombre premier",
+      "Un nombre positif"
+    ],
+    "explanation": "Les nombres impairs se terminent par 1, 3, 5, 7 ou 9.",
+    "imageUrl": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTc5Nzc5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le symbole de la multiplication ?",
+    "correct_answer": "×",
+    "incorrect_answers": [
+      "÷",
+      "+",
+      "-"
+    ],
+    "explanation": "Le symbole × est utilisé pour représenter l'opération de multiplication.",
+    "imageUrl": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTc5Nzc5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la somme de 25 et de 35 ?",
+    "correct_answer": "60",
+    "incorrect_answers": [
+      "50",
+      "55",
+      "65"
+    ],
+    "explanation": "25 + 35 = 60.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848754-0aa566b4ddf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a formulé la théorie de la relativité ?",
+    "correct_answer": "Albert Einstein",
+    "incorrect_answers": [
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Carl Sagan"
+    ],
+    "explanation": "Einstein a révolutionné la physique au XXe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848069-5a747851f32c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la formule de l'aire d'un triangle ?",
+    "correct_answer": "(base × hauteur) / 2",
+    "incorrect_answers": [
+      "base × hauteur",
+      "π × rayon²",
+      "côté × côté"
+    ],
+    "explanation": "L'aire d'un triangle est la moitié du produit de sa base par sa hauteur.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734268-003e12ca57bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le résultat de 15 ÷ 3 ?",
     "correct_answer": "5",
     "incorrect_answers": [
       "3",
       "4",
-      "10"
+      "6"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848791-87860bb29292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "15 divisé par 3 donne 5.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685849011-b3efeb6e1122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 1 + 2 + 3 ?",
-    "correct_answer": "6",
+    "question": "Quelle est la définition d'un nombre premier jumeau ?",
+    "correct_answer": "Deux nombres premiers différant de 2",
     "incorrect_answers": [
-      "3",
-      "5",
-      "9"
+      "Deux nombres pairs",
+      "Deux nombres impairs",
+      "Deux nombres consécutifs"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733685-7e0f30c35a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Exemples : (3, 5), (11, 13), (17, 19).",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848095-249ad965f4f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 7 × 2 ?",
-    "correct_answer": "14",
+    "question": "Quel est le symbole de l'inégalité ?",
+    "correct_answer": "≠",
     "incorrect_answers": [
-      "9",
-      "12",
-      "16"
+      "=",
+      "≈",
+      "≡"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848061-3080d0780285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTEwNDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le symbole ≠ indique que deux quantités ne sont pas égales.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848755-7db48b484385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 10 - 6 ?",
-    "correct_answer": "4",
-    "incorrect_answers": [
-      "2",
-      "6",
-      "8"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685733800-bc2a64fa8017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 4 × 4 ?",
-    "correct_answer": "16",
-    "incorrect_answers": [
-      "8",
-      "12",
-      "20"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734006-4a3cb9253a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 18 + 7 ?",
-    "correct_answer": "25",
-    "incorrect_answers": [
-      "15",
-      "20",
-      "30"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734643-db77920292bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 9 × 3 ?",
-    "correct_answer": "27",
+    "question": "Quelle est la valeur de 4 puissance 3 ?",
+    "correct_answer": "64",
     "incorrect_answers": [
       "12",
-      "18",
-      "36"
+      "24",
+      "81"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1620621983410-962c3124dc83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "4^3 = 4 × 4 × 4 = 64.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734483-e11fe75480dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a découvert les nombres complexes ?",
+    "correct_answer": "Gerolamo Cardano",
+    "incorrect_answers": [
+      "Leonhard Euler",
+      "Carl Friedrich Gauss",
+      "Niels Henrik Abel"
+    ],
+    "explanation": "Cardano a introduit les nombres complexes au XVIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685845891-64736626610f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la formule du périmètre d'un cercle ?",
+    "correct_answer": "2 × π × rayon",
+    "incorrect_answers": [
+      "π × rayon²",
+      "4 × côté",
+      "longueur × largeur"
+    ],
+    "explanation": "Le périmètre d'un cercle s'appelle aussi la circonférence.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734312-5134968399a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le résultat de 20 - 12 ?",
     "correct_answer": "8",
     "incorrect_answers": [
-      "4",
       "6",
-      "10"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTEwNDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 5 × 6 ?",
-    "correct_answer": "30",
-    "incorrect_answers": [
-      "11",
-      "20",
-      "25"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848095-249ad965f4f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 12 ÷ 4 ?",
-    "correct_answer": "3",
-    "incorrect_answers": [
-      "2",
-      "4",
-      "6"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734640-5a539c096aed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le résultat de 1 + 4 + 5 ?",
-    "correct_answer": "10",
-    "incorrect_answers": [
-      "8",
-      "9",
+      "10",
       "12"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848691-3933bc2aa3ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTEwNDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "20 moins 12 égale 8.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733800-bc2a64fa8017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 8 × 2 ?",
-    "correct_answer": "16",
+    "question": "Quelle est la définition d'un nombre rationnel ?",
+    "correct_answer": "Un nombre exprimable comme une fraction",
     "incorrect_answers": [
-      "10",
-      "12",
-      "18"
+      "Un nombre entier",
+      "Un nombre irrationnel",
+      "Un nombre décimal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734311-f25c8d2de991?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les nombres rationnels peuvent s'écrire sous la forme a/b où a et b sont entiers.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734622-3e0a002b2f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 15 - 9 ?",
-    "correct_answer": "6",
+    "question": "Quel est le symbole de la soustraction ?",
+    "correct_answer": "-",
     "incorrect_answers": [
-      "3",
-      "5",
-      "8"
+      "×",
+      "+",
+      "÷"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685845902-acd5db1b532b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le symbole - est utilisé pour représenter l'opération de soustraction.",
+    "imageUrl": "https://images.unsplash.com/photo-1573871014706-263f4dfec410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 3 × 7 ?",
-    "correct_answer": "21",
+    "question": "Quelle est la somme de 11 et de 19 ?",
+    "correct_answer": "30",
     "incorrect_answers": [
-      "14",
-      "18",
-      "24"
+      "20",
+      "25",
+      "35"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734622-3e0a002b2f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "11 + 19 = 30.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734343-491353d96a81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 24 ÷ 6 ?",
-    "correct_answer": "4",
+    "question": "Quel mathématicien a énoncé la loi des grands nombres ?",
+    "correct_answer": "Jakob Bernoulli",
     "incorrect_answers": [
-      "3",
+      "Blaise Pascal",
+      "Pierre-Simon Laplace",
+      "Simeon Poisson"
+    ],
+    "explanation": "Bernoulli a posé les bases de la théorie des probabilités au XVIIIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734640-5a539c096aed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la formule du volume d'un cylindre ?",
+    "correct_answer": "π × rayon² × hauteur",
+    "incorrect_answers": [
+      "longueur × largeur × hauteur",
+      "4/3 × π × rayon³",
+      "base × hauteur"
+    ],
+    "explanation": "Le volume d'un cylindre dépend de sa base circulaire et de sa hauteur.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848084-fc51214f3cd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le résultat de 9 × 6 ?",
+    "correct_answer": "54",
+    "incorrect_answers": [
+      "45",
+      "56",
+      "63"
+    ],
+    "explanation": "9 multiplié par 6 donne 54.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734671-21838fcd724e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la définition d'un nombre irrationnel ?",
+    "correct_answer": "Un nombre non exprimable comme une fraction",
+    "incorrect_answers": [
+      "Un nombre entier",
+      "Un nombre rationnel",
+      "Un nombre décimal"
+    ],
+    "explanation": "Exemples : π, √2, e.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848791-87860bb29292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le symbole de l'addition ?",
+    "correct_answer": "+",
+    "incorrect_answers": [
+      "-",
+      "×",
+      "÷"
+    ],
+    "explanation": "Le symbole + est utilisé pour représenter l'opération d'addition.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848758-74747f4f0727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la somme de 33 et de 17 ?",
+    "correct_answer": "50",
+    "incorrect_answers": [
+      "40",
+      "45",
+      "55"
+    ],
+    "explanation": "33 + 17 = 50.",
+    "imageUrl": "https://images.unsplash.com/photo-1631047085941-a29e9730a7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a inventé la géométrie analytique ?",
+    "correct_answer": "René Descartes",
+    "incorrect_answers": [
+      "Pierre de Fermat",
+      "Blaise Pascal",
+      "Isaac Newton"
+    ],
+    "explanation": "Descartes a combiné algèbre et géométrie au XVIIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTc5Nzc5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la formule de l'aire d'un trapèze ?",
+    "correct_answer": "((grande base + petite base) × hauteur) / 2",
+    "incorrect_answers": [
+      "base × hauteur",
+      "π × rayon²",
+      "côté × côté"
+    ],
+    "explanation": "L'aire d'un trapèze dépend de ses deux bases parallèles.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733876-3bb63d3da1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le résultat de 14 ÷ 2 ?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "4",
       "6",
       "8"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848084-fc51214f3cd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "14 divisé par 2 donne 7.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734363-9ca32535183d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 10 + 10 ?",
-    "correct_answer": "20",
+    "question": "Quelle est la définition d'un nombre composé ?",
+    "correct_answer": "Un nombre avec plus de deux diviseurs",
     "incorrect_answers": [
-      "15",
-      "18",
-      "25"
+      "Un nombre premier",
+      "Un nombre pair",
+      "Un nombre impair"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734686-e69f130c1aab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3NzkxMDQyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Exemples : 4, 6, 8, 9, 10.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734423-593b9854a31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le résultat de 6 × 4 ?",
-    "correct_answer": "24",
+    "question": "Quel est le symbole de la puissance ?",
+    "correct_answer": "^",
     "incorrect_answers": [
-      "10",
-      "18",
-      "30"
+      "×",
+      "+",
+      "√"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxtYXRoZW1hdGljcyUyMGZvcm11bGElMjBibGFja2JvYXJkfGVufDB8fHx8MTc3OTEwNDIxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le symbole ^ est utilisé pour représenter l'élévation à une puissance.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848123-01f7a269bfc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la somme de 22 et de 28 ?",
+    "correct_answer": "50",
+    "incorrect_answers": [
+      "40",
+      "45",
+      "55"
+    ],
+    "explanation": "22 + 28 = 50.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734006-4a3cb9253a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel mathématicien a découvert la loi de la chute des corps ?",
+    "correct_answer": "Galilée",
+    "incorrect_answers": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Johannes Kepler"
+    ],
+    "explanation": "Galilée a étudié la chute des objets au XVIIe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734314-a2633cef4c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la formule du volume d'une sphère ?",
+    "correct_answer": "4/3 × π × rayon³",
+    "incorrect_answers": [
+      "π × rayon²",
+      "longueur × largeur × hauteur",
+      "2 × π × rayon"
+    ],
+    "explanation": "Le volume d'une sphère dépend uniquement de son rayon.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685733809-0e53c640d93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le résultat de 7 × 8 ?",
+    "correct_answer": "56",
+    "incorrect_answers": [
+      "48",
+      "64",
+      "72"
+    ],
+    "explanation": "7 multiplié par 8 donne 56.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734686-e69f130c1aab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la définition d'un nombre parfait ?",
+    "correct_answer": "Un nombre égal à la somme de ses diviseurs",
+    "incorrect_answers": [
+      "Un nombre premier",
+      "Un nombre pair",
+      "Un nombre impair"
+    ],
+    "explanation": "Exemples : 6 (1+2+3), 28 (1+2+4+7+14).",
+    "imageUrl": "https://images.unsplash.com/photo-1758685845882-288eee8e913e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le symbole de la racine carrée ?",
+    "correct_answer": "√",
+    "incorrect_answers": [
+      "^",
+      "×",
+      "÷"
+    ],
+    "explanation": "Le symbole √ est utilisé pour représenter l'extraction de racine carrée.",
+    "imageUrl": "https://images.unsplash.com/photo-1770719269462-d3c1ed7e184f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quelle est la somme de 14 et de 16 ?",
+    "correct_answer": "30",
+    "incorrect_answers": [
+      "20",
+      "25",
+      "35"
+    ],
+    "explanation": "14 + 16 = 30.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734643-db77920292bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8bWF0aGVtYXRpY3MlMjBmb3JtdWxhJTIwYmxhY2tib2FyZHxlbnwwfHx8fDE3Nzk3OTc3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

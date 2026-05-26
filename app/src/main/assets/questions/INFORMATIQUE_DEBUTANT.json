@@ -5,169 +5,307 @@
     "incorrect_answers": [
       "Python",
       "HTML",
-      "CSS"
+      "C++"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1522252234503-e356532cafd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le premier langage de programmation créé ?",
-    "correct_answer": "Fortran",
-    "incorrect_answers": [
-      "C",
-      "Java",
-      "Basic"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel inventeur a créé le premier ordinateur personnel grand public, l'Apple I ?",
-    "correct_answer": "Steve Wozniak",
-    "incorrect_answers": [
-      "Bill Gates",
-      "Steve Jobs",
-      "Tim Berners-Lee"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1608742213509-815b97c30b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole permet de naviguer sur Internet en toute sécurité avec un cadenas dans la barre d'adresse ?",
-    "correct_answer": "HTTPS",
-    "incorrect_answers": [
-      "HTTP",
-      "FTP",
-      "TCP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1669023414162-8b0573b9c6b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "JavaScript est le langage principal pour le développement web côté client.",
+    "imageUrl": "https://images.unsplash.com/photo-1666071083408-a7acb1a87e5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du premier ordinateur électronique programmable ?",
-    "correct_answer": "ENIAC",
+    "correct_answer": "Colossus",
     "incorrect_answers": [
-      "Colossus",
+      "ENIAC",
       "Z3",
       "Mark I"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1555099962-4199c345e5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Colossus a été développé au Royaume-Uni pendant la Seconde Guerre mondiale.",
+    "imageUrl": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel système d'exploitation est développé par Microsoft ?",
-    "correct_answer": "Windows",
-    "incorrect_answers": [
-      "Linux",
-      "macOS",
-      "Android"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTEwNDIwOHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation est principalement utilisé pour l'analyse de données et l'intelligence artificielle ?",
-    "correct_answer": "Python",
-    "incorrect_answers": [
-      "Java",
-      "C++",
-      "Ruby"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1607706009771-de8808640bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier navigateur web créé par Tim Berners-Lee ?",
-    "correct_answer": "WorldWideWeb",
-    "incorrect_answers": [
-      "Netscape",
-      "Internet Explorer",
-      "Chrome"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1505238680356-667803448bb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel géant de la tech a été fondé par Mark Zuckerberg ?",
-    "correct_answer": "Facebook",
-    "incorrect_answers": [
-      "Google",
-      "Apple",
-      "Amazon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTEwNDIwOHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier microprocesseur commercialisé ?",
-    "correct_answer": "Intel 4004",
-    "incorrect_answers": [
-      "Pentium",
-      "ARM",
-      "Motorola 68000"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation est utilisé pour créer des applications Android ?",
-    "correct_answer": "Kotlin",
-    "incorrect_answers": [
-      "Swift",
-      "C#",
-      "PHP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la première souris d'ordinateur inventée par Douglas Engelbart ?",
-    "correct_answer": "Souris à boule",
-    "incorrect_answers": [
-      "Souris optique",
-      "Souris sans fil",
-      "Souris tactile"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTEwNDIwOHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel géant de la tech a été fondé par Steve Jobs et Steve Wozniak ?",
+    "question": "Quel géant technologique a été fondé par Steve Jobs ?",
     "correct_answer": "Apple",
     "incorrect_answers": [
       "Microsoft",
       "Google",
       "IBM"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1509966756634-9c23dd6e6815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Apple a été cofondée par Steve Jobs, Steve Wozniak et Ronald Wayne en 1976.",
+    "imageUrl": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier virus informatique connu ?",
-    "correct_answer": "Creeper",
+    "question": "Quel protocole permet de naviguer sur le web en toute sécurité ?",
+    "correct_answer": "HTTPS",
     "incorrect_answers": [
-      "ILOVEYOU",
-      "Melissa",
-      "Morris"
+      "HTTP",
+      "FTP",
+      "SMTP"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1576836165612-8bc9b07e7778?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "HTTPS chiffre les données échangées entre le navigateur et le site.",
+    "imageUrl": "https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier système d'exploitation graphique grand public ?",
+    "correct_answer": "Mac OS",
+    "incorrect_answers": [
+      "Windows",
+      "Linux",
+      "DOS"
+    ],
+    "explanation": "Mac OS a été lancé par Apple en 1984 avec le Macintosh.",
+    "imageUrl": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation est utilisé pour créer des applications Android ?",
+    "correct_answer": "Kotlin",
+    "incorrect_answers": [
+      "Swift",
+      "Java",
+      "Ruby"
+    ],
+    "explanation": "Kotlin est le langage officiel pour le développement Android depuis 2019.",
+    "imageUrl": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTc5NzUwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel inventeur a créé le premier ordinateur personnel commercialisé ?",
+    "correct_answer": "Ed Roberts",
+    "incorrect_answers": [
+      "Bill Gates",
+      "Steve Wozniak",
+      "Tim Berners-Lee"
+    ],
+    "explanation": "Ed Roberts a conçu l'Altair 8800 en 1975, considéré comme le premier PC.",
+    "imageUrl": "https://images.unsplash.com/photo-1556244573-c3686c0f0e78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier navigateur web créé par Tim Berners-Lee ?",
+    "correct_answer": "WorldWideWeb",
+    "incorrect_answers": [
+      "Internet Explorer",
+      "Netscape",
+      "Chrome"
+    ],
+    "explanation": "WorldWideWeb a été développé en 1990 et a lancé le web moderne.",
+    "imageUrl": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant technologique a été fondé par Bill Gates ?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": [
+      "Amazon",
+      "Facebook",
+      "Tesla"
+    ],
+    "explanation": "Microsoft a été créé par Bill Gates et Paul Allen en 1975.",
+    "imageUrl": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation est souvent utilisé pour l'analyse de données ?",
+    "correct_answer": "Python",
+    "incorrect_answers": [
+      "Java",
+      "C#",
+      "PHP"
+    ],
+    "explanation": "Python est très populaire pour le data science grâce à ses bibliothèques comme Pandas.",
+    "imageUrl": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier microprocesseur commercialisé ?",
+    "correct_answer": "Intel 4004",
+    "incorrect_answers": [
+      "AMD Ryzen",
+      "Pentium",
+      "ARM Cortex"
+    ],
+    "explanation": "L'Intel 4004 est sorti en 1971 et contenait 2 300 transistors.",
+    "imageUrl": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier réseau informatique mondial ?",
+    "correct_answer": "ARPANET",
+    "incorrect_answers": [
+      "Internet",
+      "World Wide Web",
+      "Ethernet"
+    ],
+    "explanation": "ARPANET a été développé dans les années 1960 par l'armée américaine.",
+    "imageUrl": "https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+    "correct_answer": "Python",
+    "incorrect_answers": [
+      "Java",
+      "Ruby",
+      "Go"
+    ],
+    "explanation": "Python a été conçu pour être lisible et accessible aux débutants.",
+    "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTc5NzUwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur personnel grand public ?",
+    "correct_answer": "Apple II",
+    "incorrect_answers": [
+      "Commodore 64",
+      "IBM PC",
+      "Atari 800"
+    ],
+    "explanation": "L'Apple II est sorti en 1977 et a popularisé l'informatique personnelle.",
+    "imageUrl": "https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant technologique a été fondé par Larry Page et Sergey Brin ?",
+    "correct_answer": "Google",
+    "incorrect_answers": [
+      "Yahoo",
+      "Facebook",
+      "Twitter"
+    ],
+    "explanation": "Google a été créé en 1998 et domine le marché des moteurs de recherche.",
+    "imageUrl": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation haut niveau ?",
+    "correct_answer": "Fortran",
+    "incorrect_answers": [
+      "C",
+      "Basic",
+      "Pascal"
+    ],
+    "explanation": "Fortran a été développé en 1957 pour les calculs scientifiques.",
+    "imageUrl": "https://images.unsplash.com/photo-1615525137689-198778541af6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier smartphone grand public ?",
+    "correct_answer": "IBM Simon",
+    "incorrect_answers": [
+      "iPhone",
+      "BlackBerry",
+      "Nokia 3310"
+    ],
+    "explanation": "L'IBM Simon est sorti en 1994 et intégrait un écran tactile.",
+    "imageUrl": "https://images.unsplash.com/photo-1669023414162-8b0573b9c6b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation est utilisé pour créer des applications iOS ?",
+    "correct_answer": "Swift",
+    "incorrect_answers": [
+      "Java",
+      "C++",
+      "Python"
+    ],
+    "explanation": "Swift a été créé par Apple en 2014 pour remplacer Objective-C.",
+    "imageUrl": "https://images.unsplash.com/photo-1503252947848-7338d3f92f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur personnel à succès commercial ?",
+    "correct_answer": "Commodore PET",
+    "incorrect_answers": [
+      "TRS-80",
+      "Apple I",
+      "ZX Spectrum"
+    ],
+    "explanation": "Le Commodore PET est sorti en 1977 et a lancé l'informatique domestique.",
+    "imageUrl": "https://images.unsplash.com/photo-1607706009771-de8808640bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant technologique a été fondé par Jeff Bezos ?",
+    "correct_answer": "Amazon",
+    "incorrect_answers": [
+      "eBay",
+      "Alibaba",
+      "Shopify"
+    ],
+    "explanation": "Amazon a commencé comme librairie en ligne en 1994.",
+    "imageUrl": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de balisage utilisé pour le web ?",
+    "correct_answer": "HTML",
+    "incorrect_answers": [
+      "XML",
+      "JSON",
+      "CSS"
+    ],
+    "explanation": "HTML a été créé par Tim Berners-Lee en 1991 pour structurer les pages web.",
+    "imageUrl": "https://images.unsplash.com/photo-1576836165612-8bc9b07e7778?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur à utiliser une souris ?",
+    "correct_answer": "Xerox Alto",
+    "incorrect_answers": [
+      "Apple Lisa",
+      "IBM PC",
+      "Macintosh"
+    ],
+    "explanation": "Le Xerox Alto, sorti en 1973, a popularisé la souris et l'interface graphique.",
+    "imageUrl": "https://images.unsplash.com/photo-1509966756634-9c23dd6e6815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel langage de programmation est utilisé pour créer des sites web statiques ?",
     "correct_answer": "HTML",
     "incorrect_answers": [
       "JavaScript",
-      "Python",
-      "PHP"
+      "PHP",
+      "Python"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1537884944318-390069bb8665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "HTML structure le contenu des pages web sans logique dynamique.",
+    "imageUrl": "https://images.unsplash.com/photo-1537884944318-390069bb8665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur personnel commercialisé en masse ?",
-    "correct_answer": "Altair 8800",
+    "question": "Quel géant technologique a été fondé par Mark Zuckerberg ?",
+    "correct_answer": "Facebook",
+    "incorrect_answers": [
+      "Twitter",
+      "Instagram",
+      "Snapchat"
+    ],
+    "explanation": "Facebook a été lancé en 2004 depuis une chambre d'étudiant à Harvard.",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTc5NzUwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur personnel à avoir un processeur 16 bits ?",
+    "correct_answer": "IBM PC",
     "incorrect_answers": [
       "Apple II",
       "Commodore 64",
-      "IBM PC"
+      "Atari ST"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'IBM PC sorti en 1981 utilisait un processeur Intel 8088.",
+    "imageUrl": "https://images.unsplash.com/photo-1547190027-9156686aa2f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel géant de la tech a été fondé par Larry Page et Sergey Brin ?",
-    "correct_answer": "Google",
+    "question": "Quel langage de programmation est utilisé pour créer des applications Windows ?",
+    "correct_answer": "C#",
     "incorrect_answers": [
-      "Facebook",
-      "Amazon",
-      "Microsoft"
+      "Java",
+      "Python",
+      "Ruby"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1557853197-aefb550b6fdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "C# a été créé par Microsoft en 2000 pour le développement Windows.",
+    "imageUrl": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur portable grand public ?",
+    "correct_answer": "Osborne 1",
+    "incorrect_answers": [
+      "IBM ThinkPad",
+      "Compaq Portable",
+      "Apple PowerBook"
+    ],
+    "explanation": "L'Osborne 1 est sorti en 1981 et pesait 11 kg.",
+    "imageUrl": "https://images.unsplash.com/photo-1580894897591-ff1e18c89183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant technologique a été fondé par Elon Musk ?",
+    "correct_answer": "Tesla",
+    "incorrect_answers": [
+      "SpaceX",
+      "PayPal",
+      "Neuralink"
+    ],
+    "explanation": "Tesla a été créé en 2003 pour développer des véhicules électriques.",
+    "imageUrl": "https://images.unsplash.com/photo-1536148935331-408321065b18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du premier langage de programmation orienté objet ?",
@@ -177,167 +315,8 @@
       "Java",
       "Smalltalk"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTEwNDIwOHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole est utilisé pour envoyer des emails ?",
-    "correct_answer": "SMTP",
-    "incorrect_answers": [
-      "HTTP",
-      "FTP",
-      "TCP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur personnel à écran graphique ?",
-    "correct_answer": "Xerox Alto",
-    "incorrect_answers": [
-      "Apple Macintosh",
-      "IBM PC",
-      "Commodore PET"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTEwNDIwOHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation est utilisé pour créer des applications iOS ?",
-    "correct_answer": "Swift",
-    "incorrect_answers": [
-      "Kotlin",
-      "Java",
-      "C#"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier disque dur commercialisé ?",
-    "correct_answer": "IBM 350",
-    "incorrect_answers": [
-      "Seagate ST-506",
-      "Western Digital WD400",
-      "Maxtor"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1556244573-c3686c0f0e78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel géant de la tech a été fondé par Jeff Bezos ?",
-    "correct_answer": "Amazon",
-    "incorrect_answers": [
-      "Google",
-      "Apple",
-      "Microsoft"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation interprété ?",
-    "correct_answer": "LISP",
-    "incorrect_answers": [
-      "Fortran",
-      "COBOL",
-      "BASIC"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1615525137689-198778541af6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole est utilisé pour transférer des fichiers sur Internet ?",
-    "correct_answer": "FTP",
-    "incorrect_answers": [
-      "HTTP",
-      "SMTP",
-      "TCP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583484963886-cfe2bff2945f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur portable commercialisé ?",
-    "correct_answer": "Osborne 1",
-    "incorrect_answers": [
-      "IBM PC",
-      "Apple II",
-      "Commodore 64"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1551033406-611cf9a28f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation est utilisé pour créer des bases de données ?",
-    "correct_answer": "SQL",
-    "incorrect_answers": [
-      "HTML",
-      "Python",
-      "Java"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel géant de la tech a été fondé par Elon Musk ?",
-    "correct_answer": "Tesla",
-    "incorrect_answers": [
-      "SpaceX",
-      "PayPal",
-      "Neuralink"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier micro-ordinateur à succès commercial ?",
-    "correct_answer": "Altair 8800",
-    "incorrect_answers": [
-      "Apple I",
-      "Commodore PET",
-      "TRS-80"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole est utilisé pour sécuriser les connexions à distance ?",
-    "correct_answer": "SSH",
-    "incorrect_answers": [
-      "HTTP",
-      "FTP",
-      "TCP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier langage de programmation de haut niveau ?",
-    "correct_answer": "FORTRAN",
-    "incorrect_answers": [
-      "COBOL",
-      "BASIC",
-      "ALGOL"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel géant de la tech a été fondé par Bill Gates et Paul Allen ?",
-    "correct_answer": "Microsoft",
-    "incorrect_answers": [
-      "Apple",
-      "Google",
-      "IBM"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur à interface graphique grand public ?",
-    "correct_answer": "Apple Macintosh",
-    "incorrect_answers": [
-      "IBM PC",
-      "Commodore 64",
-      "Atari ST"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTEwNDIwOHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation est utilisé pour créer des scripts côté serveur ?",
-    "correct_answer": "PHP",
-    "incorrect_answers": [
-      "HTML",
-      "JavaScript",
-      "Python"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Simula a été créé dans les années 1960 pour la simulation de processus.",
+    "imageUrl": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du premier navigateur web grand public ?",
@@ -345,218 +324,306 @@
     "incorrect_answers": [
       "Internet Explorer",
       "Mosaic",
-      "Chrome"
+      "Opera"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Netscape Navigator a dominé le marché dans les années 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel géant de la tech a été fondé par Larry Ellison ?",
+    "question": "Quel langage de programmation est utilisé pour créer des bases de données ?",
+    "correct_answer": "SQL",
+    "incorrect_answers": [
+      "HTML",
+      "Python",
+      "JavaScript"
+    ],
+    "explanation": "SQL permet de gérer et interroger les bases de données relationnelles.",
+    "imageUrl": "https://images.unsplash.com/photo-1555099962-4199c345e5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant technologique a été fondé par Larry Ellison ?",
     "correct_answer": "Oracle",
     "incorrect_answers": [
+      "SAP",
       "IBM",
-      "Microsoft",
-      "SAP"
+      "Dell"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Oracle a été créé en 1977 et domine le marché des bases de données.",
+    "imageUrl": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur à utiliser des circuits intégrés ?",
+    "correct_answer": "IBM System/360",
+    "incorrect_answers": [
+      "ENIAC",
+      "UNIVAC",
+      "PDP-1"
+    ],
+    "explanation": "L'IBM System/360 sorti en 1964 a révolutionné l'informatique avec ses circuits intégrés.",
+    "imageUrl": "https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation est utilisé pour créer des applications web côté serveur ?",
+    "correct_answer": "PHP",
+    "incorrect_answers": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "explanation": "PHP est un langage de script côté serveur très utilisé pour le web.",
+    "imageUrl": "https://images.unsplash.com/photo-1557853197-aefb550b6fdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant technologique a été fondé par Jack Dorsey ?",
+    "correct_answer": "Twitter",
+    "incorrect_answers": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "explanation": "Twitter a été lancé en 2006 et a popularisé les messages courts.",
+    "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTc5NzUwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel est le nom du premier langage de programmation à utiliser des mots-clés en anglais ?",
     "correct_answer": "COBOL",
     "incorrect_answers": [
-      "FORTRAN",
-      "BASIC",
-      "ALGOL"
+      "Fortran",
+      "Basic",
+      "Pascal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1503252947848-7338d3f92f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "COBOL a été créé en 1959 pour les applications commerciales.",
+    "imageUrl": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel protocole est utilisé pour afficher des pages web ?",
-    "correct_answer": "HTTP",
+    "question": "Quel est le nom du premier ordinateur à utiliser une interface graphique grand public ?",
+    "correct_answer": "Apple Macintosh",
     "incorrect_answers": [
-      "FTP",
-      "SMTP",
-      "TCP"
+      "Windows 95",
+      "Xerox Alto",
+      "Commodore Amiga"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1526925539332-aa3b66e35444?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Macintosh sorti en 1984 a popularisé la souris et les fenêtres.",
+    "imageUrl": "https://images.unsplash.com/photo-1608742213509-815b97c30b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur à utiliser une souris et une interface graphique ?",
-    "correct_answer": "Xerox Alto",
-    "incorrect_answers": [
-      "Apple Macintosh",
-      "IBM PC",
-      "Commodore PET"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1607706189992-eae578626c86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTEwNDIwOHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation est utilisé pour créer des applications Android natives ?",
-    "correct_answer": "Java",
+    "question": "Quel langage de programmation est utilisé pour créer des applications mobiles multiplateformes ?",
+    "correct_answer": "Flutter",
     "incorrect_answers": [
       "Swift",
       "Kotlin",
-      "C#"
+      "React Native"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1608306448197-e83633f1261c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Flutter permet de développer des apps pour Android et iOS avec un seul code.",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel géant de la tech a été fondé par Sergey Brin et Larry Page ?",
+    "question": "Quel géant technologique a été fondé par Sergey Brin ?",
     "correct_answer": "Google",
     "incorrect_answers": [
+      "Yahoo",
       "Facebook",
-      "Amazon",
-      "Apple"
+      "Amazon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Sergey Brin a cofondé Google avec Larry Page en 1998.",
+    "imageUrl": "https://images.unsplash.com/photo-1551033406-611cf9a28f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des objets ?",
-    "correct_answer": "Simula",
+    "question": "Quel est le nom du premier langage de programmation à utiliser des structures de contrôle ?",
+    "correct_answer": "ALGOL",
     "incorrect_answers": [
-      "C++",
+      "Fortran",
+      "Basic",
+      "Pascal"
+    ],
+    "explanation": "ALGOL a introduit les structures de contrôle comme les boucles et conditions.",
+    "imageUrl": "https://images.unsplash.com/photo-1607706189992-eae578626c86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTc5NzUwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur personnel à avoir un disque dur ?",
+    "correct_answer": "IBM PC XT",
+    "incorrect_answers": [
+      "Apple II",
+      "Commodore 64",
+      "TRS-80"
+    ],
+    "explanation": "L'IBM PC XT sorti en 1983 intégrait un disque dur de 10 Mo.",
+    "imageUrl": "https://images.unsplash.com/photo-1638482856830-16b0e15fcf2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation est utilisé pour créer des scripts système ?",
+    "correct_answer": "Bash",
+    "incorrect_answers": [
+      "Python",
       "Java",
-      "Smalltalk"
+      "C++"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1536148935331-408321065b18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Bash est le shell standard des systèmes Unix et Linux.",
+    "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel protocole est utilisé pour recevoir des emails ?",
-    "correct_answer": "POP3",
+    "question": "Quel géant technologique a été fondé par Larry Page ?",
+    "correct_answer": "Google",
     "incorrect_answers": [
-      "SMTP",
-      "HTTP",
-      "FTP"
+      "Microsoft",
+      "Apple",
+      "Amazon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Larry Page a cofondé Google avec Sergey Brin en 1998.",
+    "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTc5NzUwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur personnel à succès commercial ?",
+    "question": "Quel est le nom du premier langage de programmation à utiliser la récursivité ?",
+    "correct_answer": "Lisp",
+    "incorrect_answers": [
+      "Fortran",
+      "Basic",
+      "Pascal"
+    ],
+    "explanation": "Lisp a été créé en 1958 et est toujours utilisé en intelligence artificielle.",
+    "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTc5NzUwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur personnel à avoir un clavier intégré ?",
     "correct_answer": "Apple II",
     "incorrect_answers": [
       "Commodore PET",
       "TRS-80",
       "IBM PC"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Apple II sorti en 1977 avait un clavier intégré et un écran couleur.",
+    "imageUrl": "https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel langage de programmation est utilisé pour créer des applications web dynamiques ?",
-    "correct_answer": "JavaScript",
+    "question": "Quel langage de programmation est utilisé pour créer des applications Windows modernes ?",
+    "correct_answer": "C#",
     "incorrect_answers": [
-      "HTML",
-      "CSS",
-      "Python"
+      "Java",
+      "Python",
+      "Ruby"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1542903660-eedba2cda473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "C# est le langage principal pour le développement d'applications Windows.",
+    "imageUrl": "https://images.unsplash.com/photo-1526925539332-aa3b66e35444?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel géant de la tech a été fondé par Steve Jobs ?",
+    "question": "Quel géant technologique a été fondé par Steve Wozniak ?",
     "correct_answer": "Apple",
     "incorrect_answers": [
       "Microsoft",
       "Google",
       "IBM"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Steve Wozniak a cofondé Apple avec Steve Jobs en 1976.",
+    "imageUrl": "https://images.unsplash.com/photo-1542903660-eedba2cda473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des boucles ?",
-    "correct_answer": "FORTRAN",
+    "question": "Quel est le nom du premier langage de programmation à utiliser des pointeurs ?",
+    "correct_answer": "C",
     "incorrect_answers": [
-      "COBOL",
-      "BASIC",
-      "ALGOL"
+      "Fortran",
+      "Basic",
+      "Pascal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le langage C créé en 1972 a popularisé l'utilisation des pointeurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTc5NzUwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel protocole est utilisé pour gérer les adresses IP ?",
-    "correct_answer": "DHCP",
+    "question": "Quel est le nom du premier ordinateur personnel à avoir un écran tactile ?",
+    "correct_answer": "IBM Simon",
     "incorrect_answers": [
-      "DNS",
-      "HTTP",
-      "FTP"
+      "iPhone",
+      "BlackBerry",
+      "Palm Pilot"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'IBM Simon sorti en 1994 était le premier smartphone avec écran tactile.",
+    "imageUrl": "https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier ordinateur à utiliser un clavier et un écran ?",
-    "correct_answer": "Kenbak-1",
+    "question": "Quel langage de programmation est utilisé pour créer des applications Android modernes ?",
+    "correct_answer": "Kotlin",
     "incorrect_answers": [
-      "Altair 8800",
-      "Apple I",
-      "Commodore PET"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1638482856830-16b0e15fcf2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation est utilisé pour créer des applications iOS et Android ?",
-    "correct_answer": "Flutter",
-    "incorrect_answers": [
-      "React Native",
+      "Java",
       "Swift",
-      "Kotlin"
+      "Python"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTEwNDIwOHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Kotlin est le langage officiel pour le développement Android depuis 2019.",
+    "imageUrl": "https://images.unsplash.com/photo-1505238680356-667803448bb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel géant de la tech a été fondé par Mark Zuckerberg et ses camarades de Harvard ?",
-    "correct_answer": "Facebook",
+    "question": "Quel géant technologique a été fondé par Bill Hewlett et David Packard ?",
+    "correct_answer": "HP",
     "incorrect_answers": [
+      "Dell",
+      "Lenovo",
+      "Acer"
+    ],
+    "explanation": "HP a été créé en 1939 dans un garage en Californie.",
+    "imageUrl": "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier langage de programmation à utiliser la programmation orientée objet ?",
+    "correct_answer": "Smalltalk",
+    "incorrect_answers": [
+      "C++",
+      "Java",
+      "Python"
+    ],
+    "explanation": "Smalltalk a été créé dans les années 1970 et a inspiré de nombreux langages modernes.",
+    "imageUrl": "https://images.unsplash.com/photo-1583484963886-cfe2bff2945f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier ordinateur personnel à avoir un processeur 32 bits ?",
+    "correct_answer": "Motorola 68000",
+    "incorrect_answers": [
+      "Intel 8086",
+      "Z80",
+      "6502"
+    ],
+    "explanation": "Le Motorola 68000 a été utilisé dans les premiers Macintosh et Amiga.",
+    "imageUrl": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTc5NzUwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel langage de programmation est utilisé pour créer des scripts web côté client ?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": [
+      "PHP",
+      "Python",
+      "Ruby"
+    ],
+    "explanation": "JavaScript permet d'ajouter de l'interactivité aux pages web.",
+    "imageUrl": "https://images.unsplash.com/photo-1608306448197-e83633f1261c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel géant technologique a été fondé par Paul Allen ?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": [
+      "Apple",
       "Google",
-      "Amazon",
-      "Microsoft"
+      "Amazon"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Paul Allen a cofondé Microsoft avec Bill Gates en 1975.",
+    "imageUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du premier langage de programmation à utiliser des fonctions ?",
-    "correct_answer": "LISP",
-    "incorrect_answers": [
-      "FORTRAN",
-      "COBOL",
-      "BASIC"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1547190027-9156686aa2f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel protocole est utilisé pour résoudre les noms de domaine en adresses IP ?",
-    "correct_answer": "DNS",
-    "incorrect_answers": [
-      "DHCP",
-      "HTTP",
-      "FTP"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1580894897591-ff1e18c89183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du premier ordinateur à utiliser une mémoire vive ?",
-    "correct_answer": "EDVAC",
-    "incorrect_answers": [
-      "ENIAC",
-      "UNIVAC",
-      "Colossus"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8fHx8MTc3OTEwNDIwOHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel langage de programmation est utilisé pour créer des applications web backend ?",
+    "question": "Quel est le nom du premier langage de programmation à utiliser des tableaux dynamiques ?",
     "correct_answer": "Python",
     "incorrect_answers": [
-      "HTML",
-      "CSS",
-      "JavaScript"
+      "Java",
+      "C++",
+      "Basic"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Python a popularisé les listes et tableaux dynamiques dans les années 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1522252234503-e356532cafd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel géant de la tech a été fondé par Jeff Bezos dans un garage ?",
-    "correct_answer": "Amazon",
+    "question": "Quel est le nom du premier ordinateur personnel à avoir un processeur 64 bits grand public ?",
+    "correct_answer": "AMD Opteron",
     "incorrect_answers": [
-      "Google",
-      "Apple",
-      "Microsoft"
+      "Intel Pentium",
+      "PowerPC",
+      "Alpha"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3NzkxMDQyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'AMD Opteron sorti en 2003 a lancé l'ère des processeurs 64 bits.",
+    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Y29tcHV0ZXIlMjB0ZWNobm9sb2d5JTIwY29kZXxlbnwwfHx8fDE3Nzk3OTc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

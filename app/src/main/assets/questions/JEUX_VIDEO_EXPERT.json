@@ -1,0 +1,596 @@
+[
+  {
+    "question": "Quel studio a développé le jeu 'Disco Elysium', acclamé pour son écriture narrative en 2019 ?",
+    "correct_answer": "ZA/UM",
+    "incorrect_answers": [
+      "CD Projekt Red",
+      "Remedy Entertainment",
+      "Hades"
+    ],
+    "explanation": "ZA/UM est un studio estonien indépendant fondé en 2016 pour ce projet.",
+    "imageUrl": "https://images.unsplash.com/photo-1604586362408-a8f1c0178213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus de récompenses aux Game Awards en une seule année (2020) ?",
+    "correct_answer": "The Last of Us Part II",
+    "incorrect_answers": [
+      "Red Dead Redemption 2",
+      "Elden Ring",
+      "God of War (2018)"
+    ],
+    "explanation": "Avec 7 récompenses majeures, dont Meilleur Jeu, en 2020.",
+    "imageUrl": "https://images.unsplash.com/photo-1709387450078-88c6558d325b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage emblématique de Nintendo a été créé en 1981 comme mascotte pour 'Donkey Kong' avant de devenir indépendant ?",
+    "correct_answer": "Mario",
+    "incorrect_answers": [
+      "Link",
+      "Samus Aran",
+      "Kirby"
+    ],
+    "explanation": "Mario s'appelait initialement 'Jumpman' dans le jeu d'arcade.",
+    "imageUrl": "https://images.unsplash.com/photo-1605142806312-9ba7fa5cd0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio japonais est à l'origine de la série 'Metal Gear Solid' et de 'Death Stranding' ?",
+    "correct_answer": "Kojima Productions",
+    "incorrect_answers": [
+      "FromSoftware",
+      "Square Enix",
+      "Nintendo EPD"
+    ],
+    "explanation": "Fondé par Hideo Kojima après son départ de Konami en 2015.",
+    "imageUrl": "https://images.unsplash.com/photo-1607356296477-5454f7a7f0f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a introduit pour la première fois le système de 'sandbox' ouvert en 3D en 1996 ?",
+    "correct_answer": "Super Mario 64",
+    "incorrect_answers": [
+      "Tomb Raider",
+      "Grand Theft Auto",
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "explanation": "Considéré comme le pionnier des mondes ouverts en 3D.",
+    "imageUrl": "https://images.unsplash.com/photo-1592155931584-901ac15763e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Street Fighter' est inspiré du martialiste Bruce Lee ?",
+    "correct_answer": "Fei Long",
+    "incorrect_answers": [
+      "Dhalsim",
+      "Ken Masters",
+      "Balrog"
+    ],
+    "explanation": "Son design et ses mouvements reprennent des éléments de Bruceploitation.",
+    "imageUrl": "https://images.unsplash.com/photo-1693929291347-71c4a8159f8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le premier Golden Joystick Award du 'Jeu de l'Année' en 1983 ?",
+    "correct_answer": "Manic Miner",
+    "incorrect_answers": [
+      "Pac-Man",
+      "Donkey Kong",
+      "Pitfall!"
+    ],
+    "explanation": "Développé par Matthew Smith pour ZX Spectrum.",
+    "imageUrl": "https://images.unsplash.com/photo-1643906651350-20325b18debb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'Dark Souls' et 'Bloodborne' ?",
+    "correct_answer": "FromSoftware",
+    "incorrect_answers": [
+      "Capcom",
+      "Naughty Dog",
+      "BioWare"
+    ],
+    "explanation": "Fondé en 1986, connu pour ses jeux difficiles et atmosphériques.",
+    "imageUrl": "https://images.unsplash.com/photo-1654556438701-b4d66e3946fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Final Fantasy' est le seul à apparaître dans tous les épisodes principaux de la série ?",
+    "correct_answer": "Chocobo",
+    "incorrect_answers": [
+      "Cid",
+      "Biggs et Wedge",
+      "Moogles"
+    ],
+    "explanation": "Cette créature jaune emblématique est présente depuis FFI (1987).",
+    "imageUrl": "https://images.unsplash.com/photo-1635372730136-06b29022281c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour la plus longue durée de développement (15 ans) ?",
+    "correct_answer": "Duke Nukem Forever",
+    "incorrect_answers": [
+      "The Last Guardian",
+      "Final Fantasy XV",
+      "Half-Life 3"
+    ],
+    "explanation": "Annulé puis relancé plusieurs fois entre 1996 et 2011.",
+    "imageUrl": "https://images.unsplash.com/photo-1580464360012-948b4fe5ddc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'The Witcher 3: Wild Hunt' et 'Cyberpunk 2077' ?",
+    "correct_answer": "CD Projekt Red",
+    "incorrect_answers": [
+      "BioWare",
+      "Rockstar Games",
+      "Naughty Dog"
+    ],
+    "explanation": "Basé à Varsovie, connu pour ses RPG narratifs ambitieux.",
+    "imageUrl": "https://images.unsplash.com/photo-1636531141047-0bfe943d29ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Mortal Kombat' est inspiré du film 'Enter the Dragon' ?",
+    "correct_answer": "Liu Kang",
+    "incorrect_answers": [
+      "Scorpion",
+      "Sub-Zero",
+      "Raiden"
+    ],
+    "explanation": "Son design et ses techniques de combat s'inspirent de Bruce Lee.",
+    "imageUrl": "https://images.unsplash.com/photo-1616341317041-cf93b2389ef5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a introduit le premier système de 'quick time event' (QTE) en 1999 ?",
+    "correct_answer": "Shenmue",
+    "incorrect_answers": [
+      "Resident Evil 4",
+      "God of War",
+      "Final Fantasy VII"
+    ],
+    "explanation": "Développé par Sega-AM2, précurseur des cinématiques interactives.",
+    "imageUrl": "https://images.unsplash.com/photo-1556573559-f1c05d66f273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'Half-Life' et 'Portal' ?",
+    "correct_answer": "Valve Corporation",
+    "incorrect_answers": [
+      "Bungie",
+      "id Software",
+      "Epic Games"
+    ],
+    "explanation": "Fondé en 1996, connu pour Steam et ses FPS révolutionnaires.",
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1580234748052-2c23d8b27a71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Pokémon' est le seul à avoir un design basé sur un animal réel (un tatou) ?",
+    "correct_answer": "Sandshrew",
+    "incorrect_answers": [
+      "Geodude",
+      "Onix",
+      "Cubone"
+    ],
+    "explanation": "Son évolution, Sandslash, ressemble à un tatou en boule.",
+    "imageUrl": "https://images.unsplash.com/photo-1631896928985-fc7bd3c55250?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le premier BAFTA Games Award du 'Meilleur Jeu' en 2004 ?",
+    "correct_answer": "Half-Life 2",
+    "incorrect_answers": [
+      "World of Warcraft",
+      "The Sims",
+      "Grand Theft Auto: Vice City"
+    ],
+    "explanation": "Considéré comme un chef-d'œuvre du game design narratif.",
+    "imageUrl": "https://images.unsplash.com/photo-1571716846319-21f2bf095516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Elden Ring' en collaboration avec George R.R. Martin ?",
+    "correct_answer": "FromSoftware",
+    "incorrect_answers": [
+      "Naughty Dog",
+      "BioWare",
+      "CD Projekt Red"
+    ],
+    "explanation": "Martin a écrit les bases du lore et de l'univers du jeu.",
+    "imageUrl": "https://images.unsplash.com/photo-1643875180584-42a67dfa8801?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Sonic the Hedgehog' a été créé comme rival pour contrer la popularité de Mario ?",
+    "correct_answer": "Knuckles the Echidna",
+    "incorrect_answers": [
+      "Tails",
+      "Shadow",
+      "Amy Rose"
+    ],
+    "explanation": "Introduit dans 'Sonic the Hedgehog 3' (1994) pour ajouter de la profondeur.",
+    "imageUrl": "https://images.unsplash.com/photo-1730872262939-9d34e4381341?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus de ventes en 24 heures (8,1 millions) ?",
+    "correct_answer": "Grand Theft Auto V",
+    "incorrect_answers": [
+      "Call of Duty: Modern Warfare",
+      "Minecraft",
+      "Fortnite"
+    ],
+    "explanation": "Sorti en 2013, il a généré 1 milliard de dollars en 3 jours.",
+    "imageUrl": "https://images.unsplash.com/photo-1644571580854-114d7d8fa383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé la série 'The Elder Scrolls' et 'Fallout' ?",
+    "correct_answer": "Bethesda Game Studios",
+    "incorrect_answers": [
+      "BioWare",
+      "Obsidian Entertainment",
+      "Rockstar Games"
+    ],
+    "explanation": "Fondé en 1986, connu pour ses RPG ouverts et immersifs.",
+    "imageUrl": "https://images.unsplash.com/photo-1693929291343-f38cb7519d5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Resident Evil' est le seul à apparaître dans tous les jeux principaux de la série originale ?",
+    "correct_answer": "Chris Redfield",
+    "incorrect_answers": [
+      "Jill Valentine",
+      "Leon S. Kennedy",
+      "Claire Redfield"
+    ],
+    "explanation": "Présent depuis le premier 'Resident Evil' (1996).",
+    "imageUrl": "https://images.unsplash.com/photo-1632747670036-40a6ce6d6714?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a introduit le premier système de 'crafting' en temps réel en 2000 ?",
+    "correct_answer": "The Sims",
+    "incorrect_answers": [
+      "Diablo II",
+      "EverQuest",
+      "Half-Life"
+    ],
+    "explanation": "Permettait de construire et personnaliser des objets en jeu.",
+    "imageUrl": "https://images.unsplash.com/photo-1714396803327-e3ab568e5bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Hades' et 'Bastion', acclamés pour leur narration procédurale ?",
+    "correct_answer": "Supergiant Games",
+    "incorrect_answers": [
+      "Thatgamecompany",
+      "Devolver Digital",
+      "Team Meat"
+    ],
+    "explanation": "Studio indépendant fondé en 2009, connu pour ses jeux narratifs.",
+    "imageUrl": "https://images.unsplash.com/flagged/photo-1580234759288-fbf3ccdd9a06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Kingdom Hearts' est inspiré du film 'La Belle et la Bête' ?",
+    "correct_answer": "Belle",
+    "incorrect_answers": [
+      "Ariel",
+      "Cendrillon",
+      "Raiponce"
+    ],
+    "explanation": "Elle apparaît dans le monde 'Beast's Castle'.",
+    "imageUrl": "https://images.unsplash.com/photo-1656823688406-a6a04c800f68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus de joueurs simultanés sur Steam (348 000 en 2020) ?",
+    "correct_answer": "Counter-Strike: Global Offensive",
+    "incorrect_answers": [
+      "Dota 2",
+      "PUBG",
+      "Apex Legends"
+    ],
+    "explanation": "Un des FPS compétitifs les plus populaires depuis 2012.",
+    "imageUrl": "https://images.unsplash.com/photo-1694857692314-7147cec858db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Deus Ex' et 'Dishonored' ?",
+    "correct_answer": "Arkane Studios",
+    "incorrect_answers": [
+      "CD Projekt Red",
+      "Remedy Entertainment",
+      "Firaxis Games"
+    ],
+    "explanation": "Fondé en 1999, connu pour ses immersive sims et jeux d'infiltration.",
+    "imageUrl": "https://images.unsplash.com/photo-1611829713792-e1841cbe2cf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Street Fighter' est inspiré du catcheur André the Giant ?",
+    "correct_answer": "Hugo",
+    "incorrect_answers": [
+      "Zangief",
+      "Dhalsim",
+      "Balrog"
+    ],
+    "explanation": "Apparu dans 'Street Fighter III: 2nd Impact'.",
+    "imageUrl": "https://images.unsplash.com/photo-1608045254635-1055aae0f09e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le premier prix du 'Meilleur Jeu' aux DICE Awards en 2000 ?",
+    "correct_answer": "The Sims",
+    "incorrect_answers": [
+      "Half-Life",
+      "Tony Hawk's Pro Skater",
+      "Final Fantasy VIII"
+    ],
+    "explanation": "Révolutionnaire pour son gameplay de simulation de vie.",
+    "imageUrl": "https://images.unsplash.com/photo-1644165810382-27dd77d2adbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Celeste' et 'The End Is Nigh', connus pour leur difficulté ?",
+    "correct_answer": "Maddy Makes Games",
+    "incorrect_answers": [
+      "Team Cherry",
+      "Playdead",
+      "Motion Twin"
+    ],
+    "explanation": "Studio indépendant fondé par Maddy Thorson en 2016.",
+    "imageUrl": "https://images.unsplash.com/photo-1596699348952-d2b6e07a151d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Metroid' est le premier protagoniste féminin de la série principale ?",
+    "correct_answer": "Samus Aran",
+    "incorrect_answers": [
+      "Federation Commander",
+      "Ridley",
+      "Metroid"
+    ],
+    "explanation": "Son identité féminine a été révélée dans le premier jeu (1986).",
+    "imageUrl": "https://images.unsplash.com/photo-1529154691717-3306083d869e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus de ventes en une seule journée (1,8 million) ?",
+    "correct_answer": "Minecraft",
+    "incorrect_answers": [
+      "Grand Theft Auto V",
+      "Tetris",
+      "Fortnite"
+    ],
+    "explanation": "Sorti en 2011, il a vendu plus de 238 millions d'exemplaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1694857731920-43e44e75fbec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'BioShock' et 'System Shock 2' ?",
+    "correct_answer": "Irrational Games",
+    "incorrect_answers": [
+      "Valve Corporation",
+      "Bethesda Game Studios",
+      "Firaxis Games"
+    ],
+    "explanation": "Fondé en 1997, connu pour ses jeux narratifs et atmosphériques.",
+    "imageUrl": "https://images.unsplash.com/photo-1652734935726-7afd52076e7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Final Fantasy' est inspiré du film 'Blade Runner' ?",
+    "correct_answer": "Cid Highwind",
+    "incorrect_answers": [
+      "Vincent Valentine",
+      "Sephiroth",
+      "Kain Highwind"
+    ],
+    "explanation": "Son design et son nom font référence à l'univers cyberpunk.",
+    "imageUrl": "https://images.unsplash.com/photo-1585102664582-d3f574466cf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a introduit le premier système de 'morale' influençant l'histoire en 2007 ?",
+    "correct_answer": "Mass Effect",
+    "incorrect_answers": [
+      "Fable",
+      "Star Wars: Knights of the Old Republic",
+      "Fallout 3"
+    ],
+    "explanation": "Développé par BioWare, il a popularisé le système de choix moraux.",
+    "imageUrl": "https://images.unsplash.com/photo-1619382581049-c87bedd3b479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Hollow Knight' et 'The Last Campfire' ?",
+    "correct_answer": "Team Cherry",
+    "incorrect_answers": [
+      "Playdead",
+      "Motion Twin",
+      "Supergiant Games"
+    ],
+    "explanation": "Studio australien indépendant fondé en 2012.",
+    "imageUrl": "https://images.unsplash.com/photo-1638073570913-29f3c8aae9d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'The Legend of Zelda' est inspiré du film 'Legend' (1985) ?",
+    "correct_answer": "Link",
+    "incorrect_answers": [
+      "Zelda",
+      "Ganon",
+      "Epona"
+    ],
+    "explanation": "Son design et son nom font référence à la légende médiévale.",
+    "imageUrl": "https://images.unsplash.com/photo-1666296420099-3300fa374196?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus de récompenses aux The Game Awards (17 en 2023) ?",
+    "correct_answer": "Baldur's Gate 3",
+    "incorrect_answers": [
+      "Elden Ring",
+      "God of War: Ragnarök",
+      "The Legend of Zelda: Tears of the Kingdom"
+    ],
+    "explanation": "Développé par Larian Studios, acclamé pour son RPG narratif.",
+    "imageUrl": "https://images.unsplash.com/photo-1614882105050-b81b3298ec47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Doom' et 'Quake', pionniers des FPS modernes ?",
+    "correct_answer": "id Software",
+    "incorrect_answers": [
+      "Valve Corporation",
+      "3D Realms",
+      "Apogee Software"
+    ],
+    "explanation": "Fondé en 1991, connu pour ses moteurs graphiques révolutionnaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1549614614-b8f90c10b52e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Pokémon' est inspiré du légendaire Pokémon Mew ?",
+    "correct_answer": "Mewtwo",
+    "incorrect_answers": [
+      "Celebi",
+      "Jirachi",
+      "Deoxys"
+    ],
+    "explanation": "Créé par manipulation génétique dans le premier film (1998).",
+    "imageUrl": "https://images.unsplash.com/photo-1719398586551-0257f2dd5b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le premier prix du 'Meilleur Jeu' aux BAFTA Games Awards en 2004 ?",
+    "correct_answer": "Half-Life 2",
+    "incorrect_answers": [
+      "World of Warcraft",
+      "The Sims 2",
+      "Grand Theft Auto: San Andreas"
+    ],
+    "explanation": "Considéré comme un tournant dans le game design narratif.",
+    "imageUrl": "https://images.unsplash.com/photo-1582688638737-bd0b8ba58286?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Kingdom Hearts' est inspiré du film 'Le Bossu de Notre-Dame' ?",
+    "correct_answer": "Esmeralda",
+    "incorrect_answers": [
+      "Ursula",
+      "Jasmine",
+      "Alice"
+    ],
+    "explanation": "Elle apparaît dans le monde 'La Cité des Cloches'.",
+    "imageUrl": "https://images.unsplash.com/photo-1648579750136-742bf4195356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus de ventes en une seule année (19,5 millions en 2020) ?",
+    "correct_answer": "Animal Crossing: New Horizons",
+    "incorrect_answers": [
+      "Minecraft",
+      "Grand Theft Auto V",
+      "Fortnite"
+    ],
+    "explanation": "Sorti en mars 2020, il a profité de la pandémie.",
+    "imageUrl": "https://images.unsplash.com/photo-1606305321490-0c05711a8fb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Darkest Dungeon' et 'Slay the Spire' ?",
+    "correct_answer": "Red Hook Studios",
+    "incorrect_answers": [
+      "Subset Games",
+      "Motion Twin",
+      "Team Cherry"
+    ],
+    "explanation": "Studio indépendant fondé en 2013, connu pour ses roguelikes.",
+    "imageUrl": "https://images.unsplash.com/10/wii.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a introduit le premier système de 'open world' persistant en 1997 ?",
+    "correct_answer": "Ultima Online",
+    "incorrect_answers": [
+      "EverQuest",
+      "Meridian 59",
+      "Anarchy Online"
+    ],
+    "explanation": "Premier MMORPG à succès, précurseur de World of Warcraft.",
+    "imageUrl": "https://images.unsplash.com/photo-1712390978993-faa4edb44d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a développé 'Portal' et 'Left 4 Dead' ?",
+    "correct_answer": "Valve Corporation",
+    "incorrect_answers": [
+      "Bungie",
+      "id Software",
+      "Epic Games"
+    ],
+    "explanation": "Connu pour ses FPS innovants et son moteur Source.",
+    "imageUrl": "https://images.unsplash.com/photo-1616341316831-9197de0a88dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Street Fighter' est inspiré du catcheur The Ultimate Warrior ?",
+    "correct_answer": "Zangief",
+    "incorrect_answers": [
+      "Hugo",
+      "Balrog",
+      "Dhalsim"
+    ],
+    "explanation": "Son design et ses mouvements s'inspirent du catch soviétique.",
+    "imageUrl": "https://images.unsplash.com/photo-1666296417087-a4fcf658ccdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus de joueurs simultanés sur une seule partie (1,3 million en 2020) ?",
+    "correct_answer": "Fortnite",
+    "incorrect_answers": [
+      "Minecraft",
+      "Roblox",
+      "Apex Legends"
+    ],
+    "explanation": "Battle royale le plus joué, avec des événements virtuels massifs.",
+    "imageUrl": "https://images.unsplash.com/photo-1679814156262-e372be39eb1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Stardew Valley' et 'Don't Starve' ?",
+    "correct_answer": "ConcernedApe (Eric Barone)",
+    "incorrect_answers": [
+      "Team Meat",
+      "Playdead",
+      "Motion Twin"
+    ],
+    "explanation": "Développeur solo ayant travaillé seul sur Stardew Valley pendant 4 ans.",
+    "imageUrl": "https://images.unsplash.com/photo-1602789216385-c6f910f9b450?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a remporté le premier prix du 'Meilleur Jeu' aux Game Developers Choice Awards en 2001 ?",
+    "correct_answer": "Deus Ex",
+    "incorrect_answers": [
+      "Half-Life",
+      "The Sims",
+      "Shenmue"
+    ],
+    "explanation": "Révolutionnaire pour son mélange de FPS et de RPG.",
+    "imageUrl": "https://images.unsplash.com/photo-1619971104703-5e99cd3c6efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus de récompenses aux Golden Joystick Awards (5 en 2020) ?",
+    "correct_answer": "The Last of Us Part II",
+    "incorrect_answers": [
+      "Elden Ring",
+      "Cyberpunk 2077",
+      "Ghost of Tsushima"
+    ],
+    "explanation": "Acclamé pour sa narration et ses graphismes, malgré les controverses.",
+    "imageUrl": "https://images.unsplash.com/photo-1689593671231-ea788fda8414?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel studio a créé 'Fire Emblem' et 'Paper Mario' ?",
+    "correct_answer": "Intelligent Systems",
+    "incorrect_answers": [
+      "Nintendo EPD",
+      "Capcom",
+      "Square Enix"
+    ],
+    "explanation": "Studio japonais fondé en 1986, connu pour ses tactiques et jeux hybrides.",
+    "imageUrl": "https://images.unsplash.com/photo-1664092815415-e1e26aff03aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fHZpZGVvJTIwZ2FtZXMlMjBjb250cm9sbGVyJTIwZ2FtaW5nfGVufDB8fHx8MTc3OTc5ODU1OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel personnage de 'Resident Evil' est inspiré du film 'The Thing' (1982) ?",
+    "correct_answer": "Mr. X",
+    "incorrect_answers": [
+      "Nemesis",
+      "T-002 Tyrant",
+      "Lisa Trevor"
+    ],
+    "explanation": "Son design et son comportement rappellent l'ennemi du film.",
+    "imageUrl": "https://images.unsplash.com/photo-1729160731582-edcf5995cc3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu a introduit le premier système de 'progression non linéaire' en 1998 ?",
+    "correct_answer": "Half-Life",
+    "incorrect_answers": [
+      "Deus Ex",
+      "System Shock 2",
+      "Thief: The Dark Project"
+    ],
+    "explanation": "Permettait de choisir l'ordre des chapitres dans une certaine mesure.",
+    "imageUrl": "https://images.unsplash.com/photo-1675701298988-eaeb8f3494ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel jeu détient le record du monde pour le plus de ventes en une seule journée sur Steam (2,7 millions en 2020) ?",
+    "correct_answer": "Cyberpunk 2077",
+    "incorrect_answers": [
+      "Elden Ring",
+      "The Witcher 3",
+      "Red Dead Redemption 2"
+    ],
+    "explanation": "Malgré son lancement chaotique, il a battu des records de précommandes.",
+    "imageUrl": "https://images.unsplash.com/photo-1606318801954-d46d46d3360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8dmlkZW8lMjBnYW1lcyUyMGNvbnRyb2xsZXIlMjBnYW1pbmd8ZW58MHx8fHwxNzc5Nzk4NTI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  }
+]

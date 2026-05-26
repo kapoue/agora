@@ -140,7 +140,7 @@ fun HomeScreen(
             horizontalArrangement = Arrangement.spacedBy(12.dp),
             modifier = Modifier.fillMaxSize()
         ) {
-            items(Theme.entries) { theme ->
+            items(Theme.entries.sortedBy { if (it == Theme.CULTURE_GENERALE) 1 else 0 }) { theme ->
                 ThemeCard(
                     theme = theme,
                     imageUrl = themeImages[theme],

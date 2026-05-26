@@ -1,572 +1,618 @@
 [
   {
-    "question": "Quel constructeur automobile est connu pour ses voitures électriques comme la Model S ?",
-    "correct_answer": "Tesla",
-    "incorrect_answers": [
-      "Toyota",
-      "Ford",
-      "Volkswagen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583328883101-db96b1501154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion est surnommé le 'Jumbo Jet' ?",
-    "correct_answer": "Boeing 747",
-    "incorrect_answers": [
-      "Airbus A380",
-      "Concorde",
-      "F-16"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1575302129836-53ce8949549f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau est célèbre pour avoir coulé en 1912 après avoir heurté un iceberg ?",
-    "correct_answer": "Titanic",
-    "incorrect_answers": [
-      "Queen Mary",
-      "Lusitania",
-      "Bismarck"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583355900234-ce932ca9833c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel train à grande vitesse roule en France ?",
-    "correct_answer": "TGV",
-    "incorrect_answers": [
-      "ICE",
-      "Shinkansen",
-      "Eurostar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758396273585-f87b29a64256?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel carburant est le plus couramment utilisé dans les voitures à essence ?",
-    "correct_answer": "SP95",
-    "incorrect_answers": [
-      "Diesel",
-      "Éthanol",
-      "GPL"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1701177527271-46237ec32eaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel constructeur automobile est associé à la marque '206' ?",
-    "correct_answer": "Peugeot",
+    "question": "Quel constructeur automobile est connu pour sa 2CV, une voiture populaire française des années 1950 ?",
+    "correct_answer": "Citroën",
     "incorrect_answers": [
       "Renault",
-      "Citroën",
-      "Fiat"
+      "Peugeot",
+      "Simca"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616620418632-786161c454e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3NzkxMDQyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La 2CV, symbole de simplicité et d'économie, a été produite par Citroën de 1948 à 1990.",
+    "imageUrl": "https://images.unsplash.com/photo-1679587827468-416f729d33d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a effectué le premier vol motorisé des frères Wright en 1903 ?",
+    "correct_answer": "Flyer",
+    "incorrect_answers": [
+      "Spirit of St. Louis",
+      "Concorde",
+      "Boeing 747"
+    ],
+    "explanation": "Le Flyer, piloté par Orville Wright, a volé 36 mètres en 12 secondes.",
+    "imageUrl": "https://images.unsplash.com/photo-1616620418290-81a162f05e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau a coulé lors de son voyage inaugural en 1912 après avoir heurté un iceberg ?",
+    "correct_answer": "Titanic",
+    "incorrect_answers": [
+      "Lusitania",
+      "Queen Mary",
+      "Mayflower"
+    ],
+    "explanation": "Le Titanic, réputé insubmersible, a causé la mort de plus de 1 500 personnes.",
+    "imageUrl": "https://images.unsplash.com/photo-1616454992655-92cbf292f9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train à grande vitesse relie Paris à Lyon en moins de 2 heures ?",
+    "correct_answer": "TGV",
+    "incorrect_answers": [
+      "Eurostar",
+      "ICE",
+      "Shinkansen"
+    ],
+    "explanation": "Le TGV (Train à Grande Vitesse) a été mis en service en 1981.",
+    "imageUrl": "https://images.unsplash.com/photo-1541277194667-11fb3e311f3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur automobile a popularisé la voiture électrique moderne avec la Tesla Roadster ?",
+    "correct_answer": "Tesla",
+    "incorrect_answers": [
+      "Nissan",
+      "BMW",
+      "Toyota"
+    ],
+    "explanation": "La Tesla Roadster, lancée en 2008, a marqué un tournant dans l'électrique.",
+    "imageUrl": "https://images.unsplash.com/photo-1537686421314-16f7daf5ff77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion de ligne supersonique a volé de 1976 à 2003 ?",
+    "correct_answer": "Concorde",
+    "incorrect_answers": [
+      "Boeing 787",
+      "Airbus A380",
+      "F-14 Tomcat"
+    ],
+    "explanation": "Le Concorde reliait Paris à New York en 3h30, à Mach 2.",
+    "imageUrl": "https://images.unsplash.com/photo-1673080825517-7ac4c972acef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau est célèbre pour avoir été le premier à faire le tour du monde en solitaire ?",
+    "correct_answer": "Le Beagle",
+    "incorrect_answers": [
+      "Le Fram",
+      "Le Mayflower",
+      "Le Victoria"
+    ],
+    "explanation": "Le Beagle, commandé par Magellan, a accompli ce voyage en 1522.",
+    "imageUrl": "https://images.unsplash.com/photo-1739544201128-20d0bcd7a62e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train est connu pour relier Paris à Bruxelles en 1h22 ?",
+    "correct_answer": "Thalys",
+    "incorrect_answers": [
+      "Eurostar",
+      "ICE",
+      "Frecciarossa"
+    ],
+    "explanation": "Le Thalys, lancé en 1996, est un train à grande vitesse international.",
+    "imageUrl": "https://images.unsplash.com/photo-1583695189865-423020d34241?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur automobile est associé à la Coccinelle, une voiture emblématique des années 1960 ?",
+    "correct_answer": "Volkswagen",
+    "incorrect_answers": [
+      "Fiat",
+      "Opel",
+      "Dacia"
+    ],
+    "explanation": "La Coccinelle, produite jusqu'en 2003, est un symbole de fiabilité.",
+    "imageUrl": "https://images.unsplash.com/photo-1616620418653-c2f1603f507d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel avion a été le premier à franchir le mur du son en 1947 ?",
     "correct_answer": "Bell X-1",
     "incorrect_answers": [
-      "Concorde",
       "Spitfire",
-      "F-14 Tomcat"
+      "Messerschmitt Me 262",
+      "B-29 Superfortress"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616867919424-ff07a96e7326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Bell X-1, piloté par Chuck Yeager, a atteint Mach 1,06.",
+    "imageUrl": "https://images.unsplash.com/photo-1770998829229-34387f137605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau est utilisé pour transporter du pétrole en grande quantité ?",
-    "correct_answer": "Pétrolier",
+    "question": "Quel bateau est célèbre pour avoir été le premier à traverser l'Atlantique en avion en 1919 ?",
+    "correct_answer": "NC-4",
     "incorrect_answers": [
-      "Cargo",
-      "Ferry",
-      "Bateau de pêche"
+      "Titanic",
+      "Mayflower",
+      "Santa Maria"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1739544201128-20d0bcd7a62e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le NC-4, un hydravion américain, a relié New York à Lisbonne en plusieurs étapes.",
+    "imageUrl": "https://images.unsplash.com/photo-1583328883101-db96b1501154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train relie Paris à Londres en passant sous la Manche ?",
-    "correct_answer": "Eurostar",
+    "question": "Quel train à vapeur est surnommé \"La Flèche d'Or\" pour son trajet Paris-Londres ?",
+    "correct_answer": "Golden Arrow",
     "incorrect_answers": [
-      "Thalys",
-      "TGV",
-      "ICE"
+      "Orient-Express",
+      "Transsibérien",
+      "Eurostar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869378926-447501e83b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Golden Arrow, lancé en 1926, reliait Paris à Calais en 2h30.",
+    "imageUrl": "https://images.unsplash.com/photo-1771444152231-d06d8356dc15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur automobile est connu pour ses voitures sportives comme la 911 ?",
+    "question": "Quel constructeur automobile est connu pour ses modèles 911 et 356 ?",
     "correct_answer": "Porsche",
     "incorrect_answers": [
       "Ferrari",
       "Lamborghini",
       "Aston Martin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721910256794-fb3a7896ba45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3NzkxMDQyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Porsche 911, lancée en 1964, est un modèle emblématique.",
+    "imageUrl": "https://images.unsplash.com/photo-1761531503771-e7ab0bac1db3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion est surnommé 'l'avion de ligne le plus rapide du monde' ?",
-    "correct_answer": "Concorde",
+    "question": "Quel avion de chasse français a été utilisé pendant la Seconde Guerre mondiale ?",
+    "correct_answer": "Dewoitine D.520",
     "incorrect_answers": [
-      "Boeing 787",
-      "Airbus A350",
-      "Tupolev Tu-144"
+      "Mirage F1",
+      "Rafale",
+      "Super Étendard"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1577947691826-a6e4548d1cc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Dewoitine D.520 était le principal chasseur français en 1940.",
+    "imageUrl": "https://images.unsplash.com/photo-1738811104242-2bea93e7a93b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau est utilisé pour transporter des passagers sur de courtes distances ?",
-    "correct_answer": "Ferry",
+    "question": "Quel bateau est célèbre pour avoir découvert l'Amérique en 1492 ?",
+    "correct_answer": "Santa Maria",
     "incorrect_answers": [
-      "Pétrolier",
-      "Cargo",
-      "Bateau de croisière"
+      "Titanic",
+      "Mayflower",
+      "Bounty"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770998829261-7247f979e1f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Santa Maria, commandée par Christophe Colomb, a accosté aux Bahamas.",
+    "imageUrl": "https://images.unsplash.com/photo-1616454992789-0cc74ed91549?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train est le plus rapide du monde en 2023 ?",
-    "correct_answer": "Maglev de Shanghai",
+    "question": "Quel train relie Paris à Marseille en environ 3 heures ?",
+    "correct_answer": "TGV Méditerranée",
     "incorrect_answers": [
+      "TER",
+      "Intercités",
+      "Ouigo"
+    ],
+    "explanation": "Le TGV Méditerranée a été mis en service en 2001.",
+    "imageUrl": "https://images.unsplash.com/photo-1616869483385-71f1ad7b2345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur automobile est associé à la Mini, une voiture compacte des années 1960 ?",
+    "correct_answer": "British Motor Corporation",
+    "incorrect_answers": [
+      "Fiat",
+      "Volkswagen",
+      "Renault"
+    ],
+    "explanation": "La Mini, conçue par Alec Issigonis, est devenue un symbole culturel.",
+    "imageUrl": "https://images.unsplash.com/photo-1616869378946-c713c56f884b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à voler autour du monde sans escale en 1986 ?",
+    "correct_answer": "Voyager",
+    "incorrect_answers": [
+      "Spirit of St. Louis",
+      "Solar Impulse",
+      "Concorde"
+    ],
+    "explanation": "Le Voyager, piloté par Dick Rutan et Jeana Yeager, a volé 40 212 km en 9 jours.",
+    "imageUrl": "https://images.unsplash.com/photo-1663605172031-7c5b8da73fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau est célèbre pour avoir transporté les pèlerins du Mayflower vers l'Amérique en 1620 ?",
+    "correct_answer": "Mayflower",
+    "incorrect_answers": [
+      "Santa Maria",
+      "Titanic",
+      "Bounty"
+    ],
+    "explanation": "Le Mayflower a quitté Plymouth (Angleterre) avec 102 passagers.",
+    "imageUrl": "https://images.unsplash.com/photo-1577475304748-5597556a0b62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train à grande vitesse japonais est connu pour sa ponctualité ?",
+    "correct_answer": "Shinkansen",
+    "incorrect_answers": [
+      "ICE",
       "TGV",
-      "Shinkansen",
-      "ICE"
+      "Eurostar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1738810477254-dbc83c55f4c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Shinkansen, lancé en 1964, relie Tokyo à Osaka en 2h30.",
+    "imageUrl": "https://images.unsplash.com/photo-1738810477903-87c840fa3205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur automobile est associé à la marque 'Golf' ?",
+    "question": "Quel constructeur automobile est associé à la Golf, une voiture compacte des années 1970 ?",
     "correct_answer": "Volkswagen",
     "incorrect_answers": [
       "Opel",
-      "BMW",
-      "Mercedes"
+      "Ford",
+      "Toyota"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721497043807-637fc7d8e3a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Golf, lancée en 1974, est l'une des voitures les plus vendues au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1673080825517-7ac4c972acef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion est utilisé par l'armée de l'air française pour la chasse ?",
-    "correct_answer": "Rafale",
-    "incorrect_answers": [
-      "Mirage 2000",
-      "F-16",
-      "Eurofighter"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1714438055134-799b9a70aa16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau est utilisé pour la pêche en haute mer ?",
-    "correct_answer": "Bateau de pêche",
-    "incorrect_answers": [
-      "Pétrolier",
-      "Ferry",
-      "Bateau de croisière"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1757025908775-93bc9b13a703?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel train relie les grandes villes européennes comme Berlin et Munich ?",
-    "correct_answer": "ICE",
-    "incorrect_answers": [
-      "TGV",
-      "Thalys",
-      "Eurostar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1770998829229-34387f137605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel constructeur automobile est connu pour ses voitures hybrides comme la Prius ?",
-    "correct_answer": "Toyota",
-    "incorrect_answers": [
-      "Honda",
-      "Hyundai",
-      "Nissan"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1777900389824-6fb2ffb19037?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion est le plus gros porteur au monde ?",
-    "correct_answer": "Antonov An-225",
-    "incorrect_answers": [
-      "Airbus A380",
-      "Boeing 747",
-      "C-5 Galaxy"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619672161512-5253ed90b797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau est utilisé pour transporter des conteneurs ?",
-    "correct_answer": "Cargo",
-    "incorrect_answers": [
-      "Ferry",
-      "Pétrolier",
-      "Bateau de croisière"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1746326653464-a94fdef01cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel train est le plus rapide en service commercial en Europe ?",
-    "correct_answer": "TGV",
-    "incorrect_answers": [
-      "ICE",
-      "Shinkansen",
-      "Eurostar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616868206123-1139c545d504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel constructeur automobile est associé à la marque 'Clio' ?",
-    "correct_answer": "Renault",
-    "incorrect_answers": [
-      "Peugeot",
-      "Citroën",
-      "Fiat"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1537686421314-16f7daf5ff77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion est utilisé pour le transport de passagers sur de longues distances ?",
-    "correct_answer": "Boeing 787",
+    "question": "Quel avion a été le premier à franchir l'Atlantique en solitaire en 1927 ?",
+    "correct_answer": "Spirit of St. Louis",
     "incorrect_answers": [
       "Concorde",
-      "F-16",
-      "A320"
+      "Boeing 747",
+      "Flyer"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761531503771-e7ab0bac1db3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Charles Lindbergh a traversé l'Atlantique en 33h30 avec cet avion.",
+    "imageUrl": "https://images.unsplash.com/photo-1714438055134-799b9a70aa16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau est utilisé pour les croisières de luxe ?",
-    "correct_answer": "Bateau de croisière",
+    "question": "Quel bateau est célèbre pour avoir été le premier à atteindre le pôle Nord en 1909 ?",
+    "correct_answer": "Le Fram",
     "incorrect_answers": [
-      "Ferry",
-      "Pétrolier",
-      "Cargo"
+      "Le Beagle",
+      "Le Titanic",
+      "Le Mayflower"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1738811104242-2bea93e7a93b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Fram, conçu par Fridtjof Nansen, a résisté à la pression des glaces.",
+    "imageUrl": "https://images.unsplash.com/photo-1616869483210-e9a9babbd164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train relie Paris à Lyon en moins de 2 heures ?",
-    "correct_answer": "TGV",
+    "question": "Quel train relie Paris à Francfort en environ 3h50 ?",
+    "correct_answer": "ICE",
     "incorrect_answers": [
-      "TER",
-      "Transilien",
-      "Intercités"
+      "Thalys",
+      "Eurostar",
+      "Frecciarossa"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1577475304748-5597556a0b62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'ICE (InterCity Express) est le train à grande vitesse allemand.",
+    "imageUrl": "https://images.unsplash.com/photo-1617564992562-73a8ea602be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur automobile est connu pour ses voitures sportives comme la Mustang ?",
+    "question": "Quel constructeur automobile est associé à la Mustang, une voiture sportive des années 1960 ?",
     "correct_answer": "Ford",
     "incorrect_answers": [
       "Chevrolet",
       "Dodge",
-      "Chrysler"
+      "Plymouth"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616868546921-d32b0a935fdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Mustang, lancée en 1964, est devenue un symbole de liberté.",
+    "imageUrl": "https://images.unsplash.com/photo-1758797850047-b824b3a5defd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3Nzk3OTgyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion est surnommé 'l'avion espion' ?",
-    "correct_answer": "U-2",
+    "question": "Quel avion a été le premier à voler en formation autour du monde en 1957 ?",
+    "correct_answer": "B-52 Stratofortress",
     "incorrect_answers": [
-      "SR-71 Blackbird",
-      "F-117",
-      "B-2"
+      "Concorde",
+      "Boeing 747",
+      "U-2"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721906532944-1aec1f362721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Trois B-52 ont accompli ce vol de 45 000 km en 45 heures.",
+    "imageUrl": "https://images.unsplash.com/photo-1721910253300-b6333ee32e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau est utilisé pour transporter des voitures neuves ?",
-    "correct_answer": "Roulier",
+    "question": "Quel bateau est célèbre pour avoir été le premier à traverser le canal de Panama en 1914 ?",
+    "correct_answer": "SS Ancon",
     "incorrect_answers": [
-      "Ferry",
-      "Pétrolier",
-      "Cargo"
+      "Titanic",
+      "Mayflower",
+      "Santa Maria"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1597684859501-7929fd91385a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Ancon, un cargo américain, a franchi le canal lors de son inauguration.",
+    "imageUrl": "https://images.unsplash.com/photo-1777900389824-6fb2ffb19037?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train est le plus rapide en service commercial au Japon ?",
-    "correct_answer": "Shinkansen",
+    "question": "Quel train relie Paris à Barcelone en environ 6h30 ?",
+    "correct_answer": "Renfe-SNCF",
     "incorrect_answers": [
-      "TGV",
+      "Thalys",
+      "Eurostar",
+      "Frecciarossa"
+    ],
+    "explanation": "Ce train à grande vitesse est exploité par les chemins de fer français et espagnols.",
+    "imageUrl": "https://images.unsplash.com/photo-1758396273585-f87b29a64256?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur automobile est associé à la 911, une voiture de sport emblématique ?",
+    "correct_answer": "Porsche",
+    "incorrect_answers": [
+      "Ferrari",
+      "Lamborghini",
+      "Aston Martin"
+    ],
+    "explanation": "La Porsche 911, lancée en 1964, est toujours produite aujourd'hui.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972895978-3c2f16cc2e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à voler à Mach 3 en 1961 ?",
+    "correct_answer": "Lockheed SR-71 Blackbird",
+    "incorrect_answers": [
+      "Concorde",
+      "U-2",
+      "F-14 Tomcat"
+    ],
+    "explanation": "Le SR-71 détient toujours le record de vitesse pour un avion piloté (Mach 3,3).",
+    "imageUrl": "https://images.unsplash.com/photo-1770998829243-25fa3ebf6bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3Nzk3OTgyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau est célèbre pour avoir été le premier à atteindre le pôle Sud en 1911 ?",
+    "correct_answer": "Fram",
+    "incorrect_answers": [
+      "Titanic",
+      "Mayflower",
+      "Santa Maria"
+    ],
+    "explanation": "Roald Amundsen a atteint le pôle Sud avec le Fram, un navire norvégien.",
+    "imageUrl": "https://images.unsplash.com/photo-1616454992761-f339f5d424da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel train relie Paris à Rome en environ 11 heures ?",
+    "correct_answer": "Frecciarossa",
+    "incorrect_answers": [
+      "Thalys",
       "ICE",
       "Eurostar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869483210-e9a9babbd164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Frecciarossa est le train à grande vitesse italien.",
+    "imageUrl": "https://images.unsplash.com/photo-1584012221414-be8fe5d27c43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur automobile est associé à la marque 'A3' ?",
-    "correct_answer": "Audi",
+    "question": "Quel constructeur automobile est associé à la DS, une voiture française des années 1950 ?",
+    "correct_answer": "Citroën",
     "incorrect_answers": [
-      "BMW",
-      "Mercedes",
-      "Volkswagen"
+      "Peugeot",
+      "Renault",
+      "Simca"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1597684859487-600e80303ed9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3NzkxMDQyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La DS, conçue par Flaminio Bertoni, est un chef-d'œuvre du design.",
+    "imageUrl": "https://images.unsplash.com/photo-1721910261409-829fde958b43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion est utilisé pour le transport de troupes ?",
-    "correct_answer": "C-130 Hercules",
+    "question": "Quel avion a été le premier à voler en autogire en 1923 ?",
+    "correct_answer": "Cierva C.4",
     "incorrect_answers": [
-      "Boeing 747",
-      "A380",
-      "F-22"
+      "Flyer",
+      "Spirit of St. Louis",
+      "Concorde"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616620418290-81a162f05e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'autogire, ancêtre de l'hélicoptère, a été inventé par Juan de la Cierva.",
+    "imageUrl": "https://images.unsplash.com/photo-1617564992306-2c648c0739f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3Nzk3OTgyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau est utilisé pour transporter du gaz naturel liquéfié ?",
-    "correct_answer": "Méthanier",
+    "question": "Quel bateau est célèbre pour avoir été le premier à traverser le canal de Suez en 1869 ?",
+    "correct_answer": "SS Agamemnon",
     "incorrect_answers": [
-      "Pétrolier",
-      "Cargo",
-      "Ferry"
+      "Titanic",
+      "Mayflower",
+      "Santa Maria"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616455349421-4adb7c2acf80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'Agameon, un navire britannique, a franchi le canal lors de son inauguration.",
+    "imageUrl": "https://images.unsplash.com/photo-1721910256794-fb3a7896ba45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train relie les grandes villes françaises comme Bordeaux et Toulouse ?",
-    "correct_answer": "TER",
+    "question": "Quel train relie Paris à Berlin en environ 8 heures ?",
+    "correct_answer": "ICE/TGV",
     "incorrect_answers": [
-      "TGV",
-      "Transilien",
-      "Intercités"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616454992789-0cc74ed91549?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel constructeur automobile est connu pour ses voitures de luxe comme la 500 ?",
-    "correct_answer": "Fiat",
-    "incorrect_answers": [
-      "Alfa Romeo",
-      "Lancia",
-      "Ferrari"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619413227482-f6f87d3afd56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion est utilisé pour la formation des pilotes militaires ?",
-    "correct_answer": "Alpha Jet",
-    "incorrect_answers": [
-      "Mirage 2000",
-      "Rafale",
-      "F-16"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616454992761-f339f5d424da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau est utilisé pour transporter des céréales ?",
-    "correct_answer": "Cargo vraquier",
-    "incorrect_answers": [
-      "Ferry",
-      "Pétrolier",
-      "Bateau de croisière"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1659119342538-4d1cb5c4a299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3NzkxMDQyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel train relie Paris à Bruxelles ?",
-    "correct_answer": "Thalys",
-    "incorrect_answers": [
-      "TGV",
+      "Thalys",
       "Eurostar",
-      "ICE"
+      "Frecciarossa"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616454992655-92cbf292f9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce trajet combine le TGV français et l'ICE allemand.",
+    "imageUrl": "https://images.unsplash.com/photo-1616869378926-447501e83b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur automobile est associé à la marque '3008' ?",
+    "question": "Quel constructeur automobile est associé à la 205, une voiture compacte des années 1980 ?",
     "correct_answer": "Peugeot",
     "incorrect_answers": [
       "Renault",
       "Citroën",
       "Volkswagen"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1729972895598-133a63b3240c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Peugeot 205, lancée en 1983, a relancé la marque.",
+    "imageUrl": "https://images.unsplash.com/photo-1738810477254-dbc83c55f4c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion est utilisé pour le transport présidentiel aux États-Unis ?",
-    "correct_answer": "Air Force One",
+    "question": "Quel avion a été le premier à voler en formation autour de la Terre en 1924 ?",
+    "correct_answer": "Douglas World Cruiser",
     "incorrect_answers": [
-      "Boeing 747",
-      "Airbus A380",
-      "F-22"
+      "Spirit of St. Louis",
+      "Concorde",
+      "Flyer"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1721910253300-b6333ee32e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Quatre avions américains ont accompli ce tour du monde en 175 jours.",
+    "imageUrl": "https://images.unsplash.com/photo-1721906532944-1aec1f362721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau est utilisé pour transporter des passagers sur les canaux ?",
-    "correct_answer": "Bateau-mouche",
+    "question": "Quel bateau est célèbre pour avoir été le premier à traverser l'océan Pacifique en avion en 1928 ?",
+    "correct_answer": "Southern Cross",
     "incorrect_answers": [
-      "Ferry",
-      "Pétrolier",
-      "Cargo"
+      "Titanic",
+      "Mayflower",
+      "Santa Maria"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1729972897939-e471d846eb06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "L'équipage, mené par Charles Kingsford Smith, a relié Oakland à Brisbane.",
+    "imageUrl": "https://images.unsplash.com/photo-1770998829261-7247f979e1f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train relie les grandes villes allemandes comme Francfort et Hambourg ?",
-    "correct_answer": "ICE",
+    "question": "Quel train relie Paris à Amsterdam en environ 3h20 ?",
+    "correct_answer": "Thalys",
     "incorrect_answers": [
-      "TGV",
-      "Thalys",
-      "Eurostar"
+      "ICE",
+      "Eurostar",
+      "Frecciarossa"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1683023706435-0b22b35cdf66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Thalys dessert plusieurs villes européennes à grande vitesse.",
+    "imageUrl": "https://images.unsplash.com/photo-1771444114320-968b94050ec4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur automobile est connu pour ses voitures sportives comme la Aventador ?",
-    "correct_answer": "Lamborghini",
+    "question": "Quel constructeur automobile est associé à la 500, une voiture italienne des années 1950 ?",
+    "correct_answer": "Fiat",
     "incorrect_answers": [
-      "Ferrari",
-      "Porsche",
-      "Bugatti"
+      "Alfa Romeo",
+      "Lancia",
+      "Ferrari"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1770998829243-25fa3ebf6bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3NzkxMDQyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Fiat 500, conçue par Dante Giacosa, est un symbole de l'Italie.",
+    "imageUrl": "https://images.unsplash.com/photo-1721497043807-637fc7d8e3a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion est utilisé pour le transport de fret aérien ?",
-    "correct_answer": "Boeing 747-8F",
+    "question": "Quel avion a été le premier à voler en formation autour de la Lune en 1968 ?",
+    "correct_answer": "Apollo 8",
     "incorrect_answers": [
       "Concorde",
-      "A380",
-      "F-16"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1679587827468-416f729d33d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau est utilisé pour transporter des passagers sur les grands lacs ?",
-    "correct_answer": "Bateau de lac",
-    "incorrect_answers": [
-      "Ferry",
-      "Pétrolier",
-      "Cargo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764917438537-dc363d7ccb84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel train relie les grandes villes espagnoles comme Madrid et Barcelone ?",
-    "correct_answer": "AVE",
-    "incorrect_answers": [
-      "TGV",
-      "Thalys",
-      "Eurostar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869378946-c713c56f884b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel constructeur automobile est associé à la marque 'X5' ?",
-    "correct_answer": "BMW",
-    "incorrect_answers": [
-      "Mercedes",
-      "Audi",
-      "Volkswagen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1738810477283-50ffcd5c8159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3NzkxMDQyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion est utilisé pour la reconnaissance aérienne ?",
-    "correct_answer": "RQ-4 Global Hawk",
-    "incorrect_answers": [
-      "F-16",
-      "Rafale",
-      "Concorde"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1722026744596-f3864c97dac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel bateau est utilisé pour transporter des passagers en Méditerranée ?",
-    "correct_answer": "Bateau de croisière",
-    "incorrect_answers": [
-      "Ferry",
-      "Pétrolier",
-      "Cargo"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1583695189865-423020d34241?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel train relie les grandes villes italiennes comme Rome et Milan ?",
-    "correct_answer": "Frecciarossa",
-    "incorrect_answers": [
-      "TGV",
-      "Thalys",
-      "Eurostar"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1738810477903-87c840fa3205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel constructeur automobile est connu pour ses voitures de luxe comme la Classe S ?",
-    "correct_answer": "Mercedes",
-    "incorrect_answers": [
-      "BMW",
-      "Audi",
-      "Volkswagen"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1661856585049-bc5562a286da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel avion est utilisé pour le transport de VIP ?",
-    "correct_answer": "Gulfstream G650",
-    "incorrect_answers": [
       "Boeing 747",
-      "A380",
-      "F-22"
+      "U-2"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1738824153397-c1a71d7716e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3NzkxMDQyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Apollo 8 a marqué la première mission habitée à atteindre la Lune.",
+    "imageUrl": "https://images.unsplash.com/photo-1616620418632-786161c454e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3Nzk3OTgyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau est utilisé pour transporter des passagers sur le Rhin ?",
-    "correct_answer": "Bateau fluvial",
+    "question": "Quel bateau est célèbre pour avoir été le premier à traverser le canal de Corinthe en 1893 ?",
+    "correct_answer": "SS Corinthia",
     "incorrect_answers": [
-      "Ferry",
-      "Pétrolier",
-      "Cargo"
+      "Titanic",
+      "Mayflower",
+      "Santa Maria"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869483385-71f1ad7b2345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce cargo britannique a franchi le canal lors de son inauguration.",
+    "imageUrl": "https://images.unsplash.com/photo-1770998829266-18a3f1421d9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train relie les grandes villes suisses comme Zurich et Genève ?",
-    "correct_answer": "ICN",
+    "question": "Quel train relie Paris à Milan en environ 7 heures ?",
+    "correct_answer": "Frecciarossa/TGV",
     "incorrect_answers": [
-      "TGV",
       "Thalys",
+      "ICE",
       "Eurostar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869378867-ebf27c36f649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3NzkxMDQyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce trajet combine le TGV français et le Frecciarossa italien.",
+    "imageUrl": "https://images.unsplash.com/photo-1659119342538-4d1cb5c4a299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3Nzk3OTgyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel constructeur automobile est associé à la marque 'Megane' ?",
-    "correct_answer": "Renault",
+    "question": "Quel constructeur automobile est associé à la 240Z, une voiture sportive des années 1970 ?",
+    "correct_answer": "Nissan",
     "incorrect_answers": [
-      "Peugeot",
-      "Citroën",
-      "Volkswagen"
+      "Toyota",
+      "Mazda",
+      "Honda"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616620418653-c2f1603f507d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La 240Z, première Z-car, a popularisé les sportives japonaises en Occident.",
+    "imageUrl": "https://images.unsplash.com/photo-1575302129836-53ce8949549f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel avion est utilisé pour le transport de parachutistes ?",
-    "correct_answer": "C-130 Hercules",
+    "question": "Quel avion a été le premier à voler en formation autour de Mars en 1997 ?",
+    "correct_answer": "Mars Pathfinder",
     "incorrect_answers": [
-      "Boeing 747",
-      "A380",
-      "F-22"
+      "Spirit of St. Louis",
+      "Concorde",
+      "Flyer"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1597684859514-6e3aa6695f85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La sonde Pathfinder a atterri sur Mars avec le rover Sojourner.",
+    "imageUrl": "https://images.unsplash.com/photo-1619969624792-3df0128ea3c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3Nzk3OTgyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel bateau est utilisé pour transporter des passagers sur le Nil ?",
-    "correct_answer": "Felouque",
+    "question": "Quel bateau est célèbre pour avoir été le premier à traverser le détroit de Magellan en 1520 ?",
+    "correct_answer": "Victoria",
     "incorrect_answers": [
-      "Ferry",
-      "Pétrolier",
-      "Cargo"
+      "Titanic",
+      "Mayflower",
+      "Santa Maria"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1771444152231-d06d8356dc15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Victoria, commandé par Juan Sebastián Elcano, a accompli le premier tour du monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1616454992761-f339f5d424da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel train relie les grandes villes belges comme Bruxelles et Anvers ?",
-    "correct_answer": "IC",
+    "question": "Quel train relie Paris à Zurich en environ 4h30 ?",
+    "correct_answer": "TGV Lyria",
     "incorrect_answers": [
-      "TGV",
       "Thalys",
-      "Eurostar"
+      "ICE",
+      "Frecciarossa"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616869483210-e9a9babbd164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5MTA0MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le TGV Lyria dessert la France et la Suisse à grande vitesse.",
+    "imageUrl": "https://images.unsplash.com/photo-1616455349421-4adb7c2acf80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur automobile est associé à la Miata, une voiture roadster des années 1990 ?",
+    "correct_answer": "Mazda",
+    "incorrect_answers": [
+      "Toyota",
+      "Nissan",
+      "Honda"
+    ],
+    "explanation": "La MX-5 Miata, lancée en 1989, est la voiture de sport la plus vendue au monde.",
+    "imageUrl": "https://images.unsplash.com/photo-1583355900234-ce932ca9833c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à voler en formation autour de Vénus en 1975 ?",
+    "correct_answer": "Venera 9",
+    "incorrect_answers": [
+      "Spirit of St. Louis",
+      "Concorde",
+      "Flyer"
+    ],
+    "explanation": "La sonde soviétique Venera 9 a transmis les premières images de la surface de Vénus.",
+    "imageUrl": "https://images.unsplash.com/photo-1729972897939-e471d846eb06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau est célèbre pour avoir été le premier à traverser le détroit de Béring en 1728 ?",
+    "correct_answer": "Saint-Gabriel",
+    "incorrect_answers": [
+      "Titanic",
+      "Mayflower",
+      "Santa Maria"
+    ],
+    "explanation": "Le Saint-Gabriel, commandé par Vitus Béring, a exploré l'Alaska.",
+    "imageUrl": "https://images.unsplash.com/photo-1738824153397-c1a71d7716e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3Nzk3OTgyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur automobile est associé à la Corvette, une voiture sportive américaine ?",
+    "correct_answer": "Chevrolet",
+    "incorrect_answers": [
+      "Ford",
+      "Dodge",
+      "Plymouth"
+    ],
+    "explanation": "La Corvette, lancée en 1953, est la première voiture de sport américaine.",
+    "imageUrl": "https://images.unsplash.com/photo-1738810477283-50ffcd5c8159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHx2ZWhpY2xlcyUyMGNhcnMlMjBhdmlhdGlvbiUyMHRyYW5zcG9ydHxlbnwwfHx8fDE3Nzk3OTgyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à voler en formation autour de Jupiter en 1995 ?",
+    "correct_answer": "Galileo",
+    "incorrect_answers": [
+      "Spirit of St. Louis",
+      "Concorde",
+      "Flyer"
+    ],
+    "explanation": "La sonde Galileo a étudié Jupiter et ses lunes pendant 8 ans.",
+    "imageUrl": "https://images.unsplash.com/photo-1722026744596-f3864c97dac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel bateau est célèbre pour avoir été le premier à traverser le détroit de Gibraltar en 711 ?",
+    "correct_answer": "Tariq ibn Ziyad",
+    "incorrect_answers": [
+      "Titanic",
+      "Mayflower",
+      "Santa Maria"
+    ],
+    "explanation": "Le général berbère Tariq ibn Ziyad a mené la conquête musulmane de l'Espagne.",
+    "imageUrl": "https://images.unsplash.com/photo-1764917438537-dc363d7ccb84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel constructeur automobile est associé à la Beetle, une voiture allemande des années 1960 ?",
+    "correct_answer": "Volkswagen",
+    "incorrect_answers": [
+      "Opel",
+      "Ford",
+      "Toyota"
+    ],
+    "explanation": "La Coccinelle, ou Beetle, a été produite à plus de 21 millions d'exemplaires.",
+    "imageUrl": "https://images.unsplash.com/photo-1746326653464-a94fdef01cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel avion a été le premier à voler en formation autour de Saturne en 2004 ?",
+    "correct_answer": "Cassini-Huygens",
+    "incorrect_answers": [
+      "Spirit of St. Louis",
+      "Concorde",
+      "Flyer"
+    ],
+    "explanation": "La sonde Cassini a étudié Saturne et ses anneaux pendant 13 ans.",
+    "imageUrl": "https://images.unsplash.com/photo-1757025908775-93bc9b13a703?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8dmVoaWNsZXMlMjBjYXJzJTIwYXZpYXRpb24lMjB0cmFuc3BvcnR8ZW58MHx8fHwxNzc5Nzk4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]

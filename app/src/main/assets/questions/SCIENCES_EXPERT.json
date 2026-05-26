@@ -1,602 +1,673 @@
 [
   {
-    "question": "Quel est le nom de l'enzyme responsable de la fixation du CO2 dans le cycle de Calvin chez les plantes C3 ?",
-    "correct_answer": "Rubisco",
+    "question": "Quel est le nom du premier organisme génétiquement modifié breveté en 1980 par la Cour suprême des États-Unis ?",
+    "correct_answer": "Bactérie Pseudomonas putida",
     "incorrect_answers": [
-      "PEP carboxylase",
-      "ATP synthase",
-      "Nitrogénase"
+      "Souris Oncomouse",
+      "Plante Roundup Ready",
+      "Virus de la mosaïque du tabac"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La bactérie modifiée pour dégrader le pétrole a marqué un tournant juridique.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734062-165cc0094e61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel phénomène physique explique la formation des aurores boréales ?",
-    "correct_answer": "Interaction des particules solaires avec le champ magnétique terrestre",
+    "question": "Quel élément chimique, découvert en 1869 par Dmitri Mendeleïev, porte le symbole 'Es' ?",
+    "correct_answer": "Einsteinium",
     "incorrect_answers": [
-      "Réflexion de la lumière sur les nuages de glace",
-      "Réaction chimique dans l'atmosphère",
-      "Décharge électrique entre nuages"
+      "Europium",
+      "Erbium",
+      "Einsteinite"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1630959302862-82cec6653d60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Nommé en l'honneur d'Albert Einstein, cet actinide est produit artificiellement.",
+    "imageUrl": "https://images.unsplash.com/photo-1770320742292-2a0b0be0679d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel élément chimique a été découvert en premier dans le spectre solaire avant d'être trouvé sur Terre ?",
-    "correct_answer": "Hélium",
+    "question": "Quel phénomène physique explique la couleur bleue du ciel terrestre ?",
+    "correct_answer": "Diffusion de Rayleigh",
     "incorrect_answers": [
-      "Hydrogène",
-      "Lithium",
-      "Oxygène"
+      "Réflexion de la lumière lunaire",
+      "Absorption par l'ozone",
+      "Dispersion de Mie"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1581056771306-166fa643838c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La diffusion des courtes longueurs d'onde par les molécules d'air donne cette teinte.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848567-a24f55473cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme par lequel les bactéries échangent du matériel génétique via un phage ?",
-    "correct_answer": "Transduction",
+    "question": "Quel est le nom du premier mammifère cloné en 1996 à partir d'une cellule adulte ?",
+    "correct_answer": "Dolly la brebis",
     "incorrect_answers": [
-      "Conjugaison",
-      "Transformation",
-      "Mutation"
+      "Snoopy le chien",
+      "Copycat le chat",
+      "Molly la souris"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848567-a24f55473cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Clonée à l'Institut Roslin en Écosse, elle a vécu 6 ans.",
+    "imageUrl": "https://images.unsplash.com/photo-1581056771085-3ce30d907416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel principe physique est à l'origine de la lévitation magnétique des supraconducteurs ?",
-    "correct_answer": "Effet Meissner",
+    "question": "Quel physicien a formulé l'équation E=mc² en 1905 dans un article sur l'électrodynamique ?",
+    "correct_answer": "Albert Einstein",
     "incorrect_answers": [
-      "Effet Doppler",
-      "Effet photoélectrique",
-      "Effet Hall"
+      "Max Planck",
+      "Niels Bohr",
+      "Werner Heisenberg"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556759597-96df19797d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette équation lie masse et énergie dans la théorie de la relativité restreinte.",
+    "imageUrl": "https://images.unsplash.com/photo-1684259498900-afdea87b1a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules cancéreuses envahissent les tissus voisins ?",
-    "correct_answer": "Métastase",
+    "question": "Quel composé chimique, de formule C6H12O6, est le principal sucre produit par la photosynthèse ?",
+    "correct_answer": "Glucose",
     "incorrect_answers": [
-      "Apoptose",
-      "Mitose",
-      "Nécrose"
+      "Fructose",
+      "Saccharose",
+      "Lactose"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1707944746620-fc0371b91906?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Formé dans les chloroplastes, il alimente la respiration cellulaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1724860755552-55f1c46f763d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la particule subatomique prédite par Dirac et découverte en 1932 ?",
-    "correct_answer": "Positron",
+    "question": "Quel est le nom du trou noir supermassif au centre de notre galaxie, la Voie lactée ?",
+    "correct_answer": "Sagittarius A*",
     "incorrect_answers": [
-      "Neutrino",
-      "Muon",
-      "Pion"
+      "Cygnus X-1",
+      "M87*",
+      "Andromède A"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1724860755552-55f1c46f763d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTB8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Sa masse est estimée à 4 millions de fois celle du Soleil.",
+    "imageUrl": "https://images.unsplash.com/photo-1616996691748-3f5f78093ab0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel composé chimique est responsable de la couleur verte des feuilles en automne ?",
-    "correct_answer": "Chlorophylle résiduelle",
+    "question": "Quel organe humain produit l'insuline, hormone régulant la glycémie ?",
+    "correct_answer": "Pancréas",
     "incorrect_answers": [
-      "Carotène",
-      "Anthocyane",
-      "Xanthophylle"
+      "Foie",
+      "Rate",
+      "Thymus"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1614308457932-e16d85c5d053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les cellules bêta des îlots de Langerhans sécrètent cette hormone.",
+    "imageUrl": "https://images.unsplash.com/photo-1742137587510-389de3549208?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du phénomène où un fluide visqueux s'écoule plus rapidement près des parois ?",
-    "correct_answer": "Effet Weissenberg",
+    "question": "Quel phénomène météorologique extrême a une vitesse de vent supérieure à 300 km/h ?",
+    "correct_answer": "Ouragan de catégorie 5",
     "incorrect_answers": [
-      "Effet Magnus",
-      "Effet Coandă",
-      "Effet Bernoulli"
+      "Tornade EF5",
+      "Tempête tropicale",
+      "Cyclone extratropical"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1658387575638-026450e4df6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les ouragans de catégorie 5 dépassent 252 km/h selon l'échelle de Saffir-Simpson.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme de résistance aux antibiotiques où les bactéries modifient leur paroi cellulaire ?",
-    "correct_answer": "Modification de la cible",
+    "question": "Quel est le nom du premier antibiotique découvert par Alexander Fleming en 1928 ?",
+    "correct_answer": "Pénicilline",
     "incorrect_answers": [
-      "Pompe à efflux",
-      "Production de bêta-lactamase",
-      "Formation de biofilm"
+      "Streptomycine",
+      "Tétracycline",
+      "Érythromycine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1679138996155-778eeb23a927?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Isolée à partir du champignon Penicillium notatum, elle révolutionna la médecine.",
+    "imageUrl": "https://images.unsplash.com/photo-1630959299280-874fe62c7d83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la théorie expliquant la formation des galaxies par effondrement gravitationnel ?",
-    "correct_answer": "Théorie des instabilités de Jeans",
+    "question": "Quel élément du tableau périodique a le numéro atomique 92 ?",
+    "correct_answer": "Uranium",
     "incorrect_answers": [
-      "Théorie du Big Bang",
-      "Théorie des cordes",
-      "Théorie de l'état stationnaire"
+      "Plutonium",
+      "Neptunium",
+      "Radium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1777885690555-3b35715ebab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "C'est le dernier élément naturel avant les transuraniens.",
+    "imageUrl": "https://images.unsplash.com/photo-1631816290138-9f0f79cada3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes convertissent l'azote atmosphérique en composés assimilables ?",
-    "correct_answer": "Fixation biologique de l'azote",
+    "question": "Quel est le nom du processus par lequel une étoile massive explose en fin de vie ?",
+    "correct_answer": "Supernova",
     "incorrect_answers": [
-      "Nitrification",
-      "Dénitrification",
-      "Ammonification"
+      "Nova",
+      "Hypernova",
+      "Quasar"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1576670159805-622729b5b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Une supernova de type II résulte de l'effondrement d'un cœur stellaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la particule médiatrice de l'interaction forte dans le modèle standard ?",
-    "correct_answer": "Gluon",
+    "question": "Quel neurotransmetteur est associé à la maladie de Parkinson ?",
+    "correct_answer": "Dopamine",
     "incorrect_answers": [
-      "Photon",
-      "W boson",
-      "Z boson"
+      "Sérotonine",
+      "GABA",
+      "Glutamate"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734062-165cc0094e61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Sa carence dans le striatum entraîne des troubles moteurs.",
+    "imageUrl": "https://images.unsplash.com/photo-1742137587486-fdef8cdd25bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme par lequel les cellules eucaryotes éliminent les protéines mal repliées ?",
-    "correct_answer": "Dégradation protéasomale",
+    "question": "Quel physicien a inventé le premier microscope électronique en 1931 ?",
+    "correct_answer": "Ernst Ruska",
     "incorrect_answers": [
-      "Autophagie",
-      "Lysosome",
-      "Exocytose"
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke",
+      "Max Knoll"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1684259498786-ffaf1ec5c5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il a reçu le prix Nobel de physique en 1986 pour cette invention.",
+    "imageUrl": "https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'effet optique où un objet semble plus proche en raison de la courbure de l'espace-temps ?",
-    "correct_answer": "Lentille gravitationnelle",
+    "question": "Quel est le nom du phénomène où un fluide s'écoule sans viscosité à très basse température ?",
+    "correct_answer": "Supraconductivité",
     "incorrect_answers": [
-      "Aberration chromatique",
+      "Superfluidité",
+      "Turbulence",
+      "Laminarité"
+    ],
+    "explanation": "Découverte en 1911 par Heike Kamerlingh Onnes avec le mercure.",
+    "imageUrl": "https://images.unsplash.com/photo-1631556761867-50fd6cf7f0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel organisme modèle est couramment utilisé en génétique pour étudier le développement ?",
+    "correct_answer": "Drosophile (mouche du vinaigre)",
+    "incorrect_answers": [
+      "Nématode (Caenorhabditis elegans)",
+      "Souris",
+      "Bactérie E. coli"
+    ],
+    "explanation": "Ses chromosomes polytènes facilitent l'observation des gènes.",
+    "imageUrl": "https://images.unsplash.com/photo-1742137587512-1276fbcf973c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier satellite artificiel lancé par l'URSS en 1957 ?",
+    "correct_answer": "Spoutnik 1",
+    "incorrect_answers": [
+      "Luna 1",
+      "Vostok 1",
+      "Soyouz 1"
+    ],
+    "explanation": "Il marqua le début de l'ère spatiale avec son bip-bip caractéristique.",
+    "imageUrl": "https://images.unsplash.com/photo-1630959302862-82cec6653d60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDV8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel composé chimique, de formule NH3, est produit industriellement par le procédé Haber-Bosch ?",
+    "correct_answer": "Ammoniac",
+    "incorrect_answers": [
+      "Méthane",
+      "Dioxyde de carbone",
+      "Protoxyde d'azote"
+    ],
+    "explanation": "Ce procédé utilise l'azote atmosphérique et l'hydrogène sous haute pression.",
+    "imageUrl": "https://images.unsplash.com/photo-1758573467240-f944226c2026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier mammifère à avoir été envoyé dans l'espace en 1948 ?",
+    "correct_answer": "Laïka (chienne)",
+    "incorrect_answers": [
+      "Albert II (singe)",
+      "Félicette (chat)",
+      "Miss Baker (singe écureuil)"
+    ],
+    "explanation": "Elle est morte dans l'espace à bord de Spoutnik 2.",
+    "imageUrl": "https://images.unsplash.com/photo-1684259498992-d3d35d10129b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel phénomène optique crée un arc-en-ciel secondaire moins lumineux ?",
+    "correct_answer": "Double réflexion interne",
+    "incorrect_answers": [
+      "Dispersion chromatique",
       "Diffraction",
       "Polarisation"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1748182448174-30c6b83443b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les couleurs sont inversées par rapport à l'arc primaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1581093577421-f561a654a353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les bactéries produisent de l'énergie sans oxygène ?",
-    "correct_answer": "Fermentation",
+    "question": "Quel est le nom du premier humain à avoir marché sur la Lune en 1969 ?",
+    "correct_answer": "Neil Armstrong",
     "incorrect_answers": [
-      "Respiration aérobie",
-      "Photosynthèse",
-      "Chimiolithotrophie"
+      "Buzz Aldrin",
+      "Yuri Gagarine",
+      "John Glenn"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758573467057-99f26217b2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Sa phrase 'Un petit pas pour l'homme...' est entrée dans l'histoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1631556763178-b96af5e9993e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la loi qui décrit la distribution des vitesses des molécules dans un gaz ?",
-    "correct_answer": "Loi de Maxwell-Boltzmann",
+    "question": "Quel élément chimique, de symbole 'Tc', est le premier élément artificiel produit ?",
+    "correct_answer": "Technétium",
     "incorrect_answers": [
-      "Loi de Boyle-Mariotte",
-      "Loi de Gay-Lussac",
-      "Loi de Charles"
+      "Prométhium",
+      "Plutonium",
+      "Neptunium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1761095596584-34731de3e568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Isolé en 1937 par Emilio Segrè et Carlo Perrier.",
+    "imageUrl": "https://images.unsplash.com/photo-1614308456595-a59d48697ea8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme de défense des plantes contre les herbivores impliquant des composés toxiques ?",
-    "correct_answer": "Allélopathie",
+    "question": "Quel est le nom du processus par lequel les plantes convertissent la lumière en énergie chimique ?",
+    "correct_answer": "Photosynthèse",
     "incorrect_answers": [
-      "Symbiose",
-      "Parasitisme",
-      "Commensalisme"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1732690233982-1d4567384ea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la particule subatomique prédite par la théorie de la supersymétrie ?",
-    "correct_answer": "Neutralino",
-    "incorrect_answers": [
-      "Graviton",
-      "Axino",
-      "Photino"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1748261347902-451fb437e8fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les cellules souches se différencient en types cellulaires spécifiques ?",
-    "correct_answer": "Spécification",
-    "incorrect_answers": [
-      "Prolifération",
-      "Migration",
-      "Apoptose"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1630959299280-874fe62c7d83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'effet quantique où un électron traverse une barrière de potentiel ?",
-    "correct_answer": "Effet tunnel",
-    "incorrect_answers": [
-      "Effet photoélectrique",
-      "Effet Compton",
-      "Effet Zeeman"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1663365520153-0124d0e7cf98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du mécanisme par lequel les plantes régulent leur température en évaporant de l'eau ?",
-    "correct_answer": "Transpiration",
-    "incorrect_answers": [
-      "Photosynthèse",
-      "Respiration",
-      "Guttation"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556763178-b96af5e9993e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDZ8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la théorie expliquant l'expansion accélérée de l'Univers ?",
-    "correct_answer": "Énergie noire",
-    "incorrect_answers": [
-      "Matière noire",
-      "Constante cosmologique",
-      "Inflation"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1766297248076-2848d8d0d464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les bactéries dégradent les polluants organiques ?",
-    "correct_answer": "Biodégradation",
-    "incorrect_answers": [
-      "Compostage",
-      "Pyrolyse",
+      "Respiration cellulaire",
+      "Fermentation",
       "Oxydation"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1684259498900-afdea87b1a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Elle se déroule dans les chloroplastes et produit du glucose.",
+    "imageUrl": "https://images.unsplash.com/photo-1679138996155-778eeb23a927?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDl8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la particule médiatrice de l'interaction faible chargée ?",
-    "correct_answer": "W boson",
+    "question": "Quel physicien a formulé les lois du mouvement en 1687 dans 'Principia' ?",
+    "correct_answer": "Isaac Newton",
     "incorrect_answers": [
-      "Z boson",
-      "Photon",
-      "Gluon"
+      "Galilée",
+      "Johannes Kepler",
+      "Albert Einstein"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1676044439159-0effccaac4ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ses trois lois fondent la mécanique classique.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685848662-0aad938fd19a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme par lequel les cellules eucaryotes répliquent leur ADN ?",
-    "correct_answer": "Réplication semi-conservative",
+    "question": "Quel est le nom du premier vaccin contre la variole, développé par Edward Jenner en 1796 ?",
+    "correct_answer": "Vaccin à virus de la vaccine",
     "incorrect_answers": [
-      "Réplication conservative",
-      "Réplication dispersive",
-      "Transcription"
+      "Vaccin à virus atténué",
+      "Vaccin à ARN",
+      "Vaccin à toxine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il utilisait le virus de la vaccine, proche de la variole.",
+    "imageUrl": "https://images.unsplash.com/photo-1684259498786-ffaf1ec5c5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'effet où un courant électrique induit un champ magnétique ?",
-    "correct_answer": "Loi d'Ampère",
+    "question": "Quel est le nom du premier ordinateur programmable, construit en 1941 par Konrad Zuse ?",
+    "correct_answer": "Z3",
     "incorrect_answers": [
-      "Loi de Faraday",
-      "Loi de Lenz",
-      "Loi de Coulomb"
+      "ENIAC",
+      "Colossus",
+      "Mark I"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1616996691748-3f5f78093ab0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDB8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il fonctionnait avec des relais électromécaniques.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734201-72662f1a368d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes stockent l'énergie solaire sous forme chimique ?",
-    "correct_answer": "Photosynthèse",
+    "question": "Quel est le nom du processus par lequel un gaz se transforme directement en solide ?",
+    "correct_answer": "Dépôt ou sublimation inverse",
     "incorrect_answers": [
-      "Respiration",
-      "Fermentation",
-      "Chimiolithotrophie"
+      "Condensation",
+      "Évaporation",
+      "Fusion"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1742137587512-1276fbcf973c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Exemple : formation de givre à partir de la vapeur d'eau.",
+    "imageUrl": "https://images.unsplash.com/photo-1581056771306-166fa643838c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la théorie expliquant la formation des trous noirs supermassifs ?",
-    "correct_answer": "Effondrement direct de nuages de gaz",
+    "question": "Quel est le nom du premier animal domestiqué par l'humanité il y a environ 15 000 ans ?",
+    "correct_answer": "Chien (Canis lupus familiaris)",
     "incorrect_answers": [
-      "Fusion de trous noirs",
-      "Accrétion de matière",
-      "Explosion de supernova"
+      "Chat",
+      "Mouton",
+      "Bœuf"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1582560486643-d51a9722b92d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Les preuves génétiques suggèrent une domestication en Eurasie.",
+    "imageUrl": "https://images.unsplash.com/photo-1605781573960-d12a0d37b2d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme de résistance aux antibiotiques où les bactéries produisent des enzymes inactivantes ?",
-    "correct_answer": "Inactivation enzymatique",
+    "question": "Quel physicien a découvert l'électron en 1897 grâce à un tube à rayons cathodiques ?",
+    "correct_answer": "J.J. Thomson",
     "incorrect_answers": [
-      "Modification de la cible",
-      "Pompe à efflux",
-      "Imperméabilité de la membrane"
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "Robert Millikan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685848662-0aad938fd19a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTV8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il a mesuré le rapport charge/masse de cette particule.",
+    "imageUrl": "https://images.unsplash.com/photo-1764504985766-14ea5760a6fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la particule subatomique prédite par la théorie de Kaluza-Klein ?",
-    "correct_answer": "Graviton",
+    "question": "Quel est le nom du premier antibiotique semi-synthétique dérivé de la pénicilline ?",
+    "correct_answer": "Ampicilline",
     "incorrect_answers": [
-      "Photon",
-      "Gluon",
-      "W boson"
+      "Tétracycline",
+      "Streptomycine",
+      "Ciprofloxacine"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1706054740800-fd756de03632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Développée en 1961, elle est résistante à l'acidité gastrique.",
+    "imageUrl": "https://images.unsplash.com/photo-1576670159805-622729b5b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules eucaryotes dégradent leurs propres composants ?",
-    "correct_answer": "Autophagie",
+    "question": "Quel est le nom du processus par lequel une cellule ingère des particules solides ?",
+    "correct_answer": "Phagocytose",
     "incorrect_answers": [
-      "Lysosome",
-      "Exocytose",
-      "Endocytose"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734201-72662f1a368d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'effet où la lumière est déviée par un champ gravitationnel intense ?",
-    "correct_answer": "Déflexion gravitationnelle",
-    "incorrect_answers": [
-      "Aberration stellaire",
-      "Effet Doppler",
-      "Polarisation"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1676293107432-1b6753581201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du mécanisme par lequel les plantes attirent les pollinisateurs via des signaux chimiques ?",
-    "correct_answer": "Allomones",
-    "incorrect_answers": [
-      "Phéromones",
-      "Nectar",
-      "Pigments floraux"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1684259498992-d3d35d10129b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDF8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la théorie expliquant la stabilité des noyaux atomiques ?",
-    "correct_answer": "Force nucléaire forte",
-    "incorrect_answers": [
-      "Force électromagnétique",
-      "Force faible",
-      "Gravité"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631816290138-9f0f79cada3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les bactéries fixent l'azote atmosphérique ?",
-    "correct_answer": "Nitrification",
-    "incorrect_answers": [
-      "Dénitrification",
-      "Ammonification",
-      "Assimilation"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1614308456595-a59d48697ea8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la particule médiatrice de l'interaction électromagnétique ?",
-    "correct_answer": "Photon",
-    "incorrect_answers": [
-      "Gluon",
-      "W boson",
-      "Z boson"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1770320742292-2a0b0be0679d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du mécanisme par lequel les cellules eucaryotes synthétisent des protéines ?",
-    "correct_answer": "Traduction",
-    "incorrect_answers": [
-      "Transcription",
-      "Réplication",
-      "Splicing"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734030-a31d96462eec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de l'effet où un objet en mouvement dans un fluide subit une force perpendiculaire ?",
-    "correct_answer": "Effet Magnus",
-    "incorrect_answers": [
-      "Effet Bernoulli",
-      "Effet Coandă",
-      "Effet Venturi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556761867-50fd6cf7f0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les plantes perdent de l'eau sous forme de vapeur ?",
-    "correct_answer": "Transpiration",
-    "incorrect_answers": [
-      "Guttation",
-      "Exsudation",
-      "Respiration"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1575467678971-7cd5c2937dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la théorie expliquant la formation des éléments lourds dans les étoiles ?",
-    "correct_answer": "Processus r et s",
-    "incorrect_answers": [
-      "Fusion nucléaire",
-      "Spallation",
-      "Désintégration radioactive"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1636721174787-850cf30bc35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du mécanisme de résistance aux antibiotiques où les bactéries modifient leur membrane externe ?",
-    "correct_answer": "Imperméabilité de la membrane",
-    "incorrect_answers": [
-      "Production de bêta-lactamase",
-      "Pompe à efflux",
-      "Modification de la cible"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1616046560582-41ac3c954715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom de la particule subatomique prédite par la théorie de la grande unification ?",
-    "correct_answer": "X boson",
-    "incorrect_answers": [
-      "W boson",
-      "Z boson",
-      "Photon"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1764504985766-14ea5760a6fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTJ8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le nom du processus par lequel les cellules eucaryotes éliminent les déchets métaboliques ?",
-    "correct_answer": "Exocytose",
-    "incorrect_answers": [
+      "Pinocytose",
       "Endocytose",
-      "Phagocytose",
-      "Pinocytose"
+      "Exocytose"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1631556760646-50241850eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Réalisée par les macrophages pour éliminer les pathogènes.",
+    "imageUrl": "https://images.unsplash.com/photo-1766297248076-2848d8d0d464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'effet où un courant électrique est induit par un champ magnétique variable ?",
-    "correct_answer": "Loi de Faraday",
+    "question": "Quel est le nom du premier élément chimique synthétisé en laboratoire en 1937 ?",
+    "correct_answer": "Technétium",
     "incorrect_answers": [
-      "Loi d'Ampère",
-      "Loi de Lenz",
-      "Loi de Coulomb"
+      "Plutonium",
+      "Neptunium",
+      "Prométhium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1605781573960-d12a0d37b2d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Produit par bombardement de molybdène avec des deutérons.",
+    "imageUrl": "https://images.unsplash.com/photo-1748261348346-9ef0f83b9ab3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme par lequel les plantes synthétisent des composés organiques à partir de CO2 ?",
-    "correct_answer": "Photosynthèse",
+    "question": "Quel est le nom du premier mammifère marin à avoir été cloné en 2000 ?",
+    "correct_answer": "Phoque moine",
     "incorrect_answers": [
-      "Respiration",
-      "Fermentation",
-      "Chimiolithotrophie"
+      "Dauphin",
+      "Baleine",
+      "Lamantin"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758573467240-f944226c2026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cloné à Hawaï, il s'agissait d'une espèce en danger.",
+    "imageUrl": "https://images.unsplash.com/photo-1758573467057-99f26217b2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la théorie expliquant la structure à grande échelle de l'Univers ?",
-    "correct_answer": "Modèle ΛCDM",
+    "question": "Quel est le nom du premier satellite naturel de la Terre ?",
+    "correct_answer": "La Lune",
     "incorrect_answers": [
-      "Théorie du Big Bang",
-      "Théorie des cordes",
-      "Théorie de l'état stationnaire"
+      "Phobos",
+      "Deimos",
+      "Titan"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Unique satellite naturel de notre planète depuis 4,5 milliards d'années.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734034-54e1da4ac7c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les bactéries dégradent les polluants inorganiques ?",
-    "correct_answer": "Oxydation biologique",
+    "question": "Quel est le nom du premier antibiotique découvert avant la pénicilline, en 1910 ?",
+    "correct_answer": "Salvarsan",
     "incorrect_answers": [
-      "Réduction biologique",
-      "Compostage",
-      "Pyrolyse"
+      "Streptomycine",
+      "Érythromycine",
+      "Tétracycline"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1581093577421-f561a654a353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Utilisé contre la syphilis, il contenait de l'arsenic.",
+    "imageUrl": "https://images.unsplash.com/photo-1616046560582-41ac3c954715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la particule médiatrice de l'interaction gravitationnelle ?",
-    "correct_answer": "Graviton",
+    "question": "Quel est le nom du processus par lequel une étoile comme le Soleil fusionne l'hydrogène en hélium ?",
+    "correct_answer": "Chaîne proton-proton",
     "incorrect_answers": [
-      "Photon",
-      "Gluon",
-      "W boson"
+      "Cycle CNO",
+      "Fusion triple alpha",
+      "Réaction de Bethe-Weizsäcker"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1766297247072-93fd815afef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Dominant dans les étoiles de masse solaire.",
+    "imageUrl": "https://images.unsplash.com/photo-1676044439159-0effccaac4ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme par lequel les cellules eucaryotes réparent leur ADN endommagé ?",
-    "correct_answer": "Réparation par excision de nucléotides",
+    "question": "Quel est le nom du premier mammifère à avoir été envoyé dans l'espace et revenu vivant en 1960 ?",
+    "correct_answer": "Les chiens Belka et Strelka",
     "incorrect_answers": [
-      "Réparation par recombinaison homologue",
-      "Réparation par suture",
-      "Réparation par ligation"
+      "La chienne Laïka",
+      "Les souris",
+      "Les singes Ham et Enos"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1618281228519-81136b42f6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ils ont prouvé qu'un voyage orbital était survivable.",
+    "imageUrl": "https://images.unsplash.com/photo-1614308457932-e16d85c5d053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'effet où un fluide en mouvement exerce une force sur un objet immergé ?",
-    "correct_answer": "Portance",
+    "question": "Quel est le nom du premier élément chimique découvert par spectroscopie en 1868 ?",
+    "correct_answer": "Hélium",
     "incorrect_answers": [
-      "Traînée",
-      "Poussée d'Archimède",
-      "Viscosité"
+      "Hydrogène",
+      "Oxygène",
+      "Azote"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1742137587510-389de3549208?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Identifié dans le spectre du Soleil avant d'être trouvé sur Terre.",
+    "imageUrl": "https://images.unsplash.com/photo-1669344319065-61282714d7ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les plantes stockent l'énergie sous forme d'amidon ?",
-    "correct_answer": "Polymérisation du glucose",
+    "question": "Quel est le nom du premier mammifère à avoir été génétiquement modifié pour produire une protéine humaine ?",
+    "correct_answer": "Souris Oncomouse",
     "incorrect_answers": [
-      "Hydrolyse",
-      "Glycolyse",
-      "Fermentation"
+      "Chèvre",
+      "Lapin",
+      "Porc"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1669344319065-61282714d7ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Modifiée en 1988 pour étudier le cancer du sein.",
+    "imageUrl": "https://images.unsplash.com/photo-1748261347768-a32434751a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la théorie expliquant la formation des planètes à partir de disques protoplanétaires ?",
-    "correct_answer": "Accrétion de planétésimaux",
+    "question": "Quel est le nom du premier satellite artificiel lancé par les États-Unis en 1958 ?",
+    "correct_answer": "Explorer 1",
     "incorrect_answers": [
-      "Capture gravitationnelle",
-      "Effondrement direct",
-      "Fusion nucléaire"
+      "Vanguard 1",
+      "Telstar 1",
+      "TIROS-1"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734034-54e1da4ac7c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTd8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il a découvert les ceintures de Van Allen.",
+    "imageUrl": "https://images.unsplash.com/photo-1636751179475-516561a802c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme de résistance aux antibiotiques où les bactéries forment des biofilms ?",
-    "correct_answer": "Protection par biofilm",
+    "question": "Quel est le nom du premier antibiotique à large spectre découvert en 1943 ?",
+    "correct_answer": "Streptomycine",
     "incorrect_answers": [
-      "Production d'enzymes",
-      "Modification de la cible",
-      "Pompe à efflux"
+      "Pénicilline",
+      "Tétracycline",
+      "Chloramphénicol"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1748261347768-a32434751a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2OHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Isolée par Selman Waksman, efficace contre la tuberculose.",
+    "imageUrl": "https://images.unsplash.com/photo-1575467678971-7cd5c2937dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la particule subatomique prédite par la théorie de la supersymétrie pour le Higgs ?",
-    "correct_answer": "Higgsino",
+    "question": "Quel est le nom du premier élément chimique artificiel produit en 1940 ?",
+    "correct_answer": "Neptunium",
     "incorrect_answers": [
-      "Gravitino",
-      "Photino",
-      "Wino"
+      "Plutonium",
+      "Curium",
+      "Americium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1630959302661-0005f0bb0b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Produit par bombardement d'uranium avec des neutrons.",
+    "imageUrl": "https://images.unsplash.com/photo-1766297247072-93fd815afef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les cellules eucaryotes dégradent les lipides ?",
-    "correct_answer": "Bêta-oxydation",
+    "question": "Quel est le nom du premier mammifère à avoir été envoyé dans l'espace par la Chine en 1966 ?",
+    "correct_answer": "Deux chiens (Xiaobao et Shanshan)",
     "incorrect_answers": [
-      "Glycolyse",
-      "Cycle de Krebs",
-      "Fermentation"
+      "Un singe",
+      "Un lapin",
+      "Des souris"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1758685734160-3a2f6f73f3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ils ont survécu au vol suborbital.",
+    "imageUrl": "https://images.unsplash.com/photo-1732690233982-1d4567384ea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDR8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de l'effet où un objet en rotation dévie un fluide en mouvement ?",
-    "correct_answer": "Effet Coriolis",
+    "question": "Quel est le nom du premier satellite artificiel à étudier le rayonnement cosmique ?",
+    "correct_answer": "Explorer 3",
     "incorrect_answers": [
-      "Effet Magnus",
-      "Effet Bernoulli",
-      "Effet Venturi"
+      "Sputnik 2",
+      "Vanguard 2",
+      "TIROS-2"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1581056771085-3ce30d907416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTZ8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Il a confirmé l'existence des ceintures de Van Allen.",
+    "imageUrl": "https://images.unsplash.com/photo-1636721174787-850cf30bc35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du mécanisme par lequel les plantes régulent leur ouverture stomatique ?",
-    "correct_answer": "Contrôle hormonal",
+    "question": "Quel est le nom du premier antibiotique découvert dans un champignon du genre Cephalosporium ?",
+    "correct_answer": "Céphalosporine",
     "incorrect_answers": [
-      "Contrôle enzymatique",
-      "Contrôle électrique",
-      "Contrôle thermique"
+      "Pénicilline",
+      "Streptomycine",
+      "Tétracycline"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1636751179475-516561a802c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4NXx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Découverte en 1945 par Giuseppe Brotzu.",
+    "imageUrl": "https://images.unsplash.com/photo-1631556759597-96df19797d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3NHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom de la théorie expliquant la formation des trous noirs de Kerr ?",
-    "correct_answer": "Solution de Kerr",
+    "question": "Quel est le nom du premier élément chimique synthétisé par fusion nucléaire en 1952 ?",
+    "correct_answer": "Einsteinium",
     "incorrect_answers": [
-      "Solution de Schwarzschild",
-      "Solution de Reissner-Nordström",
-      "Solution de de Sitter"
+      "Plutonium",
+      "Curium",
+      "Berkélium"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1742137587486-fdef8cdd25bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5MTA0MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Produit lors de l'essai thermonucléaire Ivy Mike.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734160-3a2f6f73f3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel est le nom du processus par lequel les bactéries transforment l'ammoniac en nitrites ?",
-    "correct_answer": "Nitrification",
+    "question": "Quel est le nom du premier mammifère à avoir été envoyé dans l'espace par l'Inde en 2023 ?",
+    "correct_answer": "Gaganyaan (humain simulé)",
     "incorrect_answers": [
-      "Dénitrification",
-      "Ammonification",
-      "Assimilation"
+      "Un singe",
+      "Un chien",
+      "Des souris"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1748261348346-9ef0f83b9ab3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTh8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTEwNDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Mission test pour le programme habité indien.",
+    "imageUrl": "https://images.unsplash.com/photo-1748261347902-451fb437e8fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3MHx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier satellite artificiel à cartographier la surface de Vénus ?",
+    "correct_answer": "Venera 9",
+    "incorrect_answers": [
+      "Magellan",
+      "Pioneer Venus",
+      "Mariner 2"
+    ],
+    "explanation": "Première sonde à transmettre des images de la surface vénusienne.",
+    "imageUrl": "https://images.unsplash.com/photo-1777885690555-3b35715ebab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTN8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier antibiotique découvert dans une bactérie du genre Streptomyces ?",
+    "correct_answer": "Streptomycine",
+    "incorrect_answers": [
+      "Pénicilline",
+      "Tétracycline",
+      "Chloramphénicol"
+    ],
+    "explanation": "Isolée par Selman Waksman en 1943.",
+    "imageUrl": "https://images.unsplash.com/photo-1582560486643-d51a9722b92d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMjB8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier élément chimique découvert dans une étoile à neutrons en 2017 ?",
+    "correct_answer": "Strontium",
+    "incorrect_answers": [
+      "Or",
+      "Platine",
+      "Uranium"
+    ],
+    "explanation": "Détecté dans la fusion d'étoiles à neutrons GW170817.",
+    "imageUrl": "https://images.unsplash.com/photo-1631556760646-50241850eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3Nnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier mammifère à avoir été envoyé dans l'espace par l'ESA en 1985 ?",
+    "correct_answer": "Souris (Spacelab 1)",
+    "incorrect_answers": [
+      "Rat",
+      "Cochon d'Inde",
+      "Lapin"
+    ],
+    "explanation": "Mission européenne à bord de la navette spatiale.",
+    "imageUrl": "https://images.unsplash.com/photo-1748182448174-30c6b83443b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTF8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier satellite artificiel à étudier les exoplanètes ?",
+    "correct_answer": "Corot",
+    "incorrect_answers": [
+      "Kepler",
+      "TESS",
+      "James Webb"
+    ],
+    "explanation": "Lancé en 2006 par la France et l'ESA.",
+    "imageUrl": "https://images.unsplash.com/photo-1706054740800-fd756de03632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDJ8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier antibiotique découvert dans une algue marine ?",
+    "correct_answer": "Céphalosporine",
+    "incorrect_answers": [
+      "Pénicilline",
+      "Streptomycine",
+      "Tétracycline"
+    ],
+    "explanation": "Isolée à partir de Cephalosporium acremonium en 1945.",
+    "imageUrl": "https://images.unsplash.com/photo-1630959302661-0005f0bb0b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4Mnx8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier élément chimique produit par une supernova ?",
+    "correct_answer": "Calcium",
+    "incorrect_answers": [
+      "Fer",
+      "Oxygène",
+      "Carbone"
+    ],
+    "explanation": "Synthétisé lors de la fusion nucléaire des étoiles massives.",
+    "imageUrl": "https://images.unsplash.com/photo-1761095596584-34731de3e568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTl8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier mammifère à avoir été envoyé dans l'espace par le Japon en 1995 ?",
+    "correct_answer": "Souris (SFU)",
+    "incorrect_answers": [
+      "Rat",
+      "Cochon d'Inde",
+      "Lapin"
+    ],
+    "explanation": "Mission sur la plateforme Space Flyer Unit.",
+    "imageUrl": "https://images.unsplash.com/photo-1758685734030-a31d96462eec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDh8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier satellite artificiel à étudier les aurores boréales ?",
+    "correct_answer": "Dynamics Explorer 1",
+    "incorrect_answers": [
+      "Aureole 1",
+      "UARS",
+      "POES"
+    ],
+    "explanation": "Lancé en 1981 par la NASA.",
+    "imageUrl": "https://images.unsplash.com/photo-1676293107432-1b6753581201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4M3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier antibiotique découvert dans un lichen ?",
+    "correct_answer": "Usnic acid",
+    "incorrect_answers": [
+      "Pénicilline",
+      "Streptomycine",
+      "Tétracycline"
+    ],
+    "explanation": "Utilisée comme antibactérien topique.",
+    "imageUrl": "https://images.unsplash.com/photo-1658387575638-026450e4df6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMTR8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier élément chimique découvert dans une comète en 1986 ?",
+    "correct_answer": "Éthylène glycol",
+    "incorrect_answers": [
+      "Eau",
+      "Méthane",
+      "Ammoniac"
+    ],
+    "explanation": "Détecté dans la comète de Halley par la sonde Giotto.",
+    "imageUrl": "https://images.unsplash.com/photo-1663365520153-0124d0e7cf98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDN8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier mammifère à avoir été envoyé dans l'espace par l'Iran en 2010 ?",
+    "correct_answer": "Tardigrade (ourson d'eau)",
+    "incorrect_answers": [
+      "Souris",
+      "Rat",
+      "Lapin"
+    ],
+    "explanation": "Organisme extrêmophile résistant aux conditions spatiales.",
+    "imageUrl": "https://images.unsplash.com/photo-1707944746620-fc0371b91906?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMDd8fHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwbmF0dXJlfGVufDB8fHx8MTc3OTc5NjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier satellite artificiel à étudier les ceintures de Van Allen ?",
+    "correct_answer": "Explorer 1",
+    "incorrect_answers": [
+      "Vanguard 1",
+      "Sputnik 1",
+      "TIROS-1"
+    ],
+    "explanation": "Lancé en 1958, il a confirmé leur existence.",
+    "imageUrl": "https://images.unsplash.com/photo-1618281228519-81136b42f6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3N3x8c2NpZW5jZSUyMGxhYm9yYXRvcnklMjBuYXR1cmV8ZW58MHx8fHwxNzc5Nzk1OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel est le nom du premier antibiotique découvert dans une éponge marine ?",
+    "correct_answer": "Ara-C",
+    "incorrect_answers": [
+      "Pénicilline",
+      "Streptomycine",
+      "Tétracycline"
+    ],
+    "explanation": "Utilisé en chimiothérapie, dérivé de la spongothymidine.",
+    "imageUrl": null
   }
 ]

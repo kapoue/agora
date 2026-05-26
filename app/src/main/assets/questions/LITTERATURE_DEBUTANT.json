@@ -3,121 +3,100 @@
     "question": "Qui a écrit 'Les Misérables' ?",
     "correct_answer": "Victor Hugo",
     "incorrect_answers": [
-      "Émile Zola",
       "Gustave Flaubert",
+      "Émile Zola",
       "Honoré de Balzac"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1526243741027-444d633d7365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Victor Hugo est l'auteur emblématique de ce roman publié en 1862.",
+    "imageUrl": "https://images.unsplash.com/photo-1535905496755-26ae35d0ae54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman commence par 'C’était en 1832, à Paris...' ?",
-    "correct_answer": "Le Rouge et le Noir",
+    "question": "Quel roman commence par 'C'était en 1861...' ?",
+    "correct_answer": "Le Comte de Monte-Cristo",
     "incorrect_answers": [
-      "Madame Bovary",
-      "Germinal",
+      "Les Trois Mousquetaires",
+      "Vingt ans après",
       "La Dame aux camélias"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette phrase ouvre le célèbre roman d'Alexandre Dumas.",
+    "imageUrl": "https://images.unsplash.com/photo-1535058489223-1331b20fa114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel auteur a écrit 'À la recherche du temps perdu' ?",
+    "question": "Quel poète a écrit 'La Mort du loup' ?",
+    "correct_answer": "Alfred de Vigny",
+    "incorrect_answers": [
+      "Victor Hugo",
+      "Charles Baudelaire",
+      "Alfred de Musset"
+    ],
+    "explanation": "Alfred de Vigny est un poète romantique du XIXe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTc5NzM3NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel auteur a reçu le prix Goncourt en 2020 ?",
+    "correct_answer": "Hervé Le Tellier",
+    "incorrect_answers": [
+      "Annie Ernaux",
+      "Leïla Slimani",
+      "Michel Houellebecq"
+    ],
+    "explanation": "Hervé Le Tellier a remporté le prix pour 'L'Anomalie'.",
+    "imageUrl": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman met en scène le personnage de Jean Valjean ?",
+    "correct_answer": "Les Misérables",
+    "incorrect_answers": [
+      "Germinal",
+      "Madame Bovary",
+      "Le Père Goriot"
+    ],
+    "explanation": "Jean Valjean est le héros central du roman de Victor Hugo.",
+    "imageUrl": "https://images.unsplash.com/photo-1536965764833-5971e0abed7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a écrit 'À la recherche du temps perdu' ?",
     "correct_answer": "Marcel Proust",
     "incorrect_answers": [
       "Albert Camus",
       "Jean-Paul Sartre",
-      "Antoine de Saint-Exupéry"
+      "Simone de Beauvoir"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1549675584-91f19337af3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel est le premier vers de 'La Cigale et la Fourmi' de La Fontaine ?",
-    "correct_answer": "La Cigale, ayant chanté",
-    "incorrect_answers": [
-      "Un jour d’hiver, la Fourmi",
-      "La Fourmi, ayant dansé",
-      "Un jour d’été, la Cigale"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTEwNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman raconte l’histoire de Jean Valjean ?",
-    "correct_answer": "Les Misérables",
-    "incorrect_answers": [
-      "Le Comte de Monte-Cristo",
-      "Vingt mille lieues sous les mers",
-      "L’Étranger"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Le Petit Prince' ?",
-    "correct_answer": "Antoine de Saint-Exupéry",
-    "incorrect_answers": [
-      "Victor Hugo",
-      "Jules Verne",
-      "Guy de Maupassant"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1476081718509-d5d0b661a376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Marcel Proust est l'auteur de cette œuvre majeure du XXe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1585521747230-516376e5a85d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel poète a écrit 'Les Fleurs du Mal' ?",
     "correct_answer": "Charles Baudelaire",
     "incorrect_answers": [
-      "Arthur Rimbaud",
       "Paul Verlaine",
+      "Arthur Rimbaud",
       "Stéphane Mallarmé"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1601469090980-fc95e8d95544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce recueil de poèmes est un pilier de la littérature française.",
+    "imageUrl": "https://images.unsplash.com/photo-1549675584-91f19337af3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Jules Verne se déroule dans un ballon ?",
-    "correct_answer": "Cinq semaines en ballon",
+    "question": "Quel roman raconte l'histoire de Cosette ?",
+    "correct_answer": "Les Misérables",
     "incorrect_answers": [
-      "Le Tour du monde en 80 jours",
-      "Vingt mille lieues sous les mers",
-      "L’Île mystérieuse"
+      "Le Rouge et le Noir",
+      "Le Horla",
+      "Bel-Ami"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cosette est un personnage emblématique de Victor Hugo.",
+    "imageUrl": "https://images.unsplash.com/photo-1599488059863-ac95a7f49193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit 'Madame Bovary' ?",
+    "question": "Quel auteur a écrit 'Madame Bovary' ?",
     "correct_answer": "Gustave Flaubert",
     "incorrect_answers": [
-      "Émile Zola",
       "Honoré de Balzac",
+      "Émile Zola",
       "Guy de Maupassant"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1533669955142-6a73332af4db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel auteur a reçu le prix Goncourt en 1954 pour 'Les Mandarins' ?",
-    "correct_answer": "Simone de Beauvoir",
-    "incorrect_answers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "Marguerite Duras"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1585521747230-516376e5a85d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Victor Hugo raconte l’histoire d’un bossu ?",
-    "correct_answer": "Notre-Dame de Paris",
-    "incorrect_answers": [
-      "Les Misérables",
-      "Quatrevingt-treize",
-      "Les Travailleurs de la mer"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1513185041617-8ab03f83d6c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Le Horla' ?",
-    "correct_answer": "Guy de Maupassant",
-    "incorrect_answers": [
-      "Gustave Flaubert",
-      "Émile Zola",
-      "Honoré de Balzac"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1599488059863-ac95a7f49193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Gustave Flaubert est l'auteur de ce roman réaliste.",
+    "imageUrl": "https://images.unsplash.com/photo-1554906493-4812e307243d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel poète a écrit 'Le Lac' ?",
@@ -125,89 +104,43 @@
     "incorrect_answers": [
       "Alfred de Musset",
       "Alfred de Vigny",
-      "Gérard de Nerval"
+      "Victor Hugo"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce poème romantique est l'un des plus célèbres de Lamartine.",
+    "imageUrl": "https://images.unsplash.com/photo-1476081718509-d5d0b661a376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de George Orwell décrit une dystopie ?",
-    "correct_answer": "1984",
+    "question": "Quel roman met en scène le personnage de Julien Sorel ?",
+    "correct_answer": "Le Rouge et le Noir",
     "incorrect_answers": [
-      "Le Meilleur des mondes",
-      "Fahrenheit 451",
-      "La Ferme des animaux"
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1583526241256-cb18e8635e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Julien Sorel est le héros du roman de Stendhal.",
+    "imageUrl": "https://images.unsplash.com/photo-1464865885825-be7cd16fad8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit 'Les Trois Mousquetaires' ?",
-    "correct_answer": "Alexandre Dumas",
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 1921 ?",
+    "correct_answer": "Anatole France",
     "incorrect_answers": [
-      "Victor Hugo",
-      "Jules Verne",
-      "Honoré de Balzac"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1526285759904-71d1170ed2ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Colette raconte l’histoire d’une chatte ?",
-    "correct_answer": "Chéri",
-    "incorrect_answers": [
-      "Gigi",
-      "La Naissance du jour",
-      "Sido"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'L’Étranger' ?",
-    "correct_answer": "Albert Camus",
-    "incorrect_answers": [
+      "Albert Camus",
       "Jean-Paul Sartre",
-      "Marcel Proust",
-      "André Gide"
+      "François Mauriac"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1568667256549-094345857637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTEwNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Anatole France a été récompensé pour son œuvre littéraire.",
+    "imageUrl": "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Jules Verne se passe sous la mer ?",
-    "correct_answer": "Vingt mille lieues sous les mers",
+    "question": "Quel roman raconte l'histoire de la famille Rougon-Macquart ?",
+    "correct_answer": "Les Rougon-Macquart",
     "incorrect_answers": [
-      "Le Tour du monde en 80 jours",
-      "Cinq semaines en ballon",
-      "L’Île mystérieuse"
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1596123068611-c89d922a0f0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Les Mains sales' ?",
-    "correct_answer": "Jean-Paul Sartre",
-    "incorrect_answers": [
-      "Albert Camus",
-      "Marcel Proust",
-      "André Gide"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1578511161102-485cc0775c6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Victor Hugo parle d’un forçat ?",
-    "correct_answer": "Les Misérables",
-    "incorrect_answers": [
-      "Notre-Dame de Paris",
-      "Quatrevingt-treize",
-      "Les Travailleurs de la mer"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTEwNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Le Petit Prince' en 1943 ?",
-    "correct_answer": "Antoine de Saint-Exupéry",
-    "incorrect_answers": [
-      "Marcel Proust",
-      "Albert Camus",
-      "Jean-Paul Sartre"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1618414952052-289dab88b409?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Cette fresque romanesque est l'œuvre d'Émile Zola.",
+    "imageUrl": "https://images.unsplash.com/photo-1550399105-05c4a7641b02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "question": "Quel poète a écrit 'Le Dormeur du val' ?",
@@ -217,316 +150,458 @@
       "Charles Baudelaire",
       "Stéphane Mallarmé"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1623771702313-39dc4f71d275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce poème anti-guerre est l'un des plus célèbres de Rimbaud.",
+    "imageUrl": "https://images.unsplash.com/photo-1472173148041-00294f0814a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Gustave Flaubert est une critique de la bourgeoisie ?",
-    "correct_answer": "Madame Bovary",
+    "question": "Quel roman met en scène le personnage de Rastignac ?",
+    "correct_answer": "Le Père Goriot",
     "incorrect_answers": [
-      "Salammbô",
-      "L’Éducation sentimentale",
-      "Bouvard et Pécuchet"
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1463320726281-696a485928c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Eugène Rastignac est un personnage clé de l'œuvre de Balzac.",
+    "imageUrl": "https://images.unsplash.com/photo-1533327325824-76bc4e62d560?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit 'Les Misérables' en 1862 ?",
-    "correct_answer": "Victor Hugo",
+    "question": "Quel écrivain a écrit 'L'Étranger' ?",
+    "correct_answer": "Albert Camus",
     "incorrect_answers": [
-      "Émile Zola",
-      "Honoré de Balzac",
-      "Gustave Flaubert"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1585521550659-64a7cafb39e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de George Sand raconte l’histoire d’une paysanne ?",
-    "correct_answer": "La Mare au diable",
-    "incorrect_answers": [
-      "Indiana",
-      "Lélia",
-      "François le Champi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTEwNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Les Confessions' ?",
-    "correct_answer": "Jean-Jacques Rousseau",
-    "incorrect_answers": [
-      "Victor Hugo",
-      "Albert Camus",
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
       "Marcel Proust"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1533327325824-76bc4e62d560?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Albert Camus est l'auteur de ce roman existentialiste.",
+    "imageUrl": "https://images.unsplash.com/photo-1600431521340-491eca880813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Jules Verne se déroule dans l’espace ?",
-    "correct_answer": "De la Terre à la Lune",
+    "question": "Quel poète a écrit 'Le Pont Mirabeau' ?",
+    "correct_answer": "Guillaume Apollinaire",
     "incorrect_answers": [
-      "Le Tour du monde en 80 jours",
-      "Vingt mille lieues sous les mers",
-      "L’Île mystérieuse"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1532543307581-8b01a7ff954f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Les Fleurs du Mal' en 1857 ?",
-    "correct_answer": "Charles Baudelaire",
-    "incorrect_answers": [
-      "Arthur Rimbaud",
       "Paul Verlaine",
-      "Stéphane Mallarmé"
+      "Arthur Rimbaud",
+      "Charles Baudelaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1604866830893-c13cafa515d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTEwNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce poème est extrait du recueil 'Alcools'.",
+    "imageUrl": "https://images.unsplash.com/photo-1568667256531-7d5ac92eaa7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Colette raconte l’histoire d’une jeune fille ?",
-    "correct_answer": "Gigi",
+    "question": "Quel roman raconte l'histoire de la mineuse Catherine Maheu ?",
+    "correct_answer": "Germinal",
     "incorrect_answers": [
-      "Chéri",
-      "La Naissance du jour",
-      "Sido"
+      "Les Misérables",
+      "Madame Bovary",
+      "Le Rouge et le Noir"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1588580000645-4562a6d2c839?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTEwNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Germinal est un roman d'Émile Zola sur la condition ouvrière.",
+    "imageUrl": "https://images.unsplash.com/photo-1583526241256-cb18e8635e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit 'Le Comte de Monte-Cristo' ?",
-    "correct_answer": "Alexandre Dumas",
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 1957 ?",
+    "correct_answer": "Albert Camus",
     "incorrect_answers": [
-      "Victor Hugo",
-      "Jules Verne",
-      "Honoré de Balzac"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1619641554018-8351f85d3e20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Marcel Proust commence par 'Longtemps, je me suis couché de bonne heure' ?",
-    "correct_answer": "Du côté de chez Swann",
-    "incorrect_answers": [
-      "À l’ombre des jeunes filles en fleurs",
-      "Le Temps retrouvé",
-      "La Prisonnière"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1515125520141-3e3b67bc0a88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Les Mains libres' ?",
-    "correct_answer": "Paul Éluard",
-    "incorrect_answers": [
-      "Louis Aragon",
-      "Guillaume Apollinaire",
-      "Jacques Prévert"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTEwNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Victor Hugo raconte la révolte des ouvriers ?",
-    "correct_answer": "Les Misérables",
-    "incorrect_answers": [
-      "Notre-Dame de Paris",
-      "Quatrevingt-treize",
-      "Les Travailleurs de la mer"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1535905496755-26ae35d0ae54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'L’Amant' en 1984 ?",
-    "correct_answer": "Marguerite Duras",
-    "incorrect_answers": [
+      "Jean-Paul Sartre",
       "Simone de Beauvoir",
-      "Françoise Sagan",
-      "Annie Ernaux"
+      "Marcel Proust"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1536965764833-5971e0abed7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Albert Camus a été récompensé pour son œuvre philosophique.",
+    "imageUrl": "https://images.unsplash.com/photo-1585521550659-64a7cafb39e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Jules Verne se passe en Afrique ?",
-    "correct_answer": "Cinq semaines en ballon",
+    "question": "Quel roman met en scène le personnage de Fabrice del Dongo ?",
+    "correct_answer": "La Chartreuse de Parme",
     "incorrect_answers": [
-      "Le Tour du monde en 80 jours",
-      "Vingt mille lieues sous les mers",
-      "L’Île mystérieuse"
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1585521549926-ca6526bda09e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce roman est l'œuvre de Stendhal.",
+    "imageUrl": "https://images.unsplash.com/photo-1573592371950-348a8f1d9f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit 'Les Mots' ?",
+    "question": "Quel poète a écrit 'La Chanson du mal-aimé' ?",
+    "correct_answer": "Guillaume Apollinaire",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Charles Baudelaire"
+    ],
+    "explanation": "Ce poème est extrait du recueil 'Alcools'.",
+    "imageUrl": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman raconte l'histoire de la famille des Rougon ?",
+    "correct_answer": "L'Assommoir",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
+    ],
+    "explanation": "L'Assommoir est un roman d'Émile Zola sur l'alcoolisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1568667256549-094345857637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTc5NzM3NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a écrit 'La Peste' ?",
+    "correct_answer": "Albert Camus",
+    "incorrect_answers": [
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
+      "Marcel Proust"
+    ],
+    "explanation": "La Peste est un roman allégorique de Camus.",
+    "imageUrl": "https://images.unsplash.com/photo-1588580000645-4562a6d2c839?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw4fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTc5NzM3NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Le Cimetière marin' ?",
+    "correct_answer": "Paul Valéry",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Charles Baudelaire"
+    ],
+    "explanation": "Ce poème est l'un des plus célèbres de Valéry.",
+    "imageUrl": "https://images.unsplash.com/photo-1578511161102-485cc0775c6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman met en scène le personnage de Gervaise Macquart ?",
+    "correct_answer": "L'Assommoir",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
+    ],
+    "explanation": "Gervaise Macquart est l'héroïne du roman d'Émile Zola.",
+    "imageUrl": "https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 1964 ?",
     "correct_answer": "Jean-Paul Sartre",
     "incorrect_answers": [
       "Albert Camus",
-      "Marcel Proust",
-      "André Gide"
+      "Simone de Beauvoir",
+      "Marcel Proust"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1472173148041-00294f0814a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Jean-Paul Sartre a refusé le prix Nobel.",
+    "imageUrl": "https://images.unsplash.com/photo-1601469090980-fc95e8d95544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Gustave Flaubert se déroule en Égypte antique ?",
-    "correct_answer": "Salammbô",
+    "question": "Quel poète a écrit 'Le Bateau ivre' ?",
+    "correct_answer": "Arthur Rimbaud",
     "incorrect_answers": [
+      "Paul Verlaine",
+      "Charles Baudelaire",
+      "Stéphane Mallarmé"
+    ],
+    "explanation": "Ce poème est un chef-d'œuvre du jeune Rimbaud.",
+    "imageUrl": "https://images.unsplash.com/photo-1526285759904-71d1170ed2ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1N3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman raconte l'histoire de la famille des Macquart ?",
+    "correct_answer": "Thérèse Raquin",
+    "incorrect_answers": [
+      "Les Misérables",
       "Madame Bovary",
-      "L’Éducation sentimentale",
-      "Bouvard et Pécuchet"
+      "Germinal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw3fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTEwNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Thérèse Raquin est un roman d'Émile Zola.",
+    "imageUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTc5NzM3NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit 'Les Yeux d’Elsa' ?",
-    "correct_answer": "Aragon",
+    "question": "Quel écrivain a écrit 'La Nausée' ?",
+    "correct_answer": "Jean-Paul Sartre",
     "incorrect_answers": [
-      "Éluard",
-      "Apollinaire",
-      "Prévert"
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "Marcel Proust"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTEwNDIwNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "La Nausée est un roman existentialiste de Sartre.",
+    "imageUrl": "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzfHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTc5NzM3NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Colette raconte la vie d’une femme âgée ?",
-    "correct_answer": "La Naissance du jour",
+    "question": "Quel poète a écrit 'Les Regrets' ?",
+    "correct_answer": "Joachim du Bellay",
     "incorrect_answers": [
-      "Gigi",
-      "Chéri",
-      "Sido"
+      "Pierre de Ronsard",
+      "François Rabelais",
+      "Montaigne"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1464865885825-be7cd16fad8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce recueil de sonnets est un classique de la Renaissance.",
+    "imageUrl": "https://images.unsplash.com/photo-1496104679561-38d3af73f9b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit 'Les Misérables' en vers ?",
+    "question": "Quel roman met en scène le personnage de Nana ?",
+    "correct_answer": "L'Assommoir",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
+    ],
+    "explanation": "Nana est un personnage secondaire de Zola, héros d'un autre roman.",
+    "imageUrl": "https://images.unsplash.com/photo-1579370318443-8da816457e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 2014 ?",
+    "correct_answer": "Patrick Modiano",
+    "incorrect_answers": [
+      "Leïla Slimani",
+      "Michel Houellebecq",
+      "Annie Ernaux"
+    ],
+    "explanation": "Patrick Modiano a été récompensé pour son œuvre sur la mémoire.",
+    "imageUrl": "https://images.unsplash.com/photo-1533669955142-6a73332af4db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Contemplations' ?",
     "correct_answer": "Victor Hugo",
     "incorrect_answers": [
       "Alfred de Musset",
       "Alfred de Vigny",
-      "Gérard de Nerval"
+      "Charles Baudelaire"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce recueil de poèmes est dédié à sa fille Léopoldine.",
+    "imageUrl": "https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Jules Verne parle d’un capitaine Nemo ?",
-    "correct_answer": "Vingt mille lieues sous les mers",
+    "question": "Quel roman raconte l'histoire de la famille des Rougon-Macquart dans le monde du théâtre ?",
+    "correct_answer": "Nana",
     "incorrect_answers": [
-      "Le Tour du monde en 80 jours",
-      "Cinq semaines en ballon",
-      "L’Île mystérieuse"
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1600431521340-491eca880813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Nana est un roman d'Émile Zola sur la corruption.",
+    "imageUrl": "https://images.unsplash.com/photo-1569937301527-9336e27c357c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit 'Les Fleurs du Mal' en 1861 ?",
-    "correct_answer": "Charles Baudelaire",
+    "question": "Quel écrivain a écrit 'L'Éducation sentimentale' ?",
+    "correct_answer": "Gustave Flaubert",
+    "incorrect_answers": [
+      "Honoré de Balzac",
+      "Émile Zola",
+      "Guy de Maupassant"
+    ],
+    "explanation": "Ce roman décrit la vie d'un jeune homme à Paris.",
+    "imageUrl": "https://images.unsplash.com/photo-1604866830893-c13cafa515d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTc5NzM3NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Châtiments' ?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": [
+      "Alfred de Musset",
+      "Alfred de Vigny",
+      "Charles Baudelaire"
+    ],
+    "explanation": "Ce recueil dénonce le coup d'État de Napoléon III.",
+    "imageUrl": "https://images.unsplash.com/photo-1683871268982-a19153dbb35d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman met en scène le personnage de Frédéric Moreau ?",
+    "correct_answer": "L'Éducation sentimentale",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
+    ],
+    "explanation": "Frédéric Moreau est le héros du roman de Flaubert.",
+    "imageUrl": "https://images.unsplash.com/photo-1590598687530-581406de2262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 2008 ?",
+    "correct_answer": "Jean-Marie Gustave Le Clézio",
+    "incorrect_answers": [
+      "Patrick Modiano",
+      "Leïla Slimani",
+      "Michel Houellebecq"
+    ],
+    "explanation": "Le Clézio est un écrivain voyageur et poétique.",
+    "imageUrl": "https://images.unsplash.com/photo-1532543307581-8b01a7ff954f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman raconte l'histoire de la famille des Rougon-Macquart dans le monde de la finance ?",
+    "correct_answer": "L'Argent",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
+    ],
+    "explanation": "L'Argent est un roman d'Émile Zola.",
+    "imageUrl": "https://images.unsplash.com/photo-1585521549926-ca6526bda09e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a écrit 'Bel-Ami' ?",
+    "correct_answer": "Guy de Maupassant",
+    "incorrect_answers": [
+      "Gustave Flaubert",
+      "Honoré de Balzac",
+      "Émile Zola"
+    ],
+    "explanation": "Bel-Ami est un roman sur l'ambition sociale.",
+    "imageUrl": "https://images.unsplash.com/photo-1625053376622-e462848c453f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Chansons de Bilitis' ?",
+    "correct_answer": "Pierre Louÿs",
+    "incorrect_answers": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Charles Baudelaire"
+    ],
+    "explanation": "Ce recueil de poèmes érotiques est un classique du XIXe siècle.",
+    "imageUrl": "https://images.unsplash.com/photo-1526243741027-444d633d7365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxM3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman met en scène le personnage de Georges Duroy ?",
+    "correct_answer": "Bel-Ami",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
+    ],
+    "explanation": "Georges Duroy est le héros du roman de Maupassant.",
+    "imageUrl": "https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 1985 ?",
+    "correct_answer": "Claude Simon",
+    "incorrect_answers": [
+      "Patrick Modiano",
+      "Leïla Slimani",
+      "Michel Houellebecq"
+    ],
+    "explanation": "Claude Simon est un écrivain du Nouveau Roman.",
+    "imageUrl": "https://images.unsplash.com/photo-1479142506502-19b3a3b7ff33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Poèmes saturniens' ?",
+    "correct_answer": "Paul Verlaine",
     "incorrect_answers": [
       "Arthur Rimbaud",
-      "Paul Verlaine",
+      "Charles Baudelaire",
       "Stéphane Mallarmé"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1604967941346-f1b8097cf97e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce recueil marque les débuts du symbolisme.",
+    "imageUrl": "https://images.unsplash.com/photo-1604967941346-f1b8097cf97e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de George Sand est une autobiographie ?",
-    "correct_answer": "Histoire de ma vie",
+    "question": "Quel roman raconte l'histoire de la famille des Rougon-Macquart dans le monde de la politique ?",
+    "correct_answer": "Son Excellence Eugène Rougon",
     "incorrect_answers": [
-      "La Mare au diable",
-      "Indiana",
-      "François le Champi"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1544640808-32ca72ac7f37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Le Rouge et le Noir' ?",
-    "correct_answer": "Stendhal",
-    "incorrect_answers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Honoré de Balzac"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1535058489223-1331b20fa114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Marcel Proust parle de l’amour de Swann ?",
-    "correct_answer": "Du côté de chez Swann",
-    "incorrect_answers": [
-      "À l’ombre des jeunes filles en fleurs",
-      "Le Temps retrouvé",
-      "La Prisonnière"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1579370318443-8da816457e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Les Mains libres' en 1937 ?",
-    "correct_answer": "Paul Éluard",
-    "incorrect_answers": [
-      "Louis Aragon",
-      "Guillaume Apollinaire",
-      "Jacques Prévert"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1568667256531-7d5ac92eaa7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxOXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Victor Hugo raconte la bataille de Waterloo ?",
-    "correct_answer": "Les Misérables",
-    "incorrect_answers": [
-      "Notre-Dame de Paris",
-      "Quatrevingt-treize",
-      "Les Travailleurs de la mer"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1613324765334-7f4a413b8bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0Mnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'L’Amant de Marguerite Duras' ?",
-    "correct_answer": "Marguerite Duras",
-    "incorrect_answers": [
-      "Simone de Beauvoir",
-      "Françoise Sagan",
-      "Annie Ernaux"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1550399105-05c4a7641b02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Jules Verne se passe en Amérique du Sud ?",
-    "correct_answer": "Le Tour du monde en 80 jours",
-    "incorrect_answers": [
-      "Cinq semaines en ballon",
-      "Vingt mille lieues sous les mers",
-      "L’Île mystérieuse"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1573592371950-348a8f1d9f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Qui a écrit 'Les Mots pour le dire' ?",
-    "correct_answer": "Françoise Sagan",
-    "incorrect_answers": [
-      "Marguerite Duras",
-      "Simone de Beauvoir",
-      "Annie Ernaux"
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1569937301527-9336e27c357c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyMnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "question": "Quel roman de Gustave Flaubert parle d’une éducation sentimentale ?",
-    "correct_answer": "L’Éducation sentimentale",
-    "incorrect_answers": [
+      "Les Misérables",
       "Madame Bovary",
-      "Salammbô",
-      "Bouvard et Pécuchet"
+      "Germinal"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1590598687530-581406de2262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0OHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Son Excellence Eugène Rougon est un roman d'Émile Zola.",
+    "imageUrl": "https://images.unsplash.com/photo-1596123068611-c89d922a0f0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Qui a écrit 'Les Yeux d’Elsa' en 1942 ?",
-    "correct_answer": "Louis Aragon",
+    "question": "Quel écrivain a écrit 'Le Horla' ?",
+    "correct_answer": "Guy de Maupassant",
     "incorrect_answers": [
-      "Paul Éluard",
-      "Guillaume Apollinaire",
-      "Jacques Prévert"
+      "Gustave Flaubert",
+      "Honoré de Balzac",
+      "Émile Zola"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1496104679561-38d3af73f9b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1M3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Le Horla est une nouvelle fantastique célèbre.",
+    "imageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw2fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTc5NzM3NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "question": "Quel roman de Colette raconte la vie d’une chatte ?",
-    "correct_answer": "La Chatte",
+    "question": "Quel poète a écrit 'Les Illuminations' ?",
+    "correct_answer": "Arthur Rimbaud",
     "incorrect_answers": [
-      "Gigi",
-      "Chéri",
-      "La Naissance du jour"
+      "Paul Verlaine",
+      "Charles Baudelaire",
+      "Stéphane Mallarmé"
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1683871268982-a19153dbb35d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1NXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3NzkxMDQyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "explanation": "Ce recueil de poèmes en prose est un chef-d'œuvre.",
+    "imageUrl": "https://images.unsplash.com/photo-1618414952052-289dab88b409?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman met en scène le personnage de Raskolnikov ?",
+    "correct_answer": "Crime et Châtiment",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
+    ],
+    "explanation": "Raskolnikov est le héros du roman de Dostoïevski.",
+    "imageUrl": "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw5fHxib29rcyUyMGxpYnJhcnklMjBsaXRlcmF0dXJlfGVufDB8fHx8MTc3OTc5NzM3NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 2015 ?",
+    "correct_answer": "Svetlana Alexievitch",
+    "incorrect_answers": [
+      "Patrick Modiano",
+      "Leïla Slimani",
+      "Michel Houellebecq"
+    ],
+    "explanation": "Elle est la première journaliste à recevoir ce prix.",
+    "imageUrl": "https://images.unsplash.com/photo-1619641554018-8351f85d3e20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1MXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Chansons de geste' ?",
+    "correct_answer": "Pierre de Ronsard",
+    "incorrect_answers": [
+      "Joachim du Bellay",
+      "François Rabelais",
+      "Montaigne"
+    ],
+    "explanation": "Ronsard est un poète de la Renaissance française.",
+    "imageUrl": "https://images.unsplash.com/photo-1535905748047-14b2415c77d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzMXx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman raconte l'histoire de la famille des Rougon-Macquart dans le monde de la bourgeoisie ?",
+    "correct_answer": "Pot-Bouille",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
+    ],
+    "explanation": "Pot-Bouille est un roman d'Émile Zola.",
+    "imageUrl": "https://images.unsplash.com/photo-1529473814998-077b4fec6770?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw0NHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a écrit 'Le Petit Prince' ?",
+    "correct_answer": "Antoine de Saint-Exupéry",
+    "incorrect_answers": [
+      "Marcel Proust",
+      "Albert Camus",
+      "Jean-Paul Sartre"
+    ],
+    "explanation": "Ce conte philosophique est un classique mondial.",
+    "imageUrl": "https://images.unsplash.com/photo-1595123550441-d377e017de6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwzOHx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel poète a écrit 'Les Contes d'Hoffmann' ?",
+    "correct_answer": "Jacques Offenbach",
+    "incorrect_answers": [
+      "Charles Gounod",
+      "Georges Bizet",
+      "Hector Berlioz"
+    ],
+    "explanation": "Ce livret d'opéra est inspiré d'une œuvre d'Hoffmann.",
+    "imageUrl": "https://images.unsplash.com/photo-1623771702313-39dc4f71d275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHw1Nnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel roman met en scène le personnage de Meursault ?",
+    "correct_answer": "L'Étranger",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Germinal"
+    ],
+    "explanation": "Meursault est le héros du roman de Camus.",
+    "imageUrl": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwxN3x8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "question": "Quel écrivain a reçu le prix Nobel de littérature en 2021 ?",
+    "correct_answer": "Abdulrazak Gurnah",
+    "incorrect_answers": [
+      "Patrick Modiano",
+      "Leïla Slimani",
+      "Michel Houellebecq"
+    ],
+    "explanation": "Il a été récompensé pour ses romans sur l'exil.",
+    "imageUrl": "https://images.unsplash.com/photo-1515125520141-3e3b67bc0a88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjkyNTd8MHwxfHNlYXJjaHwyNnx8Ym9va3MlMjBsaWJyYXJ5JTIwbGl0ZXJhdHVyZXxlbnwwfHx8fDE3Nzk3OTczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   }
 ]
