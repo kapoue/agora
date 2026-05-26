@@ -4,13 +4,13 @@
 
 Le script `scripts/prepare_release.py` gère tout le contenu de l'application :
 
-1. **Questions** — génération via Gemini AI (fichiers JSON dans `app/src/main/assets/questions/`)
+1. **Questions** — génération via Mistral AI (Gemini en fallback) (fichiers JSON dans `app/src/main/assets/questions/`)
 2. **Images** — récupération d'URLs via Unsplash → Pexels → Pixabay, injectées dans chaque question
 3. **Version** — monte automatiquement le patch (`x.y.z → x.y.z+1`) dans `app/build.gradle.kts`
 4. **Git** — fait le commit + tag + push automatiquement
 
-Les clés API (Unsplash, Pexels, Pixabay, Gemini) ne sont **jamais** dans le code.  
-Les clés Gemini sont dans le script. Les clés images sont lues depuis `local.properties`.
+Les clés API ne sont **jamais** dans le code.  
+Toutes les clés (Mistral, Gemini, Unsplash, Pexels, Pixabay) sont lues depuis `local.properties`.
 
 ---
 
@@ -55,7 +55,7 @@ cd c:\Users\kapou\www
 ```powershell
 .\.venv\Scripts\python.exe agora\scripts\prepare_release.py --force
 ```
-⚠ Long (~20 min) — consomme les quotas Gemini
+⚠ Long (~20 min) — consomme les quotas Mistral/Gemini
 
 ### Sans montée de version ni git (test local)
 ```powershell
@@ -68,7 +68,7 @@ cd c:\Users\kapou\www
 
 ```
 Pour chaque thème × difficulté (ex: HISTOIRE × DEBUTANT) :
-  1. Si manquant ou --force → génère 30 questions via Gemini
+  1. Si manquant ou --force → génère 30 questions via Mistral (Gemini en fallback)
   2. Fetche 30 URLs d'images (page différente par difficulté)
      Unsplash → Pexels (fallback) → Pixabay (fallback)
   3. Injecte imageUrl dans chaque question du JSON

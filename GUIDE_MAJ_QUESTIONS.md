@@ -2,7 +2,7 @@
 
 ## Vue d'ensemble
 
-Les questions de l'application sont générées via l'API Gemini (IA Google) et stockées sous forme de fichiers JSON dans les assets de l'APK. Elles sont chargées dans la base de données Room au premier lancement de chaque thème.
+Les questions de l'application sont générées via l'API **Mistral** (`mistral-small-latest`) et stockées sous forme de fichiers JSON dans les assets de l'APK. Elles sont chargées dans la base de données Room au premier lancement de chaque thème.
 
 **Structure** : `app/src/main/assets/questions/{THEME}_{DIFFICULTE}.json`
 
@@ -12,7 +12,7 @@ Les questions de l'application sont générées via l'API Gemini (IA Google) et 
 
 - Python 3.8+ installé
 - Environnement virtuel `.venv` à la racine de `c:\Users\kapou\www`
-- Clé API Gemini (voir section dédiée)
+- Clé API Mistral (dans `local.properties` : `MISTRAL_API_KEY=...`)
 
 ### Installation des dépendances (une seule fois)
 ```powershell
@@ -146,17 +146,17 @@ Puis régénérer avec `--force` les combinaisons souhaitées.
 
 ---
 
-## Changer la clé API Gemini
+## Changer la clé API Mistral
 
-La clé API est dans `agora/scripts/generate_questions.py` :
+La clé API est dans `local.properties` (jamais committé) :
 
-```python
-GEMINI_API_KEY = "AIzaSy..."  # ← remplacer ici
+```
+MISTRAL_API_KEY=votre_clé_mistral
 ```
 
-> **Sécurité** : La clé n'est utilisée que par le script Python local. Elle n'est jamais intégrée dans l'APK.
+> **Sécurité** : La clé n'est lue que par le script Python local. Elle n'est jamais intégrée dans l'APK.
 
-Pour obtenir une nouvelle clé : [Google AI Studio](https://aistudio.google.com/apikey)
+Pour obtenir une clé : [console.mistral.ai](https://console.mistral.ai/)
 
 ---
 
@@ -178,7 +178,7 @@ Chaque fichier `{THEME}_{DIFFICULTE}.json` contient un tableau d'objets :
 
 ## Fonctionnement interne
 
-1. Le script Python appelle l'API Gemini et sauvegarde les JSON dans `app/src/main/assets/questions/`
+1. Le script Python appelle l'API Mistral (Gemini en fallback) et sauvegarde les JSON dans `app/src/main/assets/questions/`
 2. Au premier lancement d'un thème+difficulté, `AssetQuestionLoader` lit le JSON depuis les assets
 3. Les questions sont insérées dans Room (base locale) via `QuestionRepositoryImpl.seedFromAssets()`
 4. Les lancements suivants lisent directement depuis Room (pas de rechargement des assets)
@@ -189,7 +189,7 @@ Chaque fichier `{THEME}_{DIFFICULTE}.json` contient un tableau d'objets :
 ## Dépannage
 
 ### Le script retourne une erreur 429
-L'API Gemini est rate-limitée. Le script retry automatiquement. Si ça persiste, attendre quelques minutes et relancer.
+L'API Mistral est rate-limitée. Le script bascule automatiquement sur Gemini en fallback. Si les deux sont saturés, attendre quelques minutes et relancer.
 
 ### "Aucune question trouvée" dans l'application
 Vérifier que le fichier JSON correspondant existe dans `app/src/main/assets/questions/`. Si non, relancer le script de génération puis rebuilder l'APK.

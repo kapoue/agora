@@ -31,7 +31,7 @@ Les questions sont générées **en dehors de l'APK**, par le script Python :
 agora/scripts/generate_questions.py
 ```
 
-Il appelle l'API **Gemini** (Google AI) pour produire des QCM en français.
+Il appelle l'API **Mistral** (`mistral-small-latest`) pour produire des QCM en français, avec **Gemini** (`gemini-2.5-flash`) en fallback automatique.
 La sortie est un tableau JSON par combinaison thème × difficulté.
 
 **Emplacement des fichiers générés :**
@@ -152,7 +152,7 @@ tryUnsplash(query)
 
 | Classe | Rôle |
 |---|---|
-| `generate_questions.py` | Génération hors ligne via Gemini |
+| `generate_questions.py` | Génération hors ligne via Mistral (Gemini en fallback) |
 | `AssetQuestionLoader` | Lecture des JSON depuis les assets |
 | `QuestionRepositoryImpl` | Sync différentielle assets → Room, gestion OTD (legacy) |
 | `QuestionDao` | Accès base de données Room |
