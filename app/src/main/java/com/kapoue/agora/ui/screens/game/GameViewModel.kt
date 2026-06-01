@@ -238,7 +238,7 @@ class GameViewModel @Inject constructor(
             showFeedback = !isCorrect,
             showNext = true,
             correctAnswerText = question.correctAnswer,
-            explanation = if (!isCorrect) question.explanation else null,
+            explanation = question.explanation,
             currentLevel = newLevel
         )
 
@@ -256,6 +256,7 @@ class GameViewModel @Inject constructor(
     }
 
     fun onNextQuestion() {
+        if (!_uiState.value.showNext) return
         val answered = pendingQueue.removeFirst()
         if (!lastAnswerCorrect) pendingQueue.addLast(answered)
 

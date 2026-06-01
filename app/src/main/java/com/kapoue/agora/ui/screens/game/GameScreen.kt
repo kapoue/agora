@@ -309,28 +309,41 @@ fun GameScreen(
                             ),
                             modifier = Modifier.fillMaxWidth()
                         ) {
-                            Column(modifier = Modifier.padding(16.dp)) {
-                                Text(
-                                    text = "La bonne réponse était : ${uiState.correctAnswerText}",
-                                    fontFamily = LatoFamily,
-                                    fontWeight = FontWeight.Bold,
-                                    fontSize = 14.sp,
-                                    color = AgoraCorrectLight
-                                )
-                                val explanation = uiState.explanation
-                                if (!explanation.isNullOrBlank()) {
-                                    Spacer(modifier = Modifier.height(8.dp))
-                                    Text(
-                                        text = explanation,
-                                        fontFamily = LatoFamily,
-                                        fontWeight = FontWeight.Normal,
-                                        fontStyle = FontStyle.Italic,
-                                        fontSize = 13.sp,
-                                        color = AgoraStone,
-                                        lineHeight = 19.sp
-                                    )
-                                }
-                            }
+                            Text(
+                                text = "La bonne réponse était : ${uiState.correctAnswerText}",
+                                fontFamily = LatoFamily,
+                                fontWeight = FontWeight.Bold,
+                                fontSize = 14.sp,
+                                color = AgoraCorrectLight,
+                                modifier = Modifier.padding(16.dp)
+                            )
+                        }
+                    }
+
+                    // Bloc explication (bonne et mauvaise réponse)
+                    val explanation = uiState.explanation
+                    AnimatedVisibility(
+                        visible = uiState.showNext && !explanation.isNullOrBlank(),
+                        enter = fadeIn(),
+                        exit = ExitTransition.None
+                    ) {
+                        Card(
+                            shape = RoundedCornerShape(12.dp),
+                            colors = CardDefaults.cardColors(
+                                containerColor = AgoraSurface.copy(alpha = 0.92f)
+                            ),
+                            modifier = Modifier.fillMaxWidth()
+                        ) {
+                            Text(
+                                text = explanation ?: "",
+                                fontFamily = LatoFamily,
+                                fontWeight = FontWeight.Normal,
+                                fontStyle = FontStyle.Italic,
+                                fontSize = 14.sp,
+                                color = AgoraStone,
+                                lineHeight = 20.sp,
+                                modifier = Modifier.padding(16.dp)
+                            )
                         }
                     }
 
