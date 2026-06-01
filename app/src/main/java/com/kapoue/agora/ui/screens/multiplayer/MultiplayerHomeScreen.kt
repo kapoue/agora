@@ -208,7 +208,7 @@ fun MultiplayerHomeScreen(
                             color = AgoraGold
                         )
                         Text(
-                            text = "Un ami n'a pas encore l'app ?",
+                            text = "Un ami n'a pas encore le jeu ?",
                             fontFamily = LatoFamily,
                             fontSize = 13.sp,
                             color = AgoraStone
