@@ -8,7 +8,6 @@ import java.util.Properties
 fun gitExec(vararg args: String): String = try {
     ProcessBuilder(args.toList())
         .directory(rootProject.projectDir)
-        .redirectErrorStream(true)
         .start()
         .inputStream.bufferedReader().readLine()?.trim() ?: ""
 } catch (_: Exception) { "" }
